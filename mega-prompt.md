@@ -34,6 +34,7 @@ approves revised coverage.
 | REF-E | `references/inspiration/ref-e-cabinetry.webp` | White Shaker cabinetry, frosted/translucent upper inserts, veined stone finishes |
 | REF-F | `references/inspiration/ref-f-cooking-zone.webp` | Pale box/chimney hood, brushed pot filler, cooking-wall material |
 | REF-G | `references/inspiration/ref-g-full-room.webp` | Light oak floor tone, recessed ceiling lighting, overall material character |
+| REF-H-DESIGN | `references/inspiration/ref-h-finished-apartment-facing.png` | User-supplied finished-design apartment-facing image; appearance/viewpoint intent only, not original geometry. Its electric cooktop and stainless undercabinet hood do not supersede the gas Viking range and REF-F hood requirements. |
 
 Appearance references do not authorize copying their room dimensions, island, floor plan,
 or cabinet arrangement. Photographs govern architecture; inspiration governs appearance.
@@ -124,10 +125,13 @@ Translate the inspiration photographs into the supplied geometry:
 - Brushed wall-mounted pot filler above the range on Run A
 - Modern deep undermount sink, slim pull-down faucet, soap dispenser on Run B
 - Stainless main refrigerator in the original 33″ bay
-- Viking range beneath the hood and pot filler, within the existing 30″ opening.
-  Exact model and fuel type are not yet selected; lock a real model/reference before
-  generating appliance-specific finished frames. Do not widen the opening or invent
-  a gas conversion.
+- Viking 5 Series VGR53044BSS 30″ gas range beneath the hood and pot filler,
+  selected for the film following the user's authorization to choose a Viking gas model.
+  Product reference: https://vikingrange.com/products/cook/ranges/model/VGR5304/sku/VGR53044BSS
+  Preserve the existing 30″ opening. Gas is the approved design intent, not evidence
+  that the existing apartment has a gas connection. Red knobs are a user preference,
+  not a verified option on this model; do not invent a factory option or change brands
+  without resolving that difference.
 - Matching red SMEG toaster LEFT of the range and red kettle RIGHT
 - Espresso station above the dishwasher with two cups on a restrained tray
 - Original over-the-range microwave removed; no microwave in the finished design
@@ -261,7 +265,8 @@ when a comparison demonstrates a benefit. Split the 13 editorial shots into atom
 action takes and assemble time jumps in the edit. After two failures of the same
 action, change the reference, framing, or edit strategy rather than repeat it unchanged.
 
-Open preparation items: Viking model/fuel type; apartment-facing reference or approved
+Open preparation items: red-knob preference versus verified Viking appearance; original
+apartment-facing reference or approved
 coverage revision; blueprint raised-cap discrepancy (SVG span 45″ versus approximately
 60″ in dimensions.md). Omit the optional wine fridge until its model and bay are locked.
 Do not use unresolved inputs as grounds to invent architecture or appliance details.

@@ -24,7 +24,7 @@ revised coverage is explicitly agreed; the existing originals do not show that v
 
 ## Using with Higgsfield
 
-1. Resolve the Viking model and blueprint discrepancy recorded in the brief.
+1. Use the selected Viking gas model; resolve the knob preference and blueprint discrepancy recorded in the brief.
 2. Add `ref-h-apartment-facing.png` to `references/original/`, or agree revised coverage.
 3. Point Higgsfield at this repo and say:
 
