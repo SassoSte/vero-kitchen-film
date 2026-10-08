@@ -21,11 +21,13 @@ Generated drafts establish neither.
 | REF-C | `references/original/ref-c-wider-sink-run.webp` | Duplicate of REF-B; no additional viewpoint |
 | REF-D | `references/original/ref-d-end-wall-closeup.webp` | Duplicate of REF-A; no additional viewpoint |
 
-If the user supplies a file `references/original/ref-h-apartment-facing.png`, use it as
-the forward-facing viewpoint establishing the bar/opening relationship. It is currently
-missing. REF-A/B do not establish the apartment-facing bar front; do not invent that
-view from inspiration images. Hold dependent shots until REF-H is supplied or the user
-approves revised coverage.
+| REF-H | `references/original/ref-h-apartment-facing.webp` | Original photo-02: living-room-to-kitchen view, opening, bar front, three stools, dining adjacency |
+| REF-I | `references/original/ref-i-empty-kitchen-living.webp` | Original photo-26: empty kitchen/living junction, carpet/tile boundary, wall planes, balcony sightline |
+
+REF-H/I are copied without alteration from the original unit gallery in the local
+`vero/deco` project; `references/source-manifest.json` records provenance and hashes.
+The original apartment-facing reference is now available; no replacement photograph
+is required from the user.
 
 ### Appearance references
 
@@ -34,7 +36,7 @@ approves revised coverage.
 | REF-E | `references/inspiration/ref-e-cabinetry.webp` | White Shaker cabinetry, frosted/translucent upper inserts, veined stone finishes |
 | REF-F | `references/inspiration/ref-f-cooking-zone.webp` | Pale box/chimney hood, brushed pot filler, cooking-wall material |
 | REF-G | `references/inspiration/ref-g-full-room.webp` | Light oak floor tone, recessed ceiling lighting, overall material character |
-| REF-H-DESIGN | `references/inspiration/ref-h-finished-apartment-facing.png` | User-supplied finished-design apartment-facing image; appearance/viewpoint intent only, not original geometry. Its electric cooktop and stainless undercabinet hood do not supersede the gas Viking range and REF-F hood requirements. |
+| REF-H-DESIGN | `references/inspiration/ref-h-finished-apartment-facing.png` | User-supplied finished-design apartment-facing image; appearance/viewpoint intent only, not original geometry. Its electric cooktop and stainless undercabinet hood do not supersede the gas Wolf range and REF-F hood requirements. |
 
 Appearance references do not authorize copying their room dimensions, island, floor plan,
 or cabinet arrangement. Photographs govern architecture; inspiration governs appearance.
@@ -65,7 +67,7 @@ No window in the kitchen — a clerestory awning window on the hall wall illumin
 
 The microwave is **over-the-range in the original kitchen only**. Remove it during
 strip-out; it must not appear in the finished kitchen. The original smoothtop range
-is replaced by the Viking range specified below. Existing-appliance measurements
+is replaced by the Wolf range specified below. Existing-appliance measurements
 above describe the BEFORE state, not the finished appliance selection.
 
 The wall behind Run A is an interior stud partition (hall/dining side). A pot-filler
@@ -121,19 +123,31 @@ Translate the inspiration photographs into the supplied geometry:
 - Continuous warm undercabinet lighting visibly illuminating the backsplash
 - Reference-matched veined quartz countertops and full-height slab backsplash
 - Light oak flooring in the kitchen only; original apartment flooring preserved
-- Mandatory pale box/chimney hood matching REF-F, centered above the Viking range
+- Mandatory pale box/chimney hood matching REF-F, centered above the Wolf range
 - Brushed wall-mounted pot filler above the range on Run A
 - Modern deep undermount sink, slim pull-down faucet, soap dispenser on Run B
 - Stainless main refrigerator in the original 33″ bay
-- Viking 5 Series VGR53044BSS 30″ gas range beneath the hood and pot filler,
-  selected for the film following the user's authorization to choose a Viking gas model.
-  Product reference: https://vikingrange.com/products/cook/ranges/model/VGR5304/sku/VGR53044BSS
-  Preserve the existing 30″ opening. Gas is the approved design intent, not evidence
-  that the existing apartment has a gas connection. Red knobs are a user preference,
-  not a verified option on this model; do not invent a factory option or change brands
-  without resolving that difference.
-- Matching red SMEG toaster LEFT of the range and red kettle RIGHT
-- Espresso station above the dishwasher with two cups on a restrained tray
+- Wolf GR304 30″ gas range, stainless steel with red control knobs, beneath the
+  mandatory REF-F-style hood and pot filler. This supersedes the earlier Viking choice.
+  Product reference: https://www.subzero-wolf.com/wolf/ranges/gas-range/30-inch-gas-range
+  Knob reference: https://www.subzero-wolf.com/products/marketing-accessories/gas-range-knobs
+  Preserve the existing 30″ opening. Gas is the approved film/design intent, not
+  evidence that the existing apartment has a gas connection.
+- Tastefully arranged SMEG small appliances: matching red toaster LEFT of the range
+  and red kettle RIGHT, on the adjacent counters with usable preparation space around
+  them. Use the approved reference appearance consistently; avoid a crowded appliance
+  display or extra units added just to fill the counter.
+- Elegant, ornate espresso machine on Run B above the dishwasher: sculptural polished
+  metal body, refined traditional detailing, and substantial tactile controls. More
+  decorative and luxurious than a plain compact coffee maker, scaled to the available
+  counter. Pair with two porcelain espresso cups on a restrained tray. Lock its exact
+  reference appearance before animation and preserve it across views.
+- One tasteful vase of fresh flowers, with a restrained white/cream arrangement and
+  natural greenery, toward one end of the apartment-facing bar. Keep the faucet,
+  opening, hood, and cooking wall readable.
+- One elegant low fruit bowl with a modest arrangement of fresh fruit on the bar,
+  separated from the flowers. Preserve clear counter space and three usable stool
+  positions. Flowers and fruit bowl are mandatory finished-design elements.
 - Original over-the-range microwave removed; no microwave in the finished design
 - Light-oak vertical/ribbed treatment on the apartment-facing bar front
 - Three cream upholstered counter-height stools with slim legs/footrails,
@@ -156,13 +170,14 @@ Create three finished-design keyframes grounded in the original photographs:
 
 1. Finished master kitchen view (from REF-A).
 2. Finished sink-run view (from REF-B).
-3. Finished apartment-facing view from REF-H. Pending the missing reference or
-   explicit approval of revised coverage; another angle is not evidence of this view.
+3. Finished apartment-facing view from original REF-H, cross-checked with REF-I and
+   the kitchen/living-room drawings; REF-H-DESIGN controls finish intent only.
 
 They must agree on wall boundaries, sink/range locations, refrigerator model and position,
 cabinet layout, glass inserts, hood, pot filler, quartz/backsplash, interior cabinet
 lighting, undercabinet lighting, bar finish, faucet, three stools, countertop appliances,
-floor boundary, and wine-fridge location if used.
+floor boundary, espresso-machine detailing, flower arrangement, vase, fruit bowl,
+and wine-fridge location if used.
 
 Do not independently redesign the kitchen for each viewpoint. Save the keyframes to
 `outputs/keyframes/`.
@@ -191,14 +206,14 @@ trim appropriately.
 | 03 | 00:10–00:15 | Master | Both workers lower and seat the quartz worktop on the cooking run. NO sink cutout or faucet on this run. | `outputs/shots/03_cooking_counter.mp4` |
 | 04 | 00:15–00:20 | Sink run (REF-B) | Sink/worktop assembly seated on the sink run, then faucet fitting. Preserve DW, ledge, opening, apartment beyond. | `outputs/shots/04_sink_install.mp4` |
 | 05 | 00:20–00:25 | Master | Separate beats with time jump: backsplash fitting, then upper-cabinet fastening. Shaker doors and glass inserts visible. | `outputs/shots/05_backsplash_uppers.mp4` |
-| 06 | 00:25–00:31 | Master | Separate actions with time jumps: hood fitting, pot-filler fastening to backsplash, then Viking range placement beneath hood. No microwave returns. | `outputs/shots/06_cooking_equipment.mp4` |
+| 06 | 00:25–00:31 | Master | Separate actions with time jumps: hood fitting, pot-filler fastening to backsplash, then Wolf range placement beneath hood. No microwave returns. | `outputs/shots/06_cooking_equipment.mp4` |
 | 07 | 00:31–00:35 | Master incl. real corner | Remove old fridge, place new one in the same 33″ bay. | `outputs/shots/07_fridge_replacement.mp4` |
 | 08 | 00:35–00:39 | Cooking-wall view | Worker installs and tests interior-cabinet and continuous undercabinet lighting. Illuminated backsplash clearly visible. Lighting stays ON for the rest of the film. | `outputs/shots/08_lighting_install.mp4` |
 | 09 | 00:39–00:44 | Supported viewpoint | Wall-finish work and artwork hanging. If the wine-fridge base-cabinet design is locked: workers install it here. Preserve the west corner. | `outputs/shots/09_wall_finish_and_wine.mp4` |
-| 10 | 00:44–00:49 | Apartment-facing (REF-H if supplied) | Both workers position and secure the oak bar-front treatment. Preserve opening, counter, faucet, room boundaries. All lighting stays on. | `outputs/shots/10_bar_front.mp4` |
-| 11 | 00:49–00:55 | Apartment-facing + inserts | Three cream stools carried in and positioned by workers. Toaster, kettle, and espresso station placed. End with visible positioning work, not prolonged wiping. | `outputs/shots/11_stools_and_staging.mp4` |
-| 12 | 00:55–00:57 | Widest original kitchen angle | Complete reveal: both runs, all boundaries, all completed features. Interior/undercabinet/hood lighting on. | `outputs/shots/12_reveal.mp4` |
-| 13 | 00:57–01:00 | Apartment-facing | Final reveal: complete opening, finished bar, three stools, sink faucet, cooking wall. Restrained camera move allowed if geometry is preserved. | `outputs/shots/13_final_reveal.mp4` |
+| 10 | 00:44–00:49 | Apartment-facing (original REF-H) | Both workers position and secure the oak bar-front treatment. Preserve opening, counter, faucet, room boundaries. All lighting stays on. | `outputs/shots/10_bar_front.mp4` |
+| 11 | 00:49–00:55 | Apartment-facing + inserts | Three cream stools carried in and positioned by workers. Red SMEG toaster and kettle, ornate espresso station with two cups, fresh flowers, and fruit bowl placed through separate short action inserts. End with visible positioning work, not prolonged wiping. | `outputs/shots/11_stools_and_staging.mp4` |
+| 12 | 00:55–00:57 | Widest original kitchen angle | Complete reveal: both runs, all boundaries, all completed features including SMEG appliances, ornate espresso station, flowers, and fruit bowl. Interior/undercabinet/hood lighting on. | `outputs/shots/12_reveal.mp4` |
+| 13 | 00:57–01:00 | Apartment-facing | Final reveal: complete opening, finished bar with flowers and fruit bowl, three stools, sink faucet, cooking wall; retain SMEG appliances and ornate espresso station in their established positions. Restrained camera move allowed if geometry is preserved. | `outputs/shots/13_final_reveal.mp4` |
 
 Output format: 1920×1080, 24 fps, H.264 with AAC audio (construction sounds only — no
 speech, music, subtitles, or overlays). Final film: `outputs/kitchen_remodel_60s.mp4`.
@@ -208,11 +223,14 @@ Shotlist: `outputs/shotlist.html`. Inspection record: `outputs/inspection.txt`.
 
 Once installed, a feature stays installed. Specifically:
 - The sink stays on Run B; a second sink never appears on Run A
-- The Viking range stays beneath the hood and pot filler after Shot 06
+- The Wolf range stays beneath the hood and pot filler after Shot 06
 - The microwave is removed in Shot 01 and never returns
 - The refrigerator changes only during Shot 07
 - Cabinet-interior and undercabinet lighting stay on after Shot 08 through the final frame
 - The three stools arrive through worker actions in Shot 11 and remain afterward
+- SMEG appliances, ornate espresso machine and two cups, vase/flowers, and fruit bowl
+  are staged by the end of Shot 11 and remain unchanged through Shots 12–13. Preserve
+  their positions and appearance across cuts; do not clutter the worktops.
 - Cabinet arrangement, hardware, stone surfaces, appliance positions, and floor boundaries
   remain consistent across all shots
 
@@ -224,10 +242,13 @@ Worker presence alone is insufficient.
 Watch the complete exported film and inspect every cut against the actual returned frames:
 
 - Shots 03/04/06: correct cooking-run vs sink-run assignment
-- Shot 06 onward: selected Viking range beneath the mandatory hood; no microwave
+- Shot 06 onward: selected Wolf range beneath the mandatory hood; no microwave
 - Shots 07/09/13: same refrigerator position, real corner, supported wine-fridge geometry
 - Shots 08/10/11/12/13: same interior-cabinet, undercabinet, and hood lighting
 - Shots 10/11/13: same bar, faucet, three stools, opening, apartment-facing geometry
+- Shots 11–13: all final countertop styling present by second 55; stable SMEG
+  appliances, ornate espresso machine/two cups, flowers/vase, and fruit bowl. Verify
+  their visibility across the two reveal angles and usable counter/stool space.
 - All shots: consistent workers, plausible actions, cumulative construction progress
 - 00:35–01:00: no feature disappearance, layout changes, idle filler, or lighting loss
 
@@ -265,8 +286,40 @@ when a comparison demonstrates a benefit. Split the 13 editorial shots into atom
 action takes and assemble time jumps in the edit. After two failures of the same
 action, change the reference, framing, or edit strategy rather than repeat it unchanged.
 
-Open preparation items: red-knob preference versus verified Viking appearance; original
-apartment-facing reference or approved
-coverage revision; blueprint raised-cap discrepancy (SVG span 45″ versus approximately
-60″ in dimensions.md). Omit the optional wine fridge until its model and bay are locked.
-Do not use unresolved inputs as grounds to invent architecture or appliance details.
+## M. RECONCILED GEOMETRY SOURCES — 2026-10-08
+
+Reviewed all four architectural SVGs in `/Users/stefansassoon/projects/vero/deco`,
+including rendered sheets, supporting dimensions/specifications, asset index, research
+method, and original photos 02/26. Relevant sheets are included in this payload:
+
+- `kitchen-blueprint/plan.svg`: 123″ runs, 54″ aisle, 33″ refrigerator bay, 30″ range
+  opening, opposing sink/DW run, 66″ three-stool bar.
+- `kitchen-blueprint/elevations.svg`: BEFORE-state elevations; 96″ kitchen ceiling,
+  counters 36″ AFF, uppers 54–84″ AFF, raised cap 42–44″ AFF. The depicted microwave
+  is removed in the film, not carried into the finished design.
+- `apartment-blueprint/living-room-plan.svg` and `living-room-dimensions.md`: adjacent
+  living room, approximately 157″ × 152″, kitchen/bar opposite balcony slider,
+  vaulted ceiling, carpet, and open dining connection. Door gaps are schematic.
+- `apartment-blueprint/unit-plan.svg`: whole-apartment context only. Do not extract
+  appliance placement, stool spacing, or camera handedness from this coarse sheet.
+
+Production precedence: original unit photos fix visible topology and camera handedness;
+kitchen dimension schedule and elevations fix detailed kitchen modules; living-room
+notes fix adjacency. The whole-unit diagram uses the opposite orientation convention
+from the living-room sheet. Do not mirror the kitchen to make their page orientations
+agree. Use REF-H for the front camera and REF-I for the side relationship.
+
+Drawing discrepancies are recorded rather than treated as absent architecture:
+- Raised-cap line in kitchen plan spans 45″; the kitchen dimensions, specifications,
+  and elevation all support approximately 60″ (elevation x=54 to 114). Use the latter
+  as the film's approximate cap length; retain the actual photographic wall/ledge shape.
+- Whole-unit sheet puts a DW label on the cooking side and spreads stools beyond the
+  66″ bar. The detailed kitchen plan/photos override these schematic errors.
+- Whole-unit schedule reports kitchen area 142 sqft despite 123×105″ yielding about
+  89.7 sqft, and labels 462″ as 38′5″ rather than 38′6″. Do not propagate those labels
+  into the film. Use linear kitchen modules, not an area-derived expansion.
+- Living-room and unit SVGs use inherited CSS colors; native review with a white
+  background was readable. They should not be used as style references.
+
+The source drawings are preserved unchanged. These limits do not block reference-based
+film production. Omit the optional wine fridge until its model and bay are locked.

@@ -2,7 +2,7 @@
 
 Public payload repo for a Higgsfield `/shotlist-director` kitchen-remodel
 construction film. Production decisions and unresolved inputs are recorded in
-`mega-prompt.md`, including the mandatory hood above a Viking range and the
+`mega-prompt.md`, including the mandatory hood above a Wolf range and the
 200-credit first-phase ceiling.
 
 ## What's here
@@ -12,20 +12,22 @@ construction film. Production decisions and unresolved inputs are recorded in
 | `mega-prompt.md` | The full production brief — reference hierarchy, dimensioned kitchen geometry, finished-design spec, 13-shot list with timings, continuity rules, and inspection protocol. Drop this into your Higgsfield prompt. |
 | `kitchen-blueprint/dimensions.md` | Photo-locked kitchen dimensions (V/H/E confidence), appliance schedule, and materials. The ground truth for every measurement in the prompt. |
 | `kitchen-blueprint/plan.svg` | To-scale plan (1 unit = 1 inch) showing both runs, the aisle, the bar, and the refrigerator-side corner. |
-| `references/original/` | Four labelled files, two unique original views: REF-C duplicates REF-B; REF-D duplicates REF-A. |
+| `references/original/` | Six labelled files, four unique views: REF-C duplicates REF-B; REF-D duplicates REF-A; REF-H/I add apartment context. |
 | `references/inspiration/` | REF-E, REF-F, and REF-G are present; use them for appearance, not room geometry. |
 
-## One missing original
+## Geometry package
 
-If you have the apartment-facing photograph (the CleanShot taken from the living room
-looking into the kitchen), save it as `references/original/ref-h-apartment-facing.png`.
-The prompt needs it for apartment-facing coverage. Without it, hold those shots until
-revised coverage is explicitly agreed; the existing originals do not show that view.
+The broader source project is `/Users/stefansassoon/projects/vero/deco`.
+The film payload now includes its kitchen elevations, whole-unit and living-room plans,
+and original apartment-facing photo-02 (REF-H) plus empty-room photo-26 (REF-I).
+`references/source-manifest.json` records exact copy provenance. The source register and
+precedence rules in `mega-prompt.md` reconcile the schematic discrepancies; another
+apartment photograph is not required.
 
 ## Using with Higgsfield
 
-1. Use the selected Viking gas model; resolve the knob preference and blueprint discrepancy recorded in the brief.
-2. Add `ref-h-apartment-facing.png` to `references/original/`, or agree revised coverage.
+1. Use the selected Wolf GR304 gas range with red knobs and the mandatory hood.
+2. Load the original REF-H/I photos and the reconciled geometry source register.
 3. Point Higgsfield at this repo and say:
 
 > Read the full production brief from `mega-prompt.md`. Follow it exactly — every

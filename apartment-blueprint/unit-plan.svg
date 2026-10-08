@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 436 540" font-family="Helvetica, Arial, sans-serif">
+  <!-- UNIT 2130 WHOLE-UNIT PLAN — The Allison «Tallbot» 2B2B — derived from Entrata render at 0.326 in/px (4x) -->
+  <g stroke="currentColor" fill="none">
+    <!-- Outer walls: main body 262 x 462 + balcony wing -->
+    <rect x="20" y="20" width="262" height="462" stroke-width="3" fill="none"/>
+    <!-- Balcony wing (exterior) -->
+    <rect x="282" y="166" width="94" height="152" stroke-width="2" stroke-dasharray="6 3"/>
+    <rect x="305" y="286" width="48" height="32" stroke-width="1.2"/>
+    <!-- Interior walls (approximate ±6 in) -->
+    <line x1="108" y1="20" x2="108" y2="162" stroke-width="1.5"/>
+    <line x1="147" y1="20" x2="147" y2="162" stroke-width="1.5"/>
+    <line x1="20" y1="107" x2="108" y2="107" stroke-width="1.5"/>
+    <line x1="20" y1="144" x2="108" y2="144" stroke-width="1.5"/>
+    <line x1="108" y1="162" x2="282" y2="162" stroke-width="1.5"/>
+    <line x1="147" y1="162" x2="147" y2="186" stroke-width="1.5"/>
+    <line x1="125" y1="162" x2="125" y2="330" stroke-width="1.5"/>
+    <line x1="20" y1="186" x2="125" y2="186" stroke-width="1.5"/>
+    <line x1="20" y1="309" x2="125" y2="309" stroke-width="1.2" stroke-dasharray="4 3"/>
+    <line x1="125" y1="309" x2="125" y2="330" stroke-width="1.2" stroke-dasharray="4 3"/>
+    <line x1="125" y1="330" x2="282" y2="330" stroke-width="1.5"/>
+    <line x1="20" y1="389" x2="84" y2="389" stroke-width="1.5"/>
+    <line x1="84" y1="380" x2="84" y2="448" stroke-width="1.5"/>
+    <line x1="20" y1="448" x2="140" y2="448" stroke-width="1.5"/>
+    <line x1="84" y1="380" x2="140" y2="380" stroke-width="1.2" stroke-dasharray="4 3"/>
+    <line x1="140" y1="352" x2="140" y2="482" stroke-width="1.5"/>
+    <line x1="140" y1="352" x2="282" y2="352" stroke-width="1.5"/>
+    <line x1="220" y1="330" x2="220" y2="352" stroke-width="1" stroke-dasharray="3 2"/>
+    <line x1="266" y1="352" x2="266" y2="482" stroke-width="1.2"/>
+    <!-- Kitchen runs (photo-locked) -->
+    <rect x="20" y="186" width="25.5" height="123" fill="var(--surface)" stroke="none"/>
+    <rect x="99.5" y="186" width="25.5" height="123" fill="var(--surface)" stroke="none"/>
+    <line x1="20" y1="309" x2="125" y2="309" stroke="none"/>
+    <rect x="20" y="186" width="105" height="123" fill="none" stroke-width="1" stroke-dasharray="3 2"/>
+    <line x1="45.5" y1="186" x2="45.5" y2="309" stroke-width="0.8"/>
+    <line x1="99.5" y1="186" x2="99.5" y2="309" stroke-width="0.8"/>
+    <line x1="20" y1="247.5" x2="45.5" y2="247.5" stroke-width="0.8"/>
+    <line x1="99.5" y1="252" x2="125" y2="252" stroke-width="0.8"/>
+    <!-- Stools on living side of run B -->
+    <circle cx="133" cy="212" r="7" fill="var(--surface)" stroke-width="1"/>
+    <circle cx="133" cy="247" r="7" fill="var(--surface)" stroke-width="1"/>
+    <circle cx="133" cy="282" r="7" fill="var(--surface)" stroke-width="1"/>
+    <!-- Balcony chairs -->
+    <rect x="316" y="196" width="18" height="24" fill="var(--surface)" stroke-width="0.8"/>
+    <rect x="316" y="246" width="18" height="24" fill="var(--surface)" stroke-width="0.8"/>
+    <!-- Entry door arc (east wall of vestibule) -->
+    <path d="M 282 344 A 26 26 0 0 1 256 370" stroke-width="1" stroke-dasharray="3 2"/>
+  </g>
+  <g fill="currentColor">
+    <text x="26" y="52" font-size="8">BATH 2</text>
+    <text x="26" y="63" font-size="7">7′4″ × 7′3″</text>
+    <text x="34" y="134" font-size="7">WIC 6′10″×2′5″</text>
+    <text x="150" y="60" font-size="8">BEDROOM 2</text>
+    <text x="150" y="72" font-size="7">8′0″ × 11′9″</text>
+    <text x="111" y="100" font-size="7" transform="rotate(-90 111 100)">lobby</text>
+    <text x="26" y="200" font-size="7">FRIDGE 33″</text>
+    <text x="26" y="258" font-size="7">RANGE 30″</text>
+    <text x="102" y="200" font-size="7" transform="rotate(90 102 200)">BAR 66″</text>
+    <text x="102" y="268" font-size="7" transform="rotate(90 102 268)">SINK 33″</text>
+    <text x="60" y="256" font-size="7" transform="rotate(-90 60 256)">AISLE 54″</text>
+    <text x="48" y="304" font-size="6.5">DW 24″</text>
+    <text x="30" y="330" font-size="8">DINING (open)</text>
+    <text x="30" y="342" font-size="7">≈8′6″ × 6′8″ zone</text>
+    <text x="150" y="230" font-size="8">LIVING</text>
+    <text x="150" y="243" font-size="7">13′1″ × 12′8″ (open to dining)</text>
+    <text x="152" y="368" font-size="8">MASTER</text>
+    <text x="152" y="380" font-size="7">10′0″ × 10′6″</text>
+    <text x="24" y="404" font-size="7.5">BATH 1</text>
+    <text x="24" y="415" font-size="7">5′4″ × 5′8″</text>
+    <text x="90" y="440" font-size="7">LAUNDRY 4′6″×3′1″</text>
+    <text x="176" y="466" font-size="7">master WIC ≈6′ reach-in (north wall)</text>
+    <text x="288" y="182" font-size="7">BALCONY</text>
+    <text x="288" y="194" font-size="7">4′5″ × 12′1″</text>
+    <text x="309" y="306" font-size="6.5">STOR</text>
+    <text x="228" y="345" font-size="7">ENTRY 36″</text>
+    <text x="20" y="500" font-size="7.5">MAIN BODY ENVELOPE 21′10″ × 38′5″ (interior, drawn) · balcony wing adds 9′6″ × 12′7″</text>
+  </g>
+  <g stroke="var(--muted)" stroke-width="0.8" fill="var(--muted)" font-size="7">
+    <line x1="20" y1="510" x2="282" y2="510"/>
+    <text x="90" y="521">MAIN BODY WIDTH 262″ (21′10″) ±4″</text>
+    <line x1="392" y1="20" x2="392" y2="482"/>
+    <line x1="388" y1="20" x2="396" y2="20"/><line x1="388" y1="482" x2="396" y2="482"/>
+    <text x="398" y="260" transform="rotate(90 398 260)">MAIN BODY DEPTH 462″ (38′5″) ±4″</text>
+  </g>
+  <g fill="currentColor">
+    <text x="20" y="8" font-size="11" font-weight="bold">UNIT 2130 — WHOLE-UNIT PLAN (2B2B «Tallbot»)</text>
+    <text x="20" y="536" font-size="7" fill="var(--muted)">1 unit = 1 inch · E ±4–6″ · NOT FOR CONSTRUCTION · Topology from Entrata «Tallbot» render (pixel-calibrated, 0.326 in/px at 4×) + 29-photo ARMLS gallery #2130 + #2083 sibling. Kitchen runs photo-locked (see kitchen-blueprint/). Interior partitions ±6″; door swings schematic. Derived 2026-10-07.</text>
+  </g>
+</svg>

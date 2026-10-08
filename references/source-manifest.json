@@ -1,0 +1,36 @@
+{
+  "source_repo": "/Users/stefansassoon/projects/vero",
+  "source_revision": "d0c8dff057cada8f148c18e4d743616ed2cee4e2",
+  "files": [
+    {
+      "source": "/Users/stefansassoon/projects/vero/deco/assets/unit2130-2023/photo-02.webp",
+      "local": "references/original/ref-h-apartment-facing.webp",
+      "sha256": "cf4b6aecb4fa78a0033ad6dd1d3f494ae3c5b78d6cc3f799e565ffceec2475dc"
+    },
+    {
+      "source": "/Users/stefansassoon/projects/vero/deco/assets/unit2130-2023/photo-26.webp",
+      "local": "references/original/ref-i-empty-kitchen-living.webp",
+      "sha256": "fdad7b95a79161f0aa304ed60a0ff0ef339cff35dbe65cf92aa1db3da7da8fcc"
+    },
+    {
+      "source": "/Users/stefansassoon/projects/vero/deco/kitchen-blueprint/elevations.svg",
+      "local": "kitchen-blueprint/elevations.svg",
+      "sha256": "0c04bedea62fa91ed06c6bfff16b609d39227a3cc0eae33b48d5dfc92baba5eb"
+    },
+    {
+      "source": "/Users/stefansassoon/projects/vero/deco/living-room/plan.svg",
+      "local": "apartment-blueprint/living-room-plan.svg",
+      "sha256": "97eed48cc54fb42fc9d823a275fa7fe84626cd076cf82efdcad3c74981db749d"
+    },
+    {
+      "source": "/Users/stefansassoon/projects/vero/deco/living-room/dimensions.md",
+      "local": "apartment-blueprint/living-room-dimensions.md",
+      "sha256": "efa65e19c2bf2e1904af39ee0ce35d7f6fe579df36d33d76169c4dce8ba6f6d4"
+    },
+    {
+      "source": "/Users/stefansassoon/projects/vero/deco/unit-blueprint/unit-plan.svg",
+      "local": "apartment-blueprint/unit-plan.svg",
+      "sha256": "d6eb2914273ccf685cabef08644040cead2bcc438741d2dd03fedb30e789b01d"
+    }
+  ]
+}
