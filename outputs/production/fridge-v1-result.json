@@ -1,0 +1,33 @@
+[
+  {
+    "created_at": "2026-10-08T08:00:51.202356Z",
+    "display_name": "Kling O3 (Frames)",
+    "id": "12bf1a26-2268-43aa-9f68-02f6c120a622",
+    "job_type": "kling_o3_flf",
+    "min_result_url": null,
+    "params": {
+      "aspect_ratio": "16:9",
+      "duration": 5,
+      "height": 1080,
+      "medias": [
+        {
+          "data": {
+            "id": "4a36a379-52b0-4621-9ede-ab2424c527f0",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/4a36a379-52b0-4621-9ede-ab2424c527f0_resize.jpg"
+          },
+          "role": "start_image"
+        }
+      ],
+      "mode": "pro",
+      "multi_prompt": [],
+      "multi_shots": false,
+      "prompt": "ONE continuous locked-camera realistic construction take, 5 seconds. Start exactly from supplied frame. Same two workers, same closed stainless TOP-FREEZER refrigerator with LEFT handles, same kitchen. Both workers slowly guide the upright refrigerator straight BACKWARD 20 cm into its existing left-corner bay, maintaining closed doors, rigid rectangular body, handles and horizontal seam. Lead navy on left and partner grey/cap on right use both hands on SIDE edges, push smoothly with small steps and realistic weight. Fridge base stays on floor, never floats or tips. Both then release hands and step slightly back to inspect the installed fridge. It finishes in original bay beside the counter, no gap invented behind wall. No doors open, no second fridge, no geometry morphing, no worker swapping, no appliance resizing. All cabinets, hood, gas range, sink, wall, lighting and floor remain fixed. No cuts, no camera movement, no zoom, no speech/music.",
+      "sound": "off",
+      "width": 1920
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261008_080051_12bf1a26-2268-43aa-9f68-02f6c120a622.mp4",
+    "status": "completed",
+    "thumbnail_url": "https://cdn.higgsfield.ai/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261008_080051_12bf1a26-2268-43aa-9f68-02f6c120a622_thumbnail.webp"
+  }
+]

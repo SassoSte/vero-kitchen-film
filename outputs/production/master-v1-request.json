@@ -1,0 +1,16 @@
+{
+  "model": "gpt_image_2",
+  "prompt": "Create one photorealistic finished kitchen architectural photograph. Camera and framing MUST match image 1 exactly: original appliance-wall view of a small real galley kitchen. This is renovation within the SAME room, not a new room design. Image 2 is the actual reverse sink run. Image 3 is the actual living-room-to-kitchen view: evidence of fixed opening and bar geometry. Images 4 and 5 supply FINISHES ONLY, never their room layout. Preserve image 1 wall planes, refrigerator-side closed corner, footprint, ceiling height, camera perspective and the opposing sink run partly visible at left. No extra room, passage, bay, island, widened wall or new window. Two parallel 123 inch runs, 54 inch aisle, 96 inch kitchen ceiling; the cooking wall sequence is 33 inch fridge bay, 24 inch base, 30 inch range, 36 inch base. Fridge stays left, range stays in original opening, sink stays on opposite run. No sink or faucet on the cooking counter.\nFinished design: white Shaker cabinetry, frosted translucent upper inserts with warm interior light; continuous warm undercabinet light clearly illuminates subtly veined pale quartz full-height slab backsplash and quartz counters. Mandatory pale plaster-box/chimney range hood as image 5, replacing the original microwave and above-range cabinetry as needed within that same 30-inch zone. Absolutely no microwave. Stainless Wolf GR304 30-inch freestanding GAS range with its distinctive red front control knobs and four black gas burner grates beneath hood. Brushed articulated wall pot filler centered above range. Stainless main fridge in existing bay. Light oak floor ONLY in kitchen; living-room carpet stays unchanged. Same existing architecture, naturally illuminated premium editorial photograph, faithful proportions, realistic contact shadows, no wide-angle enlargement.\nTasteful small appliances: one red SMEG two-slot toaster on the 24-inch counter LEFT of range, one matching red SMEG kettle on right counter. Opposite run has deep undermount sink and slim pull-down faucet, soap dispenser; a compact ornate polished chrome espresso machine with refined traditional detailing, tactile knobs and curved steam wand, two porcelain cups on small tray over dishwasher where visible. Bar front has light oak vertical ribs, three cream counter stools. One vase of white flowers and greenery plus one low bowl of fresh fruit are on living-side bar and must only appear if naturally visible in THIS camera. Do not force unseen objects into this view. Do not copy reference image 4's fridge shape at the expense of our bay. Preserve original apartment beyond the opening. No people, no text overlays, no diagrams. Output a single clean finished still, same viewpoint as image 1, 16:9.",
+  "references": [
+    "references/original/ref-a-cooking-run.webp",
+    "references/original/ref-b-sink-run.webp",
+    "references/original/ref-h-apartment-facing.webp",
+    "references/inspiration/ref-e-cabinetry.webp",
+    "references/inspiration/ref-f-cooking-zone.webp"
+  ],
+  "params": {
+    "quality": "high",
+    "resolution": "2k",
+    "aspect_ratio": "16:9"
+  }
+}

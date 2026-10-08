@@ -1,0 +1,53 @@
+{
+  "project": "vero-kitchen-film",
+  "phase": "initial reference set and three isolated motion tests complete; full film not generated",
+  "budget_ceiling_credits": 200,
+  "approved_features": [
+    "Wolf GR304 gas range, red knobs",
+    "Pale REF-F hood; no microwave",
+    "Red SMEG toaster and kettle",
+    "Ornate polished-metal espresso machine, two porcelain cups",
+    "White flowers with greenery and fruit bowl",
+    "Original architecture, kitchen-only oak, three cream stools"
+  ],
+  "views": {
+    "master": {
+      "original": "references/original/ref-a-cooking-run.webp",
+      "status": "candidate-visual-lock-for-pilots",
+      "take": "master-v3"
+    },
+    "sink": {
+      "original": "references/original/ref-b-sink-run.webp",
+      "status": "candidate-visual-lock-for-pilots",
+      "take": "sink-v1"
+    },
+    "apartment": {
+      "original": "references/original/ref-h-apartment-facing.webp",
+      "status": "candidate-visual-lock-for-pilots",
+      "take": "apartment-v5"
+    }
+  },
+  "motion_pilots": [
+    {
+      "action": "two workers lower quartz cooking worktop",
+      "status": "failed-endpoint",
+      "take": "quartz-v1",
+      "source": "pilot-quartz-start-v2",
+      "scope": "isolated motion test, not production Shot03",
+      "finding": "Slab released while misaligned, cabinet still exposed. Correct source/end-state before retry."
+    },
+    {
+      "action": "fridge movement within existing corner",
+      "status": "candidate-motion-pass",
+      "take": "fridge-v1",
+      "finding": "Sampled plausible fridge placement; partner occludes endpoint. Not final Shot07 acceptance."
+    },
+    {
+      "action": "place bar furnishings",
+      "status": "failed-final-orientation",
+      "take": "stool-v1",
+      "finding": "Center stool faces camera away from bar; scale shrinkage not established by sampled review."
+    }
+  ],
+  "gate": "No video generation until finished views agree and stage/worker references are inspected."
+}

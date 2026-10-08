@@ -1,0 +1,13 @@
+{
+  "model": "gpt_image_2",
+  "params": {
+    "quality": "high",
+    "resolution": "2k",
+    "aspect_ratio": "16:9"
+  },
+  "references": [
+    "outputs/keyframes/pilot-quartz-start-v1.png",
+    "outputs/keyframes/master-v3.png"
+  ],
+  "prompt": "Correct the construction action in image 1. Preserve both workers identity, clothes, room, floor, old fridge, camera and early construction state. The freestanding white cabinet in the CENTER is an ERROR. REMOVE it completely, leaving the original 30-inch RANGE OPENING EMPTY as confirmed by the range position in image 2. There is NO island or freestanding cabinet. The quartz slab belongs on the EXISTING open-topped white cabinet at the FAR RIGHT EDGE of image 1, against the right wall, never in the center. Move both workers and the slab toward that rightmost base: they support the slab horizontally exactly 10cm above the rectangular open rim of that wall-mounted right cabinet, its long edge parallel to right wall, aligned to cover its top. Their hands grip under the ends with bent knees, both LOOK DOWN at slab/cabinet instead of smiling at camera. Lead closer camera, partner farther camera. Slab remains rigid, no sink opening, no faucet. Empty range opening remains visibly empty immediately LEFT of this right cabinet. No duplicate cabinet beneath slab. Use the existing wall cabinetry, do not invent new furniture. Early stage no uppers/hood/range/pot filler/decor. Photoreal, same camera."
+}

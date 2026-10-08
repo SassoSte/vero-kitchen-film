@@ -1,0 +1,13 @@
+{
+  "model": "gpt_image_2",
+  "params": {
+    "quality": "high",
+    "resolution": "2k",
+    "aspect_ratio": "16:9"
+  },
+  "references": [
+    "outputs/keyframes/apartment-v5.png",
+    "outputs/keyframes/workers-v1.png"
+  ],
+  "prompt": "Make a photoreal furnishing-stage frame using image 1 EXACT room and camera. Keep all architecture, cabinets, lights ON, top-freezer fridge, five red-knob Wolf gas range, pale hood/pot filler, SMEG appliances, espresso behind raised ledge, flowers and fruit exactly unchanged. Use two workers from image 2, exact faces/clothes. The left and right cream stools are already parked as image 1. The MIDDLE stool is carried by grey-haired navy worker in front of its middle position, held by the backrest and seat frame, with ALL FOUR feet hovering 8cm above carpet. He looks downward as he prepares to set it down, torso offset so stool visible. Capped grey-shirt partner stands at right side, looking at middle stool with hands relaxed, not holding other furniture. Exactly THREE stools total (two parked plus one carried), same chair design/legs/footrail as image 1. Show every foot including workers boots and a little carpet below. No hidden fourth stool, no duplicates, no door or floor changes. One final furnishing action only. No text, no motion blur."
+}

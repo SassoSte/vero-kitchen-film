@@ -1,0 +1,40 @@
+[
+  {
+    "created_at": "2026-10-08T07:52:40.894156Z",
+    "display_name": "GPT Image 2",
+    "id": "1f1eef81-cdd7-4277-a859-2b0cdcf5682d",
+    "job_type": "gpt_image_2",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261008_075240_1f1eef81-cdd7-4277-a859-2b0cdcf5682d_min.webp",
+    "params": {
+      "aspect_ratio": "16:9",
+      "height": 1520,
+      "medias": [
+        {
+          "data": {
+            "id": "9fe9aeb9-0861-4ab6-a8cb-38ce75322c13",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/9fe9aeb9-0861-4ab6-a8cb-38ce75322c13_resize.jpg"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "132f46fc-ef52-404f-884e-8dcbbcc1ea7d",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/132f46fc-ef52-404f-884e-8dcbbcc1ea7d_resize.jpg"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "videotape-alpha",
+      "prompt": "Photoreal construction-stage photograph based exactly on image 1 kitchen camera and architecture. Same white cabinetry with open gap at ceiling, quartz, hood, pot filler, Wolf gas range/red knobs, kitchen-only oak and original walls. Stage is refrigerator INSTALLATION after cooking equipment fitted but before lighting test and styling: remove red toaster/kettle, espresso machine, cups, boards, plants, all decor. Cabinet interior/undercabinet/hood lights OFF; ordinary room track lights ON. Two workers from image 2 with identical faces/clothes, focused on task, no posing. The original left fridge bay is now empty; new TOP-FREEZER stainless fridge matching image 1 stands upright directly in front of its SAME bay, only 20cm pulled forward into aisle, front doors facing same direction as installed fridge, not rotated or tipped. Lead grey hair/navy at fridge's left-front edge, partner cap/grey at right-front edge; both hands on side edges guiding it gently backward toward bay. Their feet firmly on floor, anatomically correct grips, door remains closed, no tools, no other refrigerator or cart. Preserve corner wall; do not invent recess behind fridge. Realistic first frame for a short final push into position, 16:9.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 2688
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261008_075240_1f1eef81-cdd7-4277-a859-2b0cdcf5682d.png",
+    "status": "completed"
+  }
+]

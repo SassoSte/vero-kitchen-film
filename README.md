@@ -35,6 +35,33 @@ apartment photograph is not required.
 > consistent finished kitchen across three keyframes before generating any video.
 > Do not skip the inspection pass.
 
+
+## Production started — 2026-10-08
+
+First-phase ceiling: **200 Higgsfield credits**. The editable directing document is
+[`outputs/shotlist.html`](outputs/shotlist.html): 13 editorial shots, 27 atomic takes.
+Actual job quotes, request/result receipts and state are in `outputs/production/`;
+[`budget.json`](outputs/production/budget.json) is the cost ledger.
+
+Candidate finished design references (visually checked for first-phase testing; not
+proof of surveyed dimensions or exact manufacturer fidelity):
+
+- [`master-v3.png`](outputs/keyframes/master-v3.png) — cooking wall.
+- [`sink-v1.png`](outputs/keyframes/sink-v1.png) — sink and ornate espresso station.
+- [`apartment-v5.png`](outputs/keyframes/apartment-v5.png) — bar, stools, flowers and fruit.
+- [`workers-v1.png`](outputs/keyframes/workers-v1.png) — the two recurring workers.
+
+Motion proofs in `outputs/pilots/` are isolated tests, not the final film or accepted
+production shots. Read [`outputs/inspection.txt`](outputs/inspection.txt) before reuse.
+Initial pass spent **111.75 credits**, verified against the account balance; **88.25**
+remain under the phase ceiling. Sampled pilot results: quartz fails worktop seating;
+fridge is provisionally plausible; stool fails final orientation (faces away from bar).
+No continuous-playback or frame-by-frame acceptance is claimed. All submitted jobs
+completed; no automated paid work remains running.
+
+The full 60-second film has **not** been generated. Rejected variants are retained as
+drafts; the largest remaining production risk is physical-action endpoint fidelity.
+
 ## Accuracy
 
 The kitchen dimensions are photo-locked to the original 2023 MLS gallery of unit 2130

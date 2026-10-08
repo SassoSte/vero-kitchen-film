@@ -1,0 +1,15 @@
+{
+  "model": "gpt_image_2",
+  "params": {
+    "quality": "high",
+    "resolution": "2k",
+    "aspect_ratio": "16:9"
+  },
+  "references": [
+    "references/original/ref-b-sink-run.webp",
+    "outputs/keyframes/master-v1.png",
+    "references/original/ref-h-apartment-facing.webp",
+    "references/original/ref-i-empty-kitchen-living.webp"
+  ],
+  "prompt": "Photoreal finished renovation photograph of the EXACT small kitchen shown in image 1. Image 1 locks camera/framing, sink-run architecture, wall planes, sink/dishwasher locations, raised ledge, opening and original living apartment beyond. Match this viewpoint precisely. Image 2 is the SAME kitchen's finished cooking-wall design: match its cabinet fronts/handles, pale veined quartz, chrome ornate espresso machine and warm light style. Images 3/4 are ORIGINAL geometry only; preserve living-room carpet, fan, balcony slider and opening. Do not copy the finishes of 3/4 or reintroduce old appliances.\nWe are looking at Run B, a base-cabinet sink run with NO uppers, open to living room. Keep sink in original place, convert to single deep undermount basin with slim elegant stainless pull-down faucet and soap dispenser. White Shaker bases, chrome slim pulls matching image 2, pale subtly veined quartz worktop; preserve the original raised pass-through cap and exact wall piers. Dishwasher remains under counter at image 1 right edge. On that right-side counter ABOVE dishwasher place the same ornate compact polished chrome espresso machine visible at left of image 2, sculptural traditional boiler and tactile controls/curved steam wand, two porcelain espresso cups on a restrained tray. Do not place machine in sink or block faucet. On bar/living-side counter portions naturally visible place one refined vase of white/cream flowers with greenery and one low fruit bowl with modest fresh fruit, separated and not obstructing view. The 3 cream stools and oak ribbed bar front are on living-facing side; show ONLY what this camera can actually see. Kitchen oak floor only, preserve carpet beyond. Cooking-wall Wolf gas range, red knobs, pale chimney hood and red SMEG toaster/kettle are BEHIND camera, not forced into this view. Keep finished installed lights on wherever naturally visible. No microwave, no second sink, no upper cabinets on this open run, no new island, no invented doorway, no raised ceiling, no room enlargement, no people. Clean realistic architecture photo, original viewpoint, 16:9, geometry before decorative abundance."
+}

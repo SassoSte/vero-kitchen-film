@@ -1,0 +1,12 @@
+{
+  "model": "gpt_image_2",
+  "params": {
+    "quality": "high",
+    "resolution": "2k",
+    "aspect_ratio": "16:9"
+  },
+  "references": [
+    "outputs/keyframes/apartment-v3.png"
+  ],
+  "prompt": "Edit this SINGLE photograph. Keep everything unchanged except the small espresso machine on the LEFT SIDE OF THE BAR OPENING, in front of refrigerator. The espresso machine is currently resting ON TOP of the foreground raised stone bar ledge. It must instead sit on the lower counter immediately BEHIND this SAME ledge. Move ONLY the existing espresso machine DOWN about 80 pixels in this 2688x1520 image, without changing its scale or x position. The existing ledge must mask/occlude its lower portion. Its tray and cups become hidden BEHIND the solid front ledge; only upper boiler and top/controls project above the ledge. DO NOT create any new counter, surface, machine, furniture or foreground. Exactly one machine total, in its original left position but lowered/occluded. No other changes. The room, framing, track lights, flowers, fruit, stools, floor, hood, five knobs, fridge and all cabinetry remain identical. This is a local correction in the small left espresso region only."
+}

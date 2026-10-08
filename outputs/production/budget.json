@@ -1,0 +1,135 @@
+{
+  "ceiling_credits": 200,
+  "opening_balance": 1246.8,
+  "reserved_credits": 111.75,
+  "jobs": [
+    {
+      "name": "master-v1",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "9e09d477-5310-4c27-b017-5728c1b2a46f"
+    },
+    {
+      "name": "sink-v1",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "ad4942e9-2a3a-404b-a6cc-a1f90a696885",
+      "file": "outputs/keyframes/sink-v1.png"
+    },
+    {
+      "name": "master-v2",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "cd5c083b-1fb4-41b1-861b-f4bf8f766dcf",
+      "file": "outputs/keyframes/master-v2.png"
+    },
+    {
+      "name": "master-v3",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "9a57a3fa-4ce8-4cea-99e9-5e023ed85c52",
+      "file": "outputs/keyframes/master-v3.png"
+    },
+    {
+      "name": "apartment-v1",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "a66dc7cb-a10f-46ba-ad73-5137d7704766",
+      "file": "outputs/keyframes/apartment-v1.png"
+    },
+    {
+      "name": "workers-v1",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "cd0a7918-5ce8-4add-b7a3-6f39e0f6e9e6",
+      "file": "outputs/keyframes/workers-v1.png"
+    },
+    {
+      "name": "apartment-v2",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "def80ac1-1827-47c9-ad75-d9237fc4ae11",
+      "file": "outputs/keyframes/apartment-v2.png"
+    },
+    {
+      "name": "pilot-quartz-start-v1",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "9a2fcc43-df3f-4626-be21-d8f6f904f33e",
+      "file": "outputs/keyframes/pilot-quartz-start-v1.png"
+    },
+    {
+      "name": "apartment-v3",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "dc5393d4-5245-4ad4-ae2b-4a6c007f6bce",
+      "file": "outputs/keyframes/apartment-v3.png"
+    },
+    {
+      "name": "pilot-quartz-start-v2",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "e8324325-a21c-4ebc-af8f-f48be553e4fb",
+      "file": "outputs/keyframes/pilot-quartz-start-v2.png"
+    },
+    {
+      "name": "apartment-v4",
+      "quote": 2,
+      "status": "generated",
+      "job_id": "fd80d679-e6d9-43bd-a57a-668235259731",
+      "file": "outputs/keyframes/apartment-v4.png"
+    },
+    {
+      "name": "pilot-fridge-start-v1",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "1f1eef81-cdd7-4277-a859-2b0cdcf5682d",
+      "file": "outputs/keyframes/pilot-fridge-start-v1.png"
+    },
+    {
+      "name": "quartz-v1",
+      "quote": 6.25,
+      "status": "generated",
+      "job_id": "c2cc66b4-02cd-445e-8454-2606fe2ee7ee",
+      "file": "outputs/pilots/quartz-v1.mp4"
+    },
+    {
+      "name": "apartment-v5",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "5bbba1de-da3e-48ec-a963-63ca3e35c179",
+      "file": "outputs/keyframes/apartment-v5.png"
+    },
+    {
+      "name": "pilot-fridge-start-v2",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "671c5eba-d20b-4c07-bf42-d6a0e4da75f7",
+      "file": "outputs/keyframes/pilot-fridge-start-v2.png"
+    },
+    {
+      "name": "pilot-stool-start-v1",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "ed06fc44-37c5-40e5-bb53-1de82fe274da",
+      "file": "outputs/keyframes/pilot-stool-start-v1.png"
+    },
+    {
+      "name": "fridge-v1",
+      "quote": 6.25,
+      "status": "generated",
+      "job_id": "12bf1a26-2268-43aa-9f68-02f6c120a622",
+      "file": "outputs/pilots/fridge-v1.mp4"
+    },
+    {
+      "name": "stool-v1",
+      "quote": 6.25,
+      "status": "generated",
+      "job_id": "2feb654c-1fc9-4d33-b969-f3079570df93",
+      "file": "outputs/pilots/stool-v1.mp4"
+    }
+  ],
+  "balance_after": 1135.05,
+  "balance_delta": 111.75,
+  "remaining_phase_credits": 88.25
+}

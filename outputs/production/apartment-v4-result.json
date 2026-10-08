@@ -1,0 +1,34 @@
+[
+  {
+    "created_at": "2026-10-08T07:51:36.488147Z",
+    "display_name": "Nano Banana Pro",
+    "id": "fd80d679-e6d9-43bd-a57a-668235259731",
+    "job_type": "nano_banana_pro",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261008_075136_fd80d679-e6d9-43bd-a57a-668235259731_min.webp",
+    "params": {
+      "application": null,
+      "aspect_ratio": "16:9",
+      "batch_size": 1,
+      "height": 1536,
+      "input_image": null,
+      "input_images": [
+        {
+          "id": "f1a773cc-35c7-4456-aec7-fc0ce3557c06",
+          "type": "media_input",
+          "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/f1a773cc-35c7-4456-aec7-fc0ce3557c06_resize.jpg"
+        },
+        {
+          "id": "8bb754e8-a826-4cfc-8b4d-0651126ba3d2",
+          "type": "media_input",
+          "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/8bb754e8-a826-4cfc-8b4d-0651126ba3d2_resize.jpg"
+        }
+      ],
+      "prompt": "Edit ONLY the espresso machine position in image 1. Everything else must remain pixel-faithful. The ornate espresso machine on the far left is wrongly sitting on the high foreground breakfast-bar ledge. Move the SAME machine BACK into the kitchen onto the lower countertop behind that ledge, above the dishwasher, as image 2 demonstrates from reverse side. Lower its whole body by 6 inches relative to the existing photo without shrinking it. From image 1 camera the foreground white stone ledge MUST now OCCLUDE the bottom 6 inches of the machine, its tray, and bottoms of cups: base/tray should no longer be visible resting on front ledge. Upper chrome boiler, spherical finial, gauge and handle remain visible at same x position but lower. Preserve all other room/appliance details exactly, especially five red knobs, top-freezer fridge, track lighting, stools with feet, flowers and fruit. No other alterations.",
+      "resolution": "2k",
+      "surface": null,
+      "width": 2752
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261008_075136_fd80d679-e6d9-43bd-a57a-668235259731.png",
+    "status": "completed"
+  }
+]

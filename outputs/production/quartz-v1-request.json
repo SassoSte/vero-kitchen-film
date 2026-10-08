@@ -1,0 +1,15 @@
+{
+  "model": "kling_o3_flf",
+  "params": {
+    "mode": "pro",
+    "duration": 5,
+    "aspect_ratio": "16:9",
+    "multi_shots": false,
+    "sound": "off"
+  },
+  "media": {
+    "start-image": "outputs/keyframes/pilot-quartz-start-v2.png"
+  },
+  "output": "outputs/pilots/quartz-v1.mp4",
+  "prompt": "ONE continuous locked-camera photoreal construction shot, 5 seconds, exactly the supplied starting frame and two workers. They are holding a rigid rectangular stone worktop just above the RIGHT wall base cabinet. Both look at their hands and coordinate a controlled straight DOWN lowering by about 10cm, gently seating the slab flat onto that cabinet rim, no sideways swing. Lead navy shirt supports near edge; grey shirt capped partner supports far edge. Their fingers slide safely out from underneath as the slab comes to rest; then both release and check alignment with small hand touches. Slab stays rigid and same size, no holes or faucets, no morphing, no duplicate slab or cabinet, no new furniture. Cabinet stays against right wall; empty range opening to its left stays empty. Original room, fridge, sink, floor, unfinished walls all stay unchanged. No hood, uppers, range, decorations or lamps suddenly appear. Workers maintain faces, clothing, body count, hand anatomy. Camera absolutely fixed, no zoom, no cuts, realistic weight and contact. End with the worktop seated firmly flush on the base and workers hands released. No speech or music."
+}

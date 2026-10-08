@@ -1,0 +1,33 @@
+[
+  {
+    "created_at": "2026-10-08T07:53:37.377785Z",
+    "display_name": "Kling O3 (Frames)",
+    "id": "c2cc66b4-02cd-445e-8454-2606fe2ee7ee",
+    "job_type": "kling_o3_flf",
+    "min_result_url": null,
+    "params": {
+      "aspect_ratio": "16:9",
+      "duration": 5,
+      "height": 1080,
+      "medias": [
+        {
+          "data": {
+            "id": "c53e1acc-c0a7-4528-a8db-12aaadba68b6",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/c53e1acc-c0a7-4528-a8db-12aaadba68b6_resize.jpg"
+          },
+          "role": "start_image"
+        }
+      ],
+      "mode": "pro",
+      "multi_prompt": [],
+      "multi_shots": false,
+      "prompt": "ONE continuous locked-camera photoreal construction shot, 5 seconds, exactly the supplied starting frame and two workers. They are holding a rigid rectangular stone worktop just above the RIGHT wall base cabinet. Both look at their hands and coordinate a controlled straight DOWN lowering by about 10cm, gently seating the slab flat onto that cabinet rim, no sideways swing. Lead navy shirt supports near edge; grey shirt capped partner supports far edge. Their fingers slide safely out from underneath as the slab comes to rest; then both release and check alignment with small hand touches. Slab stays rigid and same size, no holes or faucets, no morphing, no duplicate slab or cabinet, no new furniture. Cabinet stays against right wall; empty range opening to its left stays empty. Original room, fridge, sink, floor, unfinished walls all stay unchanged. No hood, uppers, range, decorations or lamps suddenly appear. Workers maintain faces, clothing, body count, hand anatomy. Camera absolutely fixed, no zoom, no cuts, realistic weight and contact. End with the worktop seated firmly flush on the base and workers hands released. No speech or music.",
+      "sound": "off",
+      "width": 1920
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261008_075337_c2cc66b4-02cd-445e-8454-2606fe2ee7ee.mp4",
+    "status": "completed",
+    "thumbnail_url": "https://cdn.higgsfield.ai/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261008_075337_c2cc66b4-02cd-445e-8454-2606fe2ee7ee_thumbnail.webp"
+  }
+]

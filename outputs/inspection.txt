@@ -1,0 +1,27 @@
+Production phase 1 — 2026-10-08
+
+Sources: original REF-A/B/H/I visually inspected; all four architectural SVGs rendered and reviewed.
+master-v1: generating; not inspected or accepted.
+Sink and apartment views: planned.
+Motion and final export: not generated or inspected.
+
+master-v1: inspected, rejected as final reference. Upper cabinets extend to ceiling rather than preserving 84–96 inch open wall gap. Range burner/controls exact model fidelity uncertain. Geometry, hood, finishes and SMEG placement broadly match. master-v2 correction prepared.
+
+sink-v1: architectural topology and floor boundary pass visual review. Espresso machine, two cups, flowers and fruit visible. Soap dispenser and exact cross-view machine/cup details remain uncertain.
+master-v2: open gap above cabinets restored; generated six knobs, inconsistent with actual Wolf GR304 photo. Not accepted. master-v3 now uses manufacturer photo for localized correction.
+
+master-v3: open cabinet gap and five red-knob Wolf layout corrected against manufacturer photograph; provisional pending cross-view agreement.
+apartment-v1: rejected for fridge door configuration and six-knob stove; localized correction v2 submitted. Review also flags recessed ceiling lighting versus master track lighting; not yet reconciled.
+
+Candidate visual lock: master-v3, sink-v1, apartment-v5 pass independent first-phase motion reference review. Not a measurement or exact product guarantee. Exact espresso/cup details, quartz veining and track head geometry remain unverified. Apartment-v4 rejected for duplicate espresso and invented foreground counter.
+Workers-v1: two differentiated workers with prescribed clothing, full body and boots; accepted identity reference for pilots.
+pilot-quartz-start-v1 rejected invented central cabinet and camera-facing pose. v2 corrects action onto right wall base; accepted isolated motion test source, not final Shot03 because early left-run counter and quartz pattern need stage alignment.
+
+quartz-v1: generated 1912x1080, 24fps, 5.041667 seconds, silent H264. Reviewed 30 samples at 6fps and full-size end frame. FAIL: at end (~4.8–5.04s) workers release misaligned slab while a large part of the base opening remains exposed; not valid seating. No claim of every-frame inspection. Source geometry must be fixed before a retry; not a final Shot03 asset.
+
+fridge-v1: 6fps sampled review and full-size end frame show controlled placement into bay and workers releasing. Candidate motion pass, not frame-by-frame production acceptance.
+stool-v1: FAIL final orientation. Independent review shows middle stool faces camera/away from bar while outer stools face bar. Initial shrinkage suspicion is withdrawn: rotation and depth confound size; dimensional drift is not established. Fix orientation with a stronger endpoint and no rotation before retry.
+All three raw pilots are isolated silent generator outputs; exact film timing/1920-wide delivery and construction sound have not been conformed. Full film not produced.
+
+Independent pilot review agrees quartz fails seating; fridge is provisional (partner occludes much of final placement); stool fails orientation, not proven shrinking. No frame-by-frame or continuous-playback claim.
+First reference/pilot pass complete. Spending: 111.75 credits, verified opening 1246.8 minus ending 1135.05; 88.25 remains under 200-credit phase ceiling. All submitted jobs completed, no automatic further jobs scheduled.

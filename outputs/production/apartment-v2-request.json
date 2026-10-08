@@ -1,0 +1,14 @@
+{
+  "model": "gpt_image_2",
+  "params": {
+    "quality": "high",
+    "resolution": "2k",
+    "aspect_ratio": "16:9"
+  },
+  "references": [
+    "outputs/keyframes/apartment-v1.png",
+    "outputs/keyframes/master-v3.png",
+    "references/products/wolf-gr304.jpg"
+  ],
+  "prompt": "Localized continuity correction to image 1. Preserve this camera, entire room, cabinetry, opening, bar, stools, flowers, fruit, espresso station, lighting, hood, pot filler, countertop appliances and finishes unchanged. Correct TWO appliance details only. (1) The refrigerator at left in image 1 has WRONG vertical side-by-side doors. Replace it with the exact TOP-FREEZER refrigerator of image 2: one full-width short upper freezer door and one full-width tall lower fridge door separated by a HORIZONTAL seam, both hinges on right and vertical handles on left. Same narrow original fridge bay; retain fridge width, not double-door fridge. (2) Copy the actual Wolf product image 3 control layout: exactly FIVE red main knobs, two left, one central oven knob, two right; small silver buttons flanking center knob. Image 1 incorrectly has six. Keep range correctly occluded by foreground counter exactly as existing. Photoreal single image, do not redesign any other region."
+}

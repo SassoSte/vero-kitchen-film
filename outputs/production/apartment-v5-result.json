@@ -1,0 +1,32 @@
+[
+  {
+    "created_at": "2026-10-08T07:54:04.99343Z",
+    "display_name": "GPT Image 2",
+    "id": "5bbba1de-da3e-48ec-a963-63ca3e35c179",
+    "job_type": "gpt_image_2",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261008_075404_5bbba1de-da3e-48ec-a963-63ca3e35c179_min.webp",
+    "params": {
+      "aspect_ratio": "16:9",
+      "height": 1520,
+      "medias": [
+        {
+          "data": {
+            "id": "33188139-14bb-4d85-ac90-d39d9fccdf2c",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/33188139-14bb-4d85-ac90-d39d9fccdf2c_resize.jpg"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "videotape-alpha",
+      "prompt": "Edit this SINGLE photograph. Keep everything unchanged except the small espresso machine on the LEFT SIDE OF THE BAR OPENING, in front of refrigerator. The espresso machine is currently resting ON TOP of the foreground raised stone bar ledge. It must instead sit on the lower counter immediately BEHIND this SAME ledge. Move ONLY the existing espresso machine DOWN about 80 pixels in this 2688x1520 image, without changing its scale or x position. The existing ledge must mask/occlude its lower portion. Its tray and cups become hidden BEHIND the solid front ledge; only upper boiler and top/controls project above the ledge. DO NOT create any new counter, surface, machine, furniture or foreground. Exactly one machine total, in its original left position but lowered/occluded. No other changes. The room, framing, track lights, flowers, fruit, stools, floor, hood, five knobs, fridge and all cabinetry remain identical. This is a local correction in the small left espresso region only.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 2688
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261008_075404_5bbba1de-da3e-48ec-a963-63ca3e35c179.png",
+    "status": "completed"
+  }
+]

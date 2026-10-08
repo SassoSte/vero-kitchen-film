@@ -1,0 +1,14 @@
+{
+  "model": "gpt_image_2",
+  "params": {
+    "quality": "high",
+    "resolution": "2k",
+    "aspect_ratio": "16:9"
+  },
+  "references": [
+    "outputs/keyframes/master-v3.png",
+    "outputs/keyframes/workers-v1.png",
+    "references/original/ref-a-cooking-run.webp"
+  ],
+  "prompt": "Create a realistic construction-stage photograph of the exact kitchen camera and architecture in image 1. Image 2 supplies the TWO workers exactly, same faces and clothing. Image 3 supplies the old refrigerator (BEFORE replacement). Stage is early countertop installation: light oak kitchen floor and white Shaker BASE cabinets are installed, but there are NO upper cabinets, hood, range, pot filler, stone backsplash, lights under cabinets, small appliances, flowers or staging yet. Bare painted wall on cooking run. Leave the 30-inch range opening empty. Old top-freezer refrigerator from image 3 stays in original left bay. Opposite sink run remains visibly unfinished with old fixtures; no finished espresso station. Preserve wall planes/corner/54-inch aisle, fixed camera.\nAction-start state: both workers stand in the aisle at the RIGHT-side 36-inch base cabinet beside empty range opening, one near each end of a SINGLE short rectangular pale veined quartz slab sized exactly for that 36-inch base. They support it horizontally about 10 cm ABOVE the open cabinet top, hands underneath its edges, preparing to lower it. Lead grey-haired navy-shirt man at near end, partner dark cap grey-shirt at far end. Both faces resemble image 2. Feet on oak floor, bent knees and realistic grip, slab weight shared. Cabinet rim and visible gap under slab unambiguous. NO SINK HOLE in slab, NO FAUCET on this cooking run, no preexisting quartz beneath slab. The smaller counter left of empty range is already seated plain quartz. No impossible full-room worktop bridging the range. Natural construction photograph, no tools on appliance doors, no motion blur, no duplicate workers, no text."
+}

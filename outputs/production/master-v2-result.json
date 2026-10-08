@@ -1,0 +1,40 @@
+[
+  {
+    "created_at": "2026-10-08T07:38:12.374808Z",
+    "display_name": "GPT Image 2",
+    "id": "cd5c083b-1fb4-41b1-861b-f4bf8f766dcf",
+    "job_type": "gpt_image_2",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261008_073812_cd5c083b-1fb4-41b1-861b-f4bf8f766dcf_min.webp",
+    "params": {
+      "aspect_ratio": "16:9",
+      "height": 1520,
+      "medias": [
+        {
+          "data": {
+            "id": "8ba19498-ed4e-4b3a-824c-234567e0125c",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/8ba19498-ed4e-4b3a-824c-234567e0125c_resize.jpg"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "0992e90a-7341-4c90-828e-766be2bbcb9a",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/0992e90a-7341-4c90-828e-766be2bbcb9a.webp"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "videotape-alpha",
+      "prompt": "Make a precise architectural correction to image 1, retaining the same photograph, framing, surfaces, appliances, objects, lights and room geometry. Image 2 is original geometry evidence. White upper cabinets in image 1 are incorrectly full height. All ordinary upper cabinet TOPS must end at 84 inches above floor under the original 96-inch ceiling, leaving a clearly visible continuous 12-inch OPEN PAINTED WALL GAP above them exactly like original image 2. No crown reaching ceiling, no soffit, no extra top cabinet row. Their bottom remains 54 inches. The short refrigerator upper cabinet also ends at 84 inches with exposed wall above it. Preserve original perspective and ceiling height; physically shorten cabinetry at top, do not lower ceiling. The pale box/chimney HOOD is the only object allowed to extend upward toward ceiling in its 30-inch zone. Keep frosted glass, warm interior cabinet lights and undercabinet strips. Preserve toaster, kettle, pot filler, quartz, fridge, espresso machine and floor. Correct Wolf GR304 to FOUR distinct circular gas burners with simple continuous cast-iron grates and five main red control knobs; no invented extra burners or distorted grate lattice. Keep the stainless Wolf 30-inch range in the same opening. No microwave. Photoreal 16:9, one photograph.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 2688
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261008_073812_cd5c083b-1fb4-41b1-861b-f4bf8f766dcf.png",
+    "status": "completed"
+  }
+]

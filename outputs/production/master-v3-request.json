@@ -1,0 +1,13 @@
+{
+  "model": "gpt_image_2",
+  "params": {
+    "quality": "high",
+    "resolution": "2k",
+    "aspect_ratio": "16:9"
+  },
+  "references": [
+    "outputs/keyframes/master-v2.png",
+    "references/products/wolf-gr304.jpg"
+  ],
+  "prompt": "Make only one precise product correction to image 1. Keep all architecture, cabinets and their open wall gap above, hood, counter, kettle/toaster, pot filler, lighting, floor, refrigerator, camera and framing unchanged. Replace ONLY the range with the EXACT Wolf GR304 photographed in image 2, fitted to the same 30-inch opening and perspective. Copy the real product's four-burner cooktop, oven door proportions, badge and especially control layout: FIVE red knobs, two on the left, one larger center oven knob, two on right, with two small silver buttons flanking the central oven knob. Image 1 incorrectly has six red knobs: remove that invented six-knob layout. Do not retain it. Product-ref image 2 controls exact appliance design; image 1 controls everything else. Realistic photographic localized replacement, 16:9."
+}

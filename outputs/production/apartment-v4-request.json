@@ -1,0 +1,12 @@
+{
+  "model": "nano_banana_pro",
+  "params": {
+    "resolution": "2k",
+    "aspect_ratio": "16:9"
+  },
+  "references": [
+    "outputs/keyframes/apartment-v3.png",
+    "outputs/keyframes/sink-v1.png"
+  ],
+  "prompt": "Edit ONLY the espresso machine position in image 1. Everything else must remain pixel-faithful. The ornate espresso machine on the far left is wrongly sitting on the high foreground breakfast-bar ledge. Move the SAME machine BACK into the kitchen onto the lower countertop behind that ledge, above the dishwasher, as image 2 demonstrates from reverse side. Lower its whole body by 6 inches relative to the existing photo without shrinking it. From image 1 camera the foreground white stone ledge MUST now OCCLUDE the bottom 6 inches of the machine, its tray, and bottoms of cups: base/tray should no longer be visible resting on front ledge. Upper chrome boiler, spherical finial, gauge and handle remain visible at same x position but lower. Preserve all other room/appliance details exactly, especially five red knobs, top-freezer fridge, track lighting, stools with feet, flowers and fruit. No other alterations."
+}

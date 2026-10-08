@@ -1,0 +1,15 @@
+{
+  "model": "kling_o3_flf",
+  "params": {
+    "mode": "pro",
+    "duration": 5,
+    "aspect_ratio": "16:9",
+    "multi_shots": false,
+    "sound": "off"
+  },
+  "media": {
+    "start-image": "outputs/keyframes/pilot-fridge-start-v2.png"
+  },
+  "output": "outputs/pilots/fridge-v1.mp4",
+  "prompt": "ONE continuous locked-camera realistic construction take, 5 seconds. Start exactly from supplied frame. Same two workers, same closed stainless TOP-FREEZER refrigerator with LEFT handles, same kitchen. Both workers slowly guide the upright refrigerator straight BACKWARD 20 cm into its existing left-corner bay, maintaining closed doors, rigid rectangular body, handles and horizontal seam. Lead navy on left and partner grey/cap on right use both hands on SIDE edges, push smoothly with small steps and realistic weight. Fridge base stays on floor, never floats or tips. Both then release hands and step slightly back to inspect the installed fridge. It finishes in original bay beside the counter, no gap invented behind wall. No doors open, no second fridge, no geometry morphing, no worker swapping, no appliance resizing. All cabinets, hood, gas range, sink, wall, lighting and floor remain fixed. No cuts, no camera movement, no zoom, no speech/music."
+}

@@ -1,0 +1,33 @@
+[
+  {
+    "created_at": "2026-10-08T08:01:33.774426Z",
+    "display_name": "Kling O3 (Frames)",
+    "id": "2feb654c-1fc9-4d33-b969-f3079570df93",
+    "job_type": "kling_o3_flf",
+    "min_result_url": null,
+    "params": {
+      "aspect_ratio": "16:9",
+      "duration": 5,
+      "height": 1080,
+      "medias": [
+        {
+          "data": {
+            "id": "a0bfeb4d-f661-4cad-9954-aee38c9bd2a7",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/a0bfeb4d-f661-4cad-9954-aee38c9bd2a7_resize.jpg"
+          },
+          "role": "start_image"
+        }
+      ],
+      "mode": "pro",
+      "multi_prompt": [],
+      "multi_shots": false,
+      "prompt": "ONE continuous locked-camera realistic furnishing take, 5 seconds. Begin exactly from supplied frame. Navy-shirt grey-haired worker is holding the middle cream stool in the air, partner grey-shirt/cap observes at right. The lead carefully lowers ONLY that stool vertically until ALL FOUR feet contact carpet between the other two stools, then nudges it a few centimeters toward the bar to align with the left and right stools. Hands stay on backrest and seat until feet land, then release. Partner makes one small approving nod, stays clear. Exactly THREE identical stools throughout, rigid legs/footrail/backrest, no duplication or melting. Stool seats align at same height at end and feet remain grounded. Workers keep faces, clothing and anatomy. All room geometry, Wolf red knobs, hood, SMEG appliances, espresso, flowers, fruit, lighting ON and carpet remain fixed. No camera movement, no zoom, no cuts, no speech/music. End with middle stool parked and lead hands free, action completed.",
+      "sound": "off",
+      "width": 1920
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261008_080133_2feb654c-1fc9-4d33-b969-f3079570df93.mp4",
+    "status": "completed",
+    "thumbnail_url": "https://cdn.higgsfield.ai/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261008_080133_2feb654c-1fc9-4d33-b969-f3079570df93_thumbnail.webp"
+  }
+]

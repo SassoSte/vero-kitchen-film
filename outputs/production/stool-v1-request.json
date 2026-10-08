@@ -1,0 +1,15 @@
+{
+  "model": "kling_o3_flf",
+  "params": {
+    "mode": "pro",
+    "duration": 5,
+    "aspect_ratio": "16:9",
+    "multi_shots": false,
+    "sound": "off"
+  },
+  "media": {
+    "start-image": "outputs/keyframes/pilot-stool-start-v1.png"
+  },
+  "output": "outputs/pilots/stool-v1.mp4",
+  "prompt": "ONE continuous locked-camera realistic furnishing take, 5 seconds. Begin exactly from supplied frame. Navy-shirt grey-haired worker is holding the middle cream stool in the air, partner grey-shirt/cap observes at right. The lead carefully lowers ONLY that stool vertically until ALL FOUR feet contact carpet between the other two stools, then nudges it a few centimeters toward the bar to align with the left and right stools. Hands stay on backrest and seat until feet land, then release. Partner makes one small approving nod, stays clear. Exactly THREE identical stools throughout, rigid legs/footrail/backrest, no duplication or melting. Stool seats align at same height at end and feet remain grounded. Workers keep faces, clothing and anatomy. All room geometry, Wolf red knobs, hood, SMEG appliances, espresso, flowers, fruit, lighting ON and carpet remain fixed. No camera movement, no zoom, no cuts, no speech/music. End with middle stool parked and lead hands free, action completed."
+}

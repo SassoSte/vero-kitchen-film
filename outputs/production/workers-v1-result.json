@@ -1,0 +1,23 @@
+[
+  {
+    "created_at": "2026-10-08T07:43:23.695073Z",
+    "display_name": "GPT Image 2",
+    "id": "cd0a7918-5ce8-4add-b7a3-6f39e0f6e9e6",
+    "job_type": "gpt_image_2",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261008_074323_cd0a7918-5ce8-4add-b7a3-6f39e0f6e9e6_min.webp",
+    "params": {
+      "aspect_ratio": "16:9",
+      "height": 1520,
+      "medias": [],
+      "model": "videotape-alpha",
+      "prompt": "Photoreal full-body casting reference photograph of exactly TWO adult renovation workers standing side by side against a plain neutral grey studio wall, both heads and boots fully visible, natural daylight-like soft lighting, relaxed natural expression. Left: male lead about 50 with short grey hair, clean shaven, navy cotton work shirt sleeves to wrists, dark charcoal work trousers, tan leather tool belt and tan work boots. Right: male partner about 35, dark hair under dark charcoal baseball cap, grey cotton work shirt sleeves to wrists, dark trousers, dark leather tool belt and tan work boots. Distinct believable faces, ordinary proportions, anatomically correct hands visible hanging naturally, no tools held, practical clean but lightly worn clothing, no logos/text, no portraits/insets/collage duplicates. These same two people will build one small kitchen in subsequent shots. One photograph, 16:9.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 2688
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261008_074323_cd0a7918-5ce8-4add-b7a3-6f39e0f6e9e6.png",
+    "status": "completed"
+  }
+]

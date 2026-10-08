@@ -1,0 +1,40 @@
+[
+  {
+    "created_at": "2026-10-08T07:49:03.179909Z",
+    "display_name": "GPT Image 2",
+    "id": "e8324325-a21c-4ebc-af8f-f48be553e4fb",
+    "job_type": "gpt_image_2",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261008_074903_e8324325-a21c-4ebc-af8f-f48be553e4fb_min.webp",
+    "params": {
+      "aspect_ratio": "16:9",
+      "height": 1520,
+      "medias": [
+        {
+          "data": {
+            "id": "2a5ebe94-8065-4133-ba94-7d64916cf6e2",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/2a5ebe94-8065-4133-ba94-7d64916cf6e2_resize.jpg"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "5e2fa59b-019b-466a-89a8-d0429f61a229",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/5e2fa59b-019b-466a-89a8-d0429f61a229_resize.jpg"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "videotape-alpha",
+      "prompt": "Correct the construction action in image 1. Preserve both workers identity, clothes, room, floor, old fridge, camera and early construction state. The freestanding white cabinet in the CENTER is an ERROR. REMOVE it completely, leaving the original 30-inch RANGE OPENING EMPTY as confirmed by the range position in image 2. There is NO island or freestanding cabinet. The quartz slab belongs on the EXISTING open-topped white cabinet at the FAR RIGHT EDGE of image 1, against the right wall, never in the center. Move both workers and the slab toward that rightmost base: they support the slab horizontally exactly 10cm above the rectangular open rim of that wall-mounted right cabinet, its long edge parallel to right wall, aligned to cover its top. Their hands grip under the ends with bent knees, both LOOK DOWN at slab/cabinet instead of smiling at camera. Lead closer camera, partner farther camera. Slab remains rigid, no sink opening, no faucet. Empty range opening remains visibly empty immediately LEFT of this right cabinet. No duplicate cabinet beneath slab. Use the existing wall cabinetry, do not invent new furniture. Early stage no uppers/hood/range/pot filler/decor. Photoreal, same camera.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 2688
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261008_074903_e8324325-a21c-4ebc-af8f-f48be553e4fb.png",
+    "status": "completed"
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "model": "gpt_image_2",
+  "params": {
+    "quality": "high",
+    "resolution": "2k",
+    "aspect_ratio": "16:9"
+  },
+  "references": [
+    "outputs/keyframes/pilot-fridge-start-v1.png",
+    "outputs/keyframes/master-v3.png"
+  ],
+  "prompt": "Correct ONLY refrigerator door hardware in image 1. Preserve exact people, positions, room, cabinetry, camera, fridge body, action pose and lighting. The fridge handles in image 1 are wrongly on RIGHT door edge. Match image 2 fridge: hinges on RIGHT and curved stainless VERTICAL HANDLES ON LEFT edge of BOTH the top freezer door and bottom fridge door. Remove original right handles completely and place equivalent handles left. Doors remain closed. Two distinct stacked doors and horizontal seam unchanged. Do not move fridge or workers or modify any other pixel region."
+}

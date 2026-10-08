@@ -1,0 +1,16 @@
+{
+  "model": "gpt_image_2",
+  "params": {
+    "quality": "high",
+    "resolution": "2k",
+    "aspect_ratio": "16:9"
+  },
+  "references": [
+    "references/original/ref-h-apartment-facing.webp",
+    "outputs/keyframes/master-v2.png",
+    "outputs/keyframes/sink-v1.png",
+    "references/products/wolf-gr304.jpg",
+    "references/inspiration/ref-h-finished-apartment-facing.png"
+  ],
+  "prompt": "Create the finished apartment-facing view of this same real compact galley kitchen. Image 1 is ORIGINAL architecture and camera authority. Preserve its entire opening/header/jambs, location of kitchen left of dining, vaulted living ceiling and clerestory, original carpet and room walls. Camera is on the living-room side; use a closer crop of image 1 that still shows both opening jambs, header, full bar front and all three stools down to floor. Do not change room geometry to fit the frame. Image 2 controls finished cooking-wall cabinet layout, pale box/chimney hood, fridge and red SMEG toaster LEFT of stove and kettle RIGHT of stove. IMPORTANT standard cabinet tops finish at 84 inches under 96-inch kitchen ceiling, with an open wall gap above, not ceiling-height cabinets. Hood alone extends upward. Image 3 controls finished sink-side quartz, faucet, ornate chrome espresso machine with TWO porcelain cups, flower vase and fruit bowl. Image 4 controls exact Wolf GR304 gas range (five red knobs and four burners). Image 5 guides styling only, NEVER its electric cooktop, undercabinet hood or enlarged cabinetry.\nPreserve the original galley: sink/faucet in foreground Run B, cooking run BEHIND it, fridge at original LEFT end, range centered below the pale hood with brushed pot filler. No microwave. White shaker, frosted upper inserts glowing warmly, continuous warm backsplash lighting and hood lights visibly ON. Match the same stainless TOP-FREEZER fridge in image 2; do not invent double doors. Do not force the range oven into visibility if the bar occludes it. Front of existing bar clad in light oak narrow vertical ribs. Exactly THREE cream upholstered counter-height stools, slim legs/footrails, feet on original carpet, believable spacing. Light oak floor only inside kitchen.\nCarry exact styling positions from image 3 reversed by viewpoint: the single flowers/vase near its far left ledge is now toward viewer RIGHT; low fruit bowl adjacent nearer middle. One tasteful bouquet of white/cream blooms and greenery, one low bowl of modest fruit, no duplicate arrangements. Ornate chrome espresso station sits above dishwasher on Run B at front-side LEFT from this opposite camera if naturally visible; do not move it to cooking wall. Keep original raised ledge shape, faucet and space usable. Finished photoreal architectural editorial still, all final features logically installed, no people, no overlays, no layout redesign, 16:9."
+}

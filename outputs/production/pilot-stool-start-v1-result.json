@@ -1,0 +1,40 @@
+[
+  {
+    "created_at": "2026-10-08T07:57:49.809216Z",
+    "display_name": "GPT Image 2",
+    "id": "ed06fc44-37c5-40e5-bb53-1de82fe274da",
+    "job_type": "gpt_image_2",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261008_075749_ed06fc44-37c5-40e5-bb53-1de82fe274da_min.webp",
+    "params": {
+      "aspect_ratio": "16:9",
+      "height": 1520,
+      "medias": [
+        {
+          "data": {
+            "id": "90e2e51b-e000-4edf-86c4-c9831417a3ff",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/90e2e51b-e000-4edf-86c4-c9831417a3ff_resize.jpg"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "93eb6666-2bb9-416e-91b6-74706a989ab2",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/93eb6666-2bb9-416e-91b6-74706a989ab2_resize.jpg"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "videotape-alpha",
+      "prompt": "Make a photoreal furnishing-stage frame using image 1 EXACT room and camera. Keep all architecture, cabinets, lights ON, top-freezer fridge, five red-knob Wolf gas range, pale hood/pot filler, SMEG appliances, espresso behind raised ledge, flowers and fruit exactly unchanged. Use two workers from image 2, exact faces/clothes. The left and right cream stools are already parked as image 1. The MIDDLE stool is carried by grey-haired navy worker in front of its middle position, held by the backrest and seat frame, with ALL FOUR feet hovering 8cm above carpet. He looks downward as he prepares to set it down, torso offset so stool visible. Capped grey-shirt partner stands at right side, looking at middle stool with hands relaxed, not holding other furniture. Exactly THREE stools total (two parked plus one carried), same chair design/legs/footrail as image 1. Show every foot including workers boots and a little carpet below. No hidden fourth stool, no duplicates, no door or floor changes. One final furnishing action only. No text, no motion blur.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 2688
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261008_075749_ed06fc44-37c5-40e5-bb53-1de82fe274da.png",
+    "status": "completed"
+  }
+]

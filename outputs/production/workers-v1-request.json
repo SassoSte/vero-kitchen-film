@@ -1,0 +1,10 @@
+{
+  "model": "gpt_image_2",
+  "params": {
+    "quality": "high",
+    "resolution": "2k",
+    "aspect_ratio": "16:9"
+  },
+  "references": [],
+  "prompt": "Photoreal full-body casting reference photograph of exactly TWO adult renovation workers standing side by side against a plain neutral grey studio wall, both heads and boots fully visible, natural daylight-like soft lighting, relaxed natural expression. Left: male lead about 50 with short grey hair, clean shaven, navy cotton work shirt sleeves to wrists, dark charcoal work trousers, tan leather tool belt and tan work boots. Right: male partner about 35, dark hair under dark charcoal baseball cap, grey cotton work shirt sleeves to wrists, dark trousers, dark leather tool belt and tan work boots. Distinct believable faces, ordinary proportions, anatomically correct hands visible hanging naturally, no tools held, practical clean but lightly worn clothing, no logos/text, no portraits/insets/collage duplicates. These same two people will build one small kitchen in subsequent shots. One photograph, 16:9."
+}

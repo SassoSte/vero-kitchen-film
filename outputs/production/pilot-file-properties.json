@@ -1,0 +1,50 @@
+{
+  "quartz": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "width": 1912,
+        "height": 1080,
+        "r_frame_rate": "24/1",
+        "nb_frames": "121"
+      }
+    ],
+    "format": {
+      "duration": "5.041667"
+    }
+  },
+  "fridge": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "width": 1912,
+        "height": 1080,
+        "r_frame_rate": "24/1",
+        "nb_frames": "121"
+      }
+    ],
+    "format": {
+      "duration": "5.041667"
+    }
+  },
+  "stool": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "width": 1912,
+        "height": 1080,
+        "r_frame_rate": "24/1",
+        "nb_frames": "121"
+      }
+    ],
+    "format": {
+      "duration": "5.041667"
+    }
+  }
+}

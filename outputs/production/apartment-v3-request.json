@@ -1,0 +1,15 @@
+{
+  "model": "gpt_image_2",
+  "params": {
+    "quality": "high",
+    "resolution": "2k",
+    "aspect_ratio": "16:9"
+  },
+  "references": [
+    "outputs/keyframes/apartment-v2.png",
+    "outputs/keyframes/master-v3.png",
+    "outputs/keyframes/sink-v1.png",
+    "references/original/ref-h-apartment-facing.webp"
+  ],
+  "prompt": "Correct image 1 for exact continuity with images 2 and 3, preserving architecture, all other appliances including the corrected top-freezer refrigerator and FIVE-knob stove, hood, quartz, bar, stools, flowers, fruit, artwork, camera handedness, original apartment carpet. Replace the two recessed ceiling cans INSIDE kitchen with the original suspended track fixtures visible in image 2 and original image 4. Keep existing original ceiling height, track lamps on, no ceiling redesign. Second correction: espresso machine on front LEFT is incorrectly miniature and moved onto raised bar cap in image 1. Restore the SAME full-sized ornate chrome machine of image 3, including cylindrical body, spherical lid finial, gauge, portafilter, steam wand and two cups/tray. It sits on LOWER work counter above dishwasher BEHIND the front ledge, NOT on top of raised bar cap; lower part may be occluded by the cap. In image 3 its height is approximately 1.4 times sink faucet height; preserve that scale rather than tiny version in image 1. Third correction: frame slightly wider/lower, enough to show all three stools' feet contacting original carpet, keep all three stools and opening proportions unchanged. Original front photo image 4 governs room surroundings. No other redesign, no new objects or room expansion. One photoreal image."
+}

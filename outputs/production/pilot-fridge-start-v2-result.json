@@ -1,0 +1,40 @@
+[
+  {
+    "created_at": "2026-10-08T07:57:00.990015Z",
+    "display_name": "GPT Image 2",
+    "id": "671c5eba-d20b-4c07-bf42-d6a0e4da75f7",
+    "job_type": "gpt_image_2",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261008_075700_671c5eba-d20b-4c07-bf42-d6a0e4da75f7_min.webp",
+    "params": {
+      "aspect_ratio": "16:9",
+      "height": 1520,
+      "medias": [
+        {
+          "data": {
+            "id": "d64589be-8761-4d2f-a6f6-13d56079d75c",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/d64589be-8761-4d2f-a6f6-13d56079d75c_resize.jpg"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "20b17e51-8eb7-44fa-9638-18328c6748a6",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/20b17e51-8eb7-44fa-9638-18328c6748a6_resize.jpg"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "videotape-alpha",
+      "prompt": "Correct ONLY refrigerator door hardware in image 1. Preserve exact people, positions, room, cabinetry, camera, fridge body, action pose and lighting. The fridge handles in image 1 are wrongly on RIGHT door edge. Match image 2 fridge: hinges on RIGHT and curved stainless VERTICAL HANDLES ON LEFT edge of BOTH the top freezer door and bottom fridge door. Remove original right handles completely and place equivalent handles left. Doors remain closed. Two distinct stacked doors and horizontal seam unchanged. Do not move fridge or workers or modify any other pixel region.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 2688
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261008_075700_671c5eba-d20b-4c07-bf42-d6a0e4da75f7.png",
+    "status": "completed"
+  }
+]

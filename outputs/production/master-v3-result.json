@@ -1,0 +1,40 @@
+[
+  {
+    "created_at": "2026-10-08T07:41:04.66565Z",
+    "display_name": "GPT Image 2",
+    "id": "9a57a3fa-4ce8-4cea-99e9-5e023ed85c52",
+    "job_type": "gpt_image_2",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261008_074104_9a57a3fa-4ce8-4cea-99e9-5e023ed85c52_min.webp",
+    "params": {
+      "aspect_ratio": "16:9",
+      "height": 1520,
+      "medias": [
+        {
+          "data": {
+            "id": "2e3268ef-ac3b-4ddc-a3b7-6cf65b4e9ac8",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/2e3268ef-ac3b-4ddc-a3b7-6cf65b4e9ac8_resize.jpg"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "e913ce67-80c4-42b4-b16f-d52211dfc65b",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/e913ce67-80c4-42b4-b16f-d52211dfc65b.jpg"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "videotape-alpha",
+      "prompt": "Make only one precise product correction to image 1. Keep all architecture, cabinets and their open wall gap above, hood, counter, kettle/toaster, pot filler, lighting, floor, refrigerator, camera and framing unchanged. Replace ONLY the range with the EXACT Wolf GR304 photographed in image 2, fitted to the same 30-inch opening and perspective. Copy the real product's four-burner cooktop, oven door proportions, badge and especially control layout: FIVE red knobs, two on the left, one larger center oven knob, two on right, with two small silver buttons flanking the central oven knob. Image 1 incorrectly has six red knobs: remove that invented six-knob layout. Do not retain it. Product-ref image 2 controls exact appliance design; image 1 controls everything else. Realistic photographic localized replacement, 16:9.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 2688
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261008_074104_9a57a3fa-4ce8-4cea-99e9-5e023ed85c52.png",
+    "status": "completed"
+  }
+]

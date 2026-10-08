@@ -1,0 +1,13 @@
+{
+  "model": "gpt_image_2",
+  "params": {
+    "quality": "high",
+    "resolution": "2k",
+    "aspect_ratio": "16:9"
+  },
+  "references": [
+    "outputs/keyframes/master-v3.png",
+    "outputs/keyframes/workers-v1.png"
+  ],
+  "prompt": "Photoreal construction-stage photograph based exactly on image 1 kitchen camera and architecture. Same white cabinetry with open gap at ceiling, quartz, hood, pot filler, Wolf gas range/red knobs, kitchen-only oak and original walls. Stage is refrigerator INSTALLATION after cooking equipment fitted but before lighting test and styling: remove red toaster/kettle, espresso machine, cups, boards, plants, all decor. Cabinet interior/undercabinet/hood lights OFF; ordinary room track lights ON. Two workers from image 2 with identical faces/clothes, focused on task, no posing. The original left fridge bay is now empty; new TOP-FREEZER stainless fridge matching image 1 stands upright directly in front of its SAME bay, only 20cm pulled forward into aisle, front doors facing same direction as installed fridge, not rotated or tipped. Lead grey hair/navy at fridge's left-front edge, partner cap/grey at right-front edge; both hands on side edges guiding it gently backward toward bay. Their feet firmly on floor, anatomically correct grips, door remains closed, no tools, no other refrigerator or cart. Preserve corner wall; do not invent recess behind fridge. Realistic first frame for a short final push into position, 16:9."
+}

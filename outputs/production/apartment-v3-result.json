@@ -1,0 +1,56 @@
+[
+  {
+    "created_at": "2026-10-08T07:47:49.633931Z",
+    "display_name": "GPT Image 2",
+    "id": "dc5393d4-5245-4ad4-ae2b-4a6c007f6bce",
+    "job_type": "gpt_image_2",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261008_074749_dc5393d4-5245-4ad4-ae2b-4a6c007f6bce_min.webp",
+    "params": {
+      "aspect_ratio": "16:9",
+      "height": 1520,
+      "medias": [
+        {
+          "data": {
+            "id": "15f6cb08-e3e1-4695-ad2a-65cb7494ea2e",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/15f6cb08-e3e1-4695-ad2a-65cb7494ea2e_resize.jpg"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "05510a97-62c5-4d80-88c5-608a951c5dad",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/05510a97-62c5-4d80-88c5-608a951c5dad_resize.jpg"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "080f7577-8169-463b-b249-baf239a34c59",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/080f7577-8169-463b-b249-baf239a34c59_resize.jpg"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "7c2707cd-be5c-4041-b18c-91d27a2e53ca",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/7c2707cd-be5c-4041-b18c-91d27a2e53ca.webp"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "videotape-alpha",
+      "prompt": "Correct image 1 for exact continuity with images 2 and 3, preserving architecture, all other appliances including the corrected top-freezer refrigerator and FIVE-knob stove, hood, quartz, bar, stools, flowers, fruit, artwork, camera handedness, original apartment carpet. Replace the two recessed ceiling cans INSIDE kitchen with the original suspended track fixtures visible in image 2 and original image 4. Keep existing original ceiling height, track lamps on, no ceiling redesign. Second correction: espresso machine on front LEFT is incorrectly miniature and moved onto raised bar cap in image 1. Restore the SAME full-sized ornate chrome machine of image 3, including cylindrical body, spherical lid finial, gauge, portafilter, steam wand and two cups/tray. It sits on LOWER work counter above dishwasher BEHIND the front ledge, NOT on top of raised bar cap; lower part may be occluded by the cap. In image 3 its height is approximately 1.4 times sink faucet height; preserve that scale rather than tiny version in image 1. Third correction: frame slightly wider/lower, enough to show all three stools' feet contacting original carpet, keep all three stools and opening proportions unchanged. Original front photo image 4 governs room surroundings. No other redesign, no new objects or room expansion. One photoreal image.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 2688
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261008_074749_dc5393d4-5245-4ad4-ae2b-4a6c007f6bce.png",
+    "status": "completed"
+  }
+]

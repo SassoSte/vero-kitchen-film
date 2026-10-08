@@ -1,0 +1,13 @@
+{
+  "model": "gpt_image_2",
+  "prompt": "Make a precise architectural correction to image 1, retaining the same photograph, framing, surfaces, appliances, objects, lights and room geometry. Image 2 is original geometry evidence. White upper cabinets in image 1 are incorrectly full height. All ordinary upper cabinet TOPS must end at 84 inches above floor under the original 96-inch ceiling, leaving a clearly visible continuous 12-inch OPEN PAINTED WALL GAP above them exactly like original image 2. No crown reaching ceiling, no soffit, no extra top cabinet row. Their bottom remains 54 inches. The short refrigerator upper cabinet also ends at 84 inches with exposed wall above it. Preserve original perspective and ceiling height; physically shorten cabinetry at top, do not lower ceiling. The pale box/chimney HOOD is the only object allowed to extend upward toward ceiling in its 30-inch zone. Keep frosted glass, warm interior cabinet lights and undercabinet strips. Preserve toaster, kettle, pot filler, quartz, fridge, espresso machine and floor. Correct Wolf GR304 to FOUR distinct circular gas burners with simple continuous cast-iron grates and five main red control knobs; no invented extra burners or distorted grate lattice. Keep the stainless Wolf 30-inch range in the same opening. No microwave. Photoreal 16:9, one photograph.",
+  "references": [
+    "outputs/keyframes/master-v1.png",
+    "references/original/ref-a-cooking-run.webp"
+  ],
+  "params": {
+    "quality": "high",
+    "resolution": "2k",
+    "aspect_ratio": "16:9"
+  }
+}

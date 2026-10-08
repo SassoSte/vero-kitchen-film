@@ -1,0 +1,48 @@
+[
+  {
+    "created_at": "2026-10-08T07:44:26.784087Z",
+    "display_name": "GPT Image 2",
+    "id": "def80ac1-1827-47c9-ad75-d9237fc4ae11",
+    "job_type": "gpt_image_2",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261008_074426_def80ac1-1827-47c9-ad75-d9237fc4ae11_min.webp",
+    "params": {
+      "aspect_ratio": "16:9",
+      "height": 1520,
+      "medias": [
+        {
+          "data": {
+            "id": "a473d67f-139b-4caf-bf75-abdf414f181d",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/a473d67f-139b-4caf-bf75-abdf414f181d_resize.jpg"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "a2244cfb-b7fc-457d-9d03-7bd615942975",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/a2244cfb-b7fc-457d-9d03-7bd615942975_resize.jpg"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "e55d67a9-159a-421d-8951-d6b3d48d8dd9",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/e55d67a9-159a-421d-8951-d6b3d48d8dd9.jpg"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "videotape-alpha",
+      "prompt": "Localized continuity correction to image 1. Preserve this camera, entire room, cabinetry, opening, bar, stools, flowers, fruit, espresso station, lighting, hood, pot filler, countertop appliances and finishes unchanged. Correct TWO appliance details only. (1) The refrigerator at left in image 1 has WRONG vertical side-by-side doors. Replace it with the exact TOP-FREEZER refrigerator of image 2: one full-width short upper freezer door and one full-width tall lower fridge door separated by a HORIZONTAL seam, both hinges on right and vertical handles on left. Same narrow original fridge bay; retain fridge width, not double-door fridge. (2) Copy the actual Wolf product image 3 control layout: exactly FIVE red main knobs, two left, one central oven knob, two right; small silver buttons flanking center knob. Image 1 incorrectly has six. Keep range correctly occluded by foreground counter exactly as existing. Photoreal single image, do not redesign any other region.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 2688
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261008_074426_def80ac1-1827-47c9-ad75-d9237fc4ae11.png",
+    "status": "completed"
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "created_at": "2026-10-08T07:46:36.250993Z",
+    "display_name": "GPT Image 2",
+    "id": "9a2fcc43-df3f-4626-be21-d8f6f904f33e",
+    "job_type": "gpt_image_2",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261008_074636_9a2fcc43-df3f-4626-be21-d8f6f904f33e_min.webp",
+    "params": {
+      "aspect_ratio": "16:9",
+      "height": 1520,
+      "medias": [
+        {
+          "data": {
+            "id": "de137106-30b4-4b5f-9d90-744db2114a07",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/de137106-30b4-4b5f-9d90-744db2114a07_resize.jpg"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "d94399e1-de92-4af0-a268-f6ca56043b2c",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/d94399e1-de92-4af0-a268-f6ca56043b2c_resize.jpg"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "258a090c-9ba2-4624-b686-ba1867ef9df4",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/258a090c-9ba2-4624-b686-ba1867ef9df4.webp"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "videotape-alpha",
+      "prompt": "Create a realistic construction-stage photograph of the exact kitchen camera and architecture in image 1. Image 2 supplies the TWO workers exactly, same faces and clothing. Image 3 supplies the old refrigerator (BEFORE replacement). Stage is early countertop installation: light oak kitchen floor and white Shaker BASE cabinets are installed, but there are NO upper cabinets, hood, range, pot filler, stone backsplash, lights under cabinets, small appliances, flowers or staging yet. Bare painted wall on cooking run. Leave the 30-inch range opening empty. Old top-freezer refrigerator from image 3 stays in original left bay. Opposite sink run remains visibly unfinished with old fixtures; no finished espresso station. Preserve wall planes/corner/54-inch aisle, fixed camera.\nAction-start state: both workers stand in the aisle at the RIGHT-side 36-inch base cabinet beside empty range opening, one near each end of a SINGLE short rectangular pale veined quartz slab sized exactly for that 36-inch base. They support it horizontally about 10 cm ABOVE the open cabinet top, hands underneath its edges, preparing to lower it. Lead grey-haired navy-shirt man at near end, partner dark cap grey-shirt at far end. Both faces resemble image 2. Feet on oak floor, bent knees and realistic grip, slab weight shared. Cabinet rim and visible gap under slab unambiguous. NO SINK HOLE in slab, NO FAUCET on this cooking run, no preexisting quartz beneath slab. The smaller counter left of empty range is already seated plain quartz. No impossible full-room worktop bridging the range. Natural construction photograph, no tools on appliance doors, no motion blur, no duplicate workers, no text.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 2688
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261008_074636_9a2fcc43-df3f-4626-be21-d8f6f904f33e.png",
+    "status": "completed"
+  }
+]

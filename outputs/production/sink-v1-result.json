@@ -1,0 +1,56 @@
+[
+  {
+    "created_at": "2026-10-08T07:37:21.36492Z",
+    "display_name": "GPT Image 2",
+    "id": "ad4942e9-2a3a-404b-a6cc-a1f90a696885",
+    "job_type": "gpt_image_2",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261008_073721_ad4942e9-2a3a-404b-a6cc-a1f90a696885_min.webp",
+    "params": {
+      "aspect_ratio": "16:9",
+      "height": 1520,
+      "medias": [
+        {
+          "data": {
+            "id": "9a83c7f4-2142-44a1-8680-c3482b7dc016",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/9a83c7f4-2142-44a1-8680-c3482b7dc016.webp"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "f58ad535-c0a3-47f3-8c96-1508af3faa60",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/f58ad535-c0a3-47f3-8c96-1508af3faa60_resize.jpg"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "1cc431af-5a58-406b-bff8-a428bb17ed0d",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/1cc431af-5a58-406b-bff8-a428bb17ed0d.webp"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "1116d1b1-cdd5-4ce8-8631-7d84da1a951c",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/1116d1b1-cdd5-4ce8-8631-7d84da1a951c.webp"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "videotape-alpha",
+      "prompt": "Photoreal finished renovation photograph of the EXACT small kitchen shown in image 1. Image 1 locks camera/framing, sink-run architecture, wall planes, sink/dishwasher locations, raised ledge, opening and original living apartment beyond. Match this viewpoint precisely. Image 2 is the SAME kitchen's finished cooking-wall design: match its cabinet fronts/handles, pale veined quartz, chrome ornate espresso machine and warm light style. Images 3/4 are ORIGINAL geometry only; preserve living-room carpet, fan, balcony slider and opening. Do not copy the finishes of 3/4 or reintroduce old appliances.\nWe are looking at Run B, a base-cabinet sink run with NO uppers, open to living room. Keep sink in original place, convert to single deep undermount basin with slim elegant stainless pull-down faucet and soap dispenser. White Shaker bases, chrome slim pulls matching image 2, pale subtly veined quartz worktop; preserve the original raised pass-through cap and exact wall piers. Dishwasher remains under counter at image 1 right edge. On that right-side counter ABOVE dishwasher place the same ornate compact polished chrome espresso machine visible at left of image 2, sculptural traditional boiler and tactile controls/curved steam wand, two porcelain espresso cups on a restrained tray. Do not place machine in sink or block faucet. On bar/living-side counter portions naturally visible place one refined vase of white/cream flowers with greenery and one low fruit bowl with modest fresh fruit, separated and not obstructing view. The 3 cream stools and oak ribbed bar front are on living-facing side; show ONLY what this camera can actually see. Kitchen oak floor only, preserve carpet beyond. Cooking-wall Wolf gas range, red knobs, pale chimney hood and red SMEG toaster/kettle are BEHIND camera, not forced into this view. Keep finished installed lights on wherever naturally visible. No microwave, no second sink, no upper cabinets on this open run, no new island, no invented doorway, no raised ceiling, no room enlargement, no people. Clean realistic architecture photo, original viewpoint, 16:9, geometry before decorative abundance.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 2688
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261008_073721_ad4942e9-2a3a-404b-a6cc-a1f90a696885.png",
+    "status": "completed"
+  }
+]

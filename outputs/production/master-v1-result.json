@@ -1,0 +1,64 @@
+[
+  {
+    "created_at": "2026-10-08T07:34:19.742969Z",
+    "display_name": "GPT Image 2",
+    "id": "9e09d477-5310-4c27-b017-5728c1b2a46f",
+    "job_type": "gpt_image_2",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261008_073419_9e09d477-5310-4c27-b017-5728c1b2a46f_min.webp",
+    "params": {
+      "aspect_ratio": "16:9",
+      "height": 1520,
+      "medias": [
+        {
+          "data": {
+            "id": "9de1f1ac-b679-4d2a-8437-2a10c76693ef",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/9de1f1ac-b679-4d2a-8437-2a10c76693ef.webp"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "1a5e5c4b-d4fa-44fd-9529-41ff3bf92495",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/1a5e5c4b-d4fa-44fd-9529-41ff3bf92495.webp"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "08ef51b9-8ed3-4fcc-ad23-e7b648146038",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/08ef51b9-8ed3-4fcc-ad23-e7b648146038.webp"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "07a5897e-a8ab-4751-9fae-76c92bb673ab",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/07a5897e-a8ab-4751-9fae-76c92bb673ab.webp"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "2c30796b-da36-40ed-b40a-265051ae1935",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/2c30796b-da36-40ed-b40a-265051ae1935.webp"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "videotape-alpha",
+      "prompt": "Create one photorealistic finished kitchen architectural photograph. Camera and framing MUST match image 1 exactly: original appliance-wall view of a small real galley kitchen. This is renovation within the SAME room, not a new room design. Image 2 is the actual reverse sink run. Image 3 is the actual living-room-to-kitchen view: evidence of fixed opening and bar geometry. Images 4 and 5 supply FINISHES ONLY, never their room layout. Preserve image 1 wall planes, refrigerator-side closed corner, footprint, ceiling height, camera perspective and the opposing sink run partly visible at left. No extra room, passage, bay, island, widened wall or new window. Two parallel 123 inch runs, 54 inch aisle, 96 inch kitchen ceiling; the cooking wall sequence is 33 inch fridge bay, 24 inch base, 30 inch range, 36 inch base. Fridge stays left, range stays in original opening, sink stays on opposite run. No sink or faucet on the cooking counter.\nFinished design: white Shaker cabinetry, frosted translucent upper inserts with warm interior light; continuous warm undercabinet light clearly illuminates subtly veined pale quartz full-height slab backsplash and quartz counters. Mandatory pale plaster-box/chimney range hood as image 5, replacing the original microwave and above-range cabinetry as needed within that same 30-inch zone. Absolutely no microwave. Stainless Wolf GR304 30-inch freestanding GAS range with its distinctive red front control knobs and four black gas burner grates beneath hood. Brushed articulated wall pot filler centered above range. Stainless main fridge in existing bay. Light oak floor ONLY in kitchen; living-room carpet stays unchanged. Same existing architecture, naturally illuminated premium editorial photograph, faithful proportions, realistic contact shadows, no wide-angle enlargement.\nTasteful small appliances: one red SMEG two-slot toaster on the 24-inch counter LEFT of range, one matching red SMEG kettle on right counter. Opposite run has deep undermount sink and slim pull-down faucet, soap dispenser; a compact ornate polished chrome espresso machine with refined traditional detailing, tactile knobs and curved steam wand, two porcelain cups on small tray over dishwasher where visible. Bar front has light oak vertical ribs, three cream counter stools. One vase of white flowers and greenery plus one low bowl of fresh fruit are on living-side bar and must only appear if naturally visible in THIS camera. Do not force unseen objects into this view. Do not copy reference image 4's fridge shape at the expense of our bay. Preserve original apartment beyond the opening. No people, no text overlays, no diagrams. Output a single clean finished still, same viewpoint as image 1, 16:9.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 2688
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261008_073419_9e09d477-5310-4c27-b017-5728c1b2a46f.png",
+    "status": "completed"
+  }
+]
