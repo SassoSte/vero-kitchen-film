@@ -28,9 +28,9 @@ the forward-facing viewpoint establishing the bar/opening relationship.
 
 | Ref | File | What it governs |
 |---|---|---|
-| REF-E | `references/inspiration/ref-e-cabinetry.jpg` | White Shaker cabinetry, frosted/translucent upper inserts, veined stone finishes |
-| REF-F | `references/inspiration/ref-f-cooking-zone.jpg` | Pale box/chimney hood, brushed pot filler, cooking-wall material |
-| REF-G | `references/inspiration/ref-g-full-room.jpg` | Light oak floor tone, recessed ceiling lighting, overall material character |
+| REF-E | `references/inspiration/ref-e-cabinetry.webp` | White Shaker cabinetry, frosted/translucent upper inserts, veined stone finishes |
+| REF-F | `references/inspiration/ref-f-cooking-zone.webp` | Pale box/chimney hood, brushed pot filler, cooking-wall material |
+| REF-G | `references/inspiration/ref-g-full-room.webp` | Light oak floor tone, recessed ceiling lighting, overall material character |
 
 Appearance references do not authorize copying their room dimensions, island, floor plan,
 or cabinet arrangement. Photographs govern architecture; inspiration governs appearance.
