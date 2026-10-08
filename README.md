@@ -1,7 +1,9 @@
 # vero-kitchen-film
 
-Public payload repo for a Higgsfield `/seedance-shotlist-director` kitchen-remodel
-construction film. Everything the supercomputer needs in one place.
+Public payload repo for a Higgsfield `/shotlist-director` kitchen-remodel
+construction film. Production decisions and unresolved inputs are recorded in
+`mega-prompt.md`, including the mandatory hood above a Viking range and the
+200-credit first-phase ceiling.
 
 ## What's here
 
@@ -10,20 +12,20 @@ construction film. Everything the supercomputer needs in one place.
 | `mega-prompt.md` | The full production brief — reference hierarchy, dimensioned kitchen geometry, finished-design spec, 13-shot list with timings, continuity rules, and inspection protocol. Drop this into your Higgsfield prompt. |
 | `kitchen-blueprint/dimensions.md` | Photo-locked kitchen dimensions (V/H/E confidence), appliance schedule, and materials. The ground truth for every measurement in the prompt. |
 | `kitchen-blueprint/plan.svg` | To-scale plan (1 unit = 1 inch) showing both runs, the aisle, the bar, and the refrigerator-side corner. |
-| `references/original/` | Four original unit 2130 photographs — the geometry references REF-A through REF-D. |
-| `references/inspiration/` | **Empty — you supply these.** Download REF-E, REF-F, and REF-G from your Higgsfield conversation and place them here (see the README in that directory for filenames). |
+| `references/original/` | Four labelled files, two unique original views: REF-C duplicates REF-B; REF-D duplicates REF-A. |
+| `references/inspiration/` | REF-E, REF-F, and REF-G are present; use them for appearance, not room geometry. |
 
 ## One missing original
 
 If you have the apartment-facing photograph (the CleanShot taken from the living room
 looking into the kitchen), save it as `references/original/ref-h-apartment-facing.png`.
-The prompt will use it for the three apartment-facing shots. If you don't supply it,
-the prompt falls back to the widest available original.
+The prompt needs it for apartment-facing coverage. Without it, hold those shots until
+revised coverage is explicitly agreed; the existing originals do not show that view.
 
 ## Using with Higgsfield
 
-1. Complete `references/inspiration/` with your three inspiration images.
-2. Optionally add `ref-h-apartment-facing.png` to `references/original/`.
+1. Resolve the Viking model and blueprint discrepancy recorded in the brief.
+2. Add `ref-h-apartment-facing.png` to `references/original/`, or agree revised coverage.
 3. Point Higgsfield at this repo and say:
 
 > Read the full production brief from `mega-prompt.md`. Follow it exactly — every
