@@ -39,22 +39,25 @@ apartment photograph is not required.
 ## Production started — 2026-10-08
 
 First-phase ceiling: **200 Higgsfield credits**. The editable directing document is
-[`outputs/shotlist.html`](outputs/shotlist.html): 13 editorial shots, 27 atomic takes.
+[`outputs/shotlist.html`](outputs/shotlist.html): 13 editorial shots, 29 atomic takes.
 Actual job quotes, request/result receipts and state are in `outputs/production/`;
 [`budget.json`](outputs/production/budget.json) is the cost ledger.
 
 Candidate finished design references (visually checked for first-phase testing; not
 proof of surveyed dimensions or exact manufacturer fidelity):
 
-- [`master-v3.png`](outputs/keyframes/master-v3.png) — cooking wall.
-- [`sink-v1.png`](outputs/keyframes/sink-v1.png) — sink and ornate espresso station.
-- [`apartment-v5.png`](outputs/keyframes/apartment-v5.png) — bar, stools, flowers and fruit.
+- [`master-v4.png`](outputs/keyframes/master-v4.png) — cooking wall.
+- [`sink-v2.png`](outputs/keyframes/sink-v2.png) — sink and sleek lower-counter espresso station.
+- [`apartment-v6.png`](outputs/keyframes/apartment-v6.png) — bar, stools, flowers and fruit.
 - [`workers-v1.png`](outputs/keyframes/workers-v1.png) — the two recurring workers.
 
 Motion proofs in `outputs/pilots/` are isolated tests, not the final film or accepted
 production shots. Read [`outputs/inspection.txt`](outputs/inspection.txt) before reuse.
-Initial pass spent **111.75 credits**, verified against the account balance; **88.25**
-remain under the phase ceiling. Sampled pilot results: quartz fails worktop seating;
+Initial pass spent 111.75 credits; the user-directed concrete/concealed-espresso
+revision added 19.5. **Total: 131.25 credits; 68.75 remain** under the phase ceiling,
+verified against the account balance. The current views remove the wooden floor lamp,
+use continuous concrete with a dining rug, and hide the sleek coffee station from
+the apartment-facing angle. Old motion proofs retain superseded finishes. Sampled pilot results: quartz fails worktop seating;
 fridge is provisionally plausible; stool fails final orientation (faces away from bar).
 No continuous-playback or frame-by-frame acceptance is claimed. All submitted jobs
 completed; no automated paid work remains running.

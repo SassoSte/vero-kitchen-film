@@ -35,7 +35,7 @@ is required from the user.
 |---|---|---|
 | REF-E | `references/inspiration/ref-e-cabinetry.webp` | White Shaker cabinetry, frosted/translucent upper inserts, veined stone finishes |
 | REF-F | `references/inspiration/ref-f-cooking-zone.webp` | Pale box/chimney hood, brushed pot filler, cooking-wall material |
-| REF-G | `references/inspiration/ref-g-full-room.webp` | Light oak floor tone, recessed ceiling lighting, overall material character |
+| REF-G | `references/inspiration/ref-g-full-room.webp` | Material character only; floor finish superseded by concrete; preserve current ceiling-track continuity |
 | REF-H-DESIGN | `references/inspiration/ref-h-finished-apartment-facing.png` | User-supplied finished-design apartment-facing image; appearance/viewpoint intent only, not original geometry. Its electric cooktop and stainless undercabinet hood do not supersede the gas Wolf range and REF-F hood requirements. |
 
 Appearance references do not authorize copying their room dimensions, island, floor plan,
@@ -95,9 +95,12 @@ any footage is generated.
 
 ### Floor
 
-Current: 13″×13″ beige ceramic tile. Kitchen floor area ≈ 75 sqft. New light oak flooring
-within the kitchen only. Boundary: Run B pony wall face on the living side, and the east
-corridor edge where the kitchen opens to dining.
+Original state: beige kitchen tile and living/dining carpet. Final design, revised by
+the user: continuous warm light-grey concrete flooring through the visible kitchen,
+living and dining areas, with subtle natural variation and a matte/satin finish. One
+tasteful neutral area rug sits under the dining table/chairs. No wall-to-wall carpet
+or oak floor remains in the finished visible rooms. Preserve room boundaries and
+levels; the material transition is intentionally removed, not the architecture.
 
 ## C. PRESERVE
 
@@ -105,8 +108,9 @@ corridor edge where the kitchen opens to dining.
 - Existing wall planes, corners, and circulation
 - The opposing cooking and sink runs
 - The raised pass-through ledge and bar
-- The original apartment visible beyond the opening
-- The floor boundary between kitchen and living room
+- The original apartment architecture visible beyond the opening; flooring changes
+  to concrete as explicitly authorized
+- Existing room boundaries and floor levels, with continuous final concrete flooring
 - The refrigerator-side corner — do not extend the cooking wall past it or invent an
   extra bay, alcove, passage, or room behind it
 - The sink and faucet belong on Run B; the range belongs on Run A beneath the hood;
@@ -122,7 +126,8 @@ Translate the inspiration photographs into the supplied geometry:
 - Warm interior lighting within glass cabinets
 - Continuous warm undercabinet lighting visibly illuminating the backsplash
 - Reference-matched veined quartz countertops and full-height slab backsplash
-- Light oak flooring in the kitchen only; original apartment flooring preserved
+- Continuous warm light-grey concrete floor through kitchen/living/dining, with a
+  restrained neutral rug under the dining table and chairs; no carpet or oak floor
 - Mandatory pale box/chimney hood matching REF-F, centered above the Wolf range
 - Brushed wall-mounted pot filler above the range on Run A
 - Modern deep undermount sink, slim pull-down faucet, soap dispenser on Run B
@@ -137,11 +142,15 @@ Translate the inspiration photographs into the supplied geometry:
   and red kettle RIGHT, on the adjacent counters with usable preparation space around
   them. Use the approved reference appearance consistently; avoid a crowded appliance
   display or extra units added just to fill the counter.
-- Elegant, ornate espresso machine on Run B above the dishwasher: sculptural polished
-  metal body, refined traditional detailing, and substantial tactile controls. More
-  decorative and luxurious than a plain compact coffee maker, scaled to the available
-  counter. Pair with two porcelain espresso cups on a restrained tray. Lock its exact
-  reference appearance before animation and preserve it across views.
+- Compact sleek espresso machine: clean modern lines, brushed stainless and matte
+  dark accents, no ornate boiler, finial, exposed clock-like dial or decorative chrome
+  tower. It sits on the LOWER kitchen-side counter directly above the dishwasher on
+  Run B, tucked behind the left opening pier/raised ledge from the apartment camera.
+  It must NOT be visible in the apartment-facing final reveal, and must never sit on
+  the bar cap. It can be visible from the sink/cooking-side views that establish its
+  proper location. Two small cups may sit beside it within that concealed station.
+- Remove the tall wooden floor lamp/sculptural light with brown vertical rods and
+  circular discs from the living-room foreground. Keep the kitchen ceiling lights.
 - One tasteful vase of fresh flowers, with a restrained white/cream arrangement and
   natural greenery, toward one end of the apartment-facing bar. Keep the faucet,
   opening, hood, and cooking wall readable.
@@ -155,7 +164,8 @@ Translate the inspiration photographs into the supplied geometry:
 - Restrained artwork/decor on an available wall surface
 
 Do not add: floating shelves, wall-mounted wine racks, a countertop microwave, an island,
-or oak flooring extending into the apartment.
+wall-to-wall carpet, oak flooring, the rejected wooden floor lamp, or an ornate
+espresso machine.
 
 ## E. WINE-FRIDGE REQUIREMENT
 
@@ -176,7 +186,7 @@ Create three finished-design keyframes grounded in the original photographs:
 They must agree on wall boundaries, sink/range locations, refrigerator model and position,
 cabinet layout, glass inserts, hood, pot filler, quartz/backsplash, interior cabinet
 lighting, undercabinet lighting, bar finish, faucet, three stools, countertop appliances,
-floor boundary, espresso-machine detailing, flower arrangement, vase, fruit bowl,
+floor boundary, sleek espresso-machine detailing and hidden front-view placement, flower arrangement, vase, fruit bowl,
 and wine-fridge location if used.
 
 Do not independently redesign the kitchen for each viewpoint. Save the keyframes to
@@ -202,7 +212,7 @@ trim appropriately.
 | Shot | Time | Viewpoint | Action | Output |
 |---|---|---|---|---|
 | 01 | 00:00–00:05 | Master (REF-A) | Strip-out: establish existing kitchen, show removal of old components including the OTR microwave and old range, time jump to prepared room; retain old fridge until Shot 07 | `outputs/shots/01_strip_out.mp4` |
-| 02 | 00:05–00:10 | Master | Floor-fitting action then time jump to workers levelling/fastening new base cabinets. Oak stays in kitchen. | `outputs/shots/02_floor_and_bases.mp4` |
+| 02 | 00:05–00:10 | Master | Floor-fitting action then time jump to workers levelling/fastening new base cabinets. Concrete continues through kitchen/living/dining; dining rug is added during staging. | `outputs/shots/02_floor_and_bases.mp4` |
 | 03 | 00:10–00:15 | Master | Both workers lower and seat the quartz worktop on the cooking run. NO sink cutout or faucet on this run. | `outputs/shots/03_cooking_counter.mp4` |
 | 04 | 00:15–00:20 | Sink run (REF-B) | Sink/worktop assembly seated on the sink run, then faucet fitting. Preserve DW, ledge, opening, apartment beyond. | `outputs/shots/04_sink_install.mp4` |
 | 05 | 00:20–00:25 | Master | Separate beats with time jump: backsplash fitting, then upper-cabinet fastening. Shaker doors and glass inserts visible. | `outputs/shots/05_backsplash_uppers.mp4` |
@@ -211,9 +221,9 @@ trim appropriately.
 | 08 | 00:35–00:39 | Cooking-wall view | Worker installs and tests interior-cabinet and continuous undercabinet lighting. Illuminated backsplash clearly visible. Lighting stays ON for the rest of the film. | `outputs/shots/08_lighting_install.mp4` |
 | 09 | 00:39–00:44 | Supported viewpoint | Wall-finish work and artwork hanging. If the wine-fridge base-cabinet design is locked: workers install it here. Preserve the west corner. | `outputs/shots/09_wall_finish_and_wine.mp4` |
 | 10 | 00:44–00:49 | Apartment-facing (original REF-H) | Both workers position and secure the oak bar-front treatment. Preserve opening, counter, faucet, room boundaries. All lighting stays on. | `outputs/shots/10_bar_front.mp4` |
-| 11 | 00:49–00:55 | Apartment-facing + inserts | Three cream stools carried in and positioned by workers. Red SMEG toaster and kettle, ornate espresso station with two cups, fresh flowers, and fruit bowl placed through separate short action inserts. End with visible positioning work, not prolonged wiping. | `outputs/shots/11_stools_and_staging.mp4` |
-| 12 | 00:55–00:57 | Widest original kitchen angle | Complete reveal: both runs, all boundaries, all completed features including SMEG appliances, ornate espresso station, flowers, and fruit bowl. Interior/undercabinet/hood lighting on. | `outputs/shots/12_reveal.mp4` |
-| 13 | 00:57–01:00 | Apartment-facing | Final reveal: complete opening, finished bar with flowers and fruit bowl, three stools, sink faucet, cooking wall; retain SMEG appliances and ornate espresso station in their established positions. Restrained camera move allowed if geometry is preserved. | `outputs/shots/13_final_reveal.mp4` |
+| 11 | 00:49–00:55 | Apartment-facing + inserts | Three cream stools carried in and positioned by workers. Red SMEG toaster and kettle, sleek concealed espresso station with two cups, fresh flowers, fruit bowl, and dining rug placed through separate short action inserts. End with visible positioning work, not prolonged wiping. | `outputs/shots/11_stools_and_staging.mp4` |
+| 12 | 00:55–00:57 | Widest original kitchen angle | Complete reveal: both runs, all boundaries, all completed features including SMEG appliances, sleek concealed espresso station, flowers, and fruit bowl. Interior/undercabinet/hood lighting on. | `outputs/shots/12_reveal.mp4` |
+| 13 | 00:57–01:00 | Apartment-facing | Final reveal: complete opening, finished bar with flowers and fruit bowl, three stools, sink faucet, cooking wall; retain SMEG appliances and sleek concealed espresso station in their established positions. Restrained camera move allowed if geometry is preserved. | `outputs/shots/13_final_reveal.mp4` |
 
 Output format: 1920×1080, 24 fps, H.264 with AAC audio (construction sounds only — no
 speech, music, subtitles, or overlays). Final film: `outputs/kitchen_remodel_60s.mp4`.
@@ -228,7 +238,7 @@ Once installed, a feature stays installed. Specifically:
 - The refrigerator changes only during Shot 07
 - Cabinet-interior and undercabinet lighting stay on after Shot 08 through the final frame
 - The three stools arrive through worker actions in Shot 11 and remain afterward
-- SMEG appliances, ornate espresso machine and two cups, vase/flowers, and fruit bowl
+- SMEG appliances, sleek concealed espresso machine and two cups, vase/flowers, and fruit bowl
   are staged by the end of Shot 11 and remain unchanged through Shots 12–13. Preserve
   their positions and appearance across cuts; do not clutter the worktops.
 - Cabinet arrangement, hardware, stone surfaces, appliance positions, and floor boundaries
@@ -247,8 +257,10 @@ Watch the complete exported film and inspect every cut against the actual return
 - Shots 08/10/11/12/13: same interior-cabinet, undercabinet, and hood lighting
 - Shots 10/11/13: same bar, faucet, three stools, opening, apartment-facing geometry
 - Shots 11–13: all final countertop styling present by second 55; stable SMEG
-  appliances, ornate espresso machine/two cups, flowers/vase, and fruit bowl. Verify
-  their visibility across the two reveal angles and usable counter/stool space.
+  appliances, sleek concealed espresso machine/two cups, flowers/vase, and fruit bowl. Verify
+  their correct placement across the two reveal angles and usable counter/stool space.
+  Espresso is visible only from kitchen-side views, concealed in apartment-facing view.
+- Final views: continuous concrete floor, dining-area rug, no wooden floor lamp.
 - All shots: consistent workers, plausible actions, cumulative construction progress
 - 00:35–01:00: no feature disappearance, layout changes, idle filler, or lighting loss
 
@@ -299,7 +311,8 @@ method, and original photos 02/26. Relevant sheets are included in this payload:
   is removed in the film, not carried into the finished design.
 - `apartment-blueprint/living-room-plan.svg` and `living-room-dimensions.md`: adjacent
   living room, approximately 157″ × 152″, kitchen/bar opposite balcony slider,
-  vaulted ceiling, carpet, and open dining connection. Door gaps are schematic.
+  vaulted ceiling, original carpet (superseded by final concrete), and open dining
+  connection. Door gaps are schematic.
 - `apartment-blueprint/unit-plan.svg`: whole-apartment context only. Do not extract
   appliance placement, stool spacing, or camera handedness from this coarse sheet.
 
@@ -323,3 +336,13 @@ Drawing discrepancies are recorded rather than treated as absent architecture:
 
 The source drawings are preserved unchanged. These limits do not block reference-based
 film production. Omit the optional wine fridge until its model and bay are locked.
+
+## N. DESIGN REVISION — CONCRETE AND CONCEALED COFFEE STATION
+
+The user rejected the wooden floor lamp, carpet floor and ornate espresso machine.
+This revision supersedes those features in all earlier candidate images, shotlist
+prompts and motion proofs. Preserve old assets as drafts; invalidate their final-design
+acceptance. Concrete extends across visible kitchen/living/dining, with a dining rug;
+the oak bar-front treatment remains. The sleek espresso machine is over the dishwasher
+on the lower work counter and hidden from the apartment-facing camera. No new motion
+until the revised reference views agree.

@@ -1,0 +1,13 @@
+{
+  "model": "gpt_image_2",
+  "params": {
+    "quality": "high",
+    "resolution": "2k",
+    "aspect_ratio": "16:9"
+  },
+  "references": [
+    "outputs/keyframes/master-v3.png",
+    "outputs/keyframes/apartment-v6.png"
+  ],
+  "prompt": "Edit image 1 to match the client's new floor and hidden coffee-station design shown in apartment view image 2. Keep EXACT camera, architecture, white Shaker cabinets with 12-inch gap above, warm glass/undercabinet lights, pale hood, Wolf GR304 five red knobs/four burners, fridge, pot filler, quartz, red SMEG toaster/kettle and all other cooking-wall details unchanged. Replace visible wood plank kitchen floor with seamless warm light-grey matte/satin concrete matching image 2, naturally subtly mottled, no tile grid or boards. Concrete continues into living/dining but show only actual visible area. The ornate chrome espresso tower and its tray/cups partly visible at extreme LEFT in image 1 are rejected: REMOVE that tower completely. Its replacement is a compact sleek brushed stainless/matte black rectangular espresso machine tucked back on the lower counter over the dishwasher, beyond the LEFT edge of THIS crop; do not force it into view. Clear the visible left countertop of ornate tower, no espresso visible on raised ledge or cooking wall. No wooden floor lamp. Keep room size, ceiling fixtures and floor level unchanged. One photoreal localized edit, no redesign."
+}

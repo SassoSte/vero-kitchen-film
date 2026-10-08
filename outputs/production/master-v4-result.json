@@ -1,0 +1,40 @@
+[
+  {
+    "created_at": "2026-10-08T08:23:36.852367Z",
+    "display_name": "GPT Image 2",
+    "id": "252a3e33-ccaa-4e02-a499-971553af16a9",
+    "job_type": "gpt_image_2",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261008_082336_252a3e33-ccaa-4e02-a499-971553af16a9_min.webp",
+    "params": {
+      "aspect_ratio": "16:9",
+      "height": 1520,
+      "medias": [
+        {
+          "data": {
+            "id": "fd458e28-0cc6-416e-947e-670624f0cdee",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/fd458e28-0cc6-416e-947e-670624f0cdee_resize.jpg"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "26282867-f6ef-41eb-ae95-7f0b51dea2ec",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/26282867-f6ef-41eb-ae95-7f0b51dea2ec_resize.jpg"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "videotape-alpha",
+      "prompt": "Edit image 1 to match the client's new floor and hidden coffee-station design shown in apartment view image 2. Keep EXACT camera, architecture, white Shaker cabinets with 12-inch gap above, warm glass/undercabinet lights, pale hood, Wolf GR304 five red knobs/four burners, fridge, pot filler, quartz, red SMEG toaster/kettle and all other cooking-wall details unchanged. Replace visible wood plank kitchen floor with seamless warm light-grey matte/satin concrete matching image 2, naturally subtly mottled, no tile grid or boards. Concrete continues into living/dining but show only actual visible area. The ornate chrome espresso tower and its tray/cups partly visible at extreme LEFT in image 1 are rejected: REMOVE that tower completely. Its replacement is a compact sleek brushed stainless/matte black rectangular espresso machine tucked back on the lower counter over the dishwasher, beyond the LEFT edge of THIS crop; do not force it into view. Clear the visible left countertop of ornate tower, no espresso visible on raised ledge or cooking wall. No wooden floor lamp. Keep room size, ceiling fixtures and floor level unchanged. One photoreal localized edit, no redesign.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 2688
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261008_082336_252a3e33-ccaa-4e02-a499-971553af16a9.png",
+    "status": "completed"
+  }
+]

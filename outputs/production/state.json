@@ -1,30 +1,31 @@
 {
   "project": "vero-kitchen-film",
-  "phase": "initial reference set and three isolated motion tests complete; full film not generated",
+  "phase": "revised concrete-floor reference set generated and visually reviewed; old motion proofs superseded",
   "budget_ceiling_credits": 200,
   "approved_features": [
     "Wolf GR304 gas range, red knobs",
     "Pale REF-F hood; no microwave",
     "Red SMEG toaster and kettle",
-    "Ornate polished-metal espresso machine, two porcelain cups",
+    "Sleek espresso machine above dishwasher, hidden from apartment view",
     "White flowers with greenery and fruit bowl",
-    "Original architecture, kitchen-only oak, three cream stools"
+    "Original architecture, continuous concrete, dining rug, three cream stools",
+    "No wooden floor lamp"
   ],
   "views": {
     "master": {
       "original": "references/original/ref-a-cooking-run.webp",
-      "status": "candidate-visual-lock-for-pilots",
-      "take": "master-v3"
+      "status": "revised-candidate-visually-reviewed",
+      "take": "master-v4"
     },
     "sink": {
       "original": "references/original/ref-b-sink-run.webp",
-      "status": "candidate-visual-lock-for-pilots",
-      "take": "sink-v1"
+      "status": "revised-candidate-visually-reviewed",
+      "take": "sink-v2"
     },
     "apartment": {
       "original": "references/original/ref-h-apartment-facing.webp",
-      "status": "candidate-visual-lock-for-pilots",
-      "take": "apartment-v5"
+      "status": "revised-candidate-visually-reviewed",
+      "take": "apartment-v6"
     }
   },
   "motion_pilots": [
@@ -34,20 +35,24 @@
       "take": "quartz-v1",
       "source": "pilot-quartz-start-v2",
       "scope": "isolated motion test, not production Shot03",
-      "finding": "Slab released while misaligned, cabinet still exposed. Correct source/end-state before retry."
+      "finding": "Slab released while misaligned, cabinet still exposed. Correct source/end-state before retry.",
+      "design_status": "superseded-by-concrete-and-concealed-espresso-revision"
     },
     {
       "action": "fridge movement within existing corner",
       "status": "candidate-motion-pass",
       "take": "fridge-v1",
-      "finding": "Sampled plausible fridge placement; partner occludes endpoint. Not final Shot07 acceptance."
+      "finding": "Sampled plausible fridge placement; partner occludes endpoint. Not final Shot07 acceptance.",
+      "design_status": "superseded-by-concrete-and-concealed-espresso-revision"
     },
     {
       "action": "place bar furnishings",
       "status": "failed-final-orientation",
       "take": "stool-v1",
-      "finding": "Center stool faces camera away from bar; scale shrinkage not established by sampled review."
+      "finding": "Center stool faces camera away from bar; scale shrinkage not established by sampled review.",
+      "design_status": "superseded-by-concrete-and-concealed-espresso-revision"
     }
   ],
-  "gate": "No video generation until finished views agree and stage/worker references are inspected."
+  "gate": "No video generation until finished views agree and stage/worker references are inspected.",
+  "design_revision": "concrete-concealed-espresso"
 }

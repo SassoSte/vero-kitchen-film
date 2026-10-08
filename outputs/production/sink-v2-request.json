@@ -1,0 +1,13 @@
+{
+  "model": "gpt_image_2",
+  "params": {
+    "quality": "high",
+    "resolution": "2k",
+    "aspect_ratio": "16:9"
+  },
+  "references": [
+    "outputs/keyframes/sink-v1.png",
+    "outputs/keyframes/apartment-v6.png"
+  ],
+  "prompt": "Revise image 1 with exactly the client's new flooring and coffee-station design, preserving original sink-view camera, wall planes, cabinets, sink/faucet/soap dispenser, raised ledge, window/slider/fan, flowers and fruit, daylight and all other objects. Image 2 shows the new floor finish in the SAME apartment from the opposite angle. Replace ALL visible carpet and wood floor in image 1 with matching warm light-grey matte/satin continuous concrete, including living room beyond pier. No carpet patch, wood planks or grid of tile. Dining rug exists only under dining table if that area is visible, do not invent a rug in this view.\nReplace the large ORNATE CHROME ESPRESSO TOWER on counter at RIGHT with ONE compact sleek contemporary espresso machine: low rectangular brushed stainless body, restrained matte black side/top panels, clean flat surfaces, small simple controls and short portafilter/steam wand; no exposed cylinder, clock dial, lid finial, retro ornament or elaborate tray. Place it on SAME LOWER counter directly ABOVE DISHWASHER at right edge, tucked back toward the right wall pier; not on the raised bar ledge. Keep two small porcelain cups beside it on a minimal small tray. This kitchen-side camera can see it, but it must be positioned out of sight of apartment-facing camera behind wall pier/raised ledge. Do not move sink, invent cabinets, extend countertop, change opening, add machine to bar or cooking wall. Keep flower/fruit positions exactly. No other changes. Photoreal 16:9."
+}

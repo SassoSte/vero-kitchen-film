@@ -1,7 +1,7 @@
 {
   "ceiling_credits": 200,
   "opening_balance": 1246.8,
-  "reserved_credits": 111.75,
+  "reserved_credits": 131.25,
   "jobs": [
     {
       "name": "master-v1",
@@ -127,9 +127,30 @@
       "status": "generated",
       "job_id": "2feb654c-1fc9-4d33-b969-f3079570df93",
       "file": "outputs/pilots/stool-v1.mp4"
+    },
+    {
+      "name": "apartment-v6",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "14546811-fb00-44a8-8d40-dde6fcef081e",
+      "file": "outputs/keyframes/apartment-v6.png"
+    },
+    {
+      "name": "sink-v2",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "cbd5b297-e8d9-46c0-bc6e-b7d406b5a4c0",
+      "file": "outputs/keyframes/sink-v2.png"
+    },
+    {
+      "name": "master-v4",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "252a3e33-ccaa-4e02-a499-971553af16a9",
+      "file": "outputs/keyframes/master-v4.png"
     }
   ],
-  "balance_after": 1135.05,
-  "balance_delta": 111.75,
-  "remaining_phase_credits": 88.25
+  "balance_after": 1115.55,
+  "balance_delta": 131.25,
+  "remaining_phase_credits": 68.75
 }

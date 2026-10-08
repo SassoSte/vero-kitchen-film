@@ -1,0 +1,32 @@
+[
+  {
+    "created_at": "2026-10-08T08:18:50.209888Z",
+    "display_name": "GPT Image 2",
+    "id": "14546811-fb00-44a8-8d40-dde6fcef081e",
+    "job_type": "gpt_image_2",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261008_081850_14546811-fb00-44a8-8d40-dde6fcef081e_min.webp",
+    "params": {
+      "aspect_ratio": "16:9",
+      "height": 1520,
+      "medias": [
+        {
+          "data": {
+            "id": "589a0df9-5136-4ae3-8040-2b71976d40cd",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/589a0df9-5136-4ae3-8040-2b71976d40cd_resize.jpg"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "videotape-alpha",
+      "prompt": "Edit this exact apartment-facing kitchen photograph to implement ONLY these client design changes. Preserve all architecture, opening jambs/header, wall planes, camera, framing, cabinets and gap above uppers, ceiling track lights, pale hood, Wolf gas range with five red knobs, top-freezer fridge, pot filler, red SMEG toaster/kettle, white quartz, faucet, flowers, fruit, ribbed OAK BAR FRONT, all three cream stools and dining furniture/art.\n1. Completely REMOVE the tall wooden standing lamp/sculpture in the LEFT foreground, including all brown vertical rods, circular discs and base. Restore clean wall/floor behind it. Do not remove ceiling track lighting or dining pendant.\n2. Replace ALL wall-to-wall carpet and visible wood floor with CONTINUOUS warm light-grey CONCRETE flooring across living, dining and kitchen. Matte/satin honed concrete, subtle natural tonal variation, upscale residential finish, no grout grid, no wood planks, no garage gloss. Stools stand on concrete. Retain one refined neutral textured rectangular AREA RUG only beneath the dining table and chairs at RIGHT, surrounded by visible concrete. Preserve original floor levels and room footprint.\n3. Remove the ornate chrome espresso tower visible at LEFT in the opening. The replacement is a compact SLEEK espresso maker on the LOWER kitchen-side counter ABOVE THE DISHWASHER, tucked behind the left wall pier/raised bar ledge and ENTIRELY OCCLUDED from this apartment-facing camera. Therefore NO espresso machine or cups should be visible ANYWHERE in this view. Do not relocate it onto bar, cooking counter, floor or dining table. This view should show clear space there; no new coffee machine added elsewhere.\nKeep flowers and fruit; keep oak ribs on bar only. One photoreal corrected photograph, no other redesign, 16:9.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 2688
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261008_081850_14546811-fb00-44a8-8d40-dde6fcef081e.png",
+    "status": "completed"
+  }
+]
