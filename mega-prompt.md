@@ -1,5 +1,15 @@
 # Kitchen remodel construction film — production brief
 
+> **CURRENT DESIGN RESET — 2026-10-09.** The projecting end-wall tower and Italy
+> artwork are rejected. Wine fridge must be flush with the blank end-wall face beside
+> the main fridge. Spice/tech nook belongs on the kitchen-side wall left of the sink,
+> near the microwave, not above the wine fridge. Keep above-DW counter clear. Coffee
+> garage location is unresolved; no further paid generation until that placement is
+> agreed. Original geometry remains evidence; flush recesses are visual intent, not
+> verified cavities or construction plans. The later historical Q/R proposals are
+> superseded by this reset.
+
+
 Create a photorealistic 60-second construction film of the kitchen at 14145 N 92nd St
 #2130, Scottsdale AZ 85260 (The Allison Condominiums, «Tallbot» 2B2B, 1,029 sqft).
 Reference photographs and dimensioned blueprints are in this repo — use them as
@@ -150,9 +160,9 @@ Translate the inspiration photographs into the supplied geometry:
   display or extra units added just to fill the counter.
 - Keep the entire worktop above the dishwasher CLEAR and usable. The previous coffee
   garage at that position, including its tall fitted panel, is rejected and removed.
-- A compact coffee garage may be integrated with the proposed end-wall wine cabinet,
-  subject to the dimension/door-sweep checks in Section Q. No location is locked yet;
-  do not regenerate an above-dishwasher garage or expose an espresso machine there.
+- Coffee garage location is unresolved. The candidate for discussion is the sink-side
+  wall above the microwave-side worktop, under the spice/tech nook. This is not yet
+  selected. Do not bundle coffee with the wine fridge or place it above the dishwasher.
 - Remove the tall wooden floor lamp/sculptural light with brown vertical rods and
   circular discs from the living-room foreground. Keep the kitchen ceiling lights.
 - One tasteful vase of fresh flowers, with a restrained white/cream arrangement and
@@ -168,8 +178,8 @@ Translate the inspiration photographs into the supplied geometry:
   worktop. No countertop microwave, no microwave above the Wolf, no displaced dishwasher
   or sink. REF-J controls this appliance placement, not its double-bowl sink or floor.
   Exact model/cutout/ventilation remain to be selected before claiming physical fit.
-- Proposed kitchen-side spice/tech nook: on the bare END WALL immediately LEFT of the
-  sink worktop, never on the apartment-facing wall. One shallow white-framed joinery
+- Kitchen-side spice/tech nook: on the wall immediately LEFT of the sink worktop near
+  the microwave, treated separately from the wine-fridge wall. Never on the apartment-facing wall. One shallow white-framed joinery
   module with pale oak lining, an upper shelf of restrained matching spice jars,
   and a lower integrated tech shelf for one compact Alexa-type speaker and neat phone
   charging dock. Warm concealed accent light, concealed cable route, usable worktop
@@ -188,12 +198,15 @@ espresso machine.
 
 ## E. WINE-FRIDGE REQUIREMENT
 
-The wine fridge is now requested, not optional. Preferred compact candidate: U-Line
-URWC315-IG01A, 15-inch-class glass-door integrated-frame wine fridge. Place a narrow
-cabinet on the blank end wall beside the main fridge only after checking the open-door
-and drawer envelopes. Proposed starting footprint is approximately 18 inches along
-that wall by 24 inches into the room, near its sink-side end; NOT a confirmed fit.
-See Section Q for dimensions, sources, art direction and unresolved clearances.
+Compact built-in wine fridge on the blank end wall beside the main refrigerator,
+front flush WITH THE WALL FACE. No projecting cabinet, tower, shelf or countertop
+around/above it. U-Line 15-inch class remains a candidate appearance/size reference,
+not confirmed installation fit. No Italy poster or map. The prior 18x24-inch projecting
+cabinet and its related blind-corner/microwave relocation are REJECTED.
+
+The room documentation does not establish a cavity of the required depth. Treat the
+flush installation as the user's visual concept, keep that feasibility gap explicit,
+and do not enlarge the room or claim real fit from a generated image.
 
 ## F. ESTABLISH ONE FINISHED KITCHEN BEFORE ANIMATION
 
@@ -240,7 +253,7 @@ trim appropriately.
 | 06 | 00:25–00:31 | Master | Separate actions with time jumps: hood fitting, pot-filler fastening to backsplash, then Wolf range placement beneath hood. No over-the-range microwave returns; sink-side built-in remains separate. | `outputs/shots/06_cooking_equipment.mp4` |
 | 07 | 00:31–00:35 | Master incl. real corner | Remove old fridge, place new one in the same 33″ bay. | `outputs/shots/07_fridge_replacement.mp4` |
 | 08 | 00:35–00:39 | Cooking-wall view | Worker installs and tests interior-cabinet and continuous undercabinet lighting. Illuminated backsplash clearly visible. Lighting stays ON for the rest of the film. | `outputs/shots/08_lighting_install.mp4` |
-| 09 | 00:39–00:44 | Supported viewpoint | Wall-finish work and artwork hanging; if the spice/tech concept is adopted, fit the shallow module to the kitchen-side end wall in a separate action. Install the wine-fridge end-wall cabinet only after its layout is locked. Preserve the west corner. | `outputs/shots/09_wall_finish_and_wine.mp4` |
+| 09 | 00:39–00:44 | Supported viewpoint | Wall-finish work and artwork hanging; if the spice/tech concept is adopted, fit the shallow module to the sink-side wall near the microwave in a separate action. Install the wall-flush wine fridge only after its visual location is locked; no projecting cabinet. Preserve the west corner. | `outputs/shots/09_wall_finish_and_wine.mp4` |
 | 10 | 00:44–00:49 | Apartment-facing (original REF-H) | Both workers position and secure the oak bar-front treatment. Preserve opening, counter, faucet, room boundaries. All lighting stays on. | `outputs/shots/10_bar_front.mp4` |
 | 11 | 00:49–00:55 | Apartment-facing + inserts | Three cream stools carried in and positioned by workers. Red SMEG toaster and kettle, coffee garage with compact sleek machine and two cups, fresh flowers, fruit bowl, and dining rug placed through separate short action inserts. End with visible positioning work, not prolonged wiping. | `outputs/shots/11_stools_and_staging.mp4` |
 | 12 | 00:55–00:57 | Widest original kitchen angle | Complete reveal: both runs, all boundaries, all completed features including SMEG appliances, coffee garage (closed in the apartment-facing view), flowers, and fruit bowl. Interior/undercabinet/hood lighting on. | `outputs/shots/12_reveal.mp4` |
@@ -387,7 +400,7 @@ needed counter space. Keep its renders as historical drafts only. A possible cof
 garage at the new wine-fridge wall must be re-planned under Section Q; do not reuse
 the old location or treat the earlier paired images as an approved installation.
 
-## Q. END-WALL WINE / MAIN-FRIDGE REVISION — 2026-10-08
+## Q. HISTORICAL RESEARCH — END-WALL CABINET PROPOSAL REJECTED
 
 User confirmed the blank end wall beside the main refrigerator (called north wall by
 the user; west-end wall in the kitchen source schedule). Keep this identity unambiguous.
@@ -444,7 +457,7 @@ The nominal film envelope is now resolved in Section R and the proposed plan.
 Concept rendering is authorized; real construction/ordering still requires measured
 clearances. No claim of surveyed fit follows from the render.
 
-## R. COORDINATED END-WALL FILM CONCEPT — 2026-10-08
+## R. HISTORICAL COORDINATED TOWER — REJECTED, DO NOT EXECUTE
 
 Current concept authority: `kitchen-blueprint/end-wall-proposed.json` and `.svg`.
 These are NEW proposal files; original plans remain unchanged.
@@ -478,7 +491,7 @@ The video can use this coherent nominal design after returned-image review. For 
 actual renovation, physical measurements and manufacturer installation details still
 govern. Full kitchen angle propagation follows the chosen end-wall concept.
 
-### R1. Corner access and internal-width resolution
+### R1. HISTORICAL CORNER WORKAROUND — WITHDRAWN WITH TOWER
 
 The added end-wall unit blocks front access to the first 24 inches of Run B. Revise
 that 66-inch pre-sink segment to 24-inch blind/fixed return + 3-inch filler + 24-inch
@@ -494,3 +507,21 @@ width is 15.75 inches. Allocate approximately 10 clear to coffee and 5.75 clear 
 spice/tech side. Gross 11.5/6.5 labels are zones, not usable internal clearances. Keep
 tech items compact and staggered in depth; do not invent a side pull-out in the wine
 appliance's ventilation/cutout allowance. Mechanical hardware remains a build detail.
+
+## S. TWO-SURFACE RESET — 2026-10-09
+
+1. Blank end wall beside main fridge: only the flush wine fridge; no protruding tower,
+   no artwork, no spice/electronics assembly. Bosch main-fridge candidate retains
+   intended right upper hinge and bottom freezer drawer; dimensions remain provisional.
+2. Kitchen-side wall left of sink, near built-in microwave: spice/tech nook with tidy
+   jars, charging and compact smart device, following the user's original placement.
+   Keep this separate from the wine-fridge wall in directing instructions.
+3. Coffee garage: UNRESOLVED. Proposed next location is flush within the sink-side wall
+   above the microwave-side worktop, below the spice/tech nook, so no permanent cabinet
+   sits on the counter. This is a proposal for user location selection, not a locked
+   design or evidence of a feasible recess. Above-dishwasher placement stays rejected.
+
+Return to approved finishes: concrete with dining rug, no wooden floor lamp, white
+Shaker/frosted uppers and warm lights, Wolf/red knobs and pale hood, red SMEG, refined
+faucet and single basin, flowers/fruit, sink-side built-in microwave. Do not inherit
+the rejected tower, poster or forced microwave shift from the last render.

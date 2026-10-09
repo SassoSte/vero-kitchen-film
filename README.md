@@ -1,5 +1,12 @@
 # vero-kitchen-film
 
+> **2026-10-09 reset:** latest projecting end-wall tower and Italy artwork are rejected.
+> Wine fridge is wall-flush beside main fridge; spice/tech nook returns to sink-side
+> wall near microwave. Coffee garage position is unresolved. Prior renders/proposal
+> diagrams below are historical, not current production authorities. No new paid
+> generation until the remaining location is agreed.
+
+
 Public payload repo for a Higgsfield `/shotlist-director` kitchen-remodel
 construction film. Production decisions and unresolved inputs are recorded in
 `mega-prompt.md`, including the mandatory hood above a Wolf range and the

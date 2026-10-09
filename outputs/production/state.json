@@ -1,6 +1,6 @@
 {
   "project": "vero-kitchen-film",
-  "phase": "coordinated end-wall nominal film concept resolved; other angles need propagation",
+  "phase": "user rejected endwalltower; two-surface reset, coffee location awaiting decision",
   "budget_ceiling_credits": 200,
   "approved_features": [
     "Wolf GR304 gas range, red knobs",
@@ -54,10 +54,10 @@
     }
   ],
   "gate": "No video generation until finished views agree and stage/worker references are inspected.",
-  "design_revision": "stacked-end-wall-service-unit",
-  "pending_design_selection": "Review corrected closed/open end-wall concept; physical installation not measured.",
+  "design_revision": "2026-10-09-two-surface-reset",
+  "pending_design_selection": "coffee garage position; proposal flush sink-sidewall above microwave-sidecounter under spice/tech nook",
   "coffee_garage": {
-    "status": "relocated to endwall unit abovewine",
+    "status": "location unresolved; do not generate",
     "open": "outputs/keyframes/end-wall-open-v1.png",
     "closed": "outputs/keyframes/end-wall-closed-v2.png",
     "limits": "partial reveal illustration, not operating clearance proof"
@@ -69,11 +69,12 @@
     "wall": "blank end wall beside main fridge; user calls north wall"
   },
   "end_wall_layout": "kitchen-blueprint/end-wall-proposed.json",
-  "end_wall_status": "closed-v2 and open-v1 visually reviewed; open illustrates partial extension only",
+  "end_wall_status": "REJECTED projectingunit/poster; replacewithwallflushwine",
   "end_wall_views": {
     "closed": "outputs/keyframes/end-wall-closed-v2.png",
     "reveal": "outputs/keyframes/end-wall-open-v1.png",
-    "limits": "Partial extension shown; 14-inch operating travel and actual fit NOT verified."
+    "limits": "Partial extension shown; 14-inch operating travel and actual fit NOT verified.",
+    "status": "rejected by user, historical only"
   },
-  "microwave_location": "RunB x27\u201351 after24blindreturn+3filler; original leftmostbay superseded"
+  "microwave_location": "sink-side leftof sink peruserreference; forcedx27\u201351shift withdrawn withtower"
 }
