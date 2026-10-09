@@ -39,7 +39,7 @@ apartment photograph is not required.
 ## Production started — 2026-10-08
 
 First-phase ceiling: **200 Higgsfield credits**. The editable directing document is
-[`outputs/shotlist.html`](outputs/shotlist.html): 13 editorial shots, 29 atomic takes.
+[`outputs/shotlist.html`](outputs/shotlist.html): 13 editorial shots, 30 atomic takes.
 Actual job quotes, request/result receipts and state are in `outputs/production/`;
 [`budget.json`](outputs/production/budget.json) is the cost ledger.
 
@@ -54,7 +54,7 @@ proof of surveyed dimensions or exact manufacturer fidelity):
 Motion proofs in `outputs/pilots/` are isolated tests, not the final film or accepted
 production shots. Read [`outputs/inspection.txt`](outputs/inspection.txt) before reuse.
 Initial pass spent 111.75 credits; the user-directed concrete/concealed-espresso
-revision added 19.5. **Total: 131.25 credits; 68.75 remain** under the phase ceiling,
+revision added 19.5. **Previous reference-set checkpoint: 131.25 credits; 68.75 remained** under the phase ceiling,
 verified against the account balance. The current views remove the wooden floor lamp,
 use continuous concrete with a dining rug, and hide the sleek coffee station from
 the apartment-facing angle. Old motion proofs retain superseded finishes. Sampled pilot results: quartz fails worktop seating;
@@ -64,6 +64,13 @@ completed; no automated paid work remains running.
 
 The full 60-second film has **not** been generated. Rejected variants are retained as
 drafts; the largest remaining production risk is physical-action endpoint fidelity.
+
+
+Latest sink-side concept: [`sink-v3-concept.png`](outputs/keyframes/sink-v3-concept.png)
+adds the requested built-in microwave and new faucet, plus a proposed shallow spice/tech
+module on the kitchen-side end wall. The optional module awaits taste review before
+propagation; other views still show the prior faucet. No motion generated for this change.
+Total phase spend: **137.75 credits**, with **62.25 remaining** under the 200 ceiling.
 
 ## Accuracy
 

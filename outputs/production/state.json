@@ -1,6 +1,6 @@
 {
   "project": "vero-kitchen-film",
-  "phase": "revised concrete-floor reference set generated and visually reviewed; old motion proofs superseded",
+  "phase": "sink-side microwave/faucet/spice-tech concept generated; optional nook awaiting user taste review",
   "budget_ceiling_credits": 200,
   "approved_features": [
     "Wolf GR304 gas range, red knobs",
@@ -14,17 +14,17 @@
   "views": {
     "master": {
       "original": "references/original/ref-a-cooking-run.webp",
-      "status": "revised-candidate-visually-reviewed",
+      "status": "prior-design-needs-sink-side-propagation",
       "take": "master-v4"
     },
     "sink": {
       "original": "references/original/ref-b-sink-run.webp",
-      "status": "revised-candidate-visually-reviewed",
-      "take": "sink-v2"
+      "status": "concept-visually-reviewed",
+      "take": "sink-v3-concept"
     },
     "apartment": {
       "original": "references/original/ref-h-apartment-facing.webp",
-      "status": "revised-candidate-visually-reviewed",
+      "status": "prior-design-needs-faucet-propagation",
       "take": "apartment-v6"
     }
   },
@@ -54,5 +54,6 @@
     }
   ],
   "gate": "No video generation until finished views agree and stage/worker references are inspected.",
-  "design_revision": "concrete-concealed-espresso"
+  "design_revision": "sink-microwave-faucet-nook-concept",
+  "pending_design_selection": "Optional shallow built-out spice/tech nook; do not propagate to all views or motion until user selects concept."
 }

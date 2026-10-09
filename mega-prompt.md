@@ -37,6 +37,7 @@ is required from the user.
 | REF-F | `references/inspiration/ref-f-cooking-zone.webp` | Pale box/chimney hood, brushed pot filler, cooking-wall material |
 | REF-G | `references/inspiration/ref-g-full-room.webp` | Material character only; floor finish superseded by concrete; preserve current ceiling-track continuity |
 | REF-H-DESIGN | `references/inspiration/ref-h-finished-apartment-facing.png` | User-supplied finished-design apartment-facing image; appearance/viewpoint intent only, not original geometry. Its electric cooktop and stainless undercabinet hood do not supersede the gas Wolf range and REF-F hood requirements. |
+| REF-J | `references/inspiration/ref-j-sink-microwave.png` | User-supplied sink-side microwave placement reference; its faucet is rejected, and its double basin/floor do not supersede current design |
 
 Appearance references do not authorize copying their room dimensions, island, floor plan,
 or cabinet arrangement. Photographs govern architecture; inspiration governs appearance.
@@ -66,7 +67,8 @@ No window in the kitchen — a clerestory awning window on the hall wall illumin
 | OTR microwave | 30″ wide, bottom rail ≈67″ AFF, recirculating |
 
 The microwave is **over-the-range in the original kitchen only**. Remove it during
-strip-out; it must not appear in the finished kitchen. The original smoothtop range
+strip-out; it must not appear above the range in the finished kitchen. A NEW built-in
+microwave is authorized in the sink-side base cabinetry (see Section D). The original smoothtop range
 is replaced by the Wolf range specified below. Existing-appliance measurements
 above describe the BEFORE state, not the finished appliance selection.
 
@@ -130,7 +132,11 @@ Translate the inspiration photographs into the supplied geometry:
   restrained neutral rug under the dining table and chairs; no carpet or oak floor
 - Mandatory pale box/chimney hood matching REF-F, centered above the Wolf range
 - Brushed wall-mounted pot filler above the range on Run A
-- Modern deep undermount sink, slim pull-down faucet, soap dispenser on Run B
+- Modern deep single-bowl undermount sink on Run B (retain the current single basin).
+- Refined slim brushed-stainless/nickel faucet with a clean gently squared L-shaped
+  spout and restrained single lever, matching the cabinet hardware and pot filler.
+  Avoid the bulky drooping spray head in REF-J. Pair with a minimal matching soap
+  dispenser; lock the selected silhouette across all viewpoints.
 - Stainless main refrigerator in the original 33″ bay
 - Wolf GR304 30″ gas range, stainless steel with red control knobs, beneath the
   mandatory REF-F-style hood and pot filler. This supersedes the earlier Viking choice.
@@ -157,13 +163,28 @@ Translate the inspiration photographs into the supplied geometry:
 - One elegant low fruit bowl with a modest arrangement of fresh fruit on the bar,
   separated from the flowers. Preserve clear counter space and three usable stool
   positions. Flowers and fruit bowl are mandatory finished-design elements.
-- Original over-the-range microwave removed; no microwave in the finished design
+- Original over-the-range microwave removed; the Wolf retains its mandatory hood.
+- NEW built-in microwave in the sink-side base cabinetry to the LEFT of the sink,
+  as shown in `references/inspiration/ref-j-sink-microwave.png`: restrained black glass
+  face with brushed stainless trim, flush integrated into the cabinet run below the
+  worktop. No countertop microwave, no microwave above the Wolf, no displaced dishwasher
+  or sink. REF-J controls this appliance placement, not its double-bowl sink or floor.
+  Exact model/cutout/ventilation remain to be selected before claiming physical fit.
+- Proposed kitchen-side spice/tech nook: on the bare END WALL immediately LEFT of the
+  sink worktop, never on the apartment-facing wall. One shallow white-framed joinery
+  module with pale oak lining, an upper shelf of restrained matching spice jars,
+  and a lower integrated tech shelf for one compact Alexa-type speaker and neat phone
+  charging dock. Warm concealed accent light, concealed cable route, usable worktop
+  beneath. Preserve existing switch/outlet positions and opening geometry. Show this
+  as a shallow built-OUT panel/module; do not assume a cavity or cut into the existing
+  wall. This is a visual design concept, not proof of wall-recess feasibility.
 - Light-oak vertical/ribbed treatment on the apartment-facing bar front
 - Three cream upholstered counter-height stools with slim legs/footrails,
   credible spacing, feet resting on the floor
 - Restrained artwork/decor on an available wall surface
 
-Do not add: floating shelves, wall-mounted wine racks, a countertop microwave, an island,
+Do not add: unrelated floating shelves (the integrated spice/tech module is the specific
+authorized exception), wall-mounted wine racks, a countertop microwave, an island,
 wall-to-wall carpet, oak flooring, the rejected wooden floor lamp, or an ornate
 espresso machine.
 
@@ -214,12 +235,12 @@ trim appropriately.
 | 01 | 00:00–00:05 | Master (REF-A) | Strip-out: establish existing kitchen, show removal of old components including the OTR microwave and old range, time jump to prepared room; retain old fridge until Shot 07 | `outputs/shots/01_strip_out.mp4` |
 | 02 | 00:05–00:10 | Master | Floor-fitting action then time jump to workers levelling/fastening new base cabinets. Concrete continues through kitchen/living/dining; dining rug is added during staging. | `outputs/shots/02_floor_and_bases.mp4` |
 | 03 | 00:10–00:15 | Master | Both workers lower and seat the quartz worktop on the cooking run. NO sink cutout or faucet on this run. | `outputs/shots/03_cooking_counter.mp4` |
-| 04 | 00:15–00:20 | Sink run (REF-B) | Sink/worktop assembly seated on the sink run, then faucet fitting. Preserve DW, ledge, opening, apartment beyond. | `outputs/shots/04_sink_install.mp4` |
+| 04 | 00:15–00:20 | Sink run (REF-B) | Sink/worktop assembly seated on the sink run, then faucet fitting. Preserve DW, ledge, opening, apartment beyond. A separate insert installs the sink-side built-in microwave in the left base cabinet. | `outputs/shots/04_sink_install.mp4` |
 | 05 | 00:20–00:25 | Master | Separate beats with time jump: backsplash fitting, then upper-cabinet fastening. Shaker doors and glass inserts visible. | `outputs/shots/05_backsplash_uppers.mp4` |
-| 06 | 00:25–00:31 | Master | Separate actions with time jumps: hood fitting, pot-filler fastening to backsplash, then Wolf range placement beneath hood. No microwave returns. | `outputs/shots/06_cooking_equipment.mp4` |
+| 06 | 00:25–00:31 | Master | Separate actions with time jumps: hood fitting, pot-filler fastening to backsplash, then Wolf range placement beneath hood. No over-the-range microwave returns; sink-side built-in remains separate. | `outputs/shots/06_cooking_equipment.mp4` |
 | 07 | 00:31–00:35 | Master incl. real corner | Remove old fridge, place new one in the same 33″ bay. | `outputs/shots/07_fridge_replacement.mp4` |
 | 08 | 00:35–00:39 | Cooking-wall view | Worker installs and tests interior-cabinet and continuous undercabinet lighting. Illuminated backsplash clearly visible. Lighting stays ON for the rest of the film. | `outputs/shots/08_lighting_install.mp4` |
-| 09 | 00:39–00:44 | Supported viewpoint | Wall-finish work and artwork hanging. If the wine-fridge base-cabinet design is locked: workers install it here. Preserve the west corner. | `outputs/shots/09_wall_finish_and_wine.mp4` |
+| 09 | 00:39–00:44 | Supported viewpoint | Wall-finish work and artwork hanging; if the spice/tech concept is adopted, fit the shallow module to the kitchen-side end wall in a separate action. If the wine-fridge base-cabinet design is locked: workers install it here. Preserve the west corner. | `outputs/shots/09_wall_finish_and_wine.mp4` |
 | 10 | 00:44–00:49 | Apartment-facing (original REF-H) | Both workers position and secure the oak bar-front treatment. Preserve opening, counter, faucet, room boundaries. All lighting stays on. | `outputs/shots/10_bar_front.mp4` |
 | 11 | 00:49–00:55 | Apartment-facing + inserts | Three cream stools carried in and positioned by workers. Red SMEG toaster and kettle, sleek concealed espresso station with two cups, fresh flowers, fruit bowl, and dining rug placed through separate short action inserts. End with visible positioning work, not prolonged wiping. | `outputs/shots/11_stools_and_staging.mp4` |
 | 12 | 00:55–00:57 | Widest original kitchen angle | Complete reveal: both runs, all boundaries, all completed features including SMEG appliances, sleek concealed espresso station, flowers, and fruit bowl. Interior/undercabinet/hood lighting on. | `outputs/shots/12_reveal.mp4` |
@@ -234,7 +255,8 @@ Shotlist: `outputs/shotlist.html`. Inspection record: `outputs/inspection.txt`.
 Once installed, a feature stays installed. Specifically:
 - The sink stays on Run B; a second sink never appears on Run A
 - The Wolf range stays beneath the hood and pot filler after Shot 06
-- The microwave is removed in Shot 01 and never returns
+- The old over-the-range microwave is removed in Shot 01 and never returns. The
+  NEW sink-side built-in microwave arrives in Shot 04 and remains there afterward.
 - The refrigerator changes only during Shot 07
 - Cabinet-interior and undercabinet lighting stay on after Shot 08 through the final frame
 - The three stools arrive through worker actions in Shot 11 and remain afterward
@@ -252,7 +274,7 @@ Worker presence alone is insufficient.
 Watch the complete exported film and inspect every cut against the actual returned frames:
 
 - Shots 03/04/06: correct cooking-run vs sink-run assignment
-- Shot 06 onward: selected Wolf range beneath the mandatory hood; no microwave
+- Shot 06 onward: selected Wolf range beneath the mandatory hood; no over-the-range microwave
 - Shots 07/09/13: same refrigerator position, real corner, supported wine-fridge geometry
 - Shots 08/10/11/12/13: same interior-cabinet, undercabinet, and hood lighting
 - Shots 10/11/13: same bar, faucet, three stools, opening, apartment-facing geometry
@@ -261,6 +283,8 @@ Watch the complete exported film and inspect every cut against the actual return
   their correct placement across the two reveal angles and usable counter/stool space.
   Espresso is visible only from kitchen-side views, concealed in apartment-facing view.
 - Final views: continuous concrete floor, dining-area rug, no wooden floor lamp.
+- Sink-side views: built-in microwave left of sink, same new faucet silhouette, and
+  spice/tech module on the kitchen-side end wall if adopted. No dishwasher displacement.
 - All shots: consistent workers, plausible actions, cumulative construction progress
 - 00:35–01:00: no feature disappearance, layout changes, idle filler, or lighting loss
 
@@ -346,3 +370,12 @@ acceptance. Concrete extends across visible kitchen/living/dining, with a dining
 the oak bar-front treatment remains. The sleek espresso machine is over the dishwasher
 on the lower work counter and hidden from the apartment-facing camera. No new motion
 until the revised reference views agree.
+
+## O. SINK-SIDE DESIGN ADDITIONS — 2026-10-08
+
+User requested the sink-side built-in microwave shown in REF-J, a faucet suited to the
+current design, and a possible spice nook/tech shelf with charging and an Alexa-type
+device on the bare kitchen-side wall left of the sink. These supersede the blanket
+no-microwave rule and the earlier faucet. Retain the single-bowl sink, concrete floor,
+hidden sleek espresso above dishwasher, flowers and fruit. First review the sink-side
+concept before propagating the optional joinery design or spending on motion.

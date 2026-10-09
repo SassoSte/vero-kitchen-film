@@ -1,0 +1,40 @@
+[
+  {
+    "created_at": "2026-10-09T04:50:33.707137Z",
+    "display_name": "GPT Image 2",
+    "id": "227c016a-5bf7-49b3-866b-1429d9e1ef5d",
+    "job_type": "gpt_image_2",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261009_045033_227c016a-5bf7-49b3-866b-1429d9e1ef5d_min.webp",
+    "params": {
+      "aspect_ratio": "16:9",
+      "height": 1520,
+      "medias": [
+        {
+          "data": {
+            "id": "f05fb21f-a7a9-49a1-844a-1874146f27c0",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/f05fb21f-a7a9-49a1-844a-1874146f27c0_resize.jpg"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "3a336f30-2a72-4292-a0d1-268cc036e92d",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/3a336f30-2a72-4292-a0d1-268cc036e92d_resize.jpg"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "videotape-alpha",
+      "prompt": "Revise IMAGE 1, the current finished real kitchen, to show three specific client additions. Preserve EXACT camera, room footprint, wall planes, sink and dishwasher locations, raised ledge, opening, fan/slider view, warm grey CONCRETE floor throughout, white Shaker cabinet style/hardware, restrained quartz veining, flowers and fruit on ledge, and the sleek rectangular espresso maker at right on LOWER counter above dishwasher. Image 2 is a REFERENCE FOR BUILT-IN MICROWAVE PLACEMENT ONLY. Do NOT import its double-bowl sink, old faucet, flooring or other differences.\n1. Integrate a compact built-in microwave into the existing LEFT base cabinet under the unused worktop left of sink, positioned like image 2. Black glass front with brushed stainless perimeter, flush fitted cabinet face, modest handle, cabinet/drawer trim above and below. Preserve full counter and existing run length, sink and right-side dishwasher. No extra appliance tower, no countertop microwave.\n2. Replace faucet with an elegant slim brushed nickel/stainless contemporary L-spout faucet: vertical slender stem, smooth softly squared bend to horizontal short spout over basin, discreet single lever and small integrated pull-out tip. No bulky bell-shaped hanging head, no industrial spring, no gooseneck droop. Keep the current SINGLE deep undermount basin and a minimal matching soap dispenser. Polished but restrained design matching handles.\n3. On the BARE KITCHEN-SIDE WALL directly LEFT of the sink, above unused left worktop, add ONE shallow integrated-looking nook module, about 20 inches wide and 24 high, approximately 4 inches proud of the existing wall surface. White thin frame and pale oak back/interior to tie to oak bar. SHOW A SLIM SIDE RETURN so this is clearly a built-OUT joinery box, not excavation into the existing wall. Upper compartment holds 5 small matching glass spice jars with simple oak lids, no large labels. Lower compartment is an integral tech shelf holding one small charcoal puck-style smart speaker and one phone standing on a neat charging dock, no trailing wires. Warm concealed light under upper shelf. Quiet elegant cabinetmaker detail, not a gadget wall. Keep outlets/switches visible and in original positions; locate module above them without covering. Keep worktop usable, window/opening/left pier unchanged. Do NOT place feature on apartment-facing wall or add an upper cabinet above sink. No invented wall cavity or room expansion.\nOne photoreal architectural concept, same 16:9 composition, no people or text overlays. All other features untouched.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 2688
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261009_045033_227c016a-5bf7-49b3-866b-1429d9e1ef5d.png",
+    "status": "completed"
+  }
+]

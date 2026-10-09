@@ -1,7 +1,7 @@
 {
   "ceiling_credits": 200,
   "opening_balance": 1246.8,
-  "reserved_credits": 131.25,
+  "reserved_credits": 137.75,
   "jobs": [
     {
       "name": "master-v1",
@@ -148,9 +148,16 @@
       "status": "generated",
       "job_id": "252a3e33-ccaa-4e02-a499-971553af16a9",
       "file": "outputs/keyframes/master-v4.png"
+    },
+    {
+      "name": "sink-v3-concept",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "227c016a-5bf7-49b3-866b-1429d9e1ef5d",
+      "file": "outputs/keyframes/sink-v3-concept.png"
     }
   ],
-  "balance_after": 1115.55,
-  "balance_delta": 131.25,
-  "remaining_phase_credits": 68.75
+  "balance_after": 1109.05,
+  "balance_delta": 137.75,
+  "remaining_phase_credits": 62.25
 }
