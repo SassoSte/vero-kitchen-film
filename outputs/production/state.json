@@ -1,9 +1,8 @@
 {
   "project": "vero-kitchen-film",
-  "phase": "locations locked; clean active brief; revised reference set awaiting user review; no new motion",
+  "phase": "new integrated coffee reference and French-door revision; awaiting model fit and rendering budget",
   "budget_ceiling_credits": 200,
   "approved_features": [
-    "Bosch main-fridge visual: tall upper right-hinged door and bottom freezer drawer; remove old cupboard",
     "Wolf GR304 red knobs with pale hood; no over-range microwave",
     "Built-in microwave on sink side left of sink",
     "Red SMEG toaster and kettle",
@@ -11,26 +10,27 @@
     "Three cream stools, flowers and fruit",
     "Wall-flush wine fridge on blank wall beside main fridge; no projecting tower/poster",
     "Spice/tech nook on sink-side wall near microwave",
-    "Coffee garage and wine fridge both wall-flush on SAME blank end wall beside main fridge",
     "Spice/tech nook on OTHER sink-side wall near microwave",
-    "Above-dishwasher worktop clear; no exposed coffee machine"
+    "Above-dishwasher worktop clear; no exposed coffee machine",
+    "French-door main refrigerator: two upper doors meeting centrally and lower freezer drawer; real model/clearance pending",
+    "REF-K integrated wall-flush recessed coffee/wine composition, smaller machine, lit prep alcove and glass storage"
   ],
   "views": {
     "master": {
       "original": "references/original/ref-a-cooking-run.webp",
-      "status": "candidate-visually-reviewed",
+      "status": "historical candidate pending REF-K/French-door update",
       "take": "end-wall-flush-v1",
       "defects": []
     },
     "sink": {
       "original": "references/original/ref-b-sink-run.webp",
-      "status": "candidate-visually-reviewed",
+      "status": "historical candidate pending REF-K/French-door update",
       "take": "sink-v4",
       "defects": []
     },
     "apartment": {
       "original": "references/original/ref-h-apartment-facing.webp",
-      "status": "candidate-targeted-correction-reviewed",
+      "status": "historical candidate pending REF-K/French-door update",
       "take": "apartment-v7",
       "defects": [],
       "review_limits": [
@@ -66,16 +66,16 @@
     }
   ],
   "gate": "No video generation until finished views agree and stage/worker references are inspected.",
-  "design_revision": "2026-10-09-wall-flush-coffee-and-wine",
+  "design_revision": "2026-10-09-ref-k-french-doors",
   "pending_design_selection": null,
   "coffee_garage": {
-    "status": "location locked; closed visual concept",
+    "status": "REF-K integrated recessed coffee/wine composition; smaller coffee unit; plain hatch superseded",
     "wall": "same blank wall as wine fridge beside main refrigerator",
     "reference": "outputs/keyframes/end-wall-flush-v1.png",
     "limits": "Closed panel hides function; open reveal, mechanism and cavity/clearance not established."
   },
   "appliance_candidates": {
-    "main": "Bosch B30BB130SS right-hinge upper door / bottom freezer drawer",
+    "main": "French-door model pending fit; previous Bosch single-door superseded",
     "wine": "U-Line URWC315-IG01A",
     "status": "conditional-on-clearance-and-cabinetry",
     "wall": "blank end wall beside main fridge; user calls north wall"
@@ -87,5 +87,12 @@
     "status": "candidate visually reviewed; no physical-fit claim"
   },
   "microwave_location": "sink-side leftof sink peruserreference; forcedx27\u201351shift withdrawn withtower",
-  "geometry_lock": "outputs/production/geometry-lock.json"
+  "geometry_lock": "outputs/production/geometry-lock.json",
+  "fridge_style": "French-door upper pair meeting at center, bottom freezer drawer",
+  "next_job": {
+    "request": "outputs/production/integrated-wall-frenchdoor-v1-request.json",
+    "quoted_credits": 6.5,
+    "status": "NOT SUBMITTED; requires budget cap increase",
+    "minimum_total_cap_for_one_job": 204.75
+  }
 }

@@ -1,0 +1,13 @@
+{
+  "model": "gpt_image_2",
+  "params": {
+    "quality": "high",
+    "resolution": "2k",
+    "aspect_ratio": "16:9"
+  },
+  "references": [
+    "outputs/keyframes/end-wall-flush-v1.png",
+    "references/inspiration/ref-k-integrated-coffee-wine.png"
+  ],
+  "prompt": "Revise image1's end wall according to image2's INTEGRATED COFFEE/WINE COMPOSITION, adapted to the existing small kitchen. Preserve actual room footprint,33-inch main-fridge bay, camera, Wolf/hood/SMEG, concrete and white Shaker finish. Reference2 is style only, not permission to enlarge room. Wine fridge and coffee remain on SAME blank wall beside mainfridge, all cabinetry fronts flush with wall, no projecting tower. Create a refined recessed wall composition: low compact15-inch-class glass wine fridge, smaller sleek espresso unit than reference2 inside a modest recessed niche, small illuminated quartz preparation alcove, and warm-lit frosted/glass white Shaker storage above. Pale oak interior details restrained. No poster or electronics on this wall. No espresso over dishwasher; that counter clear. New main-fridge DESIGN is French-door: two upper doors meet at CENTER with paired central handles, outer hinges, lower pull-out freezer drawer with horizontalhandle. Do not copy reference2's single upper door or invent Bosch branding for a French-door machine. Use plausible30\u201332-inch-class proportions inside unchanged33-inch bay; this is an unverified visual concept, not an installation drawing. Keep original ceiling and aisle widths. One photoreal16:9 concept, no labels."
+}

@@ -2,14 +2,23 @@
 
 Photoreal 60-second kitchen-remodel video in preparation. Full video not generated.
 
-## Locked design — 2026-10-09
+## Current revision — 2026-10-09
+
+REF-K now governs the coffee/wine composition: recessed lit alcove, glass-front upper
+storage and a smaller espresso unit, adapted to our finishes. Main fridge is now
+FRENCH DOORS meeting centrally with bottom freezer drawer. Previous Bosch single-door
+choice and its height/cabinet decision are superseded; exact replacement model and
+wall-side clearance remain unverified. Next concept quoted 6.5 credits, not submitted
+because only 1.75 remain under the 200-credit cap.
+
+### Earlier design elements retained or superseded below
 
 - Wine fridge AND coffee garage on the SAME blank wall beside the main refrigerator,
   both flush with the wall face. No projecting tower, poster, or electronics there.
 - Spice/tech nook on the OTHER sink-side wall left of sink near the microwave.
 - Dishwasher countertop clear. No exposed espresso or garage above it.
-- Bosch tall main-fridge upper door: right hinge, left vertical handle, bottom freezer
-  drawer with horizontal handle; old over-fridge cupboard removed.
+- French-door main fridge: upper pair meeting centrally, outer hinges and bottom
+  freezer drawer. Keep 33-inch bay; model-specific height/cabinet decisions pending.
 - Wolf gas range/red knobs and pale hood; red SMEG toaster/kettle; white Shaker/glass
   cabinets and warm lighting; single undermount sink and refined L-spout faucet;
   sink-side built-in microwave; concrete floor and dining rug; oak bar and three
@@ -26,7 +35,8 @@ ventilation or mechanism has been physically verified.
 | Cooking/end wall | [end-wall-flush-v1](outputs/keyframes/end-wall-flush-v1.png) | Wall-flush wine + closed coffee panel, updated main fridge |
 | Sink side | [sink-v4](outputs/keyframes/sink-v4.png) | Separate spice/tech nook, microwave, clear dishwasher counter |
 
-These are visually reviewed candidates, not surveyed geometry or mechanism proof.
+These were visually reviewed before the latest REF-K/French-door change and are now
+historical candidates, not current appliance references or physical-fit proof.
 Coffee opening/reveal still needs its own reference before animation. Older images,
 especially projecting towers and top-freezer versions, are historical drafts only.
 

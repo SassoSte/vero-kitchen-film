@@ -44,18 +44,13 @@
     "/Users/stefansassoon/projects/vero/deco/assets/unit2130-2023/contact-sheet.png"
   ],
   "fridge_visual_lock": {
-    "model": "Bosch B30BB130SS",
-    "opening_width": 30,
-    "opening_height": 84,
+    "model": null,
     "existing_bay": 33,
-    "upper_door": "single tall door, right hinge and left vertical handle",
-    "freezer": "lower pull-out drawer, horizontal handle",
-    "remove": "old top-freezer and over-fridge cupboard",
-    "no_new_room_space": true,
-    "references": [
-      "references/products/bosch-b30bb130ss-front.webp",
-      "references/products/specs/bosch-b30bb130ss.pdf"
-    ]
+    "upper_doors": "French-door pair meeting at center; outer hinges and central handles",
+    "freezer": "lower pull-out drawer",
+    "height": "pending actual selected model",
+    "clearance": "verify wall-side left door and drawer access; do not inherit Bosch opening",
+    "supersedes": "Bosch B30BB130SS single upper door"
   },
   "room_rules": [
     "Original photos govern viewpoint and handedness; SVG page orientation is not a reason to mirror the room.",

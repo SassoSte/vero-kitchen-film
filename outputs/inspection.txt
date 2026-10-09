@@ -1,3 +1,6 @@
+LATEST REF-K / FRENCH-DOOR REVISION — 2026-10-09
+User supplied integrated coffee/wine reference; shrink espresso module, use recessed lit prep alcove/glass storage, not blankhatch. User requests French upper door pair plus bottom drawer. Previous single-door Bosch and84-inch opening superseded. Body-fit does not prove hinge-side clearance: Frigidaire official sheet31.3 closed/37.5 open; Samsung spec3.75 wall-side gap. No replacement declared physically fit. Prepared next image quoted6.5 but NOT submitted: remaining taskcap1.75. No new paidgeneration.
+
 LATEST LOCKED LOCATIONS — 2026-10-09
 User selected SAME blank wall for flush coffee and wine. end-wall-flush-v1 independently reviewed: wine face in wall plane (handle/trim project), separate closed coffee panel above; no projecting cabinet/tower, poster, electronics. MainBosch retained. Coffee function/operating stroke cannot be inferred from closed panel. sink-v4 parent review: exposed espresso and cups removed, DWcounter clear; microwave/Ltap/nook/concrete retained. Candidate set is apartment-v7/end-wall-flush-v1/sink-v4. No newmotion.
 Current pass8.5 credits (6.5+2); tasktotal198.25 andremaining1.75; account43.5→35.
