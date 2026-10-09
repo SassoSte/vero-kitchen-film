@@ -1,0 +1,12 @@
+{
+  "model": "gpt_image_2",
+  "params": {
+    "quality": "high",
+    "resolution": "2k",
+    "aspect_ratio": "16:9"
+  },
+  "references": [
+    "outputs/keyframes/end-wall-closed-v2.png"
+  ],
+  "prompt": "Make ONE precise architectural-design correction to this photograph. Preserve every region EXCEPT the LEFT BLANK END WALL installation. Same camera, room width, wall corners, ceiling, tall Bosch refrigerator with bottom freezer drawer, Wolf/hood/pot filler, SMEG, cabinets/lights, concrete floor, both countertops. This is a conceptual wall-integrated design, not a buildability claim.\nThe projecting cabinet tower on the LEFT is COMPLETELY WRONG. REMOVE the ENTIRE tower: all side panels, plinth, legs, projecting worktop, coffee cupboard, wood-lined spice/electronics shelves. REMOVE the Italy poster and frame entirely. Restore the original FLAT plaster WALL PLANE and floor where the tower projected. No ledge, boxed-out column, cabinet top or freestanding furniture remains.\nIn that same ORIGINAL wall plane, embed two separate elegant FLUSH openings on one vertical centerline. Lower: a compact15-inch-class wine refrigerator, black tinted glass face with restrained thin brushed-metal edge, discreet recessed pull and visible warm-lit wine racks. Its CLOSED door/front is COPLANAR WITH THE PLASTER WALL, not projecting. The appliance body is NOT visible; no side depth, no countertop over it, no raised surround. A slim ventilation strip at its bottom also sits in the wall plane. Upper: a refined approximately18-inch-wide white COFFEE-GARAGE panel, completely CLOSED and FLUSH WITH THE SAME WALL, matching wall color, precise tiny shadow gap and discreet touch-latch edge. Behind it is the compact espresso machine on a pull-out tray, but NOTHING protrudes or is visible while closed. Leave a calm band of ordinary plaster wall between the wine face and coffee panel. No continuous tall cabinet carcass; the wall itself remains uninterrupted around the two separate flush faces.\nNo spices, smart speaker, phone, charging dock or artwork anywhere on this end wall. Those belong on the OTHER sink-side wall and are OUT OF VIEW here. Counter above dishwasher at extremeleft stays completely clear. Do not change main fridge, add room depth or widen floor/aisle. Refined minimalist integrated detailing, existing warm palette and real texture. The absence of projection is critical: WALL-FLUSH BOTH wine and closed coffee front. One photoreal16:9 image, no labels/diagrams."
+}

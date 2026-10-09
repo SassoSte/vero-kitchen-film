@@ -1,0 +1,11 @@
+{
+  "model": "nano_banana_pro",
+  "params": {
+    "resolution": "2k",
+    "aspect_ratio": "16:9"
+  },
+  "references": [
+    "outputs/keyframes/sink-v3-concept.png"
+  ],
+  "prompt": "Localized removal ONLY. Remove the espresso machine and its two cups from the RIGHT countertop directly above the dishwasher. Restore the pale quartz countertop and wall texture behind them so the entire worktop above dishwasher is CLEAR and usable. Do not add any coffee machine, garage or cabinet anywhere. Coffee is now on another wall out of view. Preserve every other detail pixel-faithfully: camera, room architecture, compact built-in microwave at LEFT, refined L-shaped faucet, single-bowl sink, soap dispenser, spice/tech nook on LEFT kitchen-side wall with jars/phone/speaker, flowers, fruit, concrete floor, window, fan, all cabinet fronts and lighting. No wine fridge, poster, tower or additional objects. One same-frame photoreal edit."
+}

@@ -1,0 +1,29 @@
+[
+  {
+    "created_at": "2026-10-09T08:31:04.781627Z",
+    "display_name": "Nano Banana Pro",
+    "id": "4790db6d-6291-467c-bc05-4dde03fbe945",
+    "job_type": "nano_banana_pro",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261009_083104_4790db6d-6291-467c-bc05-4dde03fbe945_min.webp",
+    "params": {
+      "application": null,
+      "aspect_ratio": "16:9",
+      "batch_size": 1,
+      "height": 1536,
+      "input_image": null,
+      "input_images": [
+        {
+          "id": "13210f3a-8f26-411d-83a6-86c92fb2e3f0",
+          "type": "media_input",
+          "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/13210f3a-8f26-411d-83a6-86c92fb2e3f0_resize.jpg"
+        }
+      ],
+      "prompt": "Localized removal ONLY. Remove the espresso machine and its two cups from the RIGHT countertop directly above the dishwasher. Restore the pale quartz countertop and wall texture behind them so the entire worktop above dishwasher is CLEAR and usable. Do not add any coffee machine, garage or cabinet anywhere. Coffee is now on another wall out of view. Preserve every other detail pixel-faithfully: camera, room architecture, compact built-in microwave at LEFT, refined L-shaped faucet, single-bowl sink, soap dispenser, spice/tech nook on LEFT kitchen-side wall with jars/phone/speaker, flowers, fruit, concrete floor, window, fan, all cabinet fronts and lighting. No wine fridge, poster, tower or additional objects. One same-frame photoreal edit.",
+      "resolution": "2k",
+      "surface": null,
+      "width": 2752
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261009_083104_4790db6d-6291-467c-bc05-4dde03fbe945.png",
+    "status": "completed"
+  }
+]

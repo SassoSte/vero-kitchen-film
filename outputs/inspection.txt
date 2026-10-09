@@ -1,3 +1,7 @@
+LATEST LOCKED LOCATIONS — 2026-10-09
+User selected SAME blank wall for flush coffee and wine. end-wall-flush-v1 independently reviewed: wine face in wall plane (handle/trim project), separate closed coffee panel above; no projecting cabinet/tower, poster, electronics. MainBosch retained. Coffee function/operating stroke cannot be inferred from closed panel. sink-v4 parent review: exposed espresso and cups removed, DWcounter clear; microwave/Ltap/nook/concrete retained. Candidate set is apartment-v7/end-wall-flush-v1/sink-v4. No newmotion.
+Current pass8.5 credits (6.5+2); tasktotal198.25 andremaining1.75; account43.5→35.
+
 APARTMENT-V7 TARGETED CORRECTION — 2026-10-09
 Independent visual review: tall upper door with left vertical handle, lower freezer drawer seam/horizontal handle visible above bar; no old over-fridge cupboard; L-faucet corrected. Opening/adjacency/three stools/concrete/rug remain consistent. Partial pass only: dimensions/hinge operation not measured, wine wall outside view. Master/sink need reconciliation. Quote6.5, tasktotal189.75, remaining10.25. Account at start of this pass50.0, after43.5; earlier account change not attributed to task.
 

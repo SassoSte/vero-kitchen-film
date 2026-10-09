@@ -1,6 +1,6 @@
 {
   "project": "vero-kitchen-film",
-  "phase": "front-view fridge/faucet corrected; master/sink still outdated; coffee location unresolved",
+  "phase": "locations locked; clean active brief; revised reference set awaiting user review; no new motion",
   "budget_ceiling_credits": 200,
   "approved_features": [
     "Bosch main-fridge visual: tall upper right-hinged door and bottom freezer drawer; remove old cupboard",
@@ -11,29 +11,26 @@
     "Three cream stools, flowers and fruit",
     "Wall-flush wine fridge on blank wall beside main fridge; no projecting tower/poster",
     "Spice/tech nook on sink-side wall near microwave",
-    "Dishwasher countertop clear; coffee garage location unresolved"
+    "Coffee garage and wine fridge both wall-flush on SAME blank end wall beside main fridge",
+    "Spice/tech nook on OTHER sink-side wall near microwave",
+    "Above-dishwasher worktop clear; no exposed coffee machine"
   ],
   "views": {
     "master": {
       "original": "references/original/ref-a-cooking-run.webp",
-      "status": "outdated-fridge-and-location-details",
-      "take": "master-v4",
-      "defects": [
-        "old top-freezer",
-        "old over-fridge cupboard"
-      ]
+      "status": "candidate-visually-reviewed",
+      "take": "end-wall-flush-v1",
+      "defects": []
     },
     "sink": {
       "original": "references/original/ref-b-sink-run.webp",
-      "status": "component-reference-only-not-current-whole-design",
-      "take": "sink-v3-concept",
-      "defects": [
-        "exposed coffee machine aboveDW rejected"
-      ]
+      "status": "candidate-visually-reviewed",
+      "take": "sink-v4",
+      "defects": []
     },
     "apartment": {
       "original": "references/original/ref-h-apartment-facing.webp",
-      "status": "targeted-correction-partial-pass; not full kitchen signoff",
+      "status": "candidate-targeted-correction-reviewed",
       "take": "apartment-v7",
       "defects": [],
       "review_limits": [
@@ -69,11 +66,13 @@
     }
   ],
   "gate": "No video generation until finished views agree and stage/worker references are inspected.",
-  "design_revision": "2026-10-09-two-surface-reset",
-  "pending_design_selection": "coffee garage position; proposal flush sink-sidewall above microwave-sidecounter under spice/tech nook",
+  "design_revision": "2026-10-09-wall-flush-coffee-and-wine",
+  "pending_design_selection": null,
   "coffee_garage": {
-    "status": "UNRESOLVED; all previous locations rejected or superseded",
-    "limits": "partial reveal illustration, not operating clearance proof"
+    "status": "location locked; closed visual concept",
+    "wall": "same blank wall as wine fridge beside main refrigerator",
+    "reference": "outputs/keyframes/end-wall-flush-v1.png",
+    "limits": "Closed panel hides function; open reveal, mechanism and cavity/clearance not established."
   },
   "appliance_candidates": {
     "main": "Bosch B30BB130SS right-hinge upper door / bottom freezer drawer",
@@ -82,12 +81,10 @@
     "wall": "blank end wall beside main fridge; user calls north wall"
   },
   "end_wall_layout": "kitchen-blueprint/end-wall-proposed.json",
-  "end_wall_status": "REJECTED projectingunit/poster; replacewithwallflushwine",
+  "end_wall_status": "wall-flush wine and closed coffee reference generated; prior tower rejected",
   "end_wall_views": {
-    "closed": "outputs/keyframes/end-wall-closed-v2.png",
-    "reveal": "outputs/keyframes/end-wall-open-v1.png",
-    "limits": "Partial extension shown; 14-inch operating travel and actual fit NOT verified.",
-    "status": "rejected by user, historical only"
+    "closed": "outputs/keyframes/end-wall-flush-v1.png",
+    "status": "candidate visually reviewed; no physical-fit claim"
   },
   "microwave_location": "sink-side leftof sink peruserreference; forcedx27\u201351shift withdrawn withtower",
   "geometry_lock": "outputs/production/geometry-lock.json"

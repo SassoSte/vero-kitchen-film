@@ -1,7 +1,7 @@
 {
   "ceiling_credits": 200,
   "opening_balance": 1246.8,
-  "reserved_credits": 189.75,
+  "reserved_credits": 198.25,
   "jobs": [
     {
       "name": "master-v1",
@@ -211,16 +211,30 @@
       "status": "generated",
       "job_id": "938f5ff1-6bcd-4767-8e30-039bc7ce8042",
       "file": "outputs/keyframes/apartment-v7.png"
+    },
+    {
+      "name": "end-wall-flush-v1",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "8eea5a88-2173-45e7-bbec-1190270ecb03",
+      "file": "outputs/keyframes/end-wall-flush-v1.png"
+    },
+    {
+      "name": "sink-v4",
+      "quote": 2,
+      "status": "generated",
+      "job_id": "4790db6d-6291-467c-bc05-4dde03fbe945",
+      "file": "outputs/keyframes/sink-v4.png"
     }
   ],
-  "balance_after": 43.5,
+  "balance_after": 35,
   "balance_delta": null,
-  "remaining_phase_credits": 10.25,
-  "account_snapshot_note": "Previous snapshot1063.55; this pass began50.0 before submission. Difference before this pass is not attributed to this task. Current pass quote and observed balance change both6.5.",
-  "task_quote_total": 189.75,
+  "remaining_phase_credits": 1.75,
+  "account_snapshot_note": "Latest pass account decrease43.5 to35 matches two job quotes6.5+2. Earlier account changes outside recorded jobs are not assigned to this task.",
+  "task_quote_total": 198.25,
   "latest_pass": {
-    "opening_account_balance": 50,
-    "closing_account_balance": 43.5,
-    "quoted_cost": 6.5
+    "opening_account_balance": 43.5,
+    "closing_account_balance": 35,
+    "quoted_cost": 8.5
   }
 }
