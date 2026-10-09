@@ -15,6 +15,20 @@ Create a photorealistic 60-second construction film of the kitchen at 14145 N 92
 Reference photographs and dimensioned blueprints are in this repo — use them as
 ground truth. Produce one consistent kitchen across every viewpoint and stage.
 
+## Cross-view geometry contract — 2026-10-09
+
+`outputs/production/geometry-lock.json` is the shared dimension and appliance
+checklist derived from the source plans/photos and the Bosch manufacturer sheet.
+Every angle must use the same room and appliance state. No generated frame establishes
+architecture or overrides the original photos. Never present a mixed-version gallery
+as a current finished kitchen.
+
+- apartment-v6 and master-v4 are outdated: old top-freezer and over-fridge cupboard.
+- apartment-v7 corrects the front fridge/cupboard and faucet; inspect before acceptance.
+- sink-v3-concept is a component reference only; exposed espresso placement is rejected.
+- End-wall tower/poster frames remain rejected even though they show the newer fridge.
+- There is currently no fully reconciled three-view set. Coffee location is unresolved.
+
 ## A. SOURCE AUTHORITY
 
 Original photographs (this repo, `references/original/`) govern architecture.

@@ -1,0 +1,48 @@
+[
+  {
+    "created_at": "2026-10-09T07:37:06.838519Z",
+    "display_name": "GPT Image 2",
+    "id": "938f5ff1-6bcd-4767-8e30-039bc7ce8042",
+    "job_type": "gpt_image_2",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261009_073706_938f5ff1-6bcd-4767-8e30-039bc7ce8042_min.webp",
+    "params": {
+      "aspect_ratio": "16:9",
+      "height": 1520,
+      "medias": [
+        {
+          "data": {
+            "id": "9d6885e7-bb1c-4fbb-82c5-691263660548",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/9d6885e7-bb1c-4fbb-82c5-691263660548_resize.jpg"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "3c796904-77db-45b1-a909-f5cba803931f",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/3c796904-77db-45b1-a909-f5cba803931f_resize.jpg"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "a958b70d-6d5a-4ce7-ad7c-a7b94f1ab313",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/a958b70d-6d5a-4ce7-ad7c-a7b94f1ab313_resize.jpg"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "videotape-alpha",
+      "prompt": "Correct TWO specific outdated details in IMAGE 1. Preserve the exact original apartment-facing camera, wall openings/jambs/header, bar geometry, THREE stools, concrete floor, dining rug/table/art, lighting, all other cabinets, hood, Wolf gas range, red SMEG toaster/kettle, pot filler, flowers and fruit. Image 2 is the exact selected Bosch refrigerator product. Image 3 is a reference for FAUCET SHAPE ONLY, nothing else.\nFIRST: image 1 incorrectly shows a short TOP-FREEZER refrigerator with a small cabinet above it. Replace BOTH that old refrigerator and the small cupboard directly above it with the tall Bosch B30BB130SS from image 2 in the SAME existing refrigerator bay. Its installation opening is 30 inches wide and84 inches high inside the existing33-inch bay under a96-inch ceiling. Preserve the bay width; do not widen or move fridge. Its top should align approximately with the TOPS of the neighboring upper cabinets at84 inches, leaving the same12-inch open wall gap to ceiling. No cupboard remains above fridge. EXACT DOORS: one tall upper refrigerator door with long vertical handle on LEFT edge and hinges on RIGHT; a shorter bottom pull-out FREEZER DRAWER with HORIZONTAL handle. There must NOT be a small freezer door at top or a vertical handle on the lower freezer drawer. The foreground bar may naturally occlude bottom drawer—do not lower or remove bar to show it. Copy real product proportions from image2, preserve door face geometry where visible.\nSECOND: replace the foreground faucet's curved gooseneck with the slim brushed-metal L-shaped spout and restrained side lever from image3. Same original faucet position and height appropriate to sink; no basin or ledge alterations. No coffee machine should become visible.\nDo not import image3's espresso machine, spice nook or microwave into this camera view. Do not add a wine tower or Italy poster. No new architecture, no new objects, no camera move, no room enlargement. Photoreal localized correction to image1, 16:9.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 2688
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261009_073706_938f5ff1-6bcd-4767-8e30-039bc7ce8042.png",
+    "status": "completed"
+  }
+]

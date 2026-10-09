@@ -1,0 +1,73 @@
+{
+  "units": "inches",
+  "source_dimensions": {
+    "kitchen_runs": 123,
+    "zone_depth": 105,
+    "aisle": 54,
+    "counter_depth": 25.5,
+    "counter_height": 36,
+    "kitchen_ceiling": 96,
+    "upper_cabinets_bottom": 54,
+    "upper_cabinets_top": 84,
+    "upper_to_ceiling_gap": 12,
+    "cooking_sequence": [
+      33,
+      24,
+      30,
+      36
+    ],
+    "sink_run_modules": [
+      66,
+      33,
+      24
+    ],
+    "bar_length": 66,
+    "living_room": [
+      157,
+      152
+    ],
+    "dining_zone": [
+      102,
+      80
+    ]
+  },
+  "confidence": {
+    "kitchen": "module standards plus photo estimates; source H +/-2\u20133, E +/-3\u20135; not surveyed",
+    "living_dining": "render-derived +/-4\u20136; not surveyed"
+  },
+  "sources": [
+    "kitchen-blueprint/dimensions.md",
+    "kitchen-blueprint/plan.svg",
+    "kitchen-blueprint/elevations.svg",
+    "apartment-blueprint/living-room-dimensions.md",
+    "/Users/stefansassoon/projects/vero/deco/unit-blueprint/unit-dimensions.md",
+    "/Users/stefansassoon/projects/vero/deco/assets/unit2130-2023/contact-sheet.png"
+  ],
+  "fridge_visual_lock": {
+    "model": "Bosch B30BB130SS",
+    "opening_width": 30,
+    "opening_height": 84,
+    "existing_bay": 33,
+    "upper_door": "single tall door, right hinge and left vertical handle",
+    "freezer": "lower pull-out drawer, horizontal handle",
+    "remove": "old top-freezer and over-fridge cupboard",
+    "no_new_room_space": true,
+    "references": [
+      "references/products/bosch-b30bb130ss-front.webp",
+      "references/products/specs/bosch-b30bb130ss.pdf"
+    ]
+  },
+  "room_rules": [
+    "Original photos govern viewpoint and handedness; SVG page orientation is not a reason to mirror the room.",
+    "Wine wall and sink-side niche wall must retain separate source-based identities.",
+    "No projected wine tower, poster, or added room width.",
+    "Coffee location remains unresolved; dishwasher countertop clear."
+  ],
+  "source_discrepancies": [
+    "whole-unit table kitchen142sqft contradicts123x105inch area89.6875sqft",
+    "whole-unit462in label38ft5in should38ft6in",
+    "plan cap45in differs dimension/elevation approx60in",
+    "whole-unit schematic appliance labels/handedness cannot override original photos"
+  ],
+  "generated_views_are_not_geometry_evidence": true
+}

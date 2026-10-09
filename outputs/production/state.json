@@ -1,31 +1,46 @@
 {
   "project": "vero-kitchen-film",
-  "phase": "user rejected endwalltower; two-surface reset, coffee location awaiting decision",
+  "phase": "front-view fridge/faucet corrected; master/sink still outdated; coffee location unresolved",
   "budget_ceiling_credits": 200,
   "approved_features": [
-    "Wolf GR304 gas range, red knobs",
-    "Pale REF-F hood; no microwave",
+    "Bosch main-fridge visual: tall upper right-hinged door and bottom freezer drawer; remove old cupboard",
+    "Wolf GR304 red knobs with pale hood; no over-range microwave",
+    "Built-in microwave on sink side left of sink",
     "Red SMEG toaster and kettle",
-    "Sleek espresso machine above dishwasher, hidden from apartment view",
-    "White flowers with greenery and fruit bowl",
-    "Original architecture, continuous concrete, dining rug, three cream stools",
-    "No wooden floor lamp"
+    "Continuous concrete and dining rug",
+    "Three cream stools, flowers and fruit",
+    "Wall-flush wine fridge on blank wall beside main fridge; no projecting tower/poster",
+    "Spice/tech nook on sink-side wall near microwave",
+    "Dishwasher countertop clear; coffee garage location unresolved"
   ],
   "views": {
     "master": {
       "original": "references/original/ref-a-cooking-run.webp",
-      "status": "prior-design-needs-sink-side-propagation",
-      "take": "master-v4"
+      "status": "outdated-fridge-and-location-details",
+      "take": "master-v4",
+      "defects": [
+        "old top-freezer",
+        "old over-fridge cupboard"
+      ]
     },
     "sink": {
       "original": "references/original/ref-b-sink-run.webp",
-      "status": "paired-coffee-garage-concept",
-      "take": "coffee-garage-closed-v2"
+      "status": "component-reference-only-not-current-whole-design",
+      "take": "sink-v3-concept",
+      "defects": [
+        "exposed coffee machine aboveDW rejected"
+      ]
     },
     "apartment": {
       "original": "references/original/ref-h-apartment-facing.webp",
-      "status": "prior-design-needs-faucet-propagation",
-      "take": "apartment-v6"
+      "status": "targeted-correction-partial-pass; not full kitchen signoff",
+      "take": "apartment-v7",
+      "defects": [],
+      "review_limits": [
+        "bar partly occludes freezer drawer",
+        "physical dimensions and hinge operation not proven",
+        "wine wall outside this view"
+      ]
     }
   },
   "motion_pilots": [
@@ -57,9 +72,7 @@
   "design_revision": "2026-10-09-two-surface-reset",
   "pending_design_selection": "coffee garage position; proposal flush sink-sidewall above microwave-sidecounter under spice/tech nook",
   "coffee_garage": {
-    "status": "location unresolved; do not generate",
-    "open": "outputs/keyframes/end-wall-open-v1.png",
-    "closed": "outputs/keyframes/end-wall-closed-v2.png",
+    "status": "UNRESOLVED; all previous locations rejected or superseded",
     "limits": "partial reveal illustration, not operating clearance proof"
   },
   "appliance_candidates": {
@@ -76,5 +89,6 @@
     "limits": "Partial extension shown; 14-inch operating travel and actual fit NOT verified.",
     "status": "rejected by user, historical only"
   },
-  "microwave_location": "sink-side leftof sink peruserreference; forcedx27\u201351shift withdrawn withtower"
+  "microwave_location": "sink-side leftof sink peruserreference; forcedx27\u201351shift withdrawn withtower",
+  "geometry_lock": "outputs/production/geometry-lock.json"
 }

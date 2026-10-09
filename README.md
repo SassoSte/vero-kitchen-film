@@ -1,116 +1,63 @@
 # vero-kitchen-film
 
-> **2026-10-09 reset:** latest projecting end-wall tower and Italy artwork are rejected.
-> Wine fridge is wall-flush beside main fridge; spice/tech nook returns to sink-side
-> wall near microwave. Coffee garage position is unresolved. Prior renders/proposal
-> diagrams below are historical, not current production authorities. No new paid
-> generation until the remaining location is agreed.
+A 60-second kitchen-remodel video in development. The full video has not been produced.
 
+## Current design status — 2026-10-09
 
-Public payload repo for a Higgsfield `/shotlist-director` kitchen-remodel
-construction film. Production decisions and unresolved inputs are recorded in
-`mega-prompt.md`, including the mandatory hood above a Wolf range and the
-200-credit first-phase ceiling.
+The latest end-wall tower and Italy artwork are rejected. The wine fridge must be
+flush with the blank wall beside the main fridge. Spice/tech belongs on the sink-side
+wall near the microwave. The dishwasher countertop stays clear. Coffee-garage
+location remains unresolved; the sink-side-wall proposal has not been selected.
 
-## What's here
+The selected main-fridge design is Bosch B30BB130SS: tall upper door, right hinge,
+left vertical handle, bottom freezer drawer with horizontal handle. Its 84-inch opening
+replaces the old fridge AND cupboard above. Original fridge bay stays 33 inches wide.
 
-| Path | Content |
-|---|---|
-| `mega-prompt.md` | The full production brief — reference hierarchy, dimensioned kitchen geometry, finished-design spec, 13-shot list with timings, continuity rules, and inspection protocol. Drop this into your Higgsfield prompt. |
-| `kitchen-blueprint/dimensions.md` | Photo-locked kitchen dimensions (V/H/E confidence), appliance schedule, and materials. The ground truth for every measurement in the prompt. |
-| `kitchen-blueprint/plan.svg` | To-scale plan (1 unit = 1 inch) showing both runs, the aisle, the bar, and the refrigerator-side corner. |
-| `references/original/` | Six labelled files, four unique views: REF-C duplicates REF-B; REF-D duplicates REF-A; REF-H/I add apartment context. |
-| `references/inspiration/` | REF-E, REF-F, and REF-G are present; use them for appearance, not room geometry. |
+## Current image status
 
-## Geometry package
+| Image | What it can establish | Status |
+|---|---|---|
+| [apartment-v7](outputs/keyframes/apartment-v7.png) | Corrected tall fridge, cupboard removal and L-spout faucet; existing front-view finishes | Targeted correction, not full kitchen signoff |
+| [master-v4](outputs/keyframes/master-v4.png) | Cooking-wall finish reference | OUTDATED: old top-freezer and cupboard |
+| [sink-v3-concept](outputs/keyframes/sink-v3-concept.png) | Microwave/faucet/nook component ideas | Exposed espresso position rejected; not current whole design |
+| end-wall-closed-v2 / end-wall-open-v1 | Historical new-fridge appearance | REJECTED tower, poster and combined locations |
 
-The broader source project is `/Users/stefansassoon/projects/vero/deco`.
-The film payload now includes its kitchen elevations, whole-unit and living-room plans,
-and original apartment-facing photo-02 (REF-H) plus empty-room photo-26 (REF-I).
-`references/source-manifest.json` records exact copy provenance. The source register and
-precedence rules in `mega-prompt.md` reconcile the schematic discrepancies; another
-apartment photograph is not required.
+There is **no fully reconciled current three-view set**. Prior images and pilot clips
+are preserved as drafts. Do not inherit their superseded features into new work.
 
-## Using with Higgsfield
+## Source authority and dimensions
 
-1. Use the selected Wolf GR304 gas range with red knobs and the mandatory hood.
-2. Load the original REF-H/I photos and the reconciled geometry source register.
-3. Point Higgsfield at this repo and say:
+- [Production brief](mega-prompt.md): current requirements; historical rejected sections
+  are explicitly marked and must not execute.
+- [Shared geometry lock](outputs/production/geometry-lock.json): source dimensions,
+  confidence, appliance configuration and cross-view checks.
+- [Kitchen dimensions](kitchen-blueprint/dimensions.md), [plan](kitchen-blueprint/plan.svg)
+  and [elevations](kitchen-blueprint/elevations.svg): source BEFORE-state evidence.
+- [Living-room dimensions](apartment-blueprint/living-room-dimensions.md) and
+  [plan](apartment-blueprint/living-room-plan.svg); [unit plan](apartment-blueprint/unit-plan.svg).
+- Full source project: `/Users/stefansassoon/projects/vero/deco`, with the original
+  gallery, whole-unit dimensions and research provenance.
+- [Reference-copy manifest](references/source-manifest.json).
 
-> Read the full production brief from `mega-prompt.md`. Follow it exactly — every
-> dimension, every reference file, every continuity rule. Start by establishing one
-> consistent finished kitchen across three keyframes before generating any video.
-> Do not skip the inspection pass.
+Kitchen runs 123 inches; zone 105 inches; aisle 54; ceiling 96; counters 36 AFF;
+uppers 54–84 AFF. Source estimates retain their stated tolerances; these are not
+surveyed measurements. Generated images are not measurement evidence.
 
+## Production records
 
-## Production started — 2026-10-08
+- [Editable shotlist](outputs/shotlist.html)
+- [Inspection log](outputs/inspection.txt)
+- [Current state](outputs/production/state.json)
+- [Budget and job ledger](outputs/production/budget.json)
+- `outputs/production/*-request.json`, `*-quote.json`, `*-result.json`: individual receipts
 
-First-phase ceiling: **200 Higgsfield credits**. The editable directing document is
-[`outputs/shotlist.html`](outputs/shotlist.html): 13 editorial shots, 30 atomic takes.
-Actual job quotes, request/result receipts and state are in `outputs/production/`;
-[`budget.json`](outputs/production/budget.json) is the cost ledger.
+First-phase credit ceiling: 200. Task quote total: 189.75. Remaining: 10.25.
+No automatic top-ups or further paid work queued. No new motion in the latest audit.
+Account-wide balance changes outside recorded task jobs are not attributed to this task.
 
-Candidate finished design references (visually checked for first-phase testing; not
-proof of surveyed dimensions or exact manufacturer fidelity):
+The three historical pilots were sampled at 6 fps plus full-size endpoints, not given
+continuous-playback/frame-by-frame production acceptance: quartz fails seating,
+fridge was provisionally plausible, stool finishes facing the wrong direction.
 
-- [`master-v4.png`](outputs/keyframes/master-v4.png) — cooking wall.
-- [`sink-v2.png`](outputs/keyframes/sink-v2.png) — sink and sleek lower-counter espresso station.
-- [`apartment-v6.png`](outputs/keyframes/apartment-v6.png) — bar, stools, flowers and fruit.
-- [`workers-v1.png`](outputs/keyframes/workers-v1.png) — the two recurring workers.
-
-Motion proofs in `outputs/pilots/` are isolated tests, not the final film or accepted
-production shots. Read [`outputs/inspection.txt`](outputs/inspection.txt) before reuse.
-Initial pass spent 111.75 credits; the user-directed concrete/concealed-espresso
-revision added 19.5. **Previous reference-set checkpoint: 131.25 credits; 68.75 remained** under the phase ceiling,
-verified against the account balance. The current views remove the wooden floor lamp,
-use continuous concrete with a dining rug, and hide the sleek coffee station from
-the apartment-facing angle. Old motion proofs retain superseded finishes. Sampled pilot results: quartz fails worktop seating;
-fridge is provisionally plausible; stool fails final orientation (faces away from bar).
-No continuous-playback or frame-by-frame acceptance is claimed. All submitted jobs
-completed; no automated paid work remains running.
-
-The full 60-second film has **not** been generated. Rejected variants are retained as
-drafts; the largest remaining production risk is physical-action endpoint fidelity.
-
-
-Latest sink-side concept: [`sink-v3-concept.png`](outputs/keyframes/sink-v3-concept.png)
-adds the requested built-in microwave and new faucet, plus a proposed shallow spice/tech
-module on the kitchen-side end wall. The optional module awaits taste review before
-propagation; other views still show the prior faucet. No motion generated for this change.
-Previous sink-concept checkpoint: 137.75 credits.
-
-
-Latest coffee-garage concept: [open](outputs/keyframes/coffee-garage-open-v2.png) /
-[closed](outputs/keyframes/coffee-garage-closed-v2.png). Continuous fitted white panel
-at the right return above the dishwasher, pocket front and supported pull-out tray.
-Version 1 standalone-box drafts are superseded. Visual concept only: no mechanism,
-wall cavity or appliance-clearance proof. Other views have not yet been propagated.
-Current phase spend: **163.75 credits; 36.25 remain** under the 200-credit ceiling.
-
-## Accuracy
-
-The kitchen dimensions are photo-locked to the original 2023 MLS gallery of unit 2130
-at The Allison Condominiums (14145 N 92nd St #2130, Scottsdale AZ 85260). The full
-evidence chain — assessor ArcGIS record, sibling-unit gallery, marketing render
-calibration — is in the deco project repo (`SassoSte/vero`, `kitchen-blueprint/`).
-## Current layout override
-
-The coffee garage above the dishwasher is rejected: that counter must stay usable.
-The user confirmed the blank end wall beside the main fridge for a compact built-in
-wine fridge, possibly coffee storage, and Italy artwork. `mega-prompt.md` Section Q
-records the researched Bosch/U-Line candidates, official sources, dimensions and open
-clearance questions. Prior garage renders are historical only; no new wall rendering
-has been commissioned.
-
-## Coordinated end-wall concept
-
-Current closed/open concept: [closed-v2](outputs/keyframes/end-wall-closed-v2.png) /
-[coffee reveal](outputs/keyframes/end-wall-open-v1.png). Matching main Bosch fridge,
-full-width wine base below, shared coffee/spice-tech module above and Italy art.
-The reveal shows partial extension, not verified operating travel.
-
-Dimensioned proposal: [SVG](kitchen-blueprint/end-wall-proposed.svg) /
-[JSON](kitchen-blueprint/end-wall-proposed.json). Above-DW counter is clear. To avoid
-the new inside corner, the microwave shifts along RunB to x27–51 after a blind24-inch
-return and3-inch filler. Other angles/stage frames need propagation before production.
-Current total: **183.25 credits**, **16.75 remaining**. No new motion in this pass.
+All code/media changes use per-invocation Codex commit attribution. Workflow name:
+`shotlist-director`.

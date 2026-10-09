@@ -1,3 +1,9 @@
+APARTMENT-V7 TARGETED CORRECTION — 2026-10-09
+Independent visual review: tall upper door with left vertical handle, lower freezer drawer seam/horizontal handle visible above bar; no old over-fridge cupboard; L-faucet corrected. Opening/adjacency/three stools/concrete/rug remain consistent. Partial pass only: dimensions/hinge operation not measured, wine wall outside view. Master/sink need reconciliation. Quote6.5, tasktotal189.75, remaining10.25. Account at start of this pass50.0, after43.5; earlier account change not attributed to task.
+
+CROSS-VIEW AUDIT — 2026-10-09
+Reopened apartment-v6/master-v4/sink-v3-concept and rejected endwall-v2, compared actual source gallery/dimensions/Bosch spec. apartment-v6 AND master-v4 retain old topfreezer and over-fridge cupboard; apartment-v6 also retains old faucet. Sink-v3 has rejected exposed espresso station. No coherent current fullview set exists. Latest rejected endwall shows intendedBosch door form, but remains rejected for wine tower/poster/merged locations. geometry-lock.json records shared dimensions and confidence; generated images never establish room geometry.
+
 USER REJECTION / RESET — 2026-10-09
 All projecting end-wall service-unit renders rejected. Wine fridge must be flush to blank end-wall face. Italy art removed. Spice/tech restored to sink-side wall near microwave, separate from wine wall. Coffee garage position unresolved. Prior blind-corner/microwave shift withdrawn with rejectedtower. No new generation spend.
 
