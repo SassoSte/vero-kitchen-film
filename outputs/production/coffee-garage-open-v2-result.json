@@ -1,0 +1,32 @@
+[
+  {
+    "created_at": "2026-10-09T05:21:38.530556Z",
+    "display_name": "GPT Image 2",
+    "id": "5acbcaab-860d-4bc4-81d3-9594a42a892a",
+    "job_type": "gpt_image_2",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261009_052138_5acbcaab-860d-4bc4-81d3-9594a42a892a_min.webp",
+    "params": {
+      "aspect_ratio": "16:9",
+      "height": 1520,
+      "medias": [
+        {
+          "data": {
+            "id": "f444a2a6-c7ae-493a-8e5b-8a406fa81f87",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/f444a2a6-c7ae-493a-8e5b-8a406fa81f87_resize.jpg"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "videotape-alpha",
+      "prompt": "Refine ONLY the coffee-garage architectural integration at far RIGHT of this photograph. Keep the same machine, extended supported tray, warm oak interior, location above dishwasher, and all unrelated kitchen features exactly.\nThe white standalone BOX sitting on counter is wrong. Replace its exposed top and side box surfaces with a CONTINUOUS WHITE JOINERY WALL/PANEL at the right-hand return, extending vertically from counter level up to ceiling and flush against the existing right return, confined to the same existing dishwasher-bay WIDTH. It is a built-out cabinet skin IN FRONT OF the existing wall, NOT a cavity excavated into wall. From this camera no separate cabinet roof or standalone box sides should be visible: white finish continues seamlessly up and to the right image edge like fitted cabinetry. Preserve the left boundary of the unit, the open pass-through, balcony sightline, raised ledge, kitchen width and sink clearance; do not extend panel left across opening.\nWithin the LOWER portion of this continuous white panel, show a precise rectangular OPEN coffee-garage aperture, pale oak lined and warm lit. SAME compact sleek stainless espresso machine rests on SAME thin tray sliding outward about six inches, clearly supported by cabinet runners. Its flush white front is pocketed in the right side. Two tiny porcelain cups stored at side inside, second may sit behind first. Keep original microwave, spice/tech niche, Lspout faucet, single sink, espresso design, countertop, dishwasher, concretefloor, flowers and fruit untouched. One photoreal 16:9 image, convincingly fitted architectural cabinetry, not a portable box on countertop.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 2688
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261009_052138_5acbcaab-860d-4bc4-81d3-9594a42a892a.png",
+    "status": "completed"
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "model": "gpt_image_2",
+  "params": {
+    "quality": "high",
+    "resolution": "2k",
+    "aspect_ratio": "16:9"
+  },
+  "references": [
+    "outputs/keyframes/coffee-garage-open-v2.png"
+  ],
+  "prompt": "Make the CLOSED state of this exact built-in coffee garage photograph. Change ONLY the open coffee aperture at the LOWER RIGHT in the tall continuous white joinery panel above dishwasher. Keep the entire full-height white panel geometry and all other room features absolutely unchanged. Slide the protruding tray completely back inside, including the same machine and both cups. Close its pocketed front across the aperture with ONE flush matte white panel, fine perimeter shadow gap and tiny discreet finger recess at bottom. The closed panel is flush with the white fitted joinery above and beside it; NO tray overhang, no visible machine, cups, wood interior or internal glow. Do not remove the tall fitted joinery or revert to a standalone counter box. Preserve camera, sink, faucet, microwave at left, spice-tech niche, flowers/fruit, floor, walls, opening/slider and dishwasher. Photoreal same-frame before/after counterpart, 16:9, no text."
+}

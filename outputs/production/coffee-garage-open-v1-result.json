@@ -1,0 +1,32 @@
+[
+  {
+    "created_at": "2026-10-09T05:15:29.474443Z",
+    "display_name": "GPT Image 2",
+    "id": "fbb722db-9701-45d4-ae84-4172ac40b3a7",
+    "job_type": "gpt_image_2",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261009_051529_fbb722db-9701-45d4-ae84-4172ac40b3a7_min.webp",
+    "params": {
+      "aspect_ratio": "16:9",
+      "height": 1520,
+      "medias": [
+        {
+          "data": {
+            "id": "6bd38dde-a868-41d0-a6e1-ff2a9bc835ec",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/6bd38dde-a868-41d0-a6e1-ff2a9bc835ec_resize.jpg"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "videotape-alpha",
+      "prompt": "Edit this exact kitchen photograph. ONLY change the espresso station at FAR RIGHT directly ABOVE DISHWASHER. Preserve every other element: camera/room geometry, wall/opening/window/fan, L-spout brushed faucet, single-bowl sink, undercounter microwave at LEFT, spice/tech module at LEFT wall, all cabinets/counters, flowers, fruit, concrete floor.\nCreate an elegant OPEN COFFEE GARAGE at the existing coffee station. A compact white joinery housing sits ON the existing lower counter directly above the dishwasher, pushed back against right kitchen-side wall/return. It must fit within the existing 24-inch dishwasher bay footprint and counter depth; do not add a wall cavity, move sink/DW or enlarge room. Housing is a modest rectangular white cabinet about 20 inches wide, 18 inches tall and 18 inches deep, with pale oak interior and warm concealed light. Its smooth white front door is OPEN and neatly pocketed into the RIGHT side of the housing (no huge upward flap, no door blocking sink). A slim tray on concealed runners extends FORWARD about 6 inches from the housing, remaining supported above the counter and not over the sink. On the tray, one very sleek COMPACT premium espresso machine: refined satin stainless body, restrained charcoal side panels, clean rectangular shape with softened corners, tiny precise controls, compact portafilter and steam wand. No industrial tower or exposed boiler; no ornate chrome. Two small porcelain cups neatly inside housing, not cluttering worktop. The machinery is clearly a cabinet/tray pulling out in front of an existing wall, NOT a deep recess cut through wall. Preserve surrounding white pier and open pass-through; no upper cabinet bank over sink. Photoreal cabinetmaker detail, believable supported tray and compact scale, one photograph 16:9. No captions/labels, no second machine.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 2688
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261009_051529_fbb722db-9701-45d4-ae84-4172ac40b3a7.png",
+    "status": "completed"
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "model": "gpt_image_2",
+  "params": {
+    "quality": "high",
+    "resolution": "2k",
+    "aspect_ratio": "16:9"
+  },
+  "references": [
+    "outputs/keyframes/sink-v3-concept.png"
+  ],
+  "prompt": "Edit this exact kitchen photograph. ONLY change the espresso station at FAR RIGHT directly ABOVE DISHWASHER. Preserve every other element: camera/room geometry, wall/opening/window/fan, L-spout brushed faucet, single-bowl sink, undercounter microwave at LEFT, spice/tech module at LEFT wall, all cabinets/counters, flowers, fruit, concrete floor.\nCreate an elegant OPEN COFFEE GARAGE at the existing coffee station. A compact white joinery housing sits ON the existing lower counter directly above the dishwasher, pushed back against right kitchen-side wall/return. It must fit within the existing 24-inch dishwasher bay footprint and counter depth; do not add a wall cavity, move sink/DW or enlarge room. Housing is a modest rectangular white cabinet about 20 inches wide, 18 inches tall and 18 inches deep, with pale oak interior and warm concealed light. Its smooth white front door is OPEN and neatly pocketed into the RIGHT side of the housing (no huge upward flap, no door blocking sink). A slim tray on concealed runners extends FORWARD about 6 inches from the housing, remaining supported above the counter and not over the sink. On the tray, one very sleek COMPACT premium espresso machine: refined satin stainless body, restrained charcoal side panels, clean rectangular shape with softened corners, tiny precise controls, compact portafilter and steam wand. No industrial tower or exposed boiler; no ornate chrome. Two small porcelain cups neatly inside housing, not cluttering worktop. The machinery is clearly a cabinet/tray pulling out in front of an existing wall, NOT a deep recess cut through wall. Preserve surrounding white pier and open pass-through; no upper cabinet bank over sink. Photoreal cabinetmaker detail, believable supported tray and compact scale, one photograph 16:9. No captions/labels, no second machine."
+}

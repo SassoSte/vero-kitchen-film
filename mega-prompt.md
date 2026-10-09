@@ -148,13 +148,23 @@ Translate the inspiration photographs into the supplied geometry:
   and red kettle RIGHT, on the adjacent counters with usable preparation space around
   them. Use the approved reference appearance consistently; avoid a crowded appliance
   display or extra units added just to fill the counter.
-- Compact sleek espresso machine: clean modern lines, brushed stainless and matte
-  dark accents, no ornate boiler, finial, exposed clock-like dial or decorative chrome
-  tower. It sits on the LOWER kitchen-side counter directly above the dishwasher on
-  Run B, tucked behind the left opening pier/raised ledge from the apartment camera.
-  It must NOT be visible in the apartment-facing final reveal, and must never sit on
-  the bar cap. It can be visible from the sink/cooking-side views that establish its
-  proper location. Two small cups may sit beside it within that concealed station.
+- Coffee garage above the dishwasher on Run B: a compact aperture in continuous
+  white fitted joinery at the right kitchen-side return. Cabinet finish continues
+  above the aperture to read as an integrated panel, not a separate countertop box.
+  The appliance/tray remains at the LOWER work-counter level.
+  A flush, discreet front conceals a very sleek compact espresso machine on a pull-out
+  tray. Open front retracts into the housing; the tray glides forward to reveal the
+  machine, then retracts and closes for the final apartment-facing view. Brushed dark
+  metal/stainless machine, clean refined controls, no ornate boiler or chrome tower.
+  Warm concealed internal light; two small cups neatly stored inside.
+- Keep the garage within the existing dishwasher-bay width and countertop depth;
+  the fitted cabinet skin stands in front of the existing wall, not inside an assumed wall
+  cavity. Do not recess into the building envelope, move the sink/DW, widen the run,
+  add an upper cabinet bank across the pass-through, or erase the opening. The open
+  concept demonstrates intent, not verified tray travel, plumbing or appliance clearances.
+- Coffee garage CLOSED in the apartment-facing final reveal: no machine or cups visible.
+  A brief kitchen-side insert can show the tray opening and machine reveal, followed by
+  closure before the final view. This supersedes the exposed-counter coffee station.
 - Remove the tall wooden floor lamp/sculptural light with brown vertical rods and
   circular discs from the living-room foreground. Keep the kitchen ceiling lights.
 - One tasteful vase of fresh flowers, with a restrained white/cream arrangement and
@@ -242,9 +252,9 @@ trim appropriately.
 | 08 | 00:35–00:39 | Cooking-wall view | Worker installs and tests interior-cabinet and continuous undercabinet lighting. Illuminated backsplash clearly visible. Lighting stays ON for the rest of the film. | `outputs/shots/08_lighting_install.mp4` |
 | 09 | 00:39–00:44 | Supported viewpoint | Wall-finish work and artwork hanging; if the spice/tech concept is adopted, fit the shallow module to the kitchen-side end wall in a separate action. If the wine-fridge base-cabinet design is locked: workers install it here. Preserve the west corner. | `outputs/shots/09_wall_finish_and_wine.mp4` |
 | 10 | 00:44–00:49 | Apartment-facing (original REF-H) | Both workers position and secure the oak bar-front treatment. Preserve opening, counter, faucet, room boundaries. All lighting stays on. | `outputs/shots/10_bar_front.mp4` |
-| 11 | 00:49–00:55 | Apartment-facing + inserts | Three cream stools carried in and positioned by workers. Red SMEG toaster and kettle, sleek concealed espresso station with two cups, fresh flowers, fruit bowl, and dining rug placed through separate short action inserts. End with visible positioning work, not prolonged wiping. | `outputs/shots/11_stools_and_staging.mp4` |
-| 12 | 00:55–00:57 | Widest original kitchen angle | Complete reveal: both runs, all boundaries, all completed features including SMEG appliances, sleek concealed espresso station, flowers, and fruit bowl. Interior/undercabinet/hood lighting on. | `outputs/shots/12_reveal.mp4` |
-| 13 | 00:57–01:00 | Apartment-facing | Final reveal: complete opening, finished bar with flowers and fruit bowl, three stools, sink faucet, cooking wall; retain SMEG appliances and sleek concealed espresso station in their established positions. Restrained camera move allowed if geometry is preserved. | `outputs/shots/13_final_reveal.mp4` |
+| 11 | 00:49–00:55 | Apartment-facing + inserts | Three cream stools carried in and positioned by workers. Red SMEG toaster and kettle, coffee garage with compact sleek machine and two cups, fresh flowers, fruit bowl, and dining rug placed through separate short action inserts. End with visible positioning work, not prolonged wiping. | `outputs/shots/11_stools_and_staging.mp4` |
+| 12 | 00:55–00:57 | Widest original kitchen angle | Complete reveal: both runs, all boundaries, all completed features including SMEG appliances, coffee garage (closed in the apartment-facing view), flowers, and fruit bowl. Interior/undercabinet/hood lighting on. | `outputs/shots/12_reveal.mp4` |
+| 13 | 00:57–01:00 | Apartment-facing | Final reveal: complete opening, finished bar with flowers and fruit bowl, three stools, sink faucet, cooking wall; retain SMEG appliances and coffee garage (closed in the apartment-facing view) in their established positions. Restrained camera move allowed if geometry is preserved. | `outputs/shots/13_final_reveal.mp4` |
 
 Output format: 1920×1080, 24 fps, H.264 with AAC audio (construction sounds only — no
 speech, music, subtitles, or overlays). Final film: `outputs/kitchen_remodel_60s.mp4`.
@@ -260,7 +270,7 @@ Once installed, a feature stays installed. Specifically:
 - The refrigerator changes only during Shot 07
 - Cabinet-interior and undercabinet lighting stay on after Shot 08 through the final frame
 - The three stools arrive through worker actions in Shot 11 and remain afterward
-- SMEG appliances, sleek concealed espresso machine and two cups, vase/flowers, and fruit bowl
+- SMEG appliances, coffee garage, compact machine and two cups, vase/flowers, and fruit bowl
   are staged by the end of Shot 11 and remain unchanged through Shots 12–13. Preserve
   their positions and appearance across cuts; do not clutter the worktops.
 - Cabinet arrangement, hardware, stone surfaces, appliance positions, and floor boundaries
@@ -279,7 +289,7 @@ Watch the complete exported film and inspect every cut against the actual return
 - Shots 08/10/11/12/13: same interior-cabinet, undercabinet, and hood lighting
 - Shots 10/11/13: same bar, faucet, three stools, opening, apartment-facing geometry
 - Shots 11–13: all final countertop styling present by second 55; stable SMEG
-  appliances, sleek concealed espresso machine/two cups, flowers/vase, and fruit bowl. Verify
+  appliances, coffee garage/machine/two cups, flowers/vase, and fruit bowl. Verify
   their correct placement across the two reveal angles and usable counter/stool space.
   Espresso is visible only from kitchen-side views, concealed in apartment-facing view.
 - Final views: continuous concrete floor, dining-area rug, no wooden floor lamp.
@@ -379,3 +389,12 @@ device on the bare kitchen-side wall left of the sink. These supersede the blank
 no-microwave rule and the earlier faucet. Retain the single-bowl sink, concrete floor,
 hidden sleek espresso above dishwasher, flowers and fruit. First review the sink-side
 concept before propagating the optional joinery design or spending on motion.
+
+## P. COFFEE GARAGE REVISION — 2026-10-08
+
+User requested the espresso machine reveal from a drawer-like coffee garage. Create
+paired closed/open visual concepts at the same sink-side camera. Keep it above the
+dishwasher and contained by joinery; do not interpret the request as evidence of a
+wall cavity. Closed front is clean and flush to the housing, open front retracts and
+the tray extends to present the elegant compact machine. No new motion until the
+concept is selected and its geometry is visually checked.

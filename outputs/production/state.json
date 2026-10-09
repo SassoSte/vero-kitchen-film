@@ -1,6 +1,6 @@
 {
   "project": "vero-kitchen-film",
-  "phase": "sink-side microwave/faucet/spice-tech concept generated; optional nook awaiting user taste review",
+  "phase": "paired fitted coffee-garage concept generated and visually reviewed",
   "budget_ceiling_credits": 200,
   "approved_features": [
     "Wolf GR304 gas range, red knobs",
@@ -19,8 +19,8 @@
     },
     "sink": {
       "original": "references/original/ref-b-sink-run.webp",
-      "status": "concept-visually-reviewed",
-      "take": "sink-v3-concept"
+      "status": "paired-coffee-garage-concept",
+      "take": "coffee-garage-closed-v2"
     },
     "apartment": {
       "original": "references/original/ref-h-apartment-facing.webp",
@@ -54,6 +54,12 @@
     }
   ],
   "gate": "No video generation until finished views agree and stage/worker references are inspected.",
-  "design_revision": "sink-microwave-faucet-nook-concept",
-  "pending_design_selection": "Optional shallow built-out spice/tech nook; do not propagate to all views or motion until user selects concept."
+  "design_revision": "fitted-coffee-garage",
+  "pending_design_selection": "Optional shallow built-out spice/tech nook; do not propagate to all views or motion until user selects concept.",
+  "coffee_garage": {
+    "open": "outputs/keyframes/coffee-garage-open-v2.png",
+    "closed": "outputs/keyframes/coffee-garage-closed-v2.png",
+    "status": "visual-concept-review",
+    "limits": "No verified tray travel, door storage, ventilation or appliance/room clearance; other views not propagated."
+  }
 }

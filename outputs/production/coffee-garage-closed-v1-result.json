@@ -1,0 +1,32 @@
+[
+  {
+    "created_at": "2026-10-09T05:18:54.495715Z",
+    "display_name": "GPT Image 2",
+    "id": "71c881da-3503-44a1-a431-54642ca05148",
+    "job_type": "gpt_image_2",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261009_051854_71c881da-3503-44a1-a431-54642ca05148_min.webp",
+    "params": {
+      "aspect_ratio": "16:9",
+      "height": 1520,
+      "medias": [
+        {
+          "data": {
+            "id": "6abffe64-2174-4fb3-8615-dea920da9b52",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/6abffe64-2174-4fb3-8615-dea920da9b52_resize.jpg"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "videotape-alpha",
+      "prompt": "Make the CLOSED version of this SAME exact kitchen photograph. Change ONLY the coffee-garage unit at FAR RIGHT on lower counter above dishwasher. Keep its outer housing size, location, depth, white finish, cabinet footprint and surrounding wall/counter unchanged. Fully slide its pull-out tray BACK inside so no tray protrudes. Close the pocketed front panel across the opening: one smooth flush matte white door, precise small perimeter shadow gap, discreet finger recess at bottom, no large handle. It should read as clean integrated cabinet joinery, not an exposed appliance. Hide ALL espresso machine, cups, wood interior and internal light behind the opaque closed door. Keep every other region identical: sink, L-spout faucet, microwave, spice/tech nook, flowers, fruit, floor, room architecture, ceiling, perspective, light and texture. No new cabinet or drawer elsewhere; no visible second coffee maker. One photoreal 16:9 photograph, same camera as source, no captions.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 2688
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261009_051854_71c881da-3503-44a1-a431-54642ca05148.png",
+    "status": "completed"
+  }
+]

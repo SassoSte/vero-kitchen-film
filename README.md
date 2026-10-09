@@ -70,7 +70,15 @@ Latest sink-side concept: [`sink-v3-concept.png`](outputs/keyframes/sink-v3-conc
 adds the requested built-in microwave and new faucet, plus a proposed shallow spice/tech
 module on the kitchen-side end wall. The optional module awaits taste review before
 propagation; other views still show the prior faucet. No motion generated for this change.
-Total phase spend: **137.75 credits**, with **62.25 remaining** under the 200 ceiling.
+Previous sink-concept checkpoint: 137.75 credits.
+
+
+Latest coffee-garage concept: [open](outputs/keyframes/coffee-garage-open-v2.png) /
+[closed](outputs/keyframes/coffee-garage-closed-v2.png). Continuous fitted white panel
+at the right return above the dishwasher, pocket front and supported pull-out tray.
+Version 1 standalone-box drafts are superseded. Visual concept only: no mechanism,
+wall cavity or appliance-clearance proof. Other views have not yet been propagated.
+Current phase spend: **163.75 credits; 36.25 remain** under the 200-credit ceiling.
 
 ## Accuracy
 

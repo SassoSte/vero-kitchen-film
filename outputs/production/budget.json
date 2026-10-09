@@ -1,7 +1,7 @@
 {
   "ceiling_credits": 200,
   "opening_balance": 1246.8,
-  "reserved_credits": 137.75,
+  "reserved_credits": 163.75,
   "jobs": [
     {
       "name": "master-v1",
@@ -155,9 +155,37 @@
       "status": "generated",
       "job_id": "227c016a-5bf7-49b3-866b-1429d9e1ef5d",
       "file": "outputs/keyframes/sink-v3-concept.png"
+    },
+    {
+      "name": "coffee-garage-open-v1",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "fbb722db-9701-45d4-ae84-4172ac40b3a7",
+      "file": "outputs/keyframes/coffee-garage-open-v1.png"
+    },
+    {
+      "name": "coffee-garage-closed-v1",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "71c881da-3503-44a1-a431-54642ca05148",
+      "file": "outputs/keyframes/coffee-garage-closed-v1.png"
+    },
+    {
+      "name": "coffee-garage-open-v2",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "5acbcaab-860d-4bc4-81d3-9594a42a892a",
+      "file": "outputs/keyframes/coffee-garage-open-v2.png"
+    },
+    {
+      "name": "coffee-garage-closed-v2",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "47b61c5c-84f7-4346-8d9e-57c70ba7da66",
+      "file": "outputs/keyframes/coffee-garage-closed-v2.png"
     }
   ],
-  "balance_after": 1109.05,
-  "balance_delta": 137.75,
-  "remaining_phase_credits": 62.25
+  "balance_after": 1083.05,
+  "balance_delta": 163.75,
+  "remaining_phase_credits": 36.25
 }

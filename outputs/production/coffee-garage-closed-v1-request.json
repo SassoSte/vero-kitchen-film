@@ -1,0 +1,12 @@
+{
+  "model": "gpt_image_2",
+  "params": {
+    "quality": "high",
+    "resolution": "2k",
+    "aspect_ratio": "16:9"
+  },
+  "references": [
+    "outputs/keyframes/coffee-garage-open-v1.png"
+  ],
+  "prompt": "Make the CLOSED version of this SAME exact kitchen photograph. Change ONLY the coffee-garage unit at FAR RIGHT on lower counter above dishwasher. Keep its outer housing size, location, depth, white finish, cabinet footprint and surrounding wall/counter unchanged. Fully slide its pull-out tray BACK inside so no tray protrudes. Close the pocketed front panel across the opening: one smooth flush matte white door, precise small perimeter shadow gap, discreet finger recess at bottom, no large handle. It should read as clean integrated cabinet joinery, not an exposed appliance. Hide ALL espresso machine, cups, wood interior and internal light behind the opaque closed door. Keep every other region identical: sink, L-spout faucet, microwave, spice/tech nook, flowers, fruit, floor, room architecture, ceiling, perspective, light and texture. No new cabinet or drawer elsewhere; no visible second coffee maker. One photoreal 16:9 photograph, same camera as source, no captions."
+}

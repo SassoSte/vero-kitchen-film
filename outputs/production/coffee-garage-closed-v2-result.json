@@ -1,0 +1,32 @@
+[
+  {
+    "created_at": "2026-10-09T05:24:54.06417Z",
+    "display_name": "GPT Image 2",
+    "id": "47b61c5c-84f7-4346-8d9e-57c70ba7da66",
+    "job_type": "gpt_image_2",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261009_052454_47b61c5c-84f7-4346-8d9e-57c70ba7da66_min.webp",
+    "params": {
+      "aspect_ratio": "16:9",
+      "height": 1520,
+      "medias": [
+        {
+          "data": {
+            "id": "5295ec69-166a-4474-bc8a-55f799486da2",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/5295ec69-166a-4474-bc8a-55f799486da2_resize.jpg"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "videotape-alpha",
+      "prompt": "Make the CLOSED state of this exact built-in coffee garage photograph. Change ONLY the open coffee aperture at the LOWER RIGHT in the tall continuous white joinery panel above dishwasher. Keep the entire full-height white panel geometry and all other room features absolutely unchanged. Slide the protruding tray completely back inside, including the same machine and both cups. Close its pocketed front across the aperture with ONE flush matte white panel, fine perimeter shadow gap and tiny discreet finger recess at bottom. The closed panel is flush with the white fitted joinery above and beside it; NO tray overhang, no visible machine, cups, wood interior or internal glow. Do not remove the tall fitted joinery or revert to a standalone counter box. Preserve camera, sink, faucet, microwave at left, spice-tech niche, flowers/fruit, floor, walls, opening/slider and dishwasher. Photoreal same-frame before/after counterpart, 16:9, no text.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 2688
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261009_052454_47b61c5c-84f7-4346-8d9e-57c70ba7da66.png",
+    "status": "completed"
+  }
+]
