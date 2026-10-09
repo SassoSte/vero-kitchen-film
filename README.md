@@ -86,3 +86,11 @@ The kitchen dimensions are photo-locked to the original 2023 MLS gallery of unit
 at The Allison Condominiums (14145 N 92nd St #2130, Scottsdale AZ 85260). The full
 evidence chain — assessor ArcGIS record, sibling-unit gallery, marketing render
 calibration — is in the deco project repo (`SassoSte/vero`, `kitchen-blueprint/`).
+## Current layout override
+
+The coffee garage above the dishwasher is rejected: that counter must stay usable.
+The user confirmed the blank end wall beside the main fridge for a compact built-in
+wine fridge, possibly coffee storage, and Italy artwork. `mega-prompt.md` Section Q
+records the researched Bosch/U-Line candidates, official sources, dimensions and open
+clearance questions. Prior garage renders are historical only; no new wall rendering
+has been commissioned.

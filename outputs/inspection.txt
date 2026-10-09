@@ -1,3 +1,5 @@
+LATEST OVERRIDE: coffee garage above dishwasher REJECTED by user; remove its tall panel and restore working counter. New end-wall wine/coffee layout under dimensional review. Bosch/U-Line are candidates only, not confirmed fits. No generation spending in this research pass.
+
 LATEST COFFEE GARAGE CONCEPT — 2026-10-08
 Open-v1 read as standalone countertop cabinet rather than integrated reveal; superseded. Closed-v1 generated from that draft, not adopted. Open-v2 replaces separate roof/sides with continuous fitted white panel at right return aboveDW; supported extended tray, compact sleek machine, two partly visible cups. Independent review finds improved fitted appearance and no major unrelated geometry change. Closed-v2 visually inspected by production lead: same tall panel, flush closed face, no protruding tray or visible machine/cups. Mechanism/clearance not proven; no motion.
 Four concept jobs cost26 credits; phase total163.75; remaining36.25; account1083.05.

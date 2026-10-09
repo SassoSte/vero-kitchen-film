@@ -89,11 +89,11 @@ No uppers on Run B — open to the 96″ ceiling. The pass-through faces the liv
 
 ### The west end wall (refrigerator-side corner)
 
-The wall behind the fridge bay is the **building envelope wall** — exterior stucco beyond.
-Recessing a wine fridge into it is structurally infeasible. A base-cabinet-depth wine
-fridge on Run A (the interior partition wall) or integrated into Run B cabinetry is the
-practical alternative. If the design requires a wall recess, flag this conflict before
-any footage is generated.
+The source notes identify this as the building-envelope end wall. No survey of its
+construction or usable cavity exists here. The user calls this the NORTH WALL and has
+confirmed it means the blank end wall BESIDE the main refrigerator, not the cooking
+wall. Treat a built-in wine fridge as a properly dimensioned cabinet installation in
+front of that wall; do not assume it can disappear into a wall cavity. See Section Q.
 
 ### Floor
 
@@ -148,23 +148,11 @@ Translate the inspiration photographs into the supplied geometry:
   and red kettle RIGHT, on the adjacent counters with usable preparation space around
   them. Use the approved reference appearance consistently; avoid a crowded appliance
   display or extra units added just to fill the counter.
-- Coffee garage above the dishwasher on Run B: a compact aperture in continuous
-  white fitted joinery at the right kitchen-side return. Cabinet finish continues
-  above the aperture to read as an integrated panel, not a separate countertop box.
-  The appliance/tray remains at the LOWER work-counter level.
-  A flush, discreet front conceals a very sleek compact espresso machine on a pull-out
-  tray. Open front retracts into the housing; the tray glides forward to reveal the
-  machine, then retracts and closes for the final apartment-facing view. Brushed dark
-  metal/stainless machine, clean refined controls, no ornate boiler or chrome tower.
-  Warm concealed internal light; two small cups neatly stored inside.
-- Keep the garage within the existing dishwasher-bay width and countertop depth;
-  the fitted cabinet skin stands in front of the existing wall, not inside an assumed wall
-  cavity. Do not recess into the building envelope, move the sink/DW, widen the run,
-  add an upper cabinet bank across the pass-through, or erase the opening. The open
-  concept demonstrates intent, not verified tray travel, plumbing or appliance clearances.
-- Coffee garage CLOSED in the apartment-facing final reveal: no machine or cups visible.
-  A brief kitchen-side insert can show the tray opening and machine reveal, followed by
-  closure before the final view. This supersedes the exposed-counter coffee station.
+- Keep the entire worktop above the dishwasher CLEAR and usable. The previous coffee
+  garage at that position, including its tall fitted panel, is rejected and removed.
+- A compact coffee garage may be integrated with the proposed end-wall wine cabinet,
+  subject to the dimension/door-sweep checks in Section Q. No location is locked yet;
+  do not regenerate an above-dishwasher garage or expose an espresso machine there.
 - Remove the tall wooden floor lamp/sculptural light with brown vertical rods and
   circular discs from the living-room foreground. Keep the kitchen ceiling lights.
 - One tasteful vase of fresh flowers, with a restrained white/cream arrangement and
@@ -200,10 +188,12 @@ espresso machine.
 
 ## E. WINE-FRIDGE REQUIREMENT
 
-The west end wall cannot accommodate a wall-recessed wine fridge (see Section B). If the
-design includes one, place it as a base-cabinet-unit on Run A or Run B. Before rendering,
-verify the appliance's actual dimensions and the available bay width. A generated
-refrigerator-door opening is an animation, not proof of clearance.
+The wine fridge is now requested, not optional. Preferred compact candidate: U-Line
+URWC315-IG01A, 15-inch-class glass-door integrated-frame wine fridge. Place a narrow
+cabinet on the blank end wall beside the main fridge only after checking the open-door
+and drawer envelopes. Proposed starting footprint is approximately 18 inches along
+that wall by 24 inches into the room, near its sink-side end; NOT a confirmed fit.
+See Section Q for dimensions, sources, art direction and unresolved clearances.
 
 ## F. ESTABLISH ONE FINISHED KITCHEN BEFORE ANIMATION
 
@@ -250,7 +240,7 @@ trim appropriately.
 | 06 | 00:25–00:31 | Master | Separate actions with time jumps: hood fitting, pot-filler fastening to backsplash, then Wolf range placement beneath hood. No over-the-range microwave returns; sink-side built-in remains separate. | `outputs/shots/06_cooking_equipment.mp4` |
 | 07 | 00:31–00:35 | Master incl. real corner | Remove old fridge, place new one in the same 33″ bay. | `outputs/shots/07_fridge_replacement.mp4` |
 | 08 | 00:35–00:39 | Cooking-wall view | Worker installs and tests interior-cabinet and continuous undercabinet lighting. Illuminated backsplash clearly visible. Lighting stays ON for the rest of the film. | `outputs/shots/08_lighting_install.mp4` |
-| 09 | 00:39–00:44 | Supported viewpoint | Wall-finish work and artwork hanging; if the spice/tech concept is adopted, fit the shallow module to the kitchen-side end wall in a separate action. If the wine-fridge base-cabinet design is locked: workers install it here. Preserve the west corner. | `outputs/shots/09_wall_finish_and_wine.mp4` |
+| 09 | 00:39–00:44 | Supported viewpoint | Wall-finish work and artwork hanging; if the spice/tech concept is adopted, fit the shallow module to the kitchen-side end wall in a separate action. Install the wine-fridge end-wall cabinet only after its layout is locked. Preserve the west corner. | `outputs/shots/09_wall_finish_and_wine.mp4` |
 | 10 | 00:44–00:49 | Apartment-facing (original REF-H) | Both workers position and secure the oak bar-front treatment. Preserve opening, counter, faucet, room boundaries. All lighting stays on. | `outputs/shots/10_bar_front.mp4` |
 | 11 | 00:49–00:55 | Apartment-facing + inserts | Three cream stools carried in and positioned by workers. Red SMEG toaster and kettle, coffee garage with compact sleek machine and two cups, fresh flowers, fruit bowl, and dining rug placed through separate short action inserts. End with visible positioning work, not prolonged wiping. | `outputs/shots/11_stools_and_staging.mp4` |
 | 12 | 00:55–00:57 | Widest original kitchen angle | Complete reveal: both runs, all boundaries, all completed features including SMEG appliances, coffee garage (closed in the apartment-facing view), flowers, and fruit bowl. Interior/undercabinet/hood lighting on. | `outputs/shots/12_reveal.mp4` |
@@ -369,7 +359,7 @@ Drawing discrepancies are recorded rather than treated as absent architecture:
   background was readable. They should not be used as style references.
 
 The source drawings are preserved unchanged. These limits do not block reference-based
-film production. Omit the optional wine fridge until its model and bay are locked.
+film production. The requested end-wall wine fridge remains a candidate until its bay and clearances are locked.
 
 ## N. DESIGN REVISION — CONCRETE AND CONCEALED COFFEE STATION
 
@@ -377,8 +367,8 @@ The user rejected the wooden floor lamp, carpet floor and ornate espresso machin
 This revision supersedes those features in all earlier candidate images, shotlist
 prompts and motion proofs. Preserve old assets as drafts; invalidate their final-design
 acceptance. Concrete extends across visible kitchen/living/dining, with a dining rug;
-the oak bar-front treatment remains. The sleek espresso machine is over the dishwasher
-on the lower work counter and hidden from the apartment-facing camera. No new motion
+the oak bar-front treatment remains. The initial sleek-machine location over the dishwasher is now superseded by Section Q;
+that counter must remain usable. No new motion
 until the revised reference views agree.
 
 ## O. SINK-SIDE DESIGN ADDITIONS — 2026-10-08
@@ -390,11 +380,64 @@ no-microwave rule and the earlier faucet. Retain the single-bowl sink, concrete 
 hidden sleek espresso above dishwasher, flowers and fruit. First review the sink-side
 concept before propagating the optional joinery design or spending on motion.
 
-## P. COFFEE GARAGE REVISION — 2026-10-08
+## P. COFFEE GARAGE REVISION — SUPERSEDED LOCATION
 
-User requested the espresso machine reveal from a drawer-like coffee garage. Create
-paired closed/open visual concepts at the same sink-side camera. Keep it above the
-dishwasher and contained by joinery; do not interpret the request as evidence of a
-wall cavity. Closed front is clean and flush to the housing, open front retracts and
-the tray extends to present the elegant compact machine. No new motion until the
-concept is selected and its geometry is visually checked.
+The earlier above-dishwasher concept is rejected by the user because it consumes
+needed counter space. Keep its renders as historical drafts only. A possible coffee
+garage at the new wine-fridge wall must be re-planned under Section Q; do not reuse
+the old location or treat the earlier paired images as an approved installation.
+
+## Q. END-WALL WINE / MAIN-FRIDGE REVISION — 2026-10-08
+
+User confirmed the blank end wall beside the main refrigerator (called north wall by
+the user; west-end wall in the kitchen source schedule). Keep this identity unambiguous.
+The above-dishwasher coffee garage is REJECTED: restore that working counter. All prior
+coffee-garage images are historical concepts, not production authorities.
+
+Preferred premium main-fridge candidate: **Bosch Benchmark B30BB130SS**, stainless,
+upper refrigerator door configured RIGHT-HINGED when facing its front (hinge toward
+the cooking-run side, away from the blank end wall), lower freezer DRAWER. This is a
+recommendation, not an appliance purchase or confirmed fit. Manufacturer spec:
+- Body width 29 3/4 inches; minimum height 83 9/16; depth with doors/handles 26 7/8.
+- Proud-install opening 84 H x 30 W x at least 24 D inches; flush install depth at least 25.
+- Reversible upper door; full-extension freezer drawer. Official listed price $9,699
+  when reviewed; installation/cabinet work extra. Existing over-fridge cupboard must
+  be removed/reconfigured to make the 84-inch opening; preserve original 33-inch bay.
+- Spec page 3 explicitly diagrams 90/115-degree swing and 33-inch front clearance for
+  proud installation. That drawing, not a generated opening animation, governs.
+- Source: https://www.bosch-home.com/us/en/product/refrigerators/bottom-freezer/built-in/B30BB130SS
+- Local manufacturer spec: references/products/specs/bosch-b30bb130ss.pdf
+
+Compact wine-fridge candidate: **U-Line URWC315-IG01A**, glass with integrated frame
+finished to match cabinetry, warm-white interior light, 18 standard 750mL bottles.
+- Product approximately 14 7/8 W x 34 1/8 H x 22 11/16 D inches (manufacturer table).
+- Spec cutout 15 1/8 W x 34 1/4–35 1/4 H x 24 D; panel adds depth. Front grille stays clear.
+- Door is field-reversible; final hinge side is NOT fixed until both appliance sweeps,
+  adjacent cabinet fronts and bottle-rack extension have been checked together.
+- Official integrated-frame list price $2,639 when reviewed, custom panel extra.
+- Source: https://www.u-line.com/urwc315.html
+- Spec: https://www.u-line.com/pub/media/u-line/spec_sheets/URWC315.PDF?new_version=92529
+
+Earlier value candidate RF170WDRX5 N (Fisher & Paykel) is END OF LINE on its official
+US page. Its 31 1/8-inch body width and bottom drawer suit the concept, but product-page
+side-clearance figures differ from the family installation guide. Do not promise a
+fit in 33 inches or choose it for purchase without resolving stock/spec applicability.
+
+Nominal geometry only: kitchen runs have 54-inch separation. An 18-inch-wide end-wall
+cabinet tucked toward the sink occupies the end 24 inches of aisle length; it does not
+magically sit inside the wall. In the simple source coordinate system (Run A y 0–25.5,
+Run B y 79.5–105), its proposed footprint is x 0–24, y 61.5–79.5. The Bosch proud-install
+drawing suggests an approximate forward door envelope to y 57 (24+33), leaving only
+about 4.5 inches to the candidate wine cabinet before room error, positioning and trim.
+This is a screening estimate, NOT collision-free fit proof. Freezer drawer travel,
+standing room, handle projections and full wine rack pull-out remain to be checked.
+The source's ±2–3-inch estimates are not precise enough for ordering appliances.
+
+End-wall art direction: one tasteful vertical Italy map/wine-region print, muted cream,
+charcoal and restrained olive/terracotta, thin oak or dark frame. Starting art size
+approximately 18x 24 inches; adjust to actual free wall. The wine cabinet, possible coffee
+garage, Italy art and existing spice/tech nook occupy the SAME end-wall composition.
+Do not independently stack all of them into the same space. Favor an uncluttered wall
+and usable worktop; exact coffee/spice/art arrangement remains a layout task.
+
+No generation spend on the new wall before its physical envelope is resolved.

@@ -1,6 +1,6 @@
 {
   "project": "vero-kitchen-film",
-  "phase": "paired fitted coffee-garage concept generated and visually reviewed",
+  "phase": "end-wall appliance selection and clearance planning; no new generation",
   "budget_ceiling_credits": 200,
   "approved_features": [
     "Wolf GR304 gas range, red knobs",
@@ -54,12 +54,18 @@
     }
   ],
   "gate": "No video generation until finished views agree and stage/worker references are inspected.",
-  "design_revision": "fitted-coffee-garage",
-  "pending_design_selection": "Optional shallow built-out spice/tech nook; do not propagate to all views or motion until user selects concept.",
+  "design_revision": "end-wall-wine-coffee-planning",
+  "pending_design_selection": "Wine/coffee/Italy-art/spice composition; physical clearances unresolved. AboveDW counter stays clear.",
   "coffee_garage": {
     "open": "outputs/keyframes/coffee-garage-open-v2.png",
     "closed": "outputs/keyframes/coffee-garage-closed-v2.png",
-    "status": "visual-concept-review",
+    "status": "rejected-location-blocks-dishwasher-worktop",
     "limits": "No verified tray travel, door storage, ventilation or appliance/room clearance; other views not propagated."
+  },
+  "appliance_candidates": {
+    "main": "Bosch B30BB130SS right-hinge upper door / bottom freezer drawer",
+    "wine": "U-Line URWC315-IG01A",
+    "status": "conditional-on-clearance-and-cabinetry",
+    "wall": "blank end wall beside main fridge; user calls north wall"
   }
 }
