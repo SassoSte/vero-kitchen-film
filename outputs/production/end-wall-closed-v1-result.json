@@ -1,0 +1,56 @@
+[
+  {
+    "created_at": "2026-10-09T06:32:28.028713Z",
+    "display_name": "GPT Image 2",
+    "id": "fce5b153-635f-456c-bf0d-7dd295cfcc77",
+    "job_type": "gpt_image_2",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261009_063228_fce5b153-635f-456c-bf0d-7dd295cfcc77_min.webp",
+    "params": {
+      "aspect_ratio": "16:9",
+      "height": 1520,
+      "medias": [
+        {
+          "data": {
+            "id": "090d7d38-7427-4f0b-bece-4a481c831379",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/090d7d38-7427-4f0b-bece-4a481c831379_resize.jpg"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "503e50bc-621e-43f6-b54b-d9eeeb1ca5b5",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/503e50bc-621e-43f6-b54b-d9eeeb1ca5b5.webp"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "6db08768-30e3-47ae-a121-2f89744d2548",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/6db08768-30e3-47ae-a121-2f89744d2548.png"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "9f066628-3e9e-4239-b1d1-73a108282ca8",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/9f066628-3e9e-4239-b1d1-73a108282ca8_resize.jpg"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "videotape-alpha",
+      "prompt": "Create a grounded photoreal architectural DESIGN CONCEPT of this same compact galley kitchen and its blank END WALL. IMAGE 1 controls current finishes/camera/architecture; image 2 is original geometry; image 3 is the dimensioned proposed layout, NOT a poster to put in the picture; image 4 controls exact new refrigerator appearance. No room widening or invented recess.\nKeep original perspective as much as possible, but include the end-wall unit completely with its floor contact in the left/center of frame and new main fridge on the right of that wall. Cooking run remains at right, sink run at left. The BLANK END WALL is perpendicular to BOTH runs, beside the main fridge; the wine cabinet fronts FACE DOWN THE AISLE toward camera, not parallel to cooking run. Do not install wine fridge under the cooking counter or under the sink counter.\nMain fridge: replace old top-freezer AND short cabinet above it with one TALL stainless Bosch B30BB130SS like image4, in the SAME 33-inch bay. Single upper door has long vertical handle on LEFT and hinge on RIGHT away from endwall; bottom FREEZER DRAWER has horizontal handle. 30-inch appliance width, top at84 inches below96-inch ceiling, no cupboard above. Preserve adjacent24-inch base, Wolf range with5redknobs, pale hood/pot filler, lit frosted white cabinetry, SMEG toaster/kettle and warm-grey concrete floor.\nOn end wall, tucked to SINK-side end rather than beside mainfridge hinge, ONE NARROW white fitted service unit ONLY18 inches wide and24deep. In lower part below36-inch worktop place a compact15-inch GLASS-DOOR wine fridge with slim cabinetry-matched white frame, visible modest wine racks, warm interior light and unobstructed small front grille. Do not enlarge to24inch wine appliance. End-wall unit projects INTO room, not buried into wall. Leave visibly generous blank wall/floor separation towardmainfridge.\nDirectly atop this winecabinet, a matching uppermodule18W18H from36to54AFF: left approx11.5-inchwide flush white COFFEE GARAGE FRONT CLOSED, concealing compactmachine and retractedtray; right approx6.5-inchwide slim OAK-LINED spice/tech niche IN THIS SAME UNIT. Two small upperledges with a few miniature glassspicejars; lower small cubby with compact dark smart-speaker puck and upright phone on hidden chargingdock. No separate wall-mounted spicebox. No objects floatingor blocking sink.\nAbove theunit, one FLAT18x24inch Italian wine-region map in slim oak frame, creamground charcoal linework mutedolive, elegant word ITALIA, top81inches. Keep remaining endwall quiet. The integratedwine/coffee/spicetech width stays18inches; don't widen the kitchen tofit.\nAll counter ABOVE DISHWASHER stays clear and usable; no coffee housing there, no freestandingespresso elsewhere. Singlephotoreal closed-state view, no workers, no overlaidlabels or dimensionlines, no addedkitchen rooms or islands. Crisp realistic materials and rigid geometry.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 2688
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261009_063228_fce5b153-635f-456c-bf0d-7dd295cfcc77.png",
+    "status": "completed"
+  }
+]

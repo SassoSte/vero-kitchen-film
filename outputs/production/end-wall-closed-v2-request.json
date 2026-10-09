@@ -1,0 +1,13 @@
+{
+  "model": "gpt_image_2",
+  "params": {
+    "quality": "high",
+    "resolution": "2k",
+    "aspect_ratio": "16:9"
+  },
+  "references": [
+    "outputs/keyframes/end-wall-closed-v1.png",
+    "outputs/production/end-wall-proposed.png"
+  ],
+  "prompt": "Correct the new END-WALL SERVICE UNIT in image 1 to the EXACT STACKED design in diagram image 2. The current version incorrectly put a full-height narrow cabinet NEXT TO a miniature wine fridge. That is WRONG. Preserve the same overall unit width/position and all other room architecture/appliances. Rebuild the lower part from FLOOR to36-inch countertop as ONE full-width 15-inch wine fridge inside the 18-inch white cabinet. Its glass door fills nearly the ENTIRE WIDTH of the lower cabinet. There is NO tall cupboard alongside it and NO central vertical divider below worktop. Wine unit stays left on endwall near sink; main Bosch fridge remains separate right.\nAbove this wine fridge a continuous full-width thin pale quartz countertop at36inches supports ONLY an18-inch-high upper coffee/spice/tech MODULE. In that UPPER MODULE only, left approx11.5inches is a CLOSED SMALL WHITE COFFEE-GARAGE door that starts at COUNTER level and ends at54inches; right approx6.5inches is open oak-lined spice/tech niche with jars above and small smartpuck/phone below. The closed coffee door must NOT extend to floor. A small horizontal finger recess instead of long fullheightpull. Overall wine/coffee stack ends54inches, not taller. Keep the same flat Italy map above, now spaced neatly above module. Stack must read WIDE wine fridge below, SMALL CLOSED garage plus narrow niche above, matching diagram.\nRemove the old espresso machine fragment on extreme LEFT foreground counter above dishwasher: that countertop must be completely clear. Keep Bosch tall fridge and right hinge/left handle/bottom drawer, Wolf stove five knobs/hood/SMEG, all other finishes and concrete floor unchanged. Photoreal same view, no text overlays, no added furniture, no room widening."
+}

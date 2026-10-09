@@ -1,6 +1,6 @@
 {
   "project": "vero-kitchen-film",
-  "phase": "end-wall appliance selection and clearance planning; no new generation",
+  "phase": "coordinated end-wall nominal film concept resolved; other angles need propagation",
   "budget_ceiling_credits": 200,
   "approved_features": [
     "Wolf GR304 gas range, red knobs",
@@ -54,18 +54,26 @@
     }
   ],
   "gate": "No video generation until finished views agree and stage/worker references are inspected.",
-  "design_revision": "end-wall-wine-coffee-planning",
-  "pending_design_selection": "Wine/coffee/Italy-art/spice composition; physical clearances unresolved. AboveDW counter stays clear.",
+  "design_revision": "stacked-end-wall-service-unit",
+  "pending_design_selection": "Review corrected closed/open end-wall concept; physical installation not measured.",
   "coffee_garage": {
-    "open": "outputs/keyframes/coffee-garage-open-v2.png",
-    "closed": "outputs/keyframes/coffee-garage-closed-v2.png",
-    "status": "rejected-location-blocks-dishwasher-worktop",
-    "limits": "No verified tray travel, door storage, ventilation or appliance/room clearance; other views not propagated."
+    "status": "relocated to endwall unit abovewine",
+    "open": "outputs/keyframes/end-wall-open-v1.png",
+    "closed": "outputs/keyframes/end-wall-closed-v2.png",
+    "limits": "partial reveal illustration, not operating clearance proof"
   },
   "appliance_candidates": {
     "main": "Bosch B30BB130SS right-hinge upper door / bottom freezer drawer",
     "wine": "U-Line URWC315-IG01A",
     "status": "conditional-on-clearance-and-cabinetry",
     "wall": "blank end wall beside main fridge; user calls north wall"
-  }
+  },
+  "end_wall_layout": "kitchen-blueprint/end-wall-proposed.json",
+  "end_wall_status": "closed-v2 and open-v1 visually reviewed; open illustrates partial extension only",
+  "end_wall_views": {
+    "closed": "outputs/keyframes/end-wall-closed-v2.png",
+    "reveal": "outputs/keyframes/end-wall-open-v1.png",
+    "limits": "Partial extension shown; 14-inch operating travel and actual fit NOT verified."
+  },
+  "microwave_location": "RunB x27\u201351 after24blindreturn+3filler; original leftmostbay superseded"
 }

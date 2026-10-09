@@ -440,4 +440,57 @@ garage, Italy art and existing spice/tech nook occupy the SAME end-wall composit
 Do not independently stack all of them into the same space. Favor an uncluttered wall
 and usable worktop; exact coffee/spice/art arrangement remains a layout task.
 
-No generation spend on the new wall before its physical envelope is resolved.
+The nominal film envelope is now resolved in Section R and the proposed plan.
+Concept rendering is authorized; real construction/ordering still requires measured
+clearances. No claim of surveyed fit follows from the render.
+
+## R. COORDINATED END-WALL FILM CONCEPT — 2026-10-08
+
+Current concept authority: `kitchen-blueprint/end-wall-proposed.json` and `.svg`.
+These are NEW proposal files; original plans remain unchanged.
+
+- Main fridge: Bosch candidate in original 33-inch bay, 30-inch opening and 84-inch
+  height, right upper hinge away from end wall, bottom freezer drawer. Remove the old
+  above-fridge cupboard to make that height.
+- End-wall unit: 18 inches overall along the wall, 24 inches deep into room, at the
+  sink-side end (plan x0–24, y61.5–79.5). Wine appliance below a 36-inch worktop.
+- Upper module: 18 inches wide and 18 high, approximately 36–54 AFF. Coffee bay takes
+  roughly 11.5 inches gross width; slim spice/tech niche takes remaining 6.5. These
+  SHARE the same enclosure, not an additional shelf in the main-fridge swing area.
+- Coffee sizing reference: DeLonghi Dedica Arte EC885M, manufacturer-listed 5.9W x 13D
+  x 12H inches. Compact brushed-metal machine, stored behind flush front. Tray has
+  approximately 14-inch full extension so machine is brought clear of its housing for
+  use, front open. Final runners, cable movement and operating clearances unverified.
+  Source: https://www.delonghi.com/en-us/ec885m-dedica-arte/p/EC885M
+- Spice/tech side niche: two small spice ledges above a lower charging/speaker cubby.
+  No extra drawer above the wine fridge and no separate projecting wall shelf.
+- Italy map: 18 x 24 inches INCLUDING frame, flat on wall above cabinet, approx 57–81 AFF.
+- Above-dishwasher counter remains fully usable and has NO coffee garage or machine.
+
+Nominal screening: manufacturer 33-inch forward envelope from an installed front at
+24–25.5 gives a 57–58.5 extent; candidate unit starts 61.5. Resulting 3–4.5 inches is
+only a nominal separation before room uncertainty/trim/handles. It is NOT installation
+approval. Wine handing/rack extraction, actual freezer drawer travel, working/standing
+space and simultaneous opening remain unverified. Operate one pull-out at a time in
+the concept; do not show impossible simultaneous openings.
+
+The video can use this coherent nominal design after returned-image review. For an
+actual renovation, physical measurements and manufacturer installation details still
+govern. Full kitchen angle propagation follows the chosen end-wall concept.
+
+### R1. Corner access and internal-width resolution
+
+The added end-wall unit blocks front access to the first 24 inches of Run B. Revise
+that 66-inch pre-sink segment to 24-inch blind/fixed return + 3-inch filler + 24-inch
+microwave bay + 15-inch base. Microwave moves to plan x27–51, still left of sink x66–99.
+DW remains x99–123 and its entire countertop stays clear. Do not draw working front
+drawers behind the wine unit. With wine body ending x24 this gives 3 inches nominal
+lateral separation to microwave bay. Coffee tray extends to about x38, so open tray,
+wine door and microwave share operating space. They are NOT demonstrated safe to
+open together; film inserts operate them separately.
+
+Upper 18-inch unit: after three illustrative 3/4-inch side/divider panels, total clear
+width is 15.75 inches. Allocate approximately 10 clear to coffee and 5.75 clear to the
+spice/tech side. Gross 11.5/6.5 labels are zones, not usable internal clearances. Keep
+tech items compact and staggered in depth; do not invent a side pull-out in the wine
+appliance's ventilation/cutout allowance. Mechanical hardware remains a build detail.

@@ -1,0 +1,94 @@
+{
+  "status": "film concept; nominal dimensions, not surveyed installation",
+  "units": "inches",
+  "main_fridge": {
+    "model": "Bosch B30BB130SS",
+    "bay_width": 33,
+    "opening": [
+      30,
+      84,
+      24
+    ],
+    "upper_hinge": "right facing appliance, away from end wall",
+    "freezer": "pull-out drawer",
+    "front_y_range": [
+      24,
+      25.5
+    ],
+    "forward_clearance_envelope": 33
+  },
+  "end_wall_unit": {
+    "footprint_x": [
+      0,
+      24
+    ],
+    "footprint_y": [
+      61.5,
+      79.5
+    ],
+    "width": 18,
+    "counter_height": 36,
+    "wine_cutout_width": 15.125,
+    "side_panels_total": 1.5,
+    "remaining_fillers": 1.375,
+    "wine_hinge": "sink-side candidate, verify rack access and adjacent cabinetry",
+    "coffee_housing_height": [
+      36,
+      54
+    ],
+    "coffee_bay_width_gross": 11.5,
+    "spice_tech_bay_width_gross": 6.5,
+    "coffee_tray_extension": 14,
+    "coffee_machine_reference": "DeLonghi Dedica Arte EC885M 5.9W x13D x12H; verify specific SKU before build",
+    "artwork_overall_size": [
+      18,
+      24
+    ],
+    "artwork_height": [
+      57,
+      81
+    ],
+    "upper_clear_compartments": {
+      "coffee_width": 10,
+      "spice_tech_width": 5.75,
+      "three_panels_total": 2.25
+    }
+  },
+  "margin_screening": {
+    "front24": 4.5,
+    "front25_5": 3.0,
+    "room_uncertainty": "+/-2\u20133; door handles, drawer/standing-room not validated"
+  },
+  "operating_rule": "coffee tray fully extended and front open during use; simultaneous appliance operation not established",
+  "supersedes": [
+    "all above-dishwasher garages",
+    "separate external end-wall spice-tech box"
+  ],
+  "run_b_revision": {
+    "blind_return": [
+      0,
+      24
+    ],
+    "filler": [
+      24,
+      27
+    ],
+    "microwave": [
+      27,
+      51
+    ],
+    "remaining_base": [
+      51,
+      66
+    ],
+    "sink": [
+      66,
+      99
+    ],
+    "dishwasher": [
+      99,
+      123
+    ],
+    "shared_operating_zone": "coffee tray/wine door/microwave; use one at a time, detailed fit unverified"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "model": "gpt_image_2",
+  "params": {
+    "quality": "high",
+    "resolution": "2k",
+    "aspect_ratio": "16:9"
+  },
+  "references": [
+    "outputs/keyframes/end-wall-closed-v2.png"
+  ],
+  "prompt": "Make the OPEN COFFEE state of this exact same photograph. Change ONLY the SMALL WHITE COFFEE GARAGE compartment directly ABOVE the wine fridge, at LEFT of the oak spice/tech nook. Preserve its external size, position, the wine fridge below, Italy map, spice jars, speaker/phone, main Bosch fridge, Wolf/hood/SMEG, all room geometry and concrete floor. Do not add another unit. Open the small coffee front by lifting it into a concealed pocket under its top so no hinged door swings into the aisle. Warm oak-lined interior. One very COMPACT sleek DeLonghi Dedica Arte style stainless espresso machine approximately6inches wide12high13deep on a clearly supported slim pull-out tray. Slim curved brushed-steel body, restrained controls, portafilter and fine steam wand, not a large box or ornate tower. The tray extends straight forward from end-wall cabinet toward camera by approximately14inches, bringing machine clear of housing for use. It stays at36-inch counter height, with visible subtle support runners, not floating. Wine door BELOW remains CLOSED. Right spice/tech niche unchanged and unobstructed. Main fridge doors and freezer drawer CLOSED. No machine or garage on dishwasher counter, keep that worktop clear. One photoreal same-frame counterpart, no text overlays, no architecture changes."
+}

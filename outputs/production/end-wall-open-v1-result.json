@@ -1,0 +1,32 @@
+[
+  {
+    "created_at": "2026-10-09T06:40:47.859081Z",
+    "display_name": "GPT Image 2",
+    "id": "b0d3ea52-543f-426b-90fd-9bf754e14a18",
+    "job_type": "gpt_image_2",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261009_064047_b0d3ea52-543f-426b-90fd-9bf754e14a18_min.webp",
+    "params": {
+      "aspect_ratio": "16:9",
+      "height": 1520,
+      "medias": [
+        {
+          "data": {
+            "id": "0b2737f9-dcbe-457d-a6fd-8f0accf08d71",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/0b2737f9-dcbe-457d-a6fd-8f0accf08d71_resize.jpg"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "videotape-alpha",
+      "prompt": "Make the OPEN COFFEE state of this exact same photograph. Change ONLY the SMALL WHITE COFFEE GARAGE compartment directly ABOVE the wine fridge, at LEFT of the oak spice/tech nook. Preserve its external size, position, the wine fridge below, Italy map, spice jars, speaker/phone, main Bosch fridge, Wolf/hood/SMEG, all room geometry and concrete floor. Do not add another unit. Open the small coffee front by lifting it into a concealed pocket under its top so no hinged door swings into the aisle. Warm oak-lined interior. One very COMPACT sleek DeLonghi Dedica Arte style stainless espresso machine approximately6inches wide12high13deep on a clearly supported slim pull-out tray. Slim curved brushed-steel body, restrained controls, portafilter and fine steam wand, not a large box or ornate tower. The tray extends straight forward from end-wall cabinet toward camera by approximately14inches, bringing machine clear of housing for use. It stays at36-inch counter height, with visible subtle support runners, not floating. Wine door BELOW remains CLOSED. Right spice/tech niche unchanged and unobstructed. Main fridge doors and freezer drawer CLOSED. No machine or garage on dishwasher counter, keep that worktop clear. One photoreal same-frame counterpart, no text overlays, no architecture changes.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 2688
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261009_064047_b0d3ea52-543f-426b-90fd-9bf754e14a18.png",
+    "status": "completed"
+  }
+]

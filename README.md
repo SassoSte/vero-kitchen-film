@@ -94,3 +94,16 @@ wine fridge, possibly coffee storage, and Italy artwork. `mega-prompt.md` Sectio
 records the researched Bosch/U-Line candidates, official sources, dimensions and open
 clearance questions. Prior garage renders are historical only; no new wall rendering
 has been commissioned.
+
+## Coordinated end-wall concept
+
+Current closed/open concept: [closed-v2](outputs/keyframes/end-wall-closed-v2.png) /
+[coffee reveal](outputs/keyframes/end-wall-open-v1.png). Matching main Bosch fridge,
+full-width wine base below, shared coffee/spice-tech module above and Italy art.
+The reveal shows partial extension, not verified operating travel.
+
+Dimensioned proposal: [SVG](kitchen-blueprint/end-wall-proposed.svg) /
+[JSON](kitchen-blueprint/end-wall-proposed.json). Above-DW counter is clear. To avoid
+the new inside corner, the microwave shifts along RunB to x27–51 after a blind24-inch
+return and3-inch filler. Other angles/stage frames need propagation before production.
+Current total: **183.25 credits**, **16.75 remaining**. No new motion in this pass.

@@ -1,3 +1,8 @@
+LATEST COORDINATED END-WALL CONCEPT — 2026-10-08
+Nominal proposalSVG/JSON created and rendered. Winebase18Wx24D at sinkendblankwall, coffee/niche upper sharedwidth, Italyartabove; mainBosch rightupperhinge/bottomdrawer. First closed render rejected wrong full-height sidecupboard/miniaturewine. closed-v2 visual pass after fullwidthwine correction and clearingoldcoffee aboveDW. open-v1 matching partial coffee reveal, onecompactmachine, samecabinet/art/niche; NOT full14inch operating extension. Other views need propagation.
+Plan access correction: RunB first24blindreturn +3filler +24microwave +15base =66; sink33 andDW24 unchanged. Shared pullout operatingzone unresolved for simultaneoususe; do not showallopen. Sourcegeometry±2–3 and nominal3–4.5margin do not certifyinstallfit.
+This pass3x6.5=19.5 credits; total183.25, remaining16.75. No newmotion.
+
 LATEST OVERRIDE: coffee garage above dishwasher REJECTED by user; remove its tall panel and restore working counter. New end-wall wine/coffee layout under dimensional review. Bosch/U-Line are candidates only, not confirmed fits. No generation spending in this research pass.
 
 LATEST COFFEE GARAGE CONCEPT — 2026-10-08

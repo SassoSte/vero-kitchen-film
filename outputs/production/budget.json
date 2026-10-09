@@ -1,7 +1,7 @@
 {
   "ceiling_credits": 200,
   "opening_balance": 1246.8,
-  "reserved_credits": 163.75,
+  "reserved_credits": 183.25,
   "jobs": [
     {
       "name": "master-v1",
@@ -183,9 +183,30 @@
       "status": "generated",
       "job_id": "47b61c5c-84f7-4346-8d9e-57c70ba7da66",
       "file": "outputs/keyframes/coffee-garage-closed-v2.png"
+    },
+    {
+      "name": "end-wall-closed-v1",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "fce5b153-635f-456c-bf0d-7dd295cfcc77",
+      "file": "outputs/keyframes/end-wall-closed-v1.png"
+    },
+    {
+      "name": "end-wall-closed-v2",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "f1163e05-5394-41ff-989d-cdecd9f6f016",
+      "file": "outputs/keyframes/end-wall-closed-v2.png"
+    },
+    {
+      "name": "end-wall-open-v1",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "b0d3ea52-543f-426b-90fd-9bf754e14a18",
+      "file": "outputs/keyframes/end-wall-open-v1.png"
     }
   ],
-  "balance_after": 1083.05,
-  "balance_delta": 163.75,
-  "remaining_phase_credits": 36.25
+  "balance_after": 1063.55,
+  "balance_delta": 183.25,
+  "remaining_phase_credits": 16.75
 }
