@@ -1,0 +1,41 @@
+[
+  {
+    "created_at": "2026-10-10T19:33:34.724654Z",
+    "display_name": "Kling O3 (Frames)",
+    "id": "e093de54-a9b9-4bd4-9074-00311d3ec214",
+    "job_type": "kling_o3_flf",
+    "min_result_url": null,
+    "params": {
+      "aspect_ratio": "16:9",
+      "duration": 3,
+      "height": 1080,
+      "medias": [
+        {
+          "data": {
+            "id": "050fa568-7bf4-470e-9e5c-e9a7a5d88364",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/050fa568-7bf4-470e-9e5c-e9a7a5d88364_resize.jpg"
+          },
+          "role": "start_image"
+        },
+        {
+          "data": {
+            "id": "402cd1a2-3f84-4549-a1c8-bbb0458c4179",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/402cd1a2-3f84-4549-a1c8-bbb0458c4179_resize.jpg"
+          },
+          "role": "end_image"
+        }
+      ],
+      "mode": "pro",
+      "multi_prompt": [],
+      "multi_shots": false,
+      "prompt": "Fixed locked-off camera, no camera movement, no zoom. Photoreal construction footage. Room, walls, cabinets and lighting do not change; no one enters or leaves; workers keep the same faces, clothes and tool belts; carried objects stay rigid and keep their shape. Both workers lift the stainless over-the-range microwave off its wall bracket together, lower it to chest height and draw it back toward the aisle, holding it level.",
+      "sound": "off",
+      "width": 1920
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_193334_e093de54-a9b9-4bd4-9074-00311d3ec214.mp4",
+    "status": "completed",
+    "thumbnail_url": "https://cdn.higgsfield.ai/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_193334_e093de54-a9b9-4bd4-9074-00311d3ec214_thumbnail.webp"
+  }
+]

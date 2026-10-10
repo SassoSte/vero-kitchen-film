@@ -1,0 +1,16 @@
+{
+  "model": "gpt_image_2",
+  "params": {
+    "quality": "high",
+    "resolution": "2k",
+    "aspect_ratio": "16:9"
+  },
+  "references": [
+    "outputs/construction/stage-01-range-removed.png",
+    "outputs/construction/raw/ref-old-range-crop.png",
+    "outputs/keyframes/workers-v1.png"
+  ],
+  "prompt": "Image1 is a fixed photograph of a dated kitchen under renovation with an empty range opening; reproduce it EXACTLY with the same tight framing \u2014 do not zoom out, do not move or change anything. ADD ONLY two workers and the old range they have just pulled out. The range must be EXACTLY the appliance shown in image2: stainless electric slide-in range with a raised stainless BACK control panel carrying the knobs and display at the rear of the black glass cooktop, a curved bar handle and a large oven window \u2014 no knobs on the front. It now stands on the floor in the open aisle just left of its opening, pulled straight out about 70 cm, back panel toward the opening. The lead (navy shirt, grey hair) stands nearer the camera gripping its left side; the partner (grey shirt, dark cap) stands beyond it by the refrigerator holding the back panel; both look down at it. Nobody stands on or behind the worktop. Lead: tan leather tool belt. Partner: dark-brown tool belt. Match image3's faces and clothing exactly. No other new objects. Photoreal.",
+  "output": "outputs/construction/raw/01C-end-v2.png",
+  "attempt": 2
+}

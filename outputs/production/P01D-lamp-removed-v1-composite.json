@@ -1,0 +1,33 @@
+{
+ "base": "outputs/construction/base-ref-h-apartment-facing.png",
+ "returned": "outputs/construction/raw/P01D-lamp-removed-v1.png",
+ "mask": "outputs/production/masks/P01D-lamp-mask.png",
+ "output": "outputs/construction/stage-01D-lamp-removed.png",
+ "homography": [
+  [
+   0.99957,
+   0.00036,
+   -0.05701
+  ],
+  [
+   5e-05,
+   1.00162,
+   -1.22759
+  ],
+  [
+   0.0,
+   0.0,
+   1.0
+  ]
+ ],
+ "ransac_inliers": 1426,
+ "protected_mean_abs_diff_raw": 4.96,
+ "protected_mean_abs_diff_registered": 4.44,
+ "ring_colour_gain_bgr": [
+  1.0013,
+  0.9984,
+  0.9952
+ ],
+ "protected_pixels_changed": 0,
+ "output_sha256": "ce0f583d770b3181f5e951b51c082be1254d03295d8a01c4e56542e281ebda8c"
+}

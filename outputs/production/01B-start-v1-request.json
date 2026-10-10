@@ -1,0 +1,14 @@
+{
+  "model": "gpt_image_2",
+  "params": {
+    "quality": "high",
+    "resolution": "2k",
+    "aspect_ratio": "16:9"
+  },
+  "references": [
+    "outputs/construction/base-ref-a-cooking-run.png",
+    "outputs/construction/01B-end.png"
+  ],
+  "prompt": "Image1 is a fixed photograph of a dated kitchen with a stainless over-the-range microwave mounted above the range. Reproduce image1 EXACTLY with the same tight framing \u2014 do not zoom out, do not move or change anything, the microwave stays mounted in its place. ADD ONLY the same two workers from image2 (same faces, clothes, tool belts), standing on the floor in the open aisle on the LEFT of the range exactly where they stand in image2, now reaching up with both arms: the lead (navy shirt, grey hair, nearer the camera) and the partner (grey shirt, dark cap, beside the refrigerator) grip the bottom front edge and left side of the mounted microwave, about to lift it off its bracket, looking up at it. Nobody stands behind or on the worktop. No other new objects. Photoreal.",
+  "output": "outputs/construction/raw/01B-start-v1.png"
+}

@@ -1,0 +1,40 @@
+[
+  {
+    "created_at": "2026-10-10T19:26:49.658296Z",
+    "display_name": "GPT Image 2",
+    "id": "f9dd5835-0a18-40bf-8352-2a6b25594454",
+    "job_type": "gpt_image_2",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_192649_f9dd5835-0a18-40bf-8352-2a6b25594454_min.webp",
+    "params": {
+      "aspect_ratio": "16:9",
+      "height": 1520,
+      "medias": [
+        {
+          "data": {
+            "id": "6adf311b-9068-4550-bdb9-2b0718d17e5c",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/6adf311b-9068-4550-bdb9-2b0718d17e5c_resize.jpg"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "bb719216-3066-48dc-a48a-b05a0f045663",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/bb719216-3066-48dc-a48a-b05a0f045663_resize.jpg"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "videotape-alpha",
+      "prompt": "Image1 is a fixed photograph of a dated kitchen: the stainless electric range with raised back control panel is still installed in its opening between the brown base cabinets, and the over-range microwave space is empty. Reproduce image1 EXACTLY with the same tight framing — do not zoom out, do not move or change anything; the range stays in its opening. ADD ONLY the same two workers from image2 (same faces, clothes, tool belts), standing on the floor in the open aisle LEFT of the range: the lead (navy shirt, grey hair) nearer the camera gripping the range's left front corner and cooktop edge, the partner (grey shirt, dark cap) beside the refrigerator reaching across to grip the back control panel; knees bent, about to pull it straight out, looking at it. Nobody stands on or behind the worktop. No other new objects. Photoreal.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 2688
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_192649_f9dd5835-0a18-40bf-8352-2a6b25594454.png",
+    "status": "completed"
+  }
+]

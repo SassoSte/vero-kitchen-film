@@ -1,0 +1,41 @@
+[
+  {
+    "created_at": "2026-10-10T19:43:46.317857Z",
+    "display_name": "Kling O3 (Frames)",
+    "id": "2c6d2be4-d644-4e78-842b-7c69c14aea2d",
+    "job_type": "kling_o3_flf",
+    "min_result_url": null,
+    "params": {
+      "aspect_ratio": "16:9",
+      "duration": 3,
+      "height": 1080,
+      "medias": [
+        {
+          "data": {
+            "id": "721901e2-89b9-4611-bcb4-2db623c70a08",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/721901e2-89b9-4611-bcb4-2db623c70a08_resize.jpg"
+          },
+          "role": "start_image"
+        },
+        {
+          "data": {
+            "id": "ac84ef08-175c-4644-a056-4df7041c0b16",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/ac84ef08-175c-4644-a056-4df7041c0b16_resize.jpg"
+          },
+          "role": "end_image"
+        }
+      ],
+      "mode": "pro",
+      "multi_prompt": [],
+      "multi_shots": false,
+      "prompt": "Fixed locked-off camera, no camera movement, no zoom. Photoreal. Room and lighting do not change; no one enters or leaves; workers keep the same faces and clothes. The stainless microwave is one rigid box that never changes shape, colour or orientation: its stainless front with dark window and keypad faces the camera the whole time. Both workers lift it straight off the wall bracket, lower it smoothly to chest height and step back with it, holding it level. Slow, steady movement.",
+      "sound": "off",
+      "width": 1920
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_194346_2c6d2be4-d644-4e78-842b-7c69c14aea2d.mp4",
+    "status": "completed",
+    "thumbnail_url": "https://cdn.higgsfield.ai/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_194346_2c6d2be4-d644-4e78-842b-7c69c14aea2d_thumbnail.webp"
+  }
+]

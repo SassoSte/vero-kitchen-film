@@ -1,0 +1,41 @@
+[
+  {
+    "created_at": "2026-10-10T19:46:18.923502Z",
+    "display_name": "Kling O3 (Frames)",
+    "id": "d62fe31d-ef80-4155-a343-bd1c2600895e",
+    "job_type": "kling_o3_flf",
+    "min_result_url": null,
+    "params": {
+      "aspect_ratio": "16:9",
+      "duration": 3,
+      "height": 1080,
+      "medias": [
+        {
+          "data": {
+            "id": "2a33f767-0f53-4006-8666-fa6385af6639",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/2a33f767-0f53-4006-8666-fa6385af6639_resize.jpg"
+          },
+          "role": "start_image"
+        },
+        {
+          "data": {
+            "id": "d97f9447-c5a7-4571-a46f-14aa455c4508",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/d97f9447-c5a7-4571-a46f-14aa455c4508_resize.jpg"
+          },
+          "role": "end_image"
+        }
+      ],
+      "mode": "pro",
+      "multi_prompt": [],
+      "multi_shots": false,
+      "prompt": "Fixed locked-off camera, no camera movement, no zoom. Photoreal. Room and lighting do not change; no one enters or leaves; workers keep the same faces and clothes. The worker keeps both hands on the lamp's wooden pole the entire time and never lets go: he lifts the lamp a few centimetres off the floor and takes one small step to his right, carrying it upright. The lamp moves only with his hands. Slow, steady movement.",
+      "sound": "off",
+      "width": 1920
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_194618_d62fe31d-ef80-4155-a343-bd1c2600895e.mp4",
+    "status": "completed",
+    "thumbnail_url": "https://cdn.higgsfield.ai/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_194618_d62fe31d-ef80-4155-a343-bd1c2600895e_thumbnail.webp"
+  }
+]

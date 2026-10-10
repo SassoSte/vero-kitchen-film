@@ -34,6 +34,8 @@ drift_reg = float(np.abs(aligned.astype(int) - base.astype(int))[prot].mean())
 # colour match the returned region to base using a ring just outside the mask
 ring = cv2.dilate(mask.astype(np.uint8), np.ones((31, 31), np.uint8)).astype(bool) & prot
 gain = (base[ring].reshape(-1, 3).astype(float).mean(0) + 1) / (aligned[ring].reshape(-1, 3).astype(float).mean(0) + 1)
+import os
+if os.environ.get('STAGE_NO_GAIN'): gain = np.ones(3)
 fixed = np.clip(aligned.astype(float) * gain, 0, 255)
 # feather only inward so the protected area stays exact
 inner = cv2.distanceTransform(mask.astype(np.uint8), cv2.DIST_L2, 5)

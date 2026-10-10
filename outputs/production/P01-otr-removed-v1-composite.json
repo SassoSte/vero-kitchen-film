@@ -1,0 +1,33 @@
+{
+ "base": "outputs/construction/base-ref-a-cooking-run.png",
+ "returned": "outputs/construction/raw/P01-otr-removed-v1.png",
+ "mask": "outputs/production/masks/P01-otr-mask.png",
+ "output": "outputs/construction/stage-01-otr-removed.png",
+ "homography": [
+  [
+   0.99935,
+   -0.00293,
+   2.38785
+  ],
+  [
+   0.00249,
+   1.00069,
+   -3.853
+  ],
+  [
+   0.0,
+   -0.0,
+   1.0
+  ]
+ ],
+ "ransac_inliers": 1342,
+ "protected_mean_abs_diff_raw": 6.48,
+ "protected_mean_abs_diff_registered": 6.24,
+ "ring_colour_gain_bgr": [
+  0.9531,
+  0.9444,
+  0.9325
+ ],
+ "protected_pixels_changed": 0,
+ "output_sha256": "c86db4afe7c7a3bc37c7f3c404597720cd59782c3c7fe2e2e704929401804bae"
+}

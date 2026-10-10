@@ -1,0 +1,40 @@
+[
+  {
+    "created_at": "2026-10-10T19:17:49.966095Z",
+    "display_name": "GPT Image 2",
+    "id": "45608686-6f96-4d19-8959-7cbfdf8615fd",
+    "job_type": "gpt_image_2",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_191749_45608686-6f96-4d19-8959-7cbfdf8615fd_min.webp",
+    "params": {
+      "aspect_ratio": "16:9",
+      "height": 1520,
+      "medias": [
+        {
+          "data": {
+            "id": "bcaf9ac5-0321-4b47-beb6-b4df60a7219b",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/bcaf9ac5-0321-4b47-beb6-b4df60a7219b_resize.jpg"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "640237aa-75e1-4161-b08f-b2d5c5277a3f",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/640237aa-75e1-4161-b08f-b2d5c5277a3f_resize.jpg"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "videotape-alpha",
+      "prompt": "Image1 is a fixed photograph of a dated kitchen; reproduce it EXACTLY with the same tight framing and camera — do not zoom out, do not show more floor, do not move anything. Keep the brown cabinets, refrigerator, electric range, granite, and the bare wall with mounting bracket where a microwave was. ADD ONLY two workers, BOTH standing on the floor in the open aisle on the LEFT side of the range (between the camera and the refrigerator) — nobody stands behind, beside or on the granite worktop. They hold the removed stainless over-the-range microwave level at chest height between them, just lowered from the bracket and drawn back toward the aisle: lead in front nearer the camera, partner beside the refrigerator, both looking at it. Their lower bodies may be cut by the bottom of the frame. Lead: short grey hair, navy long-sleeve work shirt, dark trousers, tan leather tool belt. Partner: grey work shirt, dark trousers, dark cap, dark-brown tool belt. Match image2's faces and clothing exactly. No other new objects or people. Photoreal.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 2688
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_191749_45608686-6f96-4d19-8959-7cbfdf8615fd.png",
+    "status": "completed"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "model": "gpt_image_2",
+  "params": {
+    "quality": "high",
+    "resolution": "2k",
+    "aspect_ratio": "16:9"
+  },
+  "references": [
+    "outputs/construction/base-ref-a-cooking-run.png"
+  ],
+  "prompt": "Edit this photograph of a dated kitchen. Keep the camera, framing, lighting and every object exactly as it is \u2014 brown cabinets, black-and-stainless top-freezer refrigerator, electric range, dark granite, tile floor, track light. ONE change: the stainless over-the-range microwave has been removed. In its place show the empty space between the two brown upper cabinets: the bare painted wall with a mounting plate, a few screw holes and a capped electrical outlet, and the underside edge of the upper cabinet above. Nothing else changes. Photoreal.",
+  "output": "outputs/construction/raw/P01-otr-removed-v1.png",
+  "post": {
+    "tool": "tools/stage_composite.py",
+    "base": "outputs/construction/base-ref-a-cooking-run.png",
+    "mask": "outputs/production/masks/P01-otr-mask.png",
+    "final": "outputs/construction/stage-01-otr-removed.png"
+  }
+}

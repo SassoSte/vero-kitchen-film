@@ -1,0 +1,19 @@
+{
+  "model": "gpt_image_2",
+  "params": {
+    "quality": "high",
+    "resolution": "2k",
+    "aspect_ratio": "16:9"
+  },
+  "references": [
+    "outputs/construction/stage-01-otr-removed.png"
+  ],
+  "prompt": "Edit this photograph of a dated kitchen under renovation. Keep the camera, framing, lighting and every object exactly as it is \u2014 brown cabinets, refrigerator, granite worktops, tile floor, empty microwave space. ONE change: the stainless electric range has been removed. In its place show the empty 30-inch range opening between the brown base cabinets: the bare wall at the back with a 240V range outlet, the granite worktop edges on both sides, the plain side panels of both cabinets, and the tile floor continuing into the opening with a faint dust outline where the range stood. Nothing else changes. Photoreal.",
+  "output": "outputs/construction/raw/P01-range-removed-v1.png",
+  "post": {
+    "tool": "tools/stage_composite.py",
+    "base": "outputs/construction/stage-01-otr-removed.png",
+    "mask": "outputs/production/masks/P01-range-mask.png",
+    "final": "outputs/construction/stage-01-range-removed.png"
+  }
+}

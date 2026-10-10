@@ -1,0 +1,10 @@
+{
+ "plate": "outputs/construction/base-ref-a-cooking-run.png",
+ "returned": "outputs/construction/raw/01B-start-v1.png",
+ "output": "outputs/construction/raw/01B-start-v1-composite.png",
+ "ransac_inliers": 1618,
+ "protected_mean_abs_diff_registered": 5.25,
+ "person_mask_fraction": 0.1852,
+ "pixels_identical_to_plate_fraction": 0.8148,
+ "output_sha256": "00b1bc04c5cb7de2ec9ba3561902ce14c4c14787f238cf0d48e392f06137b554"
+}

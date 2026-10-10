@@ -1,0 +1,33 @@
+{
+ "base": "outputs/construction/stage-01-otr-removed.png",
+ "returned": "outputs/construction/raw/P01-range-removed-v1.png",
+ "mask": "outputs/production/masks/P01-range-mask.png",
+ "output": "outputs/construction/stage-01-range-removed.png",
+ "homography": [
+  [
+   0.9991,
+   0.00074,
+   -1.06487
+  ],
+  [
+   -0.00033,
+   1.00007,
+   2.20116
+  ],
+  [
+   -0.0,
+   0.0,
+   1.0
+  ]
+ ],
+ "ransac_inliers": 1071,
+ "protected_mean_abs_diff_raw": 8.35,
+ "protected_mean_abs_diff_registered": 7.04,
+ "ring_colour_gain_bgr": [
+  1.0,
+  1.0,
+  1.0
+ ],
+ "protected_pixels_changed": 0,
+ "output_sha256": "ee330e5acf0a0921a363484673ee2e81e9588a723e3e2ada2dda496c5aadc9dc"
+}

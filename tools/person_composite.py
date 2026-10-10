@@ -72,6 +72,8 @@ for poly, t in cfg.get('solid', []):             # one person: largest blob of d
     cn, _ = cv2.findContours(blob.astype(np.uint8), cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_NONE)
     f = np.zeros((H, W), np.uint8); cv2.drawContours(f, cn, -1, 1, -1)
     pm = (pm & ~c) | (f > 0)
+for poly in cfg.get('contact', []):                 # contact areas survive 'solid'
+    c = np.zeros((H, W), np.uint8); cv2.fillPoly(c, [np.array(poly, np.int32)], 1); pm |= c > 0
 for poly in cfg.get('exclude', []):
     c = np.zeros((H, W), np.uint8); cv2.fillPoly(c, [np.array(poly, np.int32)], 1); pm &= ~(c > 0)
 ycc = cv2.cvtColor(al, cv2.COLOR_BGR2YCrCb)

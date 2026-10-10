@@ -1,0 +1,10 @@
+{
+ "plate": "outputs/construction/stage-01-otr-removed.png",
+ "returned": "outputs/construction/raw/01C-start-v1.png",
+ "output": "outputs/construction/raw/01C-start-v1-composite.png",
+ "ransac_inliers": 1599,
+ "protected_mean_abs_diff_registered": 5.08,
+ "person_mask_fraction": 0.2067,
+ "pixels_identical_to_plate_fraction": 0.7933,
+ "output_sha256": "62d1015c8a0fbd33e4912191f5895acbb8f1dc9f8bd85af94a1c170b5a9e3aba"
+}

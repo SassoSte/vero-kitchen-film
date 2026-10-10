@@ -1,0 +1,40 @@
+[
+  {
+    "created_at": "2026-10-10T19:20:13.094557Z",
+    "display_name": "GPT Image 2",
+    "id": "22d34445-09d1-47fd-832d-f8f65dab1e16",
+    "job_type": "gpt_image_2",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_192013_22d34445-09d1-47fd-832d-f8f65dab1e16_min.webp",
+    "params": {
+      "aspect_ratio": "16:9",
+      "height": 1520,
+      "medias": [
+        {
+          "data": {
+            "id": "d4d96d69-f963-4421-acef-53a54177c908",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/d4d96d69-f963-4421-acef-53a54177c908_resize.jpg"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "8db08752-2785-47aa-9964-428eaef9b642",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/8db08752-2785-47aa-9964-428eaef9b642_resize.jpg"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "videotape-alpha",
+      "prompt": "Image1 is a fixed photograph of a dated kitchen with a stainless over-the-range microwave mounted above the range. Reproduce image1 EXACTLY with the same tight framing — do not zoom out, do not move or change anything, the microwave stays mounted in its place. ADD ONLY the same two workers from image2 (same faces, clothes, tool belts), standing on the floor in the open aisle on the LEFT of the range exactly where they stand in image2, now reaching up with both arms: the lead (navy shirt, grey hair, nearer the camera) and the partner (grey shirt, dark cap, beside the refrigerator) grip the bottom front edge and left side of the mounted microwave, about to lift it off its bracket, looking up at it. Nobody stands behind or on the worktop. No other new objects. Photoreal.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 2688
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_192013_22d34445-09d1-47fd-832d-f8f65dab1e16.png",
+    "status": "completed"
+  }
+]

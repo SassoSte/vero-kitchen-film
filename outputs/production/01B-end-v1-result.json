@@ -1,0 +1,40 @@
+[
+  {
+    "created_at": "2026-10-10T19:15:56.932962Z",
+    "display_name": "GPT Image 2",
+    "id": "131f0644-0a05-4953-a42e-20857b7720ac",
+    "job_type": "gpt_image_2",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_191556_131f0644-0a05-4953-a42e-20857b7720ac_min.webp",
+    "params": {
+      "aspect_ratio": "16:9",
+      "height": 1520,
+      "medias": [
+        {
+          "data": {
+            "id": "8a32c740-dda7-4496-b611-e67b1a2628b4",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/8a32c740-dda7-4496-b611-e67b1a2628b4_resize.jpg"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "33b8f70c-264f-4b22-9aa1-7a9f383d1635",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/33b8f70c-264f-4b22-9aa1-7a9f383d1635_resize.jpg"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "videotape-alpha",
+      "prompt": "Image1 is a fixed photograph of a dated kitchen; reproduce it exactly — same camera, framing, brown cabinets, refrigerator, electric range, granite, floor, the bare wall with mounting bracket where a microwave was — and ADD ONLY two workers holding the removed stainless over-the-range microwave. They stand side by side on the floor in front of the range, facing the wall, holding the microwave level at chest height between them, just lowered about 30 cm below the empty bracket position: lead on the left, partner on the right, both looking at it. Lead: short grey hair, navy long-sleeve work shirt, dark trousers, tan leather tool belt, tan boots. Partner: grey work shirt, dark trousers, dark cap, dark-brown tool belt, tan boots. Match image2's faces and clothing exactly. Correct human scale for this kitchen. No other new objects or people. Photoreal.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 2688
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_191556_131f0644-0a05-4953-a42e-20857b7720ac.png",
+    "status": "completed"
+  }
+]

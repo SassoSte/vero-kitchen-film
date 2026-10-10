@@ -1,0 +1,14 @@
+{
+  "model": "gpt_image_2",
+  "params": {
+    "quality": "high",
+    "resolution": "2k",
+    "aspect_ratio": "16:9"
+  },
+  "references": [
+    "outputs/construction/stage-01-otr-removed.png",
+    "outputs/construction/01C-end.png"
+  ],
+  "prompt": "Image1 is a fixed photograph of a dated kitchen: the stainless electric range with raised back control panel is still installed in its opening between the brown base cabinets, and the over-range microwave space is empty. Reproduce image1 EXACTLY with the same tight framing \u2014 do not zoom out, do not move or change anything; the range stays in its opening. ADD ONLY the same two workers from image2 (same faces, clothes, tool belts), standing on the floor in the open aisle LEFT of the range: the lead (navy shirt, grey hair) nearer the camera gripping the range's left front corner and cooktop edge, the partner (grey shirt, dark cap) beside the refrigerator reaching across to grip the back control panel; knees bent, about to pull it straight out, looking at it. Nobody stands on or behind the worktop. No other new objects. Photoreal.",
+  "output": "outputs/construction/raw/01C-start-v1.png"
+}

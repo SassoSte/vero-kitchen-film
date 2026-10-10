@@ -1,0 +1,17 @@
+{
+  "model": "kling_o3_flf",
+  "params": {
+    "mode": "pro",
+    "sound": "off",
+    "multi_shots": false,
+    "duration": 3,
+    "aspect_ratio": "16:9"
+  },
+  "media": {
+    "start-image": "outputs/construction/01D-start.png",
+    "end-image": "outputs/construction/01D-end.png"
+  },
+  "prompt": "Fixed locked-off camera, no camera movement, no zoom. Photoreal. Room and lighting do not change; no one enters or leaves; workers keep the same faces and clothes. The worker keeps both hands on the lamp's wooden pole the entire time and never lets go: he lifts the lamp a few centimetres off the floor and takes one small step to his right, carrying it upright. The lamp moves only with his hands. Slow, steady movement.",
+  "output": "outputs/takes/01D-take-v2.mp4",
+  "attempt": 2
+}

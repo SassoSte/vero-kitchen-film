@@ -1,0 +1,32 @@
+[
+  {
+    "created_at": "2026-10-10T19:11:55.94242Z",
+    "display_name": "GPT Image 2",
+    "id": "b73a83c4-65e8-4f14-a887-129169dadfd1",
+    "job_type": "gpt_image_2",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_191155_b73a83c4-65e8-4f14-a887-129169dadfd1_min.webp",
+    "params": {
+      "aspect_ratio": "16:9",
+      "height": 1520,
+      "medias": [
+        {
+          "data": {
+            "id": "211e1af7-4d30-4de7-8b24-774878b99c2f",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/211e1af7-4d30-4de7-8b24-774878b99c2f_resize.jpg"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "videotape-alpha",
+      "prompt": "Edit this photograph of a dated kitchen under renovation. Keep the camera, framing, lighting and every object exactly as it is — brown cabinets, refrigerator, granite worktops, tile floor, empty microwave space. ONE change: the stainless electric range has been removed. In its place show the empty 30-inch range opening between the brown base cabinets: the bare wall at the back with a 240V range outlet, the granite worktop edges on both sides, the plain side panels of both cabinets, and the tile floor continuing into the opening with a faint dust outline where the range stood. Nothing else changes. Photoreal.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 2688
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_191155_b73a83c4-65e8-4f14-a887-129169dadfd1.png",
+    "status": "completed"
+  }
+]

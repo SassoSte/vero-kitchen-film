@@ -1,0 +1,32 @@
+[
+  {
+    "created_at": "2026-10-10T19:08:19.632809Z",
+    "display_name": "GPT Image 2",
+    "id": "447c9768-b16d-464c-98ff-faaeb6ce7d89",
+    "job_type": "gpt_image_2",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_190819_447c9768-b16d-464c-98ff-faaeb6ce7d89_min.webp",
+    "params": {
+      "aspect_ratio": "16:9",
+      "height": 1520,
+      "medias": [
+        {
+          "data": {
+            "id": "946a18ed-9a2e-44a8-ac3b-9f6dcfa36280",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/946a18ed-9a2e-44a8-ac3b-9f6dcfa36280_resize.jpg"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "videotape-alpha",
+      "prompt": "Edit this photograph of a dated kitchen. Keep the camera, framing, lighting and every object exactly as it is — brown cabinets, black-and-stainless top-freezer refrigerator, electric range, dark granite, tile floor, track light. ONE change: the stainless over-the-range microwave has been removed. In its place show the empty space between the two brown upper cabinets: the bare painted wall with a mounting plate, a few screw holes and a capped electrical outlet, and the underside edge of the upper cabinet above. Nothing else changes. Photoreal.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 2688
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_190819_447c9768-b16d-464c-98ff-faaeb6ce7d89.png",
+    "status": "completed"
+  }
+]

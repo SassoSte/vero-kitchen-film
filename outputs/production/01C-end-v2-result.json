@@ -1,0 +1,48 @@
+[
+  {
+    "created_at": "2026-10-10T19:24:24.841328Z",
+    "display_name": "GPT Image 2",
+    "id": "3557a04f-4a25-4041-8da3-79b847a6fa03",
+    "job_type": "gpt_image_2",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_192424_3557a04f-4a25-4041-8da3-79b847a6fa03_min.webp",
+    "params": {
+      "aspect_ratio": "16:9",
+      "height": 1520,
+      "medias": [
+        {
+          "data": {
+            "id": "49669596-3237-42fb-bd35-1084efc491e8",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/49669596-3237-42fb-bd35-1084efc491e8_resize.jpg"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "61179c21-57df-4a06-a756-908b28a0ab32",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/61179c21-57df-4a06-a756-908b28a0ab32.png"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "085223b7-bd7a-4769-9a09-535c8e84fa94",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/085223b7-bd7a-4769-9a09-535c8e84fa94_resize.jpg"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "videotape-alpha",
+      "prompt": "Image1 is a fixed photograph of a dated kitchen under renovation with an empty range opening; reproduce it EXACTLY with the same tight framing — do not zoom out, do not move or change anything. ADD ONLY two workers and the old range they have just pulled out. The range must be EXACTLY the appliance shown in image2: stainless electric slide-in range with a raised stainless BACK control panel carrying the knobs and display at the rear of the black glass cooktop, a curved bar handle and a large oven window — no knobs on the front. It now stands on the floor in the open aisle just left of its opening, pulled straight out about 70 cm, back panel toward the opening. The lead (navy shirt, grey hair) stands nearer the camera gripping its left side; the partner (grey shirt, dark cap) stands beyond it by the refrigerator holding the back panel; both look down at it. Nobody stands on or behind the worktop. Lead: tan leather tool belt. Partner: dark-brown tool belt. Match image3's faces and clothing exactly. No other new objects. Photoreal.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 2688
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_192424_3557a04f-4a25-4041-8da3-79b847a6fa03.png",
+    "status": "completed"
+  }
+]

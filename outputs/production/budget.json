@@ -1,7 +1,7 @@
 {
   "ceiling_credits": 601.75,
   "opening_balance": 1246.8,
-  "reserved_credits": 405.75,
+  "reserved_credits": 496.0,
   "jobs": [
     {
       "name": "master-v1",
@@ -449,13 +449,125 @@
       "status": "generated",
       "job_id": "fc3a77b2-5170-4aa7-b82b-bb4bea95152b",
       "file": "outputs/takes/02B-take-v1.mp4"
+    },
+    {
+      "name": "P01-otr-removed-v1",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "447c9768-b16d-464c-98ff-faaeb6ce7d89",
+      "file": "outputs/construction/raw/P01-otr-removed-v1.png"
+    },
+    {
+      "name": "P01-range-removed-v1",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "b73a83c4-65e8-4f14-a887-129169dadfd1",
+      "file": "outputs/construction/raw/P01-range-removed-v1.png"
+    },
+    {
+      "name": "P01D-lamp-removed-v1",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "23adea55-c475-4527-bd95-8e7e088fb1e9",
+      "file": "outputs/construction/raw/P01D-lamp-removed-v1.png"
+    },
+    {
+      "name": "01B-end-v1",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "131f0644-0a05-4953-a42e-20857b7720ac",
+      "file": "outputs/construction/raw/01B-end-v1.png"
+    },
+    {
+      "name": "01B-end-v2",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "45608686-6f96-4d19-8959-7cbfdf8615fd",
+      "file": "outputs/construction/raw/01B-end-v2.png"
+    },
+    {
+      "name": "01B-start-v1",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "22d34445-09d1-47fd-832d-f8f65dab1e16",
+      "file": "outputs/construction/raw/01B-start-v1.png"
+    },
+    {
+      "name": "01C-end-v1",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "ee26c727-5900-4025-a194-f327ca3198ee",
+      "file": "outputs/construction/raw/01C-end-v1.png"
+    },
+    {
+      "name": "01C-end-v2",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "3557a04f-4a25-4041-8da3-79b847a6fa03",
+      "file": "outputs/construction/raw/01C-end-v2.png"
+    },
+    {
+      "name": "01C-start-v1",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "f9dd5835-0a18-40bf-8352-2a6b25594454",
+      "file": "outputs/construction/raw/01C-start-v1.png"
+    },
+    {
+      "name": "01D-end-v1",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "f7faf50a-6666-411e-bd99-e9bca0cc5bbd",
+      "file": "outputs/construction/raw/01D-end-v1.png"
+    },
+    {
+      "name": "01D-start-v1",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "42484752-6a2a-4f1b-801a-dbbe534ffa09",
+      "file": "outputs/construction/raw/01D-start-v1.png"
+    },
+    {
+      "name": "01B-take-v1",
+      "quote": 3.75,
+      "status": "generated",
+      "job_id": "e093de54-a9b9-4bd4-9074-00311d3ec214",
+      "file": "outputs/takes/01B-take-v1.mp4"
+    },
+    {
+      "name": "01C-take-v1",
+      "quote": 3.75,
+      "status": "generated",
+      "job_id": "fdd727c1-bc15-4349-93c3-9132539ae2ff",
+      "file": "outputs/takes/01C-take-v1.mp4"
+    },
+    {
+      "name": "01D-take-v1",
+      "quote": 3.75,
+      "status": "generated",
+      "job_id": "5486045a-dd5c-4116-8e82-2dc54284158f",
+      "file": "outputs/takes/01D-take-v1.mp4"
+    },
+    {
+      "name": "01B-take-v2",
+      "quote": 3.75,
+      "status": "generated",
+      "job_id": "2c6d2be4-d644-4e78-842b-7c69c14aea2d",
+      "file": "outputs/takes/01B-take-v2.mp4"
+    },
+    {
+      "name": "01D-take-v2",
+      "quote": 3.75,
+      "status": "generated",
+      "job_id": "d62fe31d-ef80-4155-a343-bd1c2600895e",
+      "file": "outputs/takes/01D-take-v2.mp4"
     }
   ],
   "balance_after": 3929,
   "balance_delta": null,
-  "remaining_phase_credits": 196.0,
+  "remaining_phase_credits": 105.75,
   "account_snapshot_note": "View1 continuity attempt3935.5 to3929 matches6.5 quote; cap303 unchanged.",
-  "task_quote_total": 405.75,
+  "task_quote_total": 496.0,
   "latest_pass": {
     "opening_account_balance": 3935.5,
     "closing_account_balance": 3929,

@@ -1,0 +1,10 @@
+{
+ "plate": "outputs/construction/stage-01D-lamp-removed.png",
+ "returned": "outputs/construction/raw/01D-start-v1.png",
+ "output": "outputs/construction/raw/01D-start-v1-composite.png",
+ "ransac_inliers": 1763,
+ "protected_mean_abs_diff_registered": 3.94,
+ "person_mask_fraction": 0.0259,
+ "pixels_identical_to_plate_fraction": 0.9741,
+ "output_sha256": "91dd09cda4934457b2c80c887053300b36d53286be07165b72aba3a670efa0bb"
+}

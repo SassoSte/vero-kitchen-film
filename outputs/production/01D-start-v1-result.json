@@ -1,0 +1,40 @@
+[
+  {
+    "created_at": "2026-10-10T19:31:00.137908Z",
+    "display_name": "GPT Image 2",
+    "id": "42484752-6a2a-4f1b-801a-dbbe534ffa09",
+    "job_type": "gpt_image_2",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_193100_42484752-6a2a-4f1b-801a-dbbe534ffa09_min.webp",
+    "params": {
+      "aspect_ratio": "16:9",
+      "height": 1520,
+      "medias": [
+        {
+          "data": {
+            "id": "fd39c012-1ffb-4120-a97c-17505c593fbc",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/fd39c012-1ffb-4120-a97c-17505c593fbc_resize.jpg"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "807b3e84-8619-4960-a2ab-73ebbe2c5e8b",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/807b3e84-8619-4960-a2ab-73ebbe2c5e8b_resize.jpg"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "videotape-alpha",
+      "prompt": "Image1 is a fixed photograph of a living room; reproduce it EXACTLY with the same framing — do not zoom, do not move or change anything, the tall wooden floor lamp with round globe shades stays exactly where it stands beside the sofa in front of the white doorway. ADD ONLY the worker from image2 (same face, short grey hair, navy long-sleeve work shirt, dark trousers, tan leather tool belt, tan boots), standing on the carpet just right of the lamp, between the sofa and the bar, facing it three-quarters from behind, both hands gripping the lamp's wooden pole, about to lift it. Same human scale as in image2. No other new objects or people. Photoreal.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 2688
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_193100_42484752-6a2a-4f1b-801a-dbbe534ffa09.png",
+    "status": "completed"
+  }
+]

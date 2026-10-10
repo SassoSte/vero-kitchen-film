@@ -1,0 +1,19 @@
+{
+  "model": "gpt_image_2",
+  "params": {
+    "quality": "high",
+    "resolution": "2k",
+    "aspect_ratio": "16:9"
+  },
+  "references": [
+    "outputs/construction/base-ref-h-apartment-facing.png"
+  ],
+  "prompt": "Edit this photograph of a living room. Keep the camera, framing, lighting and every object exactly as it is. ONE change: the tall wooden floor lamp with round globe shades beside the sofa, in front of the white doorway, has been removed; show the white wall, door frame and carpet behind where it stood. Nothing else changes. Photoreal.",
+  "output": "outputs/construction/raw/P01D-lamp-removed-v1.png",
+  "post": {
+    "tool": "tools/stage_composite.py",
+    "base": "outputs/construction/base-ref-h-apartment-facing.png",
+    "mask": "outputs/production/masks/P01D-lamp-mask.png",
+    "final": "outputs/construction/stage-01D-lamp-removed.png"
+  }
+}
