@@ -1,6 +1,6 @@
 {
   "project": "vero-kitchen-film",
-  "phase": "North/east and west views user-approved; apartment-facing reconciliation next; generation disabled",
+  "phase": "Third-view continuity edit confirmed and prepared; paid allowance pending",
   "budget_ceiling_credits": 269.75,
   "approved_features": [
     "Wolf GR304 red knobs with pale hood; no over-range microwave",
@@ -94,10 +94,11 @@
   "geometry_lock": "outputs/production/geometry-lock.json",
   "fridge_style": "French-door upper pair meeting at center, bottom freezer drawer",
   "next_job": {
-    "request": "outputs/production/west-phone-speaker-realism-v1-request.json",
-    "status": "GENERATED AND USER-APPROVED; no new paid job authorized",
-    "authorization": "Can you clean up the speaker and phone - they look fake and unreal. You're authorized.",
-    "quoted_credits": 6.5
+    "request": "outputs/production/apartment-continuity-v8-request.json",
+    "status": "PREPARED; NOT QUOTED OR SUBMITTED",
+    "prior_comparable_quote_credits": 6.5,
+    "proposed_total_ceiling": 277,
+    "authorization": "Design scope confirmed; additional spend not yet approved"
   },
   "status": "concept-review-hold",
   "pause_reason": null,
@@ -175,7 +176,7 @@
   "visual_lock": "outputs/production/north-east-visual-lock.json",
   "next_focus": {
     "view": "outputs/keyframes/apartment-v7.png",
-    "scope": "Update living-room-facing kitchen view to match locked designs: French-door fridge and consistent visible fixtures/materials; preserve bar/stools/opening/room geometry",
+    "scope": "Controlled continuity edit approved: French-door fridge, locked appliance/fixture materials, remove cooking-counter boards/plant; preserve camera/bar/stools/dining",
     "authorization": "Planning only; no additional paid render authorized"
   },
   "west_nook_direction": {
