@@ -1,6 +1,6 @@
 {
   "project": "vero-kitchen-film",
-  "phase": "36-inch enclosure render failed dimensional match; geometry guide retained; generation disabled",
+  "phase": "Unpaid fixed-geometry study completed; camera alignment approximate; third photoreal view unapproved",
   "budget_ceiling_credits": 296,
   "approved_features": [
     "Wolf GR304 red knobs with pale hood; no over-range microwave",
@@ -176,8 +176,8 @@
   "preferred_edit_base": "outputs/keyframes/kitchen-smeg-realism-v1.png",
   "visual_lock": "outputs/production/north-east-visual-lock.json",
   "next_focus": {
-    "scope": "Camera-matched3D reconstruction required; avoid another unconstrained whole-scene regeneration",
-    "authorization": "No further paid jobs"
+    "scope": "Review fixed-volume/occlusion and reconcile opening/bar measurements before photoreal finalization",
+    "authorization": "No additional paid generation"
   },
   "west_nook_direction": {
     "latest_user_instruction": "Go back to the iPhone and speaker in the nook; just fix dimensions and move on",
@@ -191,5 +191,17 @@
     "supersedes": "Charging-only contents and proposed new styling direction"
   },
   "west_visual_lock": "outputs/production/west-visual-lock.json",
-  "fridge_reconstruction": "outputs/production/fridge-36-layout.json"
+  "fridge_reconstruction": "outputs/production/fridge-36-layout.json",
+  "geometry_study": {
+    "record": "docs/FIXED-GEOMETRY-CHECK.md",
+    "view": "outputs/review/kitchen-fixed-geometry-camera-v1.png",
+    "scene": "outputs/review/kitchen-fixed-geometry-scene.obj",
+    "status": "provisional-camera-match",
+    "paid_spend": 0,
+    "limits": [
+      "Fitted opening87.7in differs from old66in bar schedule",
+      "Camera at height66in and nominal far-room bound",
+      "Hinge sweep and physical fit unresolved"
+    ]
+  }
 }

@@ -1,0 +1,132 @@
+{
+  "date": "2026-10-10",
+  "source_image": "outputs/keyframes/apartment-continuity-v8.png",
+  "source_image_edited": false,
+  "coordinate_system": "x north-to-south along cooking run; y rear wall toward living; z AFF; inches",
+  "camera_parameters": {
+    "eye_x": 77.10674305900348,
+    "eye_y": 261.99999999999994,
+    "eye_z": 65.99999999999999,
+    "yaw_radians": -0.08107196469659664,
+    "pitch_radians": -0.10685235117336464,
+    "focal_px_at2688": 2169.7798713712114,
+    "opening_width_estimate": 87.7418540637268,
+    "opening_center_x": 69.00948888486744
+  },
+  "anchor_targets_px": [
+    [
+      812.0,
+      162.0
+    ],
+    [
+      2034.0,
+      162.0
+    ],
+    [
+      812.0,
+      854.0
+    ],
+    [
+      2034.0,
+      854.0
+    ],
+    [
+      1122.0,
+      354.0
+    ],
+    [
+      1300.0,
+      354.0
+    ],
+    [
+      1122.0,
+      582.0
+    ],
+    [
+      1626.0,
+      354.0
+    ],
+    [
+      1962.0,
+      354.0
+    ],
+    [
+      1962.0,
+      582.0
+    ]
+  ],
+  "projected_anchors_px": [
+    [
+      802.4017506843119,
+      109.15499867558708
+    ],
+    [
+      2045.9739111794797,
+      89.39735056021311
+    ],
+    [
+      821.2721501127983,
+      836.651708995051
+    ],
+    [
+      2020.4020376884114,
+      850.7388917959329
+    ],
+    [
+      1137.661519450958,
+      369.76267927735205
+    ],
+    [
+      1345.798329252711,
+      368.5326481234475
+    ],
+    [
+      1140.2751506595653,
+      630.9406827832489
+    ],
+    [
+      1610.5859602178668,
+      366.9678262374679
+    ],
+    [
+      1935.3048038978568,
+      365.0488274098856
+    ],
+    [
+      1927.5936766219538,
+      634.0029819704271
+    ]
+  ],
+  "anchor_errors_px": [
+    53.709594626130915,
+    73.58341698107432,
+    19.670688053717402,
+    13.983540529709144,
+    22.22037914873186,
+    48.048775466391106,
+    52.241473590629184,
+    20.14341430171022,
+    28.891349606159284,
+    62.35467281777085
+  ],
+  "mean_anchor_error_px": 39.48473051220243,
+  "maximum_anchor_error_px": 73.58341698107432,
+  "fridge_front_lowest_visible_z_in": 33.9,
+  "door_handle_z_range_in": [
+    33,
+    61
+  ],
+  "freezer_handle_z_in": 17,
+  "bar_height_in": 43,
+  "front_wall_y": 105,
+  "rear_counter_depth": 25.5,
+  "installed_handle_depth": 36.7,
+  "camera_constraints": "Eye height40\u201366 inches; rear-wall distance135\u2013262 inches, bounded by nominal157-inch living span beyond105-inch kitchen",
+  "limits": [
+    "Manual approximate anchors on generated v8, not surveyed/calibrated photograph",
+    "Opening width fitted to image and conflicts with nominal66-inch bar schedule; not approved new dimension",
+    "Camera match is estimated and not unique; manufacturer fridge dimensions kept fixed",
+    "Primitive box geometry omits hinges/curves/trim; no full door-sweep or installation certification",
+    "No source image compositing, AI generation or provider calls"
+  ]
+}

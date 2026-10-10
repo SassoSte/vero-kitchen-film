@@ -106,6 +106,7 @@ def classify(p):
  if stem=='ref-l-north-coffee-wine':return 'inspiration','User ideal north-wall appearance reference','current-user-reference','Premium espresso presence, wider wine proportions, oak and warm niche lighting.','Appearance only; preserve existing envelope and liked frosted uppers; no projecting cabinet.',None
  if stem=='ref-m-espresso-dials':return 'inspiration','User-selected espresso appearance','current-user-reference','Black body, warm metal trim, prominent analog dial and tactile knobs.','Appearance reference; brand/SKU unverified. Surrounding kitchen and cups not adopted.',None
  if stem=='fridge-36-geometry-reference':return 'diagrams','Dimensioned refrigerator geometry concept','proposed-geometry','Manufacturer envelope plus proposed cabinet allocation; front/side/plan views from numeric blockout.','Not surveyed installation; hinge clearance and room fit unverified.',None
+ if stem.startswith('kitchen-fixed-geometry-'):return 'diagrams','Deterministic fixed-geometry study','provisional-camera-match','Ray-traced box model: refrigerator volume, enclosure and foreground occlusion; no paid generation.','Estimated camera; opening dimension conflicts with old bar schedule. Not surveyed installation or finished visual.',None
  if '/review/' in rel:
   name=re.sub(r'-(6fps|end)$','',stem); status,verdict,why=KNOWN.get(name,('not-inspected-record','No review mapped.',''))
   return 'pilot-review',('Endpoint frame' if stem.endswith('-end') else '6-fps contact sheet'),status,verdict,why,name

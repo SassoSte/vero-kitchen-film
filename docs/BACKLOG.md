@@ -1,3 +1,5 @@
+> **Unpaid geometry study complete:** [Fixed model/camera check](FIXED-GEOMETRY-CHECK.md) shows freezer occlusion and actual volume. Camera match remains approximate; fitted opening conflicts with old bar schedule. No new style proposal or geometry certification. Third photoreal view unapproved; task remains295.75/296.
+
 > **Latest reconstruction outcome:** [v11 inspection](FRIDGE-36-RECONSTRUCTION.md) FAILED dimensional match (enclosure too tall; depth/scale not established). Third view unapproved. Task **295.75/296**, **0.25 remaining**; generation disabled. Use explicit geometry and camera matching before further rendering.
 
 > **LATEST REFRIGERATOR DIRECTION:** User approved36-inch full-depth fridge and adjacent cabinetry revision. [Dimensioned reconstruction](FRIDGE-36-RECONSTRUCTION.md) supersedes33-inch bay/no-surround constraints for fridge only. Preserve room boundaries and original drawings. One render prepared; cap increase pending.

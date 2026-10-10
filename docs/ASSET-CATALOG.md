@@ -4,7 +4,7 @@ Latest north-wall REF-M dial espresso/canister edit within REF-L composition and
 
 Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashes of repository-relative paths. Hashes describe exact existing bytes; verdicts are sourced review findings, not a new visual inspection.
 
-**75 stills · 3 videos.**
+**78 stills · 3 videos.**
 
 [Open searchable gallery](../outputs/stills-gallery.html) · [Machine-readable catalog](asset-catalog.json)
 
@@ -849,6 +849,42 @@ Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashe
 - Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
 - Limit / superseded reason: Not surveyed installation; hinge clearance and room fit unverified.
 - Bytes: 165124; SHA-256: `d3262532b41988d9d83f1d2702c253062e2d0c4c8d1b34d1544774e56b3c314c`
+- Job ID: `not recorded`
+
+### ASSET-3B03EF225C0B — Kitchen Fixed Geometry Camera V1
+
+- Exact filename: `kitchen-fixed-geometry-camera-v1.png`
+- File: [outputs/review/kitchen-fixed-geometry-camera-v1.png](../outputs/review/kitchen-fixed-geometry-camera-v1.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/review/kitchen-fixed-geometry-camera-v1.png`
+- Role: Deterministic fixed-geometry study; status: **provisional-camera-match**
+- Known verdict: Ray-traced box model: refrigerator volume, enclosure and foreground occlusion; no paid generation.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Estimated camera; opening dimension conflicts with old bar schedule. Not surveyed installation or finished visual.
+- Bytes: 47708; SHA-256: `f74c055142f08bf0be46f2b8fcd91c747caf3d29c99c4008ed6c7c111831439e`
+- Job ID: `not recorded`
+
+### ASSET-D9178566C631 — Kitchen Fixed Geometry Cutaway V1
+
+- Exact filename: `kitchen-fixed-geometry-cutaway-v1.png`
+- File: [outputs/review/kitchen-fixed-geometry-cutaway-v1.png](../outputs/review/kitchen-fixed-geometry-cutaway-v1.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/review/kitchen-fixed-geometry-cutaway-v1.png`
+- Role: Deterministic fixed-geometry study; status: **provisional-camera-match**
+- Known verdict: Ray-traced box model: refrigerator volume, enclosure and foreground occlusion; no paid generation.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Estimated camera; opening dimension conflicts with old bar schedule. Not surveyed installation or finished visual.
+- Bytes: 66583; SHA-256: `59a48949185e86d61fa3edcb7fb59e9762771d8fda824351ea224dc30cc714c1`
+- Job ID: `not recorded`
+
+### ASSET-1E324EB6AF62 — Kitchen Fixed Geometry Volume V1
+
+- Exact filename: `kitchen-fixed-geometry-volume-v1.png`
+- File: [outputs/review/kitchen-fixed-geometry-volume-v1.png](../outputs/review/kitchen-fixed-geometry-volume-v1.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/review/kitchen-fixed-geometry-volume-v1.png`
+- Role: Deterministic fixed-geometry study; status: **provisional-camera-match**
+- Known verdict: Ray-traced box model: refrigerator volume, enclosure and foreground occlusion; no paid generation.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Estimated camera; opening dimension conflicts with old bar schedule. Not surveyed installation or finished visual.
+- Bytes: 58996; SHA-256: `f09cba427574f7f49e2c205e4ef880fed02b579611a68565cd2fad30cce97b21`
 - Job ID: `not recorded`
 
 ### ASSET-9392D932F4A8 — Kitchen Orientation V1
