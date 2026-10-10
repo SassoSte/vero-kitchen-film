@@ -1,3 +1,5 @@
+> **Three-view consistency review:** Phone/speaker nook is present in WEST view2 and naturally hidden from living-room view3; do not relocate it. View1 still lacks view3 fridge enclosure/upper cupboard and needs targeted continuity correction before complete set signoff. Audit/request saved in outputs/production; no paid submission yet.
+
 > **CURRENT USER DECISION:** [Restore supplied photographic third view](outputs/production/apartment-visual-lock.json) (`apartment-fridge-reconstruction-v11.png`) and move on. Local3D studies are archived; do not reopen that detour. Current construction plan: `outputs/production/construction-state-plan.json`; refreshed editable shotlist: `outputs/shotlist.html`. First next test03A quartz, after reviewed stage frames. No new paid authority; spend295.75/296.
 
 > **Latest local3D result:** [Context/material v3](docs/FIXED-SCENE-CONTEXT-PASS.md) adds doorway/dining context and refined furniture while preserving core fridge/bar geometry and estimated camera. User review pending; v2 context failure retained as history. No paid spend; task295.75/296.

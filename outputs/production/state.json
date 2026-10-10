@@ -1,6 +1,6 @@
 {
   "project": "vero-kitchen-film",
-  "phase": "Photographic third view restored by user; construction-state planning active; 3D detour closed",
+  "phase": "Three-view review: nook correctly hidden in view3; view1 fridge/enclosure alignment pending",
   "budget_ceiling_credits": 296,
   "approved_features": [
     "Wolf GR304 red knobs with pale hood; no over-range microwave",
@@ -94,12 +94,11 @@
   "geometry_lock": "outputs/production/geometry-lock.json",
   "fridge_style": "French-door upper pair meeting at center, bottom freezer drawer",
   "next_job": {
-    "request": "outputs/production/apartment-fridge-reconstruction-v11-request.json",
-    "status": "Historical submitted job; selected output restored by user; no next paid job authorized",
+    "request": "outputs/production/master-third-view-continuity-v1-request.json",
+    "status": "PREPARED; NOT QUOTED OR SUBMITTED",
     "prior_comparable_quote_credits": 6.5,
-    "proposed_total_ceiling": 296,
-    "authorization": "Approve 296 total; render reconstruction",
-    "quoted_credits": 6.5
+    "proposed_total_ceiling": 303,
+    "authorization": "Consistency work requested; new paid cap pending"
   },
   "status": "concept-review-hold",
   "pause_reason": null,
@@ -174,11 +173,8 @@
   "preferred_edit_base": "outputs/keyframes/apartment-fridge-reconstruction-v11.png",
   "visual_lock": "outputs/production/north-east-visual-lock.json",
   "next_focus": {
-    "scope": "Construction stages and first quartz-seating motion test preparation",
-    "plan": "outputs/production/construction-state-plan.json",
-    "shotlist": "outputs/shotlist.html",
-    "first_test": "03A",
-    "authority": "Preparation only; no additional paid generation approved"
+    "scope": "Align view1 refrigerator/enclosure to selected third view; retain view2 and original nook location",
+    "authorization": "No new paid generation yet"
   },
   "west_nook_direction": {
     "latest_user_instruction": "Go back to the iPhone and speaker in the nook; just fix dimensions and move on",
@@ -219,5 +215,6 @@
     ],
     "superseded_by_user": "2026-10-10 restore supplied photographic image and move on"
   },
-  "apartment_visual_lock": "outputs/production/apartment-visual-lock.json"
+  "apartment_visual_lock": "outputs/production/apartment-visual-lock.json",
+  "continuity_audit": "outputs/production/three-view-continuity-audit.json"
 }

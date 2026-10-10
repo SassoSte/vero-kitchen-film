@@ -1,7 +1,7 @@
 {
   "project": "vero-kitchen-film",
   "inventory_revision": "2026-10-09-resumed-one-concept",
-  "production": "Photographic third view restored by user; construction-state planning active; 3D detour closed",
+  "production": "Three-view review: nook correctly hidden in view3; view1 fridge/enclosure alignment pending",
   "authority": "Latest north-wall REF-M dial espresso/canister edit within REF-L composition and retained frosted uppers; two upper French doors/lower freezer drawer, model/fit pending. North/east wide view kitchen-smeg-realism-v1 is user-locked; west-phone-speaker-realism-v1 is also user-approved; apartment-fridge-reconstruction-v11 restored by user; construction planning is next.",
   "review_sources": [
     "outputs/inspection.txt",
@@ -12,7 +12,18 @@
   "root": "/Users/stefansassoon/projects/vero-kitchen-film",
   "still_count": 81,
   "video_count": 3,
-  "prepared_not_generated": [],
+  "prepared_not_generated": [
+    {
+      "id": "PREP-master-third-view-continuity-v1",
+      "name": "master-third-view-continuity-v1",
+      "status": "PREPARED; NOT QUOTED OR SUBMITTED",
+      "quote_credits": null,
+      "note": "Three-view review: nook correctly hidden in view3; view1 fridge/enclosure alignment pending",
+      "receipts": {
+        "request": "outputs/production/master-third-view-continuity-v1-request.json"
+      }
+    }
+  ],
   "assets": [
     {
       "id": "ASSET-79E492B2F8D4",
