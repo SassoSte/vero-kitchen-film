@@ -1,7 +1,7 @@
 {
   "project": "vero-kitchen-film",
-  "phase": "Coffee-service shelves and coordinated cupboard contents prepared; extra paid budget pending",
-  "budget_ceiling_credits": 218,
+  "phase": "Coffee shelves rendered; user review pending; generation disabled",
+  "budget_ceiling_credits": 225,
   "approved_features": [
     "Wolf GR304 red knobs with pale hood; no over-range microwave",
     "Built-in microwave on sink side left of sink",
@@ -82,7 +82,7 @@
     "status": "conditional-on-clearance-and-cabinetry",
     "wall": "blank end wall beside main fridge; user calls north wall"
   },
-  "end_wall_status": "REF-M dial/knob machine, coffee canisters and cups behind frosted glass generated",
+  "end_wall_status": "Coffee-service shelves and coordinated wine/cappuccino cupboard contents rendered",
   "end_wall_views": {
     "historical_closed": "outputs/keyframes/end-wall-flush-v1.png",
     "status": "Historical partial only; superseded by REF-K and French-door request"
@@ -92,10 +92,11 @@
   "fridge_style": "French-door upper pair meeting at center, bottom freezer drawer",
   "next_job": {
     "request": "outputs/production/north-wall-coffee-shelves-v1-request.json",
-    "status": "PREPARED; NOT QUOTED OR SUBMITTED",
+    "status": "GENERATED; user review pending",
     "prior_comparable_quote_credits": 6.5,
     "proposed_total_ceiling": 225,
-    "authorization": "Not approved"
+    "authorization": "One render under225 approved and consumed",
+    "quoted_credits": 6.5
   },
   "status": "concept-review-hold",
   "pause_reason": null,
@@ -110,16 +111,17 @@
     "lessons": "docs/LESSONS.md"
   },
   "authorized_jobs": [],
-  "authorization": "outputs/production/north-wall-ref-m-authorization.json",
-  "latest_concept": "outputs/keyframes/north-wall-ref-m-v1.png",
+  "authorization": "outputs/production/north-wall-coffee-shelves-authorization.json",
+  "latest_concept": "outputs/keyframes/north-wall-coffee-shelves-v1.png",
   "latest_concept_review": {
     "status": "candidate-awaiting-user-review",
     "reviewer": "lead only",
-    "record": "docs/NORTH-WALL-REF-M-REVIEW.md",
+    "record": "docs/NORTH-WALL-COFFEE-SHELVES-REVIEW.md",
     "limits": [
-      "Generated appliance lettering is not a verified brand/SKU",
-      "Physical dimensions and operating clearances unresolved",
-      "Wide-room integration remains pending"
+      "Upper glass clearer than prior frosted treatment",
+      "Steam wand no longer clearly visible",
+      "Canister-lid clearance under shelf unverified",
+      "Physical fit and wide-room integration unresolved"
     ]
   },
   "orientation_review": "docs/ORIENTATION-2026-10-09.md",
@@ -135,7 +137,7 @@
     "west_sink": "outputs/keyframes/sink-v4.png",
     "west_external_view": "outputs/keyframes/apartment-v7.png",
     "west_external_view_exception": "Single-door fridge superseded; retain latest French-door instruction",
-    "north_latest": "outputs/keyframes/north-wall-ref-m-v1.png",
+    "north_latest": "outputs/keyframes/north-wall-coffee-shelves-v1.png",
     "north_exceptions": "Candidate awaiting user review; wider-kitchen integration and real-product sizing unresolved."
   }
 }

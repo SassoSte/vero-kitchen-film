@@ -4,13 +4,13 @@ Latest north-wall REF-M dial espresso/canister edit within REF-L composition and
 
 Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashes of repository-relative paths. Hashes describe exact existing bytes; verdicts are sourced review findings, not a new visual inspection.
 
-**61 stills · 3 videos.**
+**62 stills · 3 videos.**
 
 [Open searchable gallery](../outputs/stills-gallery.html) · [Machine-readable catalog](asset-catalog.json)
 
 ## Latest bounded concept
 
-`north-wall-coffee-shelves-v1` — **PREPARED; NOT QUOTED OR SUBMITTED**, quoted None credits. See the production state and asset entry below.
+`north-wall-coffee-shelves-v1` — **GENERATED**, quoted 6.5 credits. See the production state and asset entry below.
 
 ## Stills
 
@@ -346,6 +346,22 @@ Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashe
 - Quote receipt: [outputs/production/master-v4-quote.json](../outputs/production/master-v4-quote.json)
 - Result receipt: [outputs/production/master-v4-result.json](../outputs/production/master-v4-result.json)
 - Stderr receipt: [outputs/production/master-v4-stderr.txt](../outputs/production/master-v4-stderr.txt)
+
+### ASSET-0F54099610A4 — North Wall Coffee Shelves V1
+
+- Exact filename: `north-wall-coffee-shelves-v1.png`
+- File: [outputs/keyframes/north-wall-coffee-shelves-v1.png](../outputs/keyframes/north-wall-coffee-shelves-v1.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/keyframes/north-wall-coffee-shelves-v1.png`
+- Role: Generated still / diagram; status: **candidate-awaiting-user-review**
+- Known verdict: Lead inspected: espresso-service shelves, spoons and raw-sugar jar; coordinated cappuccino/wine cupboard contents.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Glazing clearer than prior frost; steam wand unclear; canister lid access unverified. User review and fit pending.
+- Bytes: 5892977; SHA-256: `372bf113564bd10450a6cb85916ce532e49659c559d67a851efcd202272f4397`
+- Job ID: `95b64b9f-595a-4ab5-8a4f-0ef24d5af91e`
+- Request receipt: [outputs/production/north-wall-coffee-shelves-v1-request.json](../outputs/production/north-wall-coffee-shelves-v1-request.json)
+- Quote receipt: [outputs/production/north-wall-coffee-shelves-v1-quote.json](../outputs/production/north-wall-coffee-shelves-v1-quote.json)
+- Result receipt: [outputs/production/north-wall-coffee-shelves-v1-result.json](../outputs/production/north-wall-coffee-shelves-v1-result.json)
+- Stderr receipt: [outputs/production/north-wall-coffee-shelves-v1-stderr.txt](../outputs/production/north-wall-coffee-shelves-v1-stderr.txt)
 
 ### ASSET-613288174C79 — North Wall Ref L V1
 

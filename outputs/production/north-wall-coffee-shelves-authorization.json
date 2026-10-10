@@ -1,0 +1,11 @@
+{
+  "date": "2026-10-09",
+  "timezone": "America/Phoenix",
+  "budget_user_text": "Approve 225 total for one render",
+  "total_ceiling_credits": 225,
+  "authorized_jobs": [
+    "north-wall-coffee-shelves-v1"
+  ],
+  "max_new_jobs": 1,
+  "scope": "One coffee shelves and coordinated cupboard contents edit; no retries or video batch."
+}

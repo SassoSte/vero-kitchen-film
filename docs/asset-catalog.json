@@ -1,7 +1,7 @@
 {
   "project": "vero-kitchen-film",
   "inventory_revision": "2026-10-09-resumed-one-concept",
-  "production": "Coffee-service shelves and coordinated cupboard contents prepared; extra paid budget pending",
+  "production": "Coffee shelves rendered; user review pending; generation disabled",
   "authority": "Latest north-wall REF-M dial espresso/canister edit within REF-L composition and retained frosted uppers; two upper French doors/lower freezer drawer, model/fit pending. No generated still is final approved complete current design.",
   "review_sources": [
     "outputs/inspection.txt",
@@ -10,20 +10,9 @@
     "conversation review findings"
   ],
   "root": "/Users/stefansassoon/projects/vero-kitchen-film",
-  "still_count": 61,
+  "still_count": 62,
   "video_count": 3,
-  "prepared_not_generated": [
-    {
-      "id": "PREP-north-wall-coffee-shelves-v1",
-      "name": "north-wall-coffee-shelves-v1",
-      "status": "PREPARED; NOT QUOTED OR SUBMITTED",
-      "quote_credits": null,
-      "note": "Coffee-service shelves and coordinated cupboard contents prepared; extra paid budget pending",
-      "receipts": {
-        "request": "outputs/production/north-wall-coffee-shelves-v1-request.json"
-      }
-    }
-  ],
+  "prepared_not_generated": [],
   "assets": [
     {
       "id": "ASSET-79E492B2F8D4",
@@ -525,6 +514,30 @@
         "quote": "outputs/production/master-v4-quote.json",
         "result": "outputs/production/master-v4-result.json",
         "stderr": "outputs/production/master-v4-stderr.txt"
+      },
+      "source_provenance": null,
+      "review_source_note": "Recorded inspection/conversation findings or source-reference role; not a new visual inspection."
+    },
+    {
+      "id": "ASSET-0F54099610A4",
+      "title": "North Wall Coffee Shelves V1",
+      "path": "outputs/keyframes/north-wall-coffee-shelves-v1.png",
+      "absolute_path": "/Users/stefansassoon/projects/vero-kitchen-film/outputs/keyframes/north-wall-coffee-shelves-v1.png",
+      "kind": "still",
+      "category": "generated",
+      "role": "Generated still / diagram",
+      "status": "candidate-awaiting-user-review",
+      "verdict": "Lead inspected: espresso-service shelves, spoons and raw-sugar jar; coordinated cappuccino/wine cupboard contents.",
+      "superseded_reason": "Glazing clearer than prior frost; steam wand unclear; canister lid access unverified. User review and fit pending.",
+      "bytes": 5892977,
+      "sha256": "372bf113564bd10450a6cb85916ce532e49659c559d67a851efcd202272f4397",
+      "job_name": "north-wall-coffee-shelves-v1",
+      "job_id": "95b64b9f-595a-4ab5-8a4f-0ef24d5af91e",
+      "receipts": {
+        "request": "outputs/production/north-wall-coffee-shelves-v1-request.json",
+        "quote": "outputs/production/north-wall-coffee-shelves-v1-quote.json",
+        "result": "outputs/production/north-wall-coffee-shelves-v1-result.json",
+        "stderr": "outputs/production/north-wall-coffee-shelves-v1-stderr.txt"
       },
       "source_provenance": null,
       "review_source_note": "Recorded inspection/conversation findings or source-reference role; not a new visual inspection."

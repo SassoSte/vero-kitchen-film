@@ -1,3 +1,5 @@
+> **Latest result:** [Coffee-service shelves](NORTH-WALL-COFFEE-SHELVES-REVIEW.md) rendered and lead-inspected; user review pending. Upper glass is clearer and steam wand is not clearly visible. Task total **224.25/225**, **0.75 remaining**; generation disabled. Earlier status/budget text is historical.
+
 > **Latest result:** [REF-M targeted edit](NORTH-WALL-REF-M-REVIEW.md) generated and lead-inspected; awaiting user review. Task total **217.75/218**, **0.25 remaining**. Generation disabled. Earlier result/budget statements below are historical.
 
 > **Latest result:** [REF-L north-wall detail](NORTH-WALL-REF-L-REVIEW.md) generated and inspected by lead; awaiting user review. Task total **211.25/212 credits**, **0.75 remaining**. Generation disabled after the one authorized render. Earlier budgets/statuses below are historical.

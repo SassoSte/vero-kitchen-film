@@ -1,4 +1,6 @@
-> **Latest requested styling correction:** Add little shelves above the countertop canisters with espresso cups/saucers, stir spoons and a clear canister of raw sugar cubes. Remove isolated/random cupboard cups; arrange coordinated wine glasses and cappuccino service. Preserve machine and design. `north-wall-coffee-shelves-v1` prepared; no additional spending approved yet.
+> **Latest result:** [Coffee-service shelves](docs/NORTH-WALL-COFFEE-SHELVES-REVIEW.md) rendered and lead-inspected; user review pending. Upper glass is clearer and steam wand is not clearly visible. Task total **224.25/225**, **0.75 remaining**; generation disabled. Earlier status/budget text is historical.
+
+> **Latest requested styling correction:** Add little shelves above the countertop canisters with espresso cups/saucers, stir spoons and a clear canister of raw sugar cubes. Remove isolated/random cupboard cups; arrange coordinated wine glasses and cappuccino service. Preserve machine and design. `north-wall-coffee-shelves-v1` authorized once under225 total; exact authorization in outputs/production/north-wall-coffee-shelves-authorization.json.
 
 > **Latest result:** [REF-M targeted edit](docs/NORTH-WALL-REF-M-REVIEW.md) generated and lead-inspected; awaiting user review. Task total **217.75/218**, **0.25 remaining**. Generation disabled. Earlier result/budget statements below are historical.
 
