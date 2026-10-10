@@ -1,0 +1,32 @@
+[
+  {
+    "original_path": "AGENTS.md",
+    "snapshot": "docs/archive/pre-opus-handoff-2026-10-10/AGENTS.md.txt",
+    "sha256": "e74124a7badac0b81c456df25033bd429ab07bacd112a26b399fa091a3533d4c"
+  },
+  {
+    "original_path": "HANDOFF.md",
+    "snapshot": "docs/archive/pre-opus-handoff-2026-10-10/HANDOFF.md.txt",
+    "sha256": "4844dcf6df4aa3f27528403b8b0806e7b3dbee80cac187da2e2d3a34c2213ea5"
+  },
+  {
+    "original_path": "README.md",
+    "snapshot": "docs/archive/pre-opus-handoff-2026-10-10/README.md.txt",
+    "sha256": "4c687589184959ca513b5f086062dcfc23eca3d4d8e3d3d544ed535f5afce7a2"
+  },
+  {
+    "original_path": "mega-prompt.md",
+    "snapshot": "docs/archive/pre-opus-handoff-2026-10-10/mega-prompt.md.txt",
+    "sha256": "d133ee03ebfe431b2e179ccae416c35bced096012ee3017f7d01fb96797e6a58"
+  },
+  {
+    "original_path": "docs/BACKLOG.md",
+    "snapshot": "docs/archive/pre-opus-handoff-2026-10-10/docs__BACKLOG.md.txt",
+    "sha256": "2b612250afa67770fc10f1ebc165d1579395c266b8e1914019ed39812fffe3ff"
+  },
+  {
+    "original_path": "outputs/production/state.json",
+    "snapshot": "docs/archive/pre-opus-handoff-2026-10-10/outputs__production__state.json.txt",
+    "sha256": "35eec608196d7366840a15d08064ce4850c4cb8f457d5d119ea243f975b78f2d"
+  }
+]

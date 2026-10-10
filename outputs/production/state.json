@@ -1,6 +1,6 @@
 {
   "project": "vero-kitchen-film",
-  "phase": "View1 alignment attempt rejected for layout drift; selected images retained; continuity still unresolved",
+  "phase": "Incomplete: Codex could not finish continuity correction or film; Opus assistance handoff prepared",
   "budget_ceiling_credits": 303,
   "approved_features": [
     "Wolf GR304 red knobs with pale hood; no over-range microwave",
@@ -9,11 +9,10 @@
     "Continuous concrete and dining rug",
     "Three cream stools, flowers and fruit",
     "Wall-flush wine fridge on blank wall beside main fridge; no projecting tower/poster",
-    "Spice/tech nook on sink-side wall near microwave",
-    "Spice/tech nook on OTHER sink-side wall near microwave",
     "Above-dishwasher worktop clear; no exposed coffee machine",
     "French-door main refrigerator: two upper doors meeting centrally and lower freezer drawer; real model/clearance pending",
-    "REF-K integrated wall-flush recessed coffee/wine composition, smaller machine, lit prep alcove and glass storage"
+    "REF-K integrated wall-flush recessed coffee/wine composition, smaller machine, lit prep alcove and glass storage",
+    "Compact west-wall nook with iPhone dock and speaker only; no spice shelf or jars"
   ],
   "views": {
     "master": {
@@ -70,12 +69,12 @@
   ],
   "gate": "No video generation until finished views agree and stage/worker references are inspected.",
   "design_revision": "2026-10-09-ref-k-french-doors",
-  "pending_design_selection": "One north-wall detail: premium black/metal espresso machine, wider wine front, narrower adjacent storage; preserve developed kitchen.",
+  "pending_design_selection": "No new design exploration; resolve B06a continuity while preserving selected photographs.",
   "coffee_garage": {
-    "status": "User accepts shelves composition; restore steam wand, improve canister lid clearance and slightly increase frosting before wider integration",
+    "status": "Preserve selected view1 coffee/wine appearance; no further standalone refinement requested.",
     "wall": "SAME blank wall beside main refrigerator as wine fridge",
     "reference": "references/inspiration/ref-l-north-coffee-wine.png",
-    "limits": "Current concept exists but espresso/proportions need revision; physical recess and fit unverified.",
+    "limits": "Visual reference only; physical recess/services/clearance unverified.",
     "machine_reference": "references/inspiration/ref-m-espresso-dials.png",
     "accessory_direction": "Small shelves above canisters with espresso cups/saucers, stir spoons and clear raw-sugar-cube jar. Upper cupboard: coordinated wine glasses and cappuccino cups/saucers only; remove random isolated cups and unrelated items."
   },
@@ -90,7 +89,7 @@
     "historical_closed": "outputs/keyframes/end-wall-flush-v1.png",
     "status": "Historical partial only; superseded by REF-K and French-door request"
   },
-  "microwave_location": "Base cabinetry LEFT of sink per REF-J; upper microwave in latest concept is a defect",
+  "microwave_location": "Below counter LEFT of west sink; no upper or above-DW microwave/coffee installation.",
   "geometry_lock": "outputs/production/geometry-lock.json",
   "fridge_style": "French-door upper pair meeting at center, bottom freezer drawer",
   "next_job": {
@@ -101,7 +100,7 @@
     "authorization": "Approve 303 total; correct view 1",
     "quoted_credits": 6.5
   },
-  "status": "concept-review-hold",
+  "status": "handoff-prepared",
   "pause_reason": null,
   "generation_allowed": false,
   "historical_rejected_layout": "kitchen-blueprint/end-wall-proposed.json",
@@ -111,7 +110,8 @@
     "backlog": "docs/BACKLOG.md",
     "gallery": "outputs/stills-gallery.html",
     "catalog": "docs/asset-catalog.json",
-    "lessons": "docs/LESSONS.md"
+    "lessons": "docs/LESSONS.md",
+    "opus_handoff": "OPUS-HANDOFF.md"
   },
   "authorized_jobs": [],
   "authorization": "outputs/production/master-third-continuity-authorization.json",
@@ -145,25 +145,6 @@
     "west_sink_candidate": "outputs/keyframes/west-phone-speaker-realism-v1.png",
     "west_external_candidate": "outputs/keyframes/apartment-fridge-reconstruction-v11.png"
   },
-  "planned_sequence": [
-    {
-      "name": "north-wall-finish-v1",
-      "step": "Three local finishing corrections"
-    },
-    {
-      "name": "kitchen-north-integrated-v2",
-      "step": "Wider kitchen integration",
-      "depends_on": "Inspect north-wall-finish-v1; adapt request to actual accepted result before submission"
-    }
-  ],
-  "proposed_budget": {
-    "total_ceiling": 238,
-    "max_jobs": 2,
-    "prior_comparable_cost_per_job": 6.5,
-    "expected_total": 237.25,
-    "status": "APPROVED",
-    "no_automatic_retries": true
-  },
   "account_credit_block": null,
   "remaining_authorized_jobs": [],
   "account_topup_verified": {
@@ -175,8 +156,9 @@
   "preferred_edit_base": "outputs/keyframes/apartment-fridge-reconstruction-v11.png",
   "visual_lock": "outputs/production/north-east-visual-lock.json",
   "next_focus": {
-    "scope": "Resolve only view1 fridge/enclosure continuity without layout drift; west nook stays on its original wall",
-    "authorization": "No additional paid jobs; no full-frame automatic retry"
+    "scope": "Opus assistance with B06a controlled view1 fridge/enclosure correction",
+    "handoff": "OPUS-HANDOFF.md",
+    "authorization": "Read-only/unpaid preparation only; no new paid job or automatic retry"
   },
   "west_nook_direction": {
     "latest_user_instruction": "Go back to the iPhone and speaker in the nook; just fix dimensions and move on",
@@ -236,5 +218,34 @@
       "Final film production"
     ],
     "evidence": "docs/THREE-VIEW-CONTINUITY-REVIEW.md"
+  },
+  "completion_status": "incomplete",
+  "completion_note": "Codex has not completed the requested film or resolved B06a.",
+  "handoff": {
+    "target": "Anthropic Opus",
+    "document": "OPUS-HANDOFF.md",
+    "requested_by_user": "2026-10-10",
+    "status": "prepared-locally-not-sent",
+    "external_message_sent": false,
+    "new_session_started": false
+  },
+  "historical_completed_sequence": [
+    {
+      "name": "north-wall-finish-v1",
+      "step": "Three local finishing corrections"
+    },
+    {
+      "name": "kitchen-north-integrated-v2",
+      "step": "Wider kitchen integration",
+      "depends_on": "Inspect north-wall-finish-v1; adapt request to actual accepted result before submission"
+    }
+  ],
+  "historical_consumed_budget_proposal": {
+    "total_ceiling": 238,
+    "max_jobs": 2,
+    "prior_comparable_cost_per_job": 6.5,
+    "expected_total": 237.25,
+    "status": "APPROVED",
+    "no_automatic_retries": true
   }
 }

@@ -1,32 +1,41 @@
 # Vero kitchen film — continuation contract
 
-Read `HANDOFF.md` first, then `mega-prompt.md`, `docs/SOURCE-REGISTER.md` and the ordered
-`docs/BACKLOG.md`. `outputs/stills-gallery.html` / `docs/asset-catalog.json` identify
-assets and their status; version number alone is not approval.
+## Current entry point
 
-Current user instruction: restore photographic third view `apartment-fridge-reconstruction-v11.png`
-and keep local3D work archived. User then requested three-view consistency and approved
-**303 total credits for ONE view1 continuity correction**, `master-third-view-continuity-v1`,
-maximum new job6.5. Authority: `outputs/production/master-third-continuity-authorization.json`.
-Match view1 fridge/enclosure to selected view3; preserve north coffee station and view2.
-Phone/speaker nook is kitchen-facing WEST wall: visible in view2, hidden from view3's
-living-room camera. Do not relocate/duplicate it to force visibility.
-No retries, purchases or video batch. Disable generation after this one job.
-Use construction-state-plan.json / shotlist.html after finished-reference reconciliation.
+Read `OPUS-HANDOFF.md`, then `HANDOFF.md`, `mega-prompt.md`, `docs/SOURCE-REGISTER.md`
+and `docs/BACKLOG.md`. The user requested an assistance handoff to Anthropic Opus.
+Codex has not completed the film or resolved B06a. Handoff is prepared locally, not sent.
 
+## Scope and authority
 
-Original photos/plans and manufacturer evidence remain separate from generated concepts.
-Never modify original source drawings to fit a render. Latest explicit user design
-instructions win; all projecting wine towers, posters, above-DW coffee installations
-and old single-door fridge decisions are superseded/rejected.
+Preserve the three selected photographic references and their selection records:
+- View 1: `outputs/keyframes/kitchen-smeg-realism-v1.png`.
+- View 2: `outputs/keyframes/west-phone-speaker-realism-v1.png`.
+- View 3: `outputs/keyframes/apartment-fridge-reconstruction-v11.png` — user restored.
 
-Preserve unrelated edits, original files and historical drafts. Keep job receipts and
-asset IDs stable. Rebuild the catalog after adding assets; run `tools/verify_handoff.py`
-for documentation integrity. No tests or metrics establish visual/physical correctness.
+Immediate task B06a: align view 1's fridge/enclosure with view 3 without layout drift.
+The phone/speaker nook is on the kitchen-facing west wall and naturally hidden from
+view 3. Do not duplicate or relocate it. Local 3D studies are archived; do not restart
+that workflow or reopen the selected design without explicit user direction.
 
-Use subagents only within explicit user authorization or an applicable existing contract;
-no independent spending by delegates. One lead owns the generation queue and budget.
+Task spend **302.25 / 303 credits**, **0.75 remaining**. Previous job authority is
+consumed. No new paid generation, quote/upload flow, retry, purchase, video batch,
+publishing or scheduling is authorized. Preserve the runner guard and keep
+`generation_allowed: false`. Read-only work and bounded unpaid preparation may proceed.
 
-Every commit uses per-invocation harness attribution:
+## Sources and records
+
+Original photos/plans and manufacturer evidence remain separate from generated
+concepts. Never modify original drawings to fit a render. Visual selection does not
+certify physical dimensions, cavities, services or clearance.
+
+Preserve unrelated work, originals, drafts, job IDs and receipts. Stage only relevant
+paths. Rebuild `tools/build_asset_catalog.py` after asset/status changes and run
+`tools/verify_handoff.py`. Its checks establish record integrity, not visual correctness.
+
+Do not spawn delegates unless explicitly authorized by the user or an applicable
+contract. No independent spending by delegates; one lead owns the job ledger.
+
+For commits made by Codex, use per-invocation attribution:
 `git -c user.name="Stefan Sassoon (Codex)" commit -m "..."`.
-Do not persist that author identity in git config. Stage only relevant paths.
+Do not persist that stamp in git config. Preserve existing native attribution.

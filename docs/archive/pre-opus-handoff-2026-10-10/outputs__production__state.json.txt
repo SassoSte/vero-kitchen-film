@@ -1,0 +1,240 @@
+{
+  "project": "vero-kitchen-film",
+  "phase": "View1 alignment attempt rejected for layout drift; selected images retained; continuity still unresolved",
+  "budget_ceiling_credits": 303,
+  "approved_features": [
+    "Wolf GR304 red knobs with pale hood; no over-range microwave",
+    "Built-in microwave on sink side left of sink",
+    "Red SMEG toaster and kettle",
+    "Continuous concrete and dining rug",
+    "Three cream stools, flowers and fruit",
+    "Wall-flush wine fridge on blank wall beside main fridge; no projecting tower/poster",
+    "Spice/tech nook on sink-side wall near microwave",
+    "Spice/tech nook on OTHER sink-side wall near microwave",
+    "Above-dishwasher worktop clear; no exposed coffee machine",
+    "French-door main refrigerator: two upper doors meeting centrally and lower freezer drawer; real model/clearance pending",
+    "REF-K integrated wall-flush recessed coffee/wine composition, smaller machine, lit prep alcove and glass storage"
+  ],
+  "views": {
+    "master": {
+      "original": "references/original/ref-a-cooking-run.webp",
+      "status": "User-approved original retained; enclosure mismatch versus selected third view unresolved",
+      "take": "kitchen-smeg-realism-v1",
+      "defects": [],
+      "review_limits": [
+        "Visual approval only; physical fit unresolved"
+      ]
+    },
+    "sink": {
+      "original": "references/original/ref-b-sink-run.webp",
+      "status": "user-approved-visual-lock",
+      "take": "west-phone-speaker-realism-v1",
+      "defects": []
+    },
+    "apartment": {
+      "original": "references/original/ref-h-apartment-facing.webp",
+      "status": "user-selected-restored-visual-reference",
+      "take": "apartment-fridge-reconstruction-v11",
+      "defects": [],
+      "review_limits": [
+        "bar partly occludes freezer drawer",
+        "physical dimensions and hinge operation not proven",
+        "wine wall outside this view"
+      ]
+    }
+  },
+  "motion_pilots": [
+    {
+      "action": "two workers lower quartz cooking worktop",
+      "status": "failed-endpoint",
+      "take": "quartz-v1",
+      "source": "pilot-quartz-start-v2",
+      "scope": "isolated motion test, not production Shot03",
+      "finding": "Slab released while misaligned, cabinet still exposed. Correct source/end-state before retry.",
+      "design_status": "superseded-by-concrete-and-concealed-espresso-revision"
+    },
+    {
+      "action": "fridge movement within existing corner",
+      "status": "candidate-motion-pass",
+      "take": "fridge-v1",
+      "finding": "Sampled plausible fridge placement; partner occludes endpoint. Not final Shot07 acceptance.",
+      "design_status": "superseded-by-concrete-and-concealed-espresso-revision"
+    },
+    {
+      "action": "place bar furnishings",
+      "status": "failed-final-orientation",
+      "take": "stool-v1",
+      "finding": "Center stool faces camera away from bar; scale shrinkage not established by sampled review.",
+      "design_status": "superseded-by-concrete-and-concealed-espresso-revision"
+    }
+  ],
+  "gate": "No video generation until finished views agree and stage/worker references are inspected.",
+  "design_revision": "2026-10-09-ref-k-french-doors",
+  "pending_design_selection": "One north-wall detail: premium black/metal espresso machine, wider wine front, narrower adjacent storage; preserve developed kitchen.",
+  "coffee_garage": {
+    "status": "User accepts shelves composition; restore steam wand, improve canister lid clearance and slightly increase frosting before wider integration",
+    "wall": "SAME blank wall beside main refrigerator as wine fridge",
+    "reference": "references/inspiration/ref-l-north-coffee-wine.png",
+    "limits": "Current concept exists but espresso/proportions need revision; physical recess and fit unverified.",
+    "machine_reference": "references/inspiration/ref-m-espresso-dials.png",
+    "accessory_direction": "Small shelves above canisters with espresso cups/saucers, stir spoons and clear raw-sugar-cube jar. Upper cupboard: coordinated wine glasses and cappuccino cups/saucers only; remove random isolated cups and unrelated items."
+  },
+  "appliance_candidates": {
+    "main": "FRFN2823AS discontinued manufacturer dimensional reference;36-inch reconstruction",
+    "wine": "U-Line URWC315-IG01A",
+    "status": "conditional-on-clearance-and-cabinetry",
+    "wall": "blank end wall beside main fridge; user calls north wall"
+  },
+  "end_wall_status": "Developed north-wall station integrated in wider kitchen candidate",
+  "end_wall_views": {
+    "historical_closed": "outputs/keyframes/end-wall-flush-v1.png",
+    "status": "Historical partial only; superseded by REF-K and French-door request"
+  },
+  "microwave_location": "Base cabinetry LEFT of sink per REF-J; upper microwave in latest concept is a defect",
+  "geometry_lock": "outputs/production/geometry-lock.json",
+  "fridge_style": "French-door upper pair meeting at center, bottom freezer drawer",
+  "next_job": {
+    "request": "outputs/production/master-third-view-continuity-v1-request.json",
+    "status": "GENERATED; rejected layout drift; not promoted",
+    "prior_comparable_quote_credits": 6.5,
+    "proposed_total_ceiling": 303,
+    "authorization": "Approve 303 total; correct view 1",
+    "quoted_credits": 6.5
+  },
+  "status": "concept-review-hold",
+  "pause_reason": null,
+  "generation_allowed": false,
+  "historical_rejected_layout": "kitchen-blueprint/end-wall-proposed.json",
+  "documentation": {
+    "handoff": "HANDOFF.md",
+    "sources": "docs/SOURCE-REGISTER.md",
+    "backlog": "docs/BACKLOG.md",
+    "gallery": "outputs/stills-gallery.html",
+    "catalog": "docs/asset-catalog.json",
+    "lessons": "docs/LESSONS.md"
+  },
+  "authorized_jobs": [],
+  "authorization": "outputs/production/master-third-continuity-authorization.json",
+  "latest_concept": "outputs/keyframes/master-third-view-continuity-v1.png",
+  "latest_concept_review": {
+    "status": "rejected-layout-drift",
+    "reviewer": "lead only",
+    "record": "docs/THREE-VIEW-CONTINUITY-REVIEW.md",
+    "limits": [
+      "Fridge/range separation changed",
+      "Intervening glass-front upper removed",
+      "Original view1 retained; enclosure mismatch still unresolved"
+    ]
+  },
+  "orientation_review": "docs/ORIENTATION-2026-10-09.md",
+  "discussion_directions": {
+    "north": "coffee/wine end wall",
+    "west": "sink/pass-through/bar side toward living room",
+    "east": "main fridge/range run",
+    "south": "open kitchen access"
+  },
+  "orientation_confirmed_by_user": true,
+  "dimension_estimates_confirmed_by_user": false,
+  "design_progress_references": {
+    "west_sink": "outputs/keyframes/west-phone-speaker-realism-v1.png",
+    "west_external_view": "outputs/keyframes/apartment-fridge-reconstruction-v11.png",
+    "west_external_view_exception": "Selected third-view fridge/enclosure governs any visible derived construction state; no further redesign requested.",
+    "north_latest": "outputs/keyframes/kitchen-smeg-realism-v1.png",
+    "north_exceptions": "User locked current appearance; retain historical critiques only as history. Physical fit remains unverified.",
+    "north_detail": "outputs/keyframes/north-wall-finish-v1.png",
+    "west_sink_candidate": "outputs/keyframes/west-phone-speaker-realism-v1.png",
+    "west_external_candidate": "outputs/keyframes/apartment-fridge-reconstruction-v11.png"
+  },
+  "planned_sequence": [
+    {
+      "name": "north-wall-finish-v1",
+      "step": "Three local finishing corrections"
+    },
+    {
+      "name": "kitchen-north-integrated-v2",
+      "step": "Wider kitchen integration",
+      "depends_on": "Inspect north-wall-finish-v1; adapt request to actual accepted result before submission"
+    }
+  ],
+  "proposed_budget": {
+    "total_ceiling": 238,
+    "max_jobs": 2,
+    "prior_comparable_cost_per_job": 6.5,
+    "expected_total": 237.25,
+    "status": "APPROVED",
+    "no_automatic_retries": true
+  },
+  "account_credit_block": null,
+  "remaining_authorized_jobs": [],
+  "account_topup_verified": {
+    "balance": 4000.5,
+    "date": "2026-10-09",
+    "task_cap_unchanged": 238
+  },
+  "espresso_realism_candidate": "outputs/keyframes/kitchen-espresso-realism-v1.png",
+  "preferred_edit_base": "outputs/keyframes/apartment-fridge-reconstruction-v11.png",
+  "visual_lock": "outputs/production/north-east-visual-lock.json",
+  "next_focus": {
+    "scope": "Resolve only view1 fridge/enclosure continuity without layout drift; west nook stays on its original wall",
+    "authorization": "No additional paid jobs; no full-frame automatic retry"
+  },
+  "west_nook_direction": {
+    "latest_user_instruction": "Go back to the iPhone and speaker in the nook; just fix dimensions and move on",
+    "retain": [
+      "iPhone on charging dock",
+      "small round speaker",
+      "oak lining and existing material language"
+    ],
+    "change": "Reduce opening height and modestly narrow width around actual-size devices",
+    "scope": "Localized nook edit only; no further counter styling or research-driven redesign",
+    "supersedes": "Charging-only contents and proposed new styling direction"
+  },
+  "west_visual_lock": "outputs/production/west-visual-lock.json",
+  "fridge_reconstruction": "outputs/production/fridge-36-layout.json",
+  "geometry_study": {
+    "record": "docs/FIXED-GEOMETRY-CHECK.md",
+    "view": "outputs/review/kitchen-fixed-geometry-camera-v1.png",
+    "scene": "outputs/review/kitchen-fixed-geometry-scene.obj",
+    "status": "archived-experiment-not-production",
+    "paid_spend": 0,
+    "limits": [
+      "Fitted opening87.7in differs from old66in bar schedule",
+      "Camera at height66in and nominal far-room bound",
+      "Hinge sweep and physical fit unresolved"
+    ],
+    "superseded_by_user": "2026-10-10 restore supplied photographic image and move on"
+  },
+  "local_material_pass": {
+    "record": "docs/FIXED-SCENE-CONTEXT-PASS.md",
+    "image": "outputs/review/kitchen-fixed-materials-v3.png",
+    "renderer": "Mitsuba3.9.1 scalar_rgb",
+    "paid_spend": 0,
+    "status": "archived-experiment-not-production",
+    "limits": [
+      "Camera/opening remains provisional",
+      "Furniture/context approximate; visible sampling grain",
+      "Not third-view visual lock or construction approval"
+    ],
+    "superseded_by_user": "2026-10-10 restore supplied photographic image and move on"
+  },
+  "apartment_visual_lock": "outputs/production/apartment-visual-lock.json",
+  "continuity_audit": "outputs/production/three-view-continuity-audit.json",
+  "finished_views_consistent": false,
+  "backlog_gate": {
+    "id": "B06a",
+    "priority": "P0",
+    "status": "open-production-blocker",
+    "scope": "View1 fridge/enclosure to match restored view3 without layout drift",
+    "not_a_defect": "West phone/speaker nook naturally hidden/out of frame in other two cameras",
+    "may_continue": [
+      "Unpaid worker identity/state/take planning",
+      "Preparation of demonstrably localized correction method"
+    ],
+    "blocked_until_resolved": [
+      "Derived construction-stage image production",
+      "Motion pilots",
+      "Final film production"
+    ],
+    "evidence": "docs/THREE-VIEW-CONTINUITY-REVIEW.md"
+  }
+}

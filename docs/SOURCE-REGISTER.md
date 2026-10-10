@@ -1,3 +1,5 @@
+> **Current status:** Assistance handoff prepared for Anthropic Opus; see [OPUS-HANDOFF](../OPUS-HANDOFF.md). This register preserves source/provenance and dated reference history. Current selections and spending authority are defined by that handoff and the live ledger, not older snapshot paragraphs below.
+
 ## Latest espresso reference — REF-M
 
 [REF-M machine](../references/inspiration/ref-m-espresso-dials.png) is the user-selected appliance appearance; [provenance](../references/inspiration/ref-m-source.json). Black body, warm metal trim, prominent dial and knobs. Brand/SKU not verified. Do not copy its surrounding kitchen or countertop cups.

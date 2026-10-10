@@ -1,4 +1,4 @@
-# Asset catalog — bounded concept resume
+# Asset catalog — selected references and history
 
 Latest north-wall REF-M dial espresso/canister edit within REF-L composition and retained frosted uppers; two upper French doors/lower freezer drawer, model/fit pending. North/east wide view kitchen-smeg-realism-v1 is user-locked; west-phone-speaker-realism-v1 is also user-approved; apartment-fridge-reconstruction-v11 restored by user; construction planning is next.
 

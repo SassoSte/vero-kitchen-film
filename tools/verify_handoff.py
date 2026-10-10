@@ -8,7 +8,7 @@ def check(ok,label):
 def digest(p):return hashlib.sha256(p.read_bytes()).hexdigest()
 state=json.loads((ROOT/'outputs/production/state.json').read_text())
 budget_path=ROOT/'outputs/production/budget.json';budget=json.loads(budget_path.read_text())
-check(state.get('status')=='concept-review-hold' and state.get('generation_allowed') is False,'One-concept complete; further generation disabled')
+check(state.get('status') in {'concept-review-hold','handoff-prepared'} and state.get('generation_allowed') is False,'One-concept complete; further generation disabled')
 authorization=json.loads((ROOT/budget['authorization']).read_text())
 check(authorization['budget_user_text']=='Approve 303 total; correct view 1' and authorization['max_new_jobs']==1,'Explicit one-render authorization')
 check(budget['ceiling_credits']==authorization['total_ceiling_credits']==303,'Approved total ceiling303')
@@ -50,7 +50,7 @@ for a in json.loads((ROOT/'references/products/specs/capture-manifest.json').rea
  if 'local' in a:
   p=ROOT/a['local'];check(p.is_file() and p.read_bytes().startswith(b'%PDF-') and digest(p)==a['sha256'],f'Manufacturer PDF {a["local"]}')
 # Verify local Markdown links across current handoff docs (ignore web URLs and headings).
-for rel in ['README.md','HANDOFF.md','AGENTS.md','docs/SOURCE-REGISTER.md','docs/BACKLOG.md','docs/LESSONS.md','docs/ASSET-CATALOG.md']:
+for rel in ['README.md','HANDOFF.md','OPUS-HANDOFF.md','AGENTS.md','docs/SOURCE-REGISTER.md','docs/BACKLOG.md','docs/LESSONS.md','docs/ASSET-CATALOG.md']:
  p=ROOT/rel
  for target in re.findall(r'\]\(([^\n)]+)\)',p.read_text()):
   target=target.strip().strip('<>')
