@@ -1,4 +1,4 @@
-"""Read-only validation of the paused handoff; never calls a media provider."""
+"""Read-only validation of the bounded-resume handoff; never calls a media provider."""
 from pathlib import Path
 import hashlib,json,re,subprocess,sys,urllib.parse
 ROOT=Path(__file__).resolve().parents[1]
@@ -8,15 +8,22 @@ def check(ok,label):
 def digest(p):return hashlib.sha256(p.read_bytes()).hexdigest()
 state=json.loads((ROOT/'outputs/production/state.json').read_text())
 budget_path=ROOT/'outputs/production/budget.json';budget=json.loads(budget_path.read_text())
-check(state.get('status')=='paused' and state.get('generation_allowed') is False,'Explicit pause/generation guard state')
-check(budget['ceiling_credits']==200,'Approved cap remains200;205 not silently adopted')
+check(state.get('status')=='concept-review-hold' and state.get('generation_allowed') is False,'One-concept complete; further generation disabled')
+authorization=json.loads((ROOT/'outputs/production/resume-authorization.json').read_text())
+check(authorization['budget_user_text']=='Approve 205 total for one concept' and authorization['max_new_jobs']==1,'Explicit one-concept authorization')
+check(budget['ceiling_credits']==authorization['total_ceiling_credits']==205,'Approved total ceiling205')
 quote_total=round(sum(x['quote'] for x in budget['jobs']),2)
-check(quote_total==198.25 and budget['task_quote_total']==quote_total,'32 job quotes total198.25')
-check(len(budget['jobs'])==32 and all(x['status']=='generated' for x in budget['jobs']),'All32 recorded jobs terminal/generated')
-check(round(200-quote_total,2)==budget['remaining_phase_credits']==1.75,'Remaining task allowance1.75')
+check(quote_total==204.75 and budget['task_quote_total']==quote_total,'33 job quotes total204.75')
+check(len(budget['jobs'])==33 and all(x['status']=='generated' for x in budget['jobs']),'All33 recorded jobs terminal/generated')
+check(round(budget['ceiling_credits']-quote_total,2)==budget['remaining_phase_credits']==0.25,'Remaining task allowance0.25')
 name='integrated-wall-frenchdoor-v1'
-check(not any(x['name']==name for x in budget['jobs']) and not (ROOT/f'outputs/production/{name}-result.json').exists(),'Prepared request not submitted or counted as paid asset')
-check((ROOT/f'outputs/production/{name}-request.json').exists() and json.loads((ROOT/f'outputs/production/{name}-quote.json').read_text())['credits']==6.5,'Prepared request and6.5 quote retained')
+job=next((x for x in budget['jobs'] if x['name']==name),None)
+result_path=ROOT/f'outputs/production/{name}-result.json'
+check(job is not None and result_path.exists(),'Authorized concept has ledger and result receipt')
+result=json.loads(result_path.read_text())[0]
+check(result['status']=='completed' and result['id']==job['job_id'] and (ROOT/job['file']).exists(),'Completed result matches ledger and local asset')
+check(json.loads((ROOT/f'outputs/production/{name}-quote.json').read_text())['credits']==job['quote']==6.5,'Actual-input quote6.5')
+check(budget['reserved_credits']==quote_total<=budget['ceiling_credits'],'Commitments reconciled within cap')
 cat=json.loads((ROOT/'docs/asset-catalog.json').read_text());assets=cat['assets']
 check(len({x['id'] for x in assets})==len(assets),'Unique stable asset IDs')
 exts={'.png','.jpg','.jpeg','.webp','.mp4','.mov','.webm','.m4v'}
@@ -25,7 +32,7 @@ check(actual=={a['path'] for a in assets},'Every raster/video is cataloged exact
 for a in assets:
  p=ROOT/a['path'];check(p.is_file() and digest(p)==a['sha256'],f'Asset hash {a["path"]}')
  for kind,rel in a.get('receipts',{}).items():check((ROOT/rel).is_file(),f'Receipt {rel}')
-check(cat['still_count']==54 and cat['video_count']==3,'Inventory54 stills /3 videos')
+check(cat['still_count']==56 and cat['video_count']==3,'Inventory56 stills /3 videos')
 manifest=json.loads((ROOT/'references/source-manifest.json').read_text())
 for group in ['files','supplemental_documents_captured_2026_10_09']:
  for a in manifest.get(group,[]):
@@ -56,9 +63,9 @@ for rel in ['outputs/stills-gallery.html','outputs/shotlist.html']:
   proc=subprocess.run(['node','--check','-'],input=script,text=True,capture_output=True)
   check(proc.returncode==0,f'JavaScript syntax {rel}')
 # Paid runner must abort before uploads/quotes/mutations while paused.
-before=digest(budget_path)
+before=digest(budget_path);result_before=digest(result_path)
 proc=subprocess.run([sys.executable,str(ROOT/'tools/run_image_job.py'),name],cwd=ROOT,text=True,capture_output=True)
-check(proc.returncode!=0 and 'Production paused by user' in proc.stderr+proc.stdout,'Paid runner rejects invocation before quoting/submission')
-check(before==digest(budget_path) and not (ROOT/f'outputs/production/{name}-result.json').exists(),'Pause-guard test leaves budget/results unchanged')
+check(proc.returncode!=0 and 'Generation disabled' in proc.stderr+proc.stdout,'Paid runner rejects invocation before quoting/submission')
+check(before==digest(budget_path) and digest(result_path)==result_before,'Pause-guard test leaves budget/results unchanged')
 print(json.dumps({'status':'PASS' if not errors else 'FAIL','checks_passed':len(checks),'stills':cat['still_count'],'videos':cat['video_count'],'task_quote_total':quote_total,'errors':errors},indent=2))
 sys.exit(bool(errors))

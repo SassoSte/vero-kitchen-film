@@ -1,3 +1,5 @@
+> **Current resume update — 2026-10-09:** User resumed and approved a 205-credit total ceiling for ONE concept. See [resume record](RESUME-2026-10-09.md) and live production state. The pause/200-credit/unsubmitted statements below are the preserved earlier snapshot, superseded only within this one-job scope. The single concept is now generated and needs correction (upper microwave and added fridge surround). Spend is **204.75/205**, remaining **0.25**; further generation is disabled. Full-film production is not authorized.
+
 # Source register — kitchen film
 
 Recorded 2026-10-09 (America/Phoenix). **Production is paused by the user.** This register records inspected local evidence; it does not authorize generation, purchases, or installation. See [BACKLOG.md](BACKLOG.md) for dependencies and acceptance gates.

@@ -50,7 +50,8 @@
     "freezer": "lower pull-out drawer",
     "height": "pending actual selected model",
     "clearance": "verify wall-side left door and drawer access; do not inherit Bosch opening",
-    "supersedes": "Bosch B30BB130SS single upper door"
+    "supersedes": "Bosch B30BB130SS single upper door",
+    "concept_reference": "FRFG1723AV appearance only; 31.3 wide and67.9 high; corner fit unresolved"
   },
   "room_rules": [
     "Original photos govern viewpoint and handedness; SVG page orientation is not a reason to mirror the room.",
@@ -65,5 +66,6 @@
     "whole-unit schematic appliance labels/handedness cannot override original photos"
   ],
   "generated_views_are_not_geometry_evidence": true,
-  "production_status": "paused"
+  "production_status": "concept-review-hold",
+  "latest_concept_review": "docs/RESUME-2026-10-09.md"
 }

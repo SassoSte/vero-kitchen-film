@@ -1,7 +1,7 @@
 {
-  "ceiling_credits": 200,
+  "ceiling_credits": 205,
   "opening_balance": 1246.8,
-  "reserved_credits": 198.25,
+  "reserved_credits": 204.75,
   "jobs": [
     {
       "name": "master-v1",
@@ -225,16 +225,24 @@
       "status": "generated",
       "job_id": "4790db6d-6291-467c-bc05-4dde03fbe945",
       "file": "outputs/keyframes/sink-v4.png"
+    },
+    {
+      "name": "integrated-wall-frenchdoor-v1",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "2834b640-a241-4909-bad4-3d12f926aaab",
+      "file": "outputs/keyframes/integrated-wall-frenchdoor-v1.png"
     }
   ],
-  "balance_after": 35,
+  "balance_after": 28.5,
   "balance_delta": null,
-  "remaining_phase_credits": 1.75,
-  "account_snapshot_note": "Latest pass account decrease43.5 to35 matches two job quotes6.5+2. Earlier account changes outside recorded jobs are not assigned to this task.",
-  "task_quote_total": 198.25,
+  "remaining_phase_credits": 0.25,
+  "account_snapshot_note": "2026-10-09 bounded resume: account35 to28.5, consistent with one6.5-credit quote; task ledger is authoritative.",
+  "task_quote_total": 204.75,
   "latest_pass": {
-    "opening_account_balance": 43.5,
-    "closing_account_balance": 35,
-    "quoted_cost": 8.5
-  }
+    "opening_account_balance": 35,
+    "closing_account_balance": 28.5,
+    "quoted_cost": 6.5
+  },
+  "authorization": "outputs/production/resume-authorization.json"
 }

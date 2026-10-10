@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-09",
+  "timezone": "America/Phoenix",
+  "resume_user_text": "Let's resume.",
+  "budget_user_text": "Approve 205 total for one concept",
+  "total_ceiling_credits": 205,
+  "authorized_jobs": [
+    "integrated-wall-frenchdoor-v1"
+  ],
+  "max_new_jobs": 1,
+  "scope": "One finished-view concept after layout checks; no video, retries, top-up or full-batch authority."
+}

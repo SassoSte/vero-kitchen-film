@@ -1,3 +1,5 @@
+> **Current resume update — 2026-10-09:** User resumed and approved a 205-credit total ceiling for ONE concept. See [resume record](docs/RESUME-2026-10-09.md) and live production state. The pause/200-credit/unsubmitted statements below are the preserved earlier snapshot, superseded only within this one-job scope. The single concept is now generated and needs correction (upper microwave and added fridge surround). Spend is **204.75/205**, remaining **0.25**; further generation is disabled. Full-film production is not authorized.
+
 # Vero kitchen-remodel video — paused handoff
 
 Updated **2026-10-09, America/Phoenix**. User explicitly said to **pause**, document the work, identify the stills, anchor the source material, and prepare this handoff/backlog. Documentation is complete; **production must not resume automatically**.

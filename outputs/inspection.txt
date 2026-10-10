@@ -59,3 +59,15 @@ All three raw pilots are isolated silent generator outputs; exact film timing/19
 
 Independent pilot review agrees quartz fails seating; fridge is provisional (partner occludes much of final placement); stool fails orientation, not proven shrinking. No frame-by-frame or continuous-playback claim.
 First reference/pilot pass complete. Spending: 111.75 credits, verified opening 1246.8 minus ending 1135.05; 88.25 remains under 200-credit phase ceiling. All submitted jobs completed, no automatic further jobs scheduled.
+
+
+2026-10-09 — bounded resume / integrated-wall-frenchdoor-v1
+Lead visual review of the returned 2688×1520 image (not independent review or physical measurement):
+
+- Present: two upper French doors, paired center handles and lower freezer drawer; compact espresso unit with two cups; illuminated glass storage, recessed prep niche and low wine front on the same end wall. White Shaker/stone, red-knob gas range, pale hood/pot filler, red toaster/kettle and concrete remain visible.
+- FAIL: microwave appears in high cabinetry at far left, instead of base cabinetry LEFT of sink. This conflicts with REF-J and the current brief; do not propagate it into the sink view or construction states.
+- FAIL: a new tall white surround/panel was invented above the refrigerator, despite the request to leave the wall visible pending a surround decision.
+- LIMIT: refrigerator badge is malformed, exact model silhouette/height and physical clearances are not established by the image. A closed front proves no wall-side door swing. Sink faucet, spice/tech details, apartment/bar/stools and room dimensions are not assessable from this crop.
+- Overall: **partial-concept / needs correction**, pending user review. Useful coffee/wine appearance, not accepted as a whole kitchen or construction-state source. No reroll authorized or performed.
+
+Actual quote 6.5 credits; provider completed one job; local file saved. Task total **204.75 / 205**, remaining **0.25**. Account observed 35 → 28.5 during this pass, consistent with this one quote. Ledger remains the task-cost authority. Generation disabled after the single authorized output; no video produced. Processes owned by this run exited.

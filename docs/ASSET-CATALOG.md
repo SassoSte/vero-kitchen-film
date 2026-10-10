@@ -1,16 +1,16 @@
-# Asset catalog — production paused
+# Asset catalog — bounded concept resume
 
 Latest style REF-K; two upper French doors/lower freezer drawer, model/fit pending. No generated still is final approved complete current design.
 
 Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashes of repository-relative paths. Hashes describe exact existing bytes; verdicts are sourced review findings, not a new visual inspection.
 
-**54 stills · 3 videos.**
+**56 stills · 3 videos.**
 
 [Open searchable gallery](../outputs/stills-gallery.html) · [Machine-readable catalog](asset-catalog.json)
 
-## Prepared, not generated
+## Latest bounded concept
 
-`integrated-wall-frenchdoor-v1` — **NOT GENERATED / NOT SUBMITTED**, quoted 6.5 credits. Not counted as a still. Production paused.
+`integrated-wall-frenchdoor-v1` — **GENERATED**, quoted 6.5 credits. See the resume record and asset entry below.
 
 ## Stills
 
@@ -266,6 +266,22 @@ Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashe
 - Quote receipt: [outputs/production/end-wall-open-v1-quote.json](../outputs/production/end-wall-open-v1-quote.json)
 - Result receipt: [outputs/production/end-wall-open-v1-result.json](../outputs/production/end-wall-open-v1-result.json)
 - Stderr receipt: [outputs/production/end-wall-open-v1-stderr.txt](../outputs/production/end-wall-open-v1-stderr.txt)
+
+### ASSET-5583018B5C85 — Integrated Wall Frenchdoor V1
+
+- Exact filename: `integrated-wall-frenchdoor-v1.png`
+- File: [outputs/keyframes/integrated-wall-frenchdoor-v1.png](../outputs/keyframes/integrated-wall-frenchdoor-v1.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/keyframes/integrated-wall-frenchdoor-v1.png`
+- Role: Generated still / diagram; status: **partial-concept-needs-correction**
+- Known verdict: Lead inspected: compact lit coffee/wine composition and French doors present. Microwave incorrectly appears in upper cabinetry; unrequested fridge surround added.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not whole-design approved; incorrect microwave and surround; physical fit and cross-view continuity unresolved.
+- Bytes: 5731366; SHA-256: `58b717d3863b0aec2ed6ac0d9fdb5d3bd699fbc28167f6feb77f3a3eae05b9b1`
+- Job ID: `2834b640-a241-4909-bad4-3d12f926aaab`
+- Request receipt: [outputs/production/integrated-wall-frenchdoor-v1-request.json](../outputs/production/integrated-wall-frenchdoor-v1-request.json)
+- Quote receipt: [outputs/production/integrated-wall-frenchdoor-v1-quote.json](../outputs/production/integrated-wall-frenchdoor-v1-quote.json)
+- Result receipt: [outputs/production/integrated-wall-frenchdoor-v1-result.json](../outputs/production/integrated-wall-frenchdoor-v1-result.json)
+- Stderr receipt: [outputs/production/integrated-wall-frenchdoor-v1-stderr.txt](../outputs/production/integrated-wall-frenchdoor-v1-stderr.txt)
 
 ### ASSET-051125985B79 — Cooking/fridge wall — v1
 
@@ -794,6 +810,18 @@ Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashe
 - Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
 - Limit / superseded reason: French-door revision supersedes model, single door and model-based 84-inch opening.
 - Bytes: 14642; SHA-256: `058dafa16d3614af2ecccb3fad2b4525cdb61ee5b0540ab7db5a9ae5d30e6a25`
+- Job ID: `not recorded`
+
+### ASSET-521C71460DA1 — Frigidaire Frfg1723Av
+
+- Exact filename: `frigidaire-frfg1723av.webp`
+- File: [references/products/frigidaire-frfg1723av.webp](../references/products/frigidaire-frfg1723av.webp)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/references/products/frigidaire-frfg1723av.webp`
+- Role: French-door appearance reference; status: **concept-product-reference**
+- Known verdict: Official FRFG1723AV appearance and proportions for one concept.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Corner fit and final model selection unresolved.
+- Bytes: 50519; SHA-256: `40aa7a15bc72493995c029f43945370d181b9b13060a858ad4470deabb85be02`
 - Job ID: `not recorded`
 
 ### ASSET-26F3E0139C7A — Wolf GR304 gas range — product reference

@@ -1,7 +1,7 @@
 {
   "project": "vero-kitchen-film",
-  "inventory_revision": "2026-10-09-paused",
-  "production": "PAUSED by user",
+  "inventory_revision": "2026-10-09-resumed-one-concept",
+  "production": "One authorized concept generated; user review pending; further generation disabled",
   "authority": "Latest style REF-K; two upper French doors/lower freezer drawer, model/fit pending. No generated still is final approved complete current design.",
   "review_sources": [
     "outputs/inspection.txt",
@@ -10,21 +10,9 @@
     "conversation review findings"
   ],
   "root": "/Users/stefansassoon/projects/vero-kitchen-film",
-  "still_count": 54,
+  "still_count": 56,
   "video_count": 3,
-  "prepared_not_generated": [
-    {
-      "id": "PREP-integrated-wall-frenchdoor-v1",
-      "status": "NOT GENERATED / NOT SUBMITTED",
-      "name": "integrated-wall-frenchdoor-v1",
-      "quote_credits": 6.5,
-      "note": "Prepared request only; no still exists. Production explicitly paused by user. No cap increase approved in this inventory.",
-      "receipts": {
-        "request": "outputs/production/integrated-wall-frenchdoor-v1-request.json",
-        "quote": "outputs/production/integrated-wall-frenchdoor-v1-quote.json"
-      }
-    }
-  ],
+  "prepared_not_generated": [],
   "assets": [
     {
       "id": "ASSET-79E492B2F8D4",
@@ -406,6 +394,30 @@
         "quote": "outputs/production/end-wall-open-v1-quote.json",
         "result": "outputs/production/end-wall-open-v1-result.json",
         "stderr": "outputs/production/end-wall-open-v1-stderr.txt"
+      },
+      "source_provenance": null,
+      "review_source_note": "Recorded inspection/conversation findings or source-reference role; not a new visual inspection."
+    },
+    {
+      "id": "ASSET-5583018B5C85",
+      "title": "Integrated Wall Frenchdoor V1",
+      "path": "outputs/keyframes/integrated-wall-frenchdoor-v1.png",
+      "absolute_path": "/Users/stefansassoon/projects/vero-kitchen-film/outputs/keyframes/integrated-wall-frenchdoor-v1.png",
+      "kind": "still",
+      "category": "generated",
+      "role": "Generated still / diagram",
+      "status": "partial-concept-needs-correction",
+      "verdict": "Lead inspected: compact lit coffee/wine composition and French doors present. Microwave incorrectly appears in upper cabinetry; unrequested fridge surround added.",
+      "superseded_reason": "Not whole-design approved; incorrect microwave and surround; physical fit and cross-view continuity unresolved.",
+      "bytes": 5731366,
+      "sha256": "58b717d3863b0aec2ed6ac0d9fdb5d3bd699fbc28167f6feb77f3a3eae05b9b1",
+      "job_name": "integrated-wall-frenchdoor-v1",
+      "job_id": "2834b640-a241-4909-bad4-3d12f926aaab",
+      "receipts": {
+        "request": "outputs/production/integrated-wall-frenchdoor-v1-request.json",
+        "quote": "outputs/production/integrated-wall-frenchdoor-v1-quote.json",
+        "result": "outputs/production/integrated-wall-frenchdoor-v1-result.json",
+        "stderr": "outputs/production/integrated-wall-frenchdoor-v1-stderr.txt"
       },
       "source_provenance": null,
       "review_source_note": "Recorded inspection/conversation findings or source-reference role; not a new visual inspection."
@@ -1302,6 +1314,25 @@
       "superseded_reason": "French-door revision supersedes model, single door and model-based 84-inch opening.",
       "bytes": 14642,
       "sha256": "058dafa16d3614af2ecccb3fad2b4525cdb61ee5b0540ab7db5a9ae5d30e6a25",
+      "job_name": null,
+      "job_id": null,
+      "receipts": {},
+      "source_provenance": null,
+      "review_source_note": "Recorded inspection/conversation findings or source-reference role; not a new visual inspection."
+    },
+    {
+      "id": "ASSET-521C71460DA1",
+      "title": "Frigidaire Frfg1723Av",
+      "path": "references/products/frigidaire-frfg1723av.webp",
+      "absolute_path": "/Users/stefansassoon/projects/vero-kitchen-film/references/products/frigidaire-frfg1723av.webp",
+      "kind": "still",
+      "category": "products",
+      "role": "French-door appearance reference",
+      "status": "concept-product-reference",
+      "verdict": "Official FRFG1723AV appearance and proportions for one concept.",
+      "superseded_reason": "Corner fit and final model selection unresolved.",
+      "bytes": 50519,
+      "sha256": "40aa7a15bc72493995c029f43945370d181b9b13060a858ad4470deabb85be02",
       "job_name": null,
       "job_id": null,
       "receipts": {},

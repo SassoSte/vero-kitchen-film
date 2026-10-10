@@ -1,0 +1,56 @@
+[
+  {
+    "created_at": "2026-10-10T05:16:23.238866Z",
+    "display_name": "GPT Image 2",
+    "id": "2834b640-a241-4909-bad4-3d12f926aaab",
+    "job_type": "gpt_image_2",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_051623_2834b640-a241-4909-bad4-3d12f926aaab_min.webp",
+    "params": {
+      "aspect_ratio": "16:9",
+      "height": 1520,
+      "medias": [
+        {
+          "data": {
+            "id": "e0a41a8f-fd3b-4431-b65a-42e88bdae4c9",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/e0a41a8f-fd3b-4431-b65a-42e88bdae4c9_resize.jpg"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "3a51466e-b1dc-4e29-a8f1-1a785480cb7c",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/3a51466e-b1dc-4e29-a8f1-1a785480cb7c.png"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "da004751-0022-46e1-962b-dc5e84341e98",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/da004751-0022-46e1-962b-dc5e84341e98.webp"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "5841bff8-e155-4f05-ba91-c20546c8d809",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/5841bff8-e155-4f05-ba91-c20546c8d809.webp"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "videotape-alpha",
+      "prompt": "Create ONE photoreal 16:9 kitchen design concept by carefully editing image1. Image1 is the prior finish/camera reference, NOT geometry proof. Image2 (REF-K) governs ONLY the integrated coffee/wine composition. Image3 is the original kitchen photograph and governs room footprint, end-wall plane, corner, ceiling and the two parallel runs. Image4 is the real Frigidaire FRFG1723AV product appearance. Preserve the small room, original nominal 33-inch fridge bay and 54-inch aisle. Do not widen room or move either run.\nReplace the old tall single-door fridge with image4's two central-meeting stainless upper doors, paired center handles and ONE lower freezer drawer with horizontal handle. Use real product proportions, 31.3 inches wide and 67.9 inches high, with a 36-inch counter and 96-inch ceiling as scale anchors. Fridge is substantially shorter than the prior 84-inch Bosch; top near 68 inches, well below adjacent upper-cabinet tops at 84. Keep modest ventilation gaps; no tall filler pretending the appliance itself reaches 84 inches. Leave wall above the shorter fridge visible for this concept; cabinet surround remains undecided. Doors closed. Do not render door opening or label this an installation fit. Do not invent Bosch branding.\nReplace the blank coffee hatch and isolated wine front on the SAME end wall with a coherent REF-K-inspired recessed composition, about 30 inches wide as an illustrative estimate within the existing end-wall span. All outer cabinet fronts align to the existing wall plane, NOT a projecting freestanding tower. Lower half: a compact 15-inch-class glass wine fridge with visible front ventilation, with restrained white storage beside it. A small quartz preparation alcove at about 36 inches AFF is recessed into the composition. A SMALL sleek espresso unit, much smaller than image2's built-in machine, rests supported in the lit niche, with exactly two little cups. Upper frosted/glass Shaker storage has warm interior light; top remains about 84 inches, leaving wall to the original 96-inch ceiling. Restrained pale-oak niche lining. No plain utility hatch, poster, electronics or spice jars on this wall. Recess is a visual concept; do not depict a new room/cavity construction or change the exterior wall footprint.\nRetain image1's cooking-wall white Shaker/frosted inserts, pale veined quartz, mandatory pale box/chimney hood, brushed pot filler, Wolf-style 30-inch gas range with red knobs, red SMEG toaster left and kettle right, warm lighting, source track light and warm-grey concrete. Maintain clear usable dishwasher worktop at left. Other sink-side wall retains microwave LEFT of sink and separate spice/tech nook if within view; do not import them onto the coffee/wine wall. Preserve original camera handedness and room openings. No people, text overlays or added clutter. This is an unverified visualization for design review, not a construction drawing.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 2688
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_051623_2834b640-a241-4909-bad4-3d12f926aaab.png",
+    "status": "completed"
+  }
+]

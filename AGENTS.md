@@ -4,11 +4,12 @@ Read `HANDOFF.md` first, then `mega-prompt.md`, `docs/SOURCE-REGISTER.md` and th
 `docs/BACKLOG.md`. `outputs/stills-gallery.html` / `docs/asset-catalog.json` identify
 assets and their status; version number alone is not approval.
 
-Production is PAUSED by the user as of 2026-10-09. Do not generate, quote/upload through
-paid job flows, buy, schedule or resume automatically. Explicit user resumption and
-sufficient approved task budget are required before paid execution. Current approved
-ceiling is 200 credits, recorded task cost 198.25. Proposed 205 cap is NOT approved.
-`tools/run_image_job.py` contains a pre-quote pause guard; do not bypass it.
+User explicitly resumed on 2026-10-09 and approved **205 total credits for ONE concept**,
+`integrated-wall-frenchdoor-v1`, after layout checks. Read `docs/RESUME-2026-10-09.md`
+and `outputs/production/resume-authorization.json`. No retries, video batch, purchases,
+scheduling or additional jobs are authorized. Preserve the runner guard; generation
+must be disabled after the one authorized job. The live ledger owns commitments;
+prior handoff pause/200-credit figures are historical snapshots.
 
 Original photos/plans and manufacturer evidence remain separate from generated concepts.
 Never modify original source drawings to fit a render. Latest explicit user design
