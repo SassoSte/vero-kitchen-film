@@ -1,7 +1,7 @@
 {
   "project": "vero-kitchen-film",
   "inventory_revision": "2026-10-09-resumed-one-concept",
-  "production": "User prefers latest espresso result; paired SMEG realism edit prepared, extra budget pending",
+  "production": "Paired SMEG realism edit generated; user review pending; generation disabled",
   "authority": "Latest north-wall REF-M dial espresso/canister edit within REF-L composition and retained frosted uppers; two upper French doors/lower freezer drawer, model/fit pending. No generated still is final approved complete current design.",
   "review_sources": [
     "outputs/inspection.txt",
@@ -10,20 +10,9 @@
     "conversation review findings"
   ],
   "root": "/Users/stefansassoon/projects/vero-kitchen-film",
-  "still_count": 65,
+  "still_count": 66,
   "video_count": 3,
-  "prepared_not_generated": [
-    {
-      "id": "PREP-kitchen-smeg-realism-v1",
-      "name": "kitchen-smeg-realism-v1",
-      "status": "PREPARED; NOT QUOTED OR SUBMITTED",
-      "quote_credits": null,
-      "note": "User prefers latest espresso result; paired SMEG realism edit prepared, extra budget pending",
-      "receipts": {
-        "request": "outputs/production/kitchen-smeg-realism-v1-request.json"
-      }
-    }
-  ],
+  "prepared_not_generated": [],
   "assets": [
     {
       "id": "ASSET-79E492B2F8D4",
@@ -477,6 +466,30 @@
         "quote": "outputs/production/kitchen-north-integrated-v2-quote.json",
         "result": "outputs/production/kitchen-north-integrated-v2-result.json",
         "stderr": "outputs/production/kitchen-north-integrated-v2-stderr.txt"
+      },
+      "source_provenance": null,
+      "review_source_note": "Recorded inspection/conversation findings or source-reference role; not a new visual inspection."
+    },
+    {
+      "id": "ASSET-D274492F408A",
+      "title": "Kitchen Smeg Realism V1",
+      "path": "outputs/keyframes/kitchen-smeg-realism-v1.png",
+      "absolute_path": "/Users/stefansassoon/projects/vero-kitchen-film/outputs/keyframes/kitchen-smeg-realism-v1.png",
+      "kind": "still",
+      "category": "generated",
+      "role": "Generated still / diagram",
+      "status": "candidate-awaiting-user-review",
+      "verdict": "Lead inspected: subtler enamel variation/environmental reflections on red toaster and kettle; improvement modest.",
+      "superseded_reason": "Kettle remains glossy; minor neighboring details changed. Inherited espresso cup/frosting issues and physical fit unresolved.",
+      "bytes": 5990619,
+      "sha256": "488e9ffedae8f794c97d71a726ffb045a984e095fe85e51b57d1628a25a293fb",
+      "job_name": "kitchen-smeg-realism-v1",
+      "job_id": "c0465c56-f945-4754-9bbf-7f88cd109b14",
+      "receipts": {
+        "request": "outputs/production/kitchen-smeg-realism-v1-request.json",
+        "quote": "outputs/production/kitchen-smeg-realism-v1-quote.json",
+        "result": "outputs/production/kitchen-smeg-realism-v1-result.json",
+        "stderr": "outputs/production/kitchen-smeg-realism-v1-stderr.txt"
       },
       "source_provenance": null,
       "review_source_note": "Recorded inspection/conversation findings or source-reference role; not a new visual inspection."

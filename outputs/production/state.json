@@ -1,7 +1,7 @@
 {
   "project": "vero-kitchen-film",
-  "phase": "User prefers latest espresso result; paired SMEG realism edit prepared, extra budget pending",
-  "budget_ceiling_credits": 244,
+  "phase": "Paired SMEG realism edit generated; user review pending; generation disabled",
+  "budget_ceiling_credits": 251,
   "approved_features": [
     "Wolf GR304 red knobs with pale hood; no over-range microwave",
     "Built-in microwave on sink side left of sink",
@@ -94,10 +94,11 @@
   "fridge_style": "French-door upper pair meeting at center, bottom freezer drawer",
   "next_job": {
     "request": "outputs/production/kitchen-smeg-realism-v1-request.json",
-    "status": "PREPARED; NOT QUOTED OR SUBMITTED",
+    "status": "GENERATED; user review pending",
     "prior_comparable_quote_credits": 6.5,
     "proposed_total_ceiling": 251,
-    "authorization": "Not approved"
+    "authorization": "Approve 251 total for one render",
+    "quoted_credits": 6.5
   },
   "status": "concept-review-hold",
   "pause_reason": null,
@@ -112,19 +113,18 @@
     "lessons": "docs/LESSONS.md"
   },
   "authorized_jobs": [],
-  "authorization": "outputs/production/espresso-realism-authorization.json",
-  "latest_concept": "outputs/keyframes/kitchen-espresso-realism-v1.png",
+  "authorization": "outputs/production/smeg-realism-authorization.json",
+  "latest_concept": "outputs/keyframes/kitchen-smeg-realism-v1.png",
   "latest_concept_review": {
-    "status": "partial-improvement-with-regression",
+    "status": "candidate-awaiting-user-review",
     "reviewer": "lead only",
-    "record": "docs/ESPRESSO-REALISM-REVIEW.md",
+    "record": "docs/SMEG-REALISM-REVIEW.md",
     "limits": [
-      "Modest realism improvement only",
-      "Unwanted cup added beneath group head",
-      "Do not replace wider master automatically",
-      "North frosting consistency and physical fit still unresolved"
-    ],
-    "user_feedback": "Better; SMEG toaster and kettle also look like transposed toys"
+      "Subtle improvement; kettle remains glossy",
+      "Small neighboring details changed; not pixel-local preservation",
+      "Inherited espresso cup and frosting mismatch remain",
+      "Appliance scale/fit unverified"
+    ]
   },
   "orientation_review": "docs/ORIENTATION-2026-10-09.md",
   "discussion_directions": {

@@ -1,3 +1,5 @@
+> **Latest result — 2026-10-10:** [Paired SMEG correction](SMEG-REALISM-REVIEW.md) rendered; subtle improvement, user review pending. Task **250.25/251**, **0.75 remaining**; generation disabled. Earlier status/budget text is historical.
+
 > **Latest review:** [Espresso realism attempt](ESPRESSO-REALISM-REVIEW.md) gives modest improvement but adds an unwanted cup. Comparison candidate only; prior wide reference retained. Task **243.75/244**, **0.25 remaining**; generation disabled. Earlier status/budget text below is historical.
 
 > **Current result:** [Wider integration complete](NORTH-WALL-FINISH-INTEGRATION.md) after verified user top-up. Both authorized renders consumed; **237.25/238**, **0.75 remaining**. Generation disabled. User review pending; north glass remains clearer in wide view. Earlier wallet block/status text below is historical.

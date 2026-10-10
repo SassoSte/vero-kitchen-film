@@ -4,12 +4,12 @@ Read `HANDOFF.md` first, then `mega-prompt.md`, `docs/SOURCE-REGISTER.md` and th
 `docs/BACKLOG.md`. `outputs/stills-gallery.html` / `docs/asset-catalog.json` identify
 assets and their status; version number alone is not approval.
 
-User approved **244 total credits for ONE espresso realism correction** on 2026-10-09:
-`kitchen-espresso-realism-v1`, in the full kitchen view. Read
-`outputs/production/espresso-realism-authorization.json` and live ledger/state.
-Preserve selected machine design and all surrounding kitchen elements. Prior two-render
-allowance is consumed. No automatic retries, purchases or video jobs. Account funds do
-not expand task authority. Disable generation after this one job.
+User approved **251 total credits for ONE paired SMEG realism correction** on 2026-10-10:
+`kitchen-smeg-realism-v1`, using the preferred espresso revision in the full kitchen view.
+Read `outputs/production/smeg-realism-authorization.json` and live ledger/state.
+Preserve toaster/kettle designs, scale, positions and all other kitchen elements.
+Prior allowances are consumed. No automatic retries, purchases or video jobs.
+Account funds do not expand task authority. Disable generation after this one job.
 
 
 Original photos/plans and manufacturer evidence remain separate from generated concepts.

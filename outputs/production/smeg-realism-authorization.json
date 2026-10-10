@@ -1,0 +1,11 @@
+{
+  "date": "2026-10-10",
+  "timezone": "America/Phoenix",
+  "budget_user_text": "Approve 251 total for one render",
+  "total_ceiling_credits": 251,
+  "authorized_jobs": [
+    "kitchen-smeg-realism-v1"
+  ],
+  "max_new_jobs": 1,
+  "scope": "One paired toaster/kettle realism correction; retain preferred espresso result; no retry."
+}

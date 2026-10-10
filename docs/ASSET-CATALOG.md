@@ -4,13 +4,13 @@ Latest north-wall REF-M dial espresso/canister edit within REF-L composition and
 
 Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashes of repository-relative paths. Hashes describe exact existing bytes; verdicts are sourced review findings, not a new visual inspection.
 
-**65 stills · 3 videos.**
+**66 stills · 3 videos.**
 
 [Open searchable gallery](../outputs/stills-gallery.html) · [Machine-readable catalog](asset-catalog.json)
 
 ## Latest bounded concept
 
-`kitchen-smeg-realism-v1` — **PREPARED; NOT QUOTED OR SUBMITTED**, quoted None credits. See the production state and asset entry below.
+`kitchen-smeg-realism-v1` — **GENERATED**, quoted 6.5 credits. See the production state and asset entry below.
 
 ## Stills
 
@@ -314,6 +314,22 @@ Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashe
 - Quote receipt: [outputs/production/kitchen-north-integrated-v2-quote.json](../outputs/production/kitchen-north-integrated-v2-quote.json)
 - Result receipt: [outputs/production/kitchen-north-integrated-v2-result.json](../outputs/production/kitchen-north-integrated-v2-result.json)
 - Stderr receipt: [outputs/production/kitchen-north-integrated-v2-stderr.txt](../outputs/production/kitchen-north-integrated-v2-stderr.txt)
+
+### ASSET-D274492F408A — Kitchen Smeg Realism V1
+
+- Exact filename: `kitchen-smeg-realism-v1.png`
+- File: [outputs/keyframes/kitchen-smeg-realism-v1.png](../outputs/keyframes/kitchen-smeg-realism-v1.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/keyframes/kitchen-smeg-realism-v1.png`
+- Role: Generated still / diagram; status: **candidate-awaiting-user-review**
+- Known verdict: Lead inspected: subtler enamel variation/environmental reflections on red toaster and kettle; improvement modest.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Kettle remains glossy; minor neighboring details changed. Inherited espresso cup/frosting issues and physical fit unresolved.
+- Bytes: 5990619; SHA-256: `488e9ffedae8f794c97d71a726ffb045a984e095fe85e51b57d1628a25a293fb`
+- Job ID: `c0465c56-f945-4754-9bbf-7f88cd109b14`
+- Request receipt: [outputs/production/kitchen-smeg-realism-v1-request.json](../outputs/production/kitchen-smeg-realism-v1-request.json)
+- Quote receipt: [outputs/production/kitchen-smeg-realism-v1-quote.json](../outputs/production/kitchen-smeg-realism-v1-quote.json)
+- Result receipt: [outputs/production/kitchen-smeg-realism-v1-result.json](../outputs/production/kitchen-smeg-realism-v1-result.json)
+- Stderr receipt: [outputs/production/kitchen-smeg-realism-v1-stderr.txt](../outputs/production/kitchen-smeg-realism-v1-stderr.txt)
 
 ### ASSET-051125985B79 — Cooking/fridge wall — v1
 
