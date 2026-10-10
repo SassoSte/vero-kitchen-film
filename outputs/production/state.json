@@ -1,6 +1,6 @@
 {
   "project": "vero-kitchen-film",
-  "phase": "Finishing detail returned; wider integration authorized but awaiting account credits",
+  "phase": "Both authorized renders completed; wider kitchen candidate awaiting user review",
   "budget_ceiling_credits": 238,
   "approved_features": [
     "Wolf GR304 red knobs with pale hood; no over-range microwave",
@@ -18,9 +18,11 @@
   "views": {
     "master": {
       "original": "references/original/ref-a-cooking-run.webp",
-      "status": "historical candidate pending REF-K/French-door update",
-      "take": "end-wall-flush-v1",
-      "defects": []
+      "status": "Wider integration candidate; user review pending",
+      "take": "kitchen-north-integrated-v2",
+      "defects": [
+        "North glass clearer than finishing detail"
+      ]
     },
     "sink": {
       "original": "references/original/ref-b-sink-run.webp",
@@ -82,7 +84,7 @@
     "status": "conditional-on-clearance-and-cabinetry",
     "wall": "blank end wall beside main fridge; user calls north wall"
   },
-  "end_wall_status": "Coffee-service shelves and coordinated wine/cappuccino cupboard contents rendered",
+  "end_wall_status": "Developed north-wall station integrated in wider kitchen candidate",
   "end_wall_views": {
     "historical_closed": "outputs/keyframes/end-wall-flush-v1.png",
     "status": "Historical partial only; superseded by REF-K and French-door request"
@@ -92,9 +94,10 @@
   "fridge_style": "French-door upper pair meeting at center, bottom freezer drawer",
   "next_job": {
     "request": "outputs/production/kitchen-north-integrated-v2-request.json",
-    "status": "AUTHORIZED; NOT QUOTED OR SUBMITTED; account0.5 insufficient for prior6.5 price",
+    "status": "GENERATED; user review pending; two-render allowance consumed",
     "authorization": "Approve 238 total for two renders; second remains unconsumed",
-    "prior_comparable_quote_credits": 6.5
+    "prior_comparable_quote_credits": 6.5,
+    "quoted_credits": 6.5
   },
   "status": "concept-review-hold",
   "pause_reason": null,
@@ -110,15 +113,16 @@
   },
   "authorized_jobs": [],
   "authorization": "outputs/production/north-wall-integration-authorization.json",
-  "latest_concept": "outputs/keyframes/north-wall-finish-v1.png",
+  "latest_concept": "outputs/keyframes/kitchen-north-integrated-v2.png",
   "latest_concept_review": {
-    "status": "partial-finishing-pass",
+    "status": "candidate-awaiting-user-review",
     "reviewer": "lead only",
     "record": "docs/NORTH-WALL-FINISH-INTEGRATION.md",
     "limits": [
-      "Steam wand and frosting corrected; tall-canister clearance not clearly improved",
-      "Wider integration pending wallet funds",
-      "Physical fit unverified"
+      "North upper glass clearer than finishing close-up",
+      "Exact dimensions and appliance fit unverified",
+      "Microwave proper base location outside this crop",
+      "Three-view design not yet fully reconciled"
     ]
   },
   "orientation_review": "docs/ORIENTATION-2026-10-09.md",
@@ -134,8 +138,9 @@
     "west_sink": "outputs/keyframes/sink-v4.png",
     "west_external_view": "outputs/keyframes/apartment-v7.png",
     "west_external_view_exception": "Single-door fridge superseded; retain latest French-door instruction",
-    "north_latest": "outputs/keyframes/north-wall-finish-v1.png",
-    "north_exceptions": "Candidate awaiting user review; wider-kitchen integration and real-product sizing unresolved."
+    "north_latest": "outputs/keyframes/kitchen-north-integrated-v2.png",
+    "north_exceptions": "North upper glass clearer in wide view; physical fit and cross-view matching unresolved",
+    "north_detail": "outputs/keyframes/north-wall-finish-v1.png"
   },
   "planned_sequence": [
     {
@@ -156,13 +161,11 @@
     "status": "APPROVED",
     "no_automatic_retries": true
   },
-  "account_credit_block": {
-    "observed_balance": 0.5,
-    "prior_next_job_price": 6.5,
-    "additional_needed_at_prior_price": 6,
-    "purchase_authorized": false
-  },
-  "remaining_authorized_jobs": [
-    "kitchen-north-integrated-v2"
-  ]
+  "account_credit_block": null,
+  "remaining_authorized_jobs": [],
+  "account_topup_verified": {
+    "balance": 4000.5,
+    "date": "2026-10-09",
+    "task_cap_unchanged": 238
+  }
 }

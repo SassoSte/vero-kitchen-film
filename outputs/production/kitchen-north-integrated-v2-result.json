@@ -1,0 +1,56 @@
+[
+  {
+    "created_at": "2026-10-10T06:33:16.635992Z",
+    "display_name": "GPT Image 2",
+    "id": "73df6ed0-e482-416f-9e78-f7b17dcf6615",
+    "job_type": "gpt_image_2",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_063316_73df6ed0-e482-416f-9e78-f7b17dcf6615_min.webp",
+    "params": {
+      "aspect_ratio": "16:9",
+      "height": 1520,
+      "medias": [
+        {
+          "data": {
+            "id": "80fd3a5a-3f09-46f8-af0b-b2ac87d7ade4",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/80fd3a5a-3f09-46f8-af0b-b2ac87d7ade4_resize.jpg"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "df40017b-58c0-4b20-93b3-50895f52831c",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/df40017b-58c0-4b20-93b3-50895f52831c_resize.jpg"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "0496c6b1-f13b-472a-93e1-9ba3511408d0",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/0496c6b1-f13b-472a-93e1-9ba3511408d0_resize.jpg"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "23cb1b1c-8a50-4e91-982c-8d9cf23d2360",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/23cb1b1c-8a50-4e91-982c-8d9cf23d2360.webp"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "videotape-alpha",
+      "prompt": "Integrate the USER-APPROVED north-wall design into the developed wider kitchen. Image1 provides the developed wide camera/finish/French-door-fridge scene, but its upper-left microwave/armoire and invented over-fridge surround are errors. Image2 is the corrected north-wall detail: copy that entire coffee/wine composition faithfully, including its dial-and-knob black/brass machine, visible right steam wand, two coffee canisters with lid clearance, two small left shelves with espresso cups/saucers, stir spoons and clear raw sugar cubes, lightly frosted warm-lit upper cupboards with coordinated cappuccino/wine contents, wider wine front and narrow ribbed-oak storage. Image3 controls the established WEST sink-side design and undercounter microwave placement. Image4 is original room geometry/topology only, NOT original finishes or appliances.\nUse a wider interior kitchen viewpoint consistent with image1 and image4, showing the NORTH end wall beside the main fridge, the EAST cooking run, and only the naturally visible WEST counter edge. Do not change room width, wall planes, openings, ceiling, counter runs, camera handedness or source track-light placement. Original nominal bay33 inches and aisle54 are estimates, not permission to distort the room. Fit image2 within the existing north-wall composition envelope; do not simply paste a portrait panel enlarged across the room. Wine/cabinet fronts read flush with the wall face, not a projecting tower.\nCorrect image1's invented upper-left microwave/armoire: remove that added cabinetry, restore the original wall/opening and clear dishwasher worktop. The only microwave belongs BELOW the counter LEFT of sink when facing west from inside kitchen, as in image3; do not drag it into this crop if it would be outside the frame. Keep spice/tech on the distinct west sink-side location. No coffee appliance on west counter.\nRetain two central-meeting upper French fridge doors and lower freezer drawer. Remove the invented tall white upper surround shown in image1; keep exposed wall above a realistically shorter fridge, with actual model/fit still unresolved. Preserve all other developed cooking finishes: pale box/chimney hood, brushed pot filler, Wolf-style gas range with red knobs, red SMEG toaster left and kettle right, white Shaker/frosted cupboards, pale veined stone, warm lighting and concrete floor. No unrelated styling changes, extra openings, island, art or appliances. One photoreal16:9 kitchen view, no people or annotations. This is visual integration, not proof of physical fit.\nInspection correction to image2: its taller countertop canister remains too close beneath the lower shelf. Make that canister visibly shorter (keep a matching ceramic pair) to leave clear practical hand/lid space under the shelf. Preserve both shelves and their contents; do not copy the cramped gap. Retain the restored visible steam wand and softened upper frosting.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 2688
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_063316_73df6ed0-e482-416f-9e78-f7b17dcf6615.png",
+    "status": "completed"
+  }
+]

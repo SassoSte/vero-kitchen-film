@@ -4,13 +4,13 @@ Latest north-wall REF-M dial espresso/canister edit within REF-L composition and
 
 Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashes of repository-relative paths. Hashes describe exact existing bytes; verdicts are sourced review findings, not a new visual inspection.
 
-**63 stills · 3 videos.**
+**64 stills · 3 videos.**
 
 [Open searchable gallery](../outputs/stills-gallery.html) · [Machine-readable catalog](asset-catalog.json)
 
 ## Latest bounded concept
 
-`kitchen-north-integrated-v2` — **AUTHORIZED; NOT QUOTED OR SUBMITTED; account0.5 insufficient for prior6.5 price**, quoted None credits. See the production state and asset entry below.
+`kitchen-north-integrated-v2` — **GENERATED**, quoted 6.5 credits. See the production state and asset entry below.
 
 ## Stills
 
@@ -282,6 +282,22 @@ Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashe
 - Quote receipt: [outputs/production/integrated-wall-frenchdoor-v1-quote.json](../outputs/production/integrated-wall-frenchdoor-v1-quote.json)
 - Result receipt: [outputs/production/integrated-wall-frenchdoor-v1-result.json](../outputs/production/integrated-wall-frenchdoor-v1-result.json)
 - Stderr receipt: [outputs/production/integrated-wall-frenchdoor-v1-stderr.txt](../outputs/production/integrated-wall-frenchdoor-v1-stderr.txt)
+
+### ASSET-3782BFF78747 — Kitchen North Integrated V2
+
+- Exact filename: `kitchen-north-integrated-v2.png`
+- File: [outputs/keyframes/kitchen-north-integrated-v2.png](../outputs/keyframes/kitchen-north-integrated-v2.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/keyframes/kitchen-north-integrated-v2.png`
+- Role: Generated still / diagram; status: **candidate-awaiting-user-review**
+- Known verdict: Lead inspected: developed north station integrated; upper microwave/armoire and fridge surround removed; wand visible and canister clearance improved.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: North glass clearer than finishing detail; appliance fit and three-view matching unresolved.
+- Bytes: 5933021; SHA-256: `515af572bd800dc9bc24cd5bd0ccde16e10f5efdc15b0d3afd1f2c3a85ec5524`
+- Job ID: `73df6ed0-e482-416f-9e78-f7b17dcf6615`
+- Request receipt: [outputs/production/kitchen-north-integrated-v2-request.json](../outputs/production/kitchen-north-integrated-v2-request.json)
+- Quote receipt: [outputs/production/kitchen-north-integrated-v2-quote.json](../outputs/production/kitchen-north-integrated-v2-quote.json)
+- Result receipt: [outputs/production/kitchen-north-integrated-v2-result.json](../outputs/production/kitchen-north-integrated-v2-result.json)
+- Stderr receipt: [outputs/production/kitchen-north-integrated-v2-stderr.txt](../outputs/production/kitchen-north-integrated-v2-stderr.txt)
 
 ### ASSET-051125985B79 — Cooking/fridge wall — v1
 

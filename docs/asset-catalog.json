@@ -1,7 +1,7 @@
 {
   "project": "vero-kitchen-film",
   "inventory_revision": "2026-10-09-resumed-one-concept",
-  "production": "Finishing detail returned; wider integration authorized but awaiting account credits",
+  "production": "Both authorized renders completed; wider kitchen candidate awaiting user review",
   "authority": "Latest north-wall REF-M dial espresso/canister edit within REF-L composition and retained frosted uppers; two upper French doors/lower freezer drawer, model/fit pending. No generated still is final approved complete current design.",
   "review_sources": [
     "outputs/inspection.txt",
@@ -10,20 +10,9 @@
     "conversation review findings"
   ],
   "root": "/Users/stefansassoon/projects/vero-kitchen-film",
-  "still_count": 63,
+  "still_count": 64,
   "video_count": 3,
-  "prepared_not_generated": [
-    {
-      "id": "PREP-kitchen-north-integrated-v2",
-      "name": "kitchen-north-integrated-v2",
-      "status": "AUTHORIZED; NOT QUOTED OR SUBMITTED; account0.5 insufficient for prior6.5 price",
-      "quote_credits": null,
-      "note": "Finishing detail returned; wider integration authorized but awaiting account credits",
-      "receipts": {
-        "request": "outputs/production/kitchen-north-integrated-v2-request.json"
-      }
-    }
-  ],
+  "prepared_not_generated": [],
   "assets": [
     {
       "id": "ASSET-79E492B2F8D4",
@@ -429,6 +418,30 @@
         "quote": "outputs/production/integrated-wall-frenchdoor-v1-quote.json",
         "result": "outputs/production/integrated-wall-frenchdoor-v1-result.json",
         "stderr": "outputs/production/integrated-wall-frenchdoor-v1-stderr.txt"
+      },
+      "source_provenance": null,
+      "review_source_note": "Recorded inspection/conversation findings or source-reference role; not a new visual inspection."
+    },
+    {
+      "id": "ASSET-3782BFF78747",
+      "title": "Kitchen North Integrated V2",
+      "path": "outputs/keyframes/kitchen-north-integrated-v2.png",
+      "absolute_path": "/Users/stefansassoon/projects/vero-kitchen-film/outputs/keyframes/kitchen-north-integrated-v2.png",
+      "kind": "still",
+      "category": "generated",
+      "role": "Generated still / diagram",
+      "status": "candidate-awaiting-user-review",
+      "verdict": "Lead inspected: developed north station integrated; upper microwave/armoire and fridge surround removed; wand visible and canister clearance improved.",
+      "superseded_reason": "North glass clearer than finishing detail; appliance fit and three-view matching unresolved.",
+      "bytes": 5933021,
+      "sha256": "515af572bd800dc9bc24cd5bd0ccde16e10f5efdc15b0d3afd1f2c3a85ec5524",
+      "job_name": "kitchen-north-integrated-v2",
+      "job_id": "73df6ed0-e482-416f-9e78-f7b17dcf6615",
+      "receipts": {
+        "request": "outputs/production/kitchen-north-integrated-v2-request.json",
+        "quote": "outputs/production/kitchen-north-integrated-v2-quote.json",
+        "result": "outputs/production/kitchen-north-integrated-v2-result.json",
+        "stderr": "outputs/production/kitchen-north-integrated-v2-stderr.txt"
       },
       "source_provenance": null,
       "review_source_note": "Recorded inspection/conversation findings or source-reference role; not a new visual inspection."

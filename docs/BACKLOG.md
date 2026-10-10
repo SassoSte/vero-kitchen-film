@@ -1,3 +1,5 @@
+> **Current result:** [Wider integration complete](NORTH-WALL-FINISH-INTEGRATION.md) after verified user top-up. Both authorized renders consumed; **237.25/238**, **0.75 remaining**. Generation disabled. User review pending; north glass remains clearer in wide view. Earlier wallet block/status text below is historical.
+
 > **Current continuation:** [Finishing/integration record](NORTH-WALL-FINISH-INTEGRATION.md). Step1 rendered: wand/frosting corrected, canister clearance still needs correction. Step2 already authorized under238 but not submitted: account0.5 credits insufficient. Task total230.75/238;7.25 allowance remains. Recheck wallet; no top-up or repeat of step1 authorized.
 
 > **Latest result:** [Coffee-service shelves](NORTH-WALL-COFFEE-SHELVES-REVIEW.md) rendered and lead-inspected; user review pending. Upper glass is clearer and steam wand is not clearly visible. Task total **224.25/225**, **0.75 remaining**; generation disabled. Earlier status/budget text is historical.
