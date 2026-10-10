@@ -219,5 +219,22 @@
   },
   "apartment_visual_lock": "outputs/production/apartment-visual-lock.json",
   "continuity_audit": "outputs/production/three-view-continuity-audit.json",
-  "finished_views_consistent": false
+  "finished_views_consistent": false,
+  "backlog_gate": {
+    "id": "B06a",
+    "priority": "P0",
+    "status": "open-production-blocker",
+    "scope": "View1 fridge/enclosure to match restored view3 without layout drift",
+    "not_a_defect": "West phone/speaker nook naturally hidden/out of frame in other two cameras",
+    "may_continue": [
+      "Unpaid worker identity/state/take planning",
+      "Preparation of demonstrably localized correction method"
+    ],
+    "blocked_until_resolved": [
+      "Derived construction-stage image production",
+      "Motion pilots",
+      "Final film production"
+    ],
+    "evidence": "docs/THREE-VIEW-CONTINUITY-REVIEW.md"
+  }
 }

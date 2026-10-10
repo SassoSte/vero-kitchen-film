@@ -92,16 +92,21 @@ Dependencies are deliberate. "After resume" means explicit user resumption; paid
 - **Work:** anchor microwave in Run B base cabinetry LEFT of single sink, consistent with REF-J; preserve DW. Withdraw rejected tower's blind return/x27–51 microwave shift unless a new independently justified layout is explicitly selected. Define coffee display state, optional operating state, compact machine and two cups; retain L-faucet/soap silhouette. Nook preserves outlets/switches and usable worktop.
 - **Acceptance/evidence:** current component schedule and reviewed source-based locations. Exact model/cutouts unverified until supported. Distinguish an open lit display from fully extended safe use; no inference from a static tray. The former forced-closure wording was corrected during handoff: distinguish a reviewed open display from an operating state in the final edit plan.
 
-### B06 — Generate and independently review current finished views (P0, paid HOLD)
+### B06 — Finished-view continuity gate (P0, OPEN — production blocker)
 
-- **Depends on:** B02–B05.
-- **Work:** prepare/requote the REF-K/French-door request using originals, selected product references and geometry lock. Establish master, sink and apartment views from ONE design. Do not treat old candidate files as accepted current outputs.
-- **Acceptance/evidence:** returned local assets plus job/quote receipts; view-by-view checklist against originals and across frames. Verify fridge doors/height/surround, Wolf/red knobs/hood, L-faucet/single basin, microwave/nook/wall identities, clear DW counter, concrete/rug, bar/stools, flowers/fruit, lights and coffee composition. Record occlusion as not assessable, not absence. Check actual frames; no physical-fit claim.
-- **Cost gate:** prefer one targeted concept, inspect before expanding. Preserve accepted regions; avoid unconstrained scene regeneration. No video until all required views agree.
+- **Current selected references:** view1 `kitchen-smeg-realism-v1.png`; view2 `west-phone-speaker-realism-v1.png`; view3 `apartment-fridge-reconstruction-v11.png` (user explicitly restored). These remain selected; they are not yet a fully reconciled set.
+- **Remaining blocker B06a:** view1 lacks view3's fitted refrigerator enclosure and upper cupboard. Align only that installation and necessary immediately adjacent cabinetry to the selected third view, preserving the rest of the approved design.
+- **Not a blocker:** phone/speaker nook is present in view2 on the kitchen-facing west wall. It is hidden from view3's living-room camera and outside view1's crop. Preserve its location; do not duplicate or relocate it. Film take09D supplies west-facing coverage.
+- **Failed attempt:** `master-third-view-continuity-v1.png` added cupboard but shifted fridge toward range and removed intervening glass-front upper. Rejected; never use as reference. Evidence: [three-view review](THREE-VIEW-CONTINUITY-REVIEW.md).
+- **Next method gate:** establish an edit that demonstrably confines changes to the refrigerator/enclosure region before another paid attempt. Do not repeat unconstrained whole-frame regeneration, redesign the nook, reopen selected view3, or restart archived3D work without explicit user direction.
+- **Acceptance:** corrected view1 has the selected view3 fridge/enclosure, correct adjacent-cabinet relationship, preserved range/hood/coffee-station positions, room/opening/camera and materials; views2/3 remain unchanged. Inspect all three together, with hidden features recorded as occluded/out-of-frame. User acceptance and saved receipt/hash required; no physical-fit claim.
+- **Budget:** latest attempt consumed6.5; task302.25/303,0.75 remaining. No further paid attempt or video authorized. More budget alone does not close this technical gate.
+- **Downstream:** block dependent construction-stage image generation, motion pilots and final production until reference continuity is resolved. Unpaid worker/state/take planning may continue. This is a targeted continuity repair, not a reset of the design work.
 
 ### B07 — Lock workers and cumulative construction states (P1, paid portions HOLD)
 
-- **Depends on:** B06.
+- **Depends on:** B06 for derived frame production. Unpaid planning may proceed.
+- **Current progress:** workers-v1 re-inspected;13-shot/30-take state plan and refreshed editable shotlist prepared. No new construction START/END frames generated.
 - **Work:** inspect `workers-v1` against lead/partner identity contract; derive START/END frames per atomic action from current design. Separate originals, stripped room and successive installed states.
 - **Acceptance/evidence:** state ledger records old fridge retained until Shot07; old OTR/range removed Shot01; sink/microwave arrive Shot04; hood/Wolf/pot filler Shot06; lighting on from Shot08; stools/styling by second55. No finished props leak into earlier stages. Stage references do not invent cabinets or alter corners.
 
@@ -117,9 +122,10 @@ Dependencies are deliberate. "After resume" means explicit user resumption; paid
 - **Work:** stool lowers without reversing toward camera, with stable dimensions/feet; fridge placement uses selected French-door unit and current surround, not old top-freezer pilot. Favor small readable actions and supported framing.
 - **Acceptance/evidence:** stool faces bar consistently with peers and reaches stable floor contact; selected fridge remains rigid and correctly positioned. Endpoint visible enough to assess; doorway/clearance demonstration remains illustrative. Old stool failure is orientation, NOT proven shrinking. Old fridge pilot is sampled motion candidate only, endpoint partly occluded.
 
-### B10 — Finalize atomic-take plan and bounded full-film budget (P1, planning then HOLD)
+### B10 — Finalize atomic-take plan and bounded full-film budget (P1, DRAFT PREPARED / production HOLD)
 
 - **Depends on:** B06–B09 and a usable strategy.
+- **Current progress:** `outputs/production/construction-state-plan.json` maps13 shots and30 atomic takes across60 seconds; source timings/quotes/trims remain provisional. Unpaid planning can advance; final budget and execution wait for accepted pilot strategy.
 - **Work:** decompose 13 editorial shots into single-action takes; record generated duration separately from edit duration. Reconcile added microwave/coffee/nook/concrete operations within exact timeline. Allocate retry ceiling, assets, state IDs and ownership for each take. Do not ask one short take to complete several installations via morphing.
 - **Acceptance/evidence:** take manifest maps every required action to 00:00–01:00; readable progress continues to second55. Actual provider quotes and retry allowance form a concrete proposed total; user authorizes that total before full batch submission. Two unchanged failures trigger strategy change, not blind retry. Optional coffee demonstration may be omitted if unreadable.
 
