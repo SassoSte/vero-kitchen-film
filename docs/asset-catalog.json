@@ -1,7 +1,7 @@
 {
   "project": "vero-kitchen-film",
   "inventory_revision": "2026-10-09-resumed-one-concept",
-  "production": "Coffee shelves rendered; user review pending; generation disabled",
+  "production": "North-wall composition accepted with finishing corrections; two-step edit/integration prepared, extra budget pending",
   "authority": "Latest north-wall REF-M dial espresso/canister edit within REF-L composition and retained frosted uppers; two upper French doors/lower freezer drawer, model/fit pending. No generated still is final approved complete current design.",
   "review_sources": [
     "outputs/inspection.txt",
@@ -12,7 +12,18 @@
   "root": "/Users/stefansassoon/projects/vero-kitchen-film",
   "still_count": 62,
   "video_count": 3,
-  "prepared_not_generated": [],
+  "prepared_not_generated": [
+    {
+      "id": "PREP-north-wall-finish-v1",
+      "name": "north-wall-finish-v1",
+      "status": "PREPARED; NOT QUOTED OR SUBMITTED",
+      "quote_credits": null,
+      "note": "North-wall composition accepted with finishing corrections; two-step edit/integration prepared, extra budget pending",
+      "receipts": {
+        "request": "outputs/production/north-wall-finish-v1-request.json"
+      }
+    }
+  ],
   "assets": [
     {
       "id": "ASSET-79E492B2F8D4",

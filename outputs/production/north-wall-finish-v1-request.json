@@ -1,0 +1,14 @@
+{
+  "model": "gpt_image_2",
+  "params": {
+    "quality": "high",
+    "resolution": "2k",
+    "aspect_ratio": "4:5"
+  },
+  "references": [
+    "outputs/keyframes/north-wall-coffee-shelves-v1.png",
+    "references/inspiration/ref-m-espresso-dials.png"
+  ],
+  "prompt": "Edit image1 with ONLY THREE FINISHING CORRECTIONS approved by the user. Preserve the existing composition, camera, crop, cabinet and niche envelope, wider wine fridge, ribbed-oak side fronts, shelves, coffee canisters, espresso cups/saucers, stir spoons, clear raw-sugar-cube jar, warm lighting and black/brass central-dial machine.\n1. Restore a clearly visible slim metallic STEAM WAND on the machine's right side, faithfully consistent with the machine appearance reference image2. Keep the same machine, central analog gauge, knobs, black body, rounded brass trim and portafilter. Do not create a second wand or other appliance.\n2. Create visibly useful hand/lid clearance between the taller countertop coffee canister and the underside of the lower little shelf. Make a modest local adjustment to shelf height/spacing and, only if needed, slightly reduce the taller canister height. Preserve two shelves and all espresso-service objects; no enlargement of niche/cupboards. Keep the sugar jar and spoon holder comfortable beneath the upper shelf, and espresso cups/saucers comfortable below the main upper cabinet.\n3. Restore light satin FROSTING to both upper glass doors. Retain the warm glowing light and intentional matching cappuccino cups/saucers and stemmed wine glasses, but soften their outlines to understated silhouettes. Do not make doors opaque or remove their contents. No isolated random mugs/tumblers/decor.\nEverything else stays visually unchanged. No text overlay or new brand lettering. One photoreal4:5 image.",
+  "output": "outputs/keyframes/north-wall-finish-v1.png"
+}

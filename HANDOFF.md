@@ -1,3 +1,5 @@
+> **User accepted composition and next steps:** Three finishing corrections (visible steam wand, canister-lid clearance, light frosting), then wider kitchen integration. Two sequential requests prepared; inspect first result before the second. No increased cap approved yet; paid generation remains disabled.
+
 > **Latest result:** [Coffee-service shelves](docs/NORTH-WALL-COFFEE-SHELVES-REVIEW.md) rendered and lead-inspected; user review pending. Upper glass is clearer and steam wand is not clearly visible. Task total **224.25/225**, **0.75 remaining**; generation disabled. Earlier status/budget text is historical.
 
 > **Latest requested styling correction:** Add little shelves above the countertop canisters with espresso cups/saucers, stir spoons and a clear canister of raw sugar cubes. Remove isolated/random cupboard cups; arrange coordinated wine glasses and cappuccino service. Preserve machine and design. `north-wall-coffee-shelves-v1` authorized once under225 total; exact authorization in outputs/production/north-wall-coffee-shelves-authorization.json.

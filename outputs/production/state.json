@@ -1,6 +1,6 @@
 {
   "project": "vero-kitchen-film",
-  "phase": "Coffee shelves rendered; user review pending; generation disabled",
+  "phase": "North-wall composition accepted with finishing corrections; two-step edit/integration prepared, extra budget pending",
   "budget_ceiling_credits": 225,
   "approved_features": [
     "Wolf GR304 red knobs with pale hood; no over-range microwave",
@@ -69,7 +69,7 @@
   "design_revision": "2026-10-09-ref-k-french-doors",
   "pending_design_selection": "One north-wall detail: premium black/metal espresso machine, wider wine front, narrower adjacent storage; preserve developed kitchen.",
   "coffee_garage": {
-    "status": "Keep REF-L composition; replace espresso with REF-M black/brass analog dial and knobs; coffee canisters on counter; cups faintly in frosted upper cupboard",
+    "status": "User accepts shelves composition; restore steam wand, improve canister lid clearance and slightly increase frosting before wider integration",
     "wall": "SAME blank wall beside main refrigerator as wine fridge",
     "reference": "references/inspiration/ref-l-north-coffee-wine.png",
     "limits": "Current concept exists but espresso/proportions need revision; physical recess and fit unverified.",
@@ -91,12 +91,9 @@
   "geometry_lock": "outputs/production/geometry-lock.json",
   "fridge_style": "French-door upper pair meeting at center, bottom freezer drawer",
   "next_job": {
-    "request": "outputs/production/north-wall-coffee-shelves-v1-request.json",
-    "status": "GENERATED; user review pending",
-    "prior_comparable_quote_credits": 6.5,
-    "proposed_total_ceiling": 225,
-    "authorization": "One render under225 approved and consumed",
-    "quoted_credits": 6.5
+    "request": "outputs/production/north-wall-finish-v1-request.json",
+    "status": "PREPARED; NOT QUOTED OR SUBMITTED",
+    "authorization": "Additional spending not yet approved"
   },
   "status": "concept-review-hold",
   "pause_reason": null,
@@ -114,7 +111,7 @@
   "authorization": "outputs/production/north-wall-coffee-shelves-authorization.json",
   "latest_concept": "outputs/keyframes/north-wall-coffee-shelves-v1.png",
   "latest_concept_review": {
-    "status": "candidate-awaiting-user-review",
+    "status": "user-approved-composition-with-finishing-corrections",
     "reviewer": "lead only",
     "record": "docs/NORTH-WALL-COFFEE-SHELVES-REVIEW.md",
     "limits": [
@@ -122,7 +119,8 @@
       "Steam wand no longer clearly visible",
       "Canister-lid clearance under shelf unverified",
       "Physical fit and wide-room integration unresolved"
-    ]
+    ],
+    "user_response": "That looks good; Yes to all (steam wand, canister clearance, frosting and wider integration)"
   },
   "orientation_review": "docs/ORIENTATION-2026-10-09.md",
   "discussion_directions": {
@@ -139,5 +137,24 @@
     "west_external_view_exception": "Single-door fridge superseded; retain latest French-door instruction",
     "north_latest": "outputs/keyframes/north-wall-coffee-shelves-v1.png",
     "north_exceptions": "Candidate awaiting user review; wider-kitchen integration and real-product sizing unresolved."
+  },
+  "planned_sequence": [
+    {
+      "name": "north-wall-finish-v1",
+      "step": "Three local finishing corrections"
+    },
+    {
+      "name": "kitchen-north-integrated-v2",
+      "step": "Wider kitchen integration",
+      "depends_on": "Inspect north-wall-finish-v1; adapt request to actual accepted result before submission"
+    }
+  ],
+  "proposed_budget": {
+    "total_ceiling": 238,
+    "max_jobs": 2,
+    "prior_comparable_cost_per_job": 6.5,
+    "expected_total": 237.25,
+    "status": "NOT APPROVED",
+    "no_automatic_retries": true
   }
 }

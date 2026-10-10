@@ -10,7 +10,7 @@ Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashe
 
 ## Latest bounded concept
 
-`north-wall-coffee-shelves-v1` — **GENERATED**, quoted 6.5 credits. See the production state and asset entry below.
+`north-wall-finish-v1` — **PREPARED; NOT QUOTED OR SUBMITTED**, quoted None credits. See the production state and asset entry below.
 
 ## Stills
 
