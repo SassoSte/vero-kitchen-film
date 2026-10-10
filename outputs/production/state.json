@@ -1,7 +1,7 @@
 {
   "project": "vero-kitchen-film",
-  "phase": "User directs return to iPhone plus speaker; resize nook only; paid allowance pending",
-  "budget_ceiling_credits": 257,
+  "phase": "Resized iPhone/speaker nook rendered; user review pending; north/east remains locked",
+  "budget_ceiling_credits": 264,
   "approved_features": [
     "Wolf GR304 red knobs with pale hood; no over-range microwave",
     "Built-in microwave on sink side left of sink",
@@ -27,8 +27,8 @@
     },
     "sink": {
       "original": "references/original/ref-b-sink-run.webp",
-      "status": "Needs smaller charging nook and removal of flower/fruit props",
-      "take": "west-nook-charging-only-v1",
+      "status": "Resized phone/speaker nook candidate; user review pending",
+      "take": "west-nook-phone-speaker-sized-v1",
       "defects": []
     },
     "apartment": {
@@ -95,10 +95,11 @@
   "fridge_style": "French-door upper pair meeting at center, bottom freezer drawer",
   "next_job": {
     "request": "outputs/production/west-nook-phone-speaker-sized-v1-request.json",
-    "status": "PREPARED; NOT QUOTED OR SUBMITTED",
+    "status": "GENERATED; user review pending",
     "prior_comparable_quote_credits": 6.5,
     "proposed_total_ceiling": 264,
-    "authorization": "Not approved"
+    "authorization": "Approval of proposed264 total for one resized iPhone-and-speaker nook render",
+    "quoted_credits": 6.5
   },
   "status": "concept-review-hold",
   "pause_reason": null,
@@ -113,17 +114,16 @@
     "lessons": "docs/LESSONS.md"
   },
   "authorized_jobs": [],
-  "authorization": "outputs/production/west-nook-charging-authorization.json",
-  "latest_concept": "outputs/keyframes/west-nook-charging-only-v1.png",
+  "authorization": "outputs/production/west-nook-sized-authorization.json",
+  "latest_concept": "outputs/keyframes/west-nook-phone-speaker-sized-v1.png",
   "latest_concept_review": {
-    "status": "user-rejected-proportions-and-counter-styling",
+    "status": "candidate-awaiting-user-review",
     "reviewer": "lead only",
-    "record": "docs/WEST-CHARGING-NOOK-REVIEW.md",
+    "record": "docs/WEST-SIZED-NOOK-REVIEW.md",
     "limits": [
-      "Generated image not pixel-identical to sink-v4",
-      "Niche dimensions/electrical installation unverified"
-    ],
-    "user_feedback": "Nook too big relative to contents/spatial geometry; remove bowl/flowers; research actual contemporary references before further generation"
+      "Visual proportions only; measured dimensions unverified",
+      "Other scene contents retained under localized edit scope"
+    ]
   },
   "orientation_review": "docs/ORIENTATION-2026-10-09.md",
   "discussion_directions": {
@@ -141,7 +141,7 @@
     "north_latest": "outputs/keyframes/kitchen-smeg-realism-v1.png",
     "north_exceptions": "User locked current appearance; retain historical critiques only as history. Physical fit remains unverified.",
     "north_detail": "outputs/keyframes/north-wall-finish-v1.png",
-    "west_sink_candidate": "outputs/keyframes/west-nook-charging-only-v1.png"
+    "west_sink_candidate": "outputs/keyframes/west-nook-phone-speaker-sized-v1.png"
   },
   "planned_sequence": [
     {
@@ -174,7 +174,7 @@
   "visual_lock": "outputs/production/north-east-visual-lock.json",
   "next_focus": {
     "wall": "west",
-    "view": "outputs/keyframes/west-nook-charging-only-v1.png",
+    "view": "outputs/keyframes/west-nook-phone-speaker-sized-v1.png",
     "scope": "Restore iPhone and speaker, resize nook only"
   },
   "west_nook_direction": {

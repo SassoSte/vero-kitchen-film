@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-10",
+  "timezone": "America/Phoenix",
+  "budget_user_text": "Ok, go",
+  "approval_context": "Approval of proposed264 total for one resized iPhone-and-speaker nook render",
+  "total_ceiling_credits": 264,
+  "authorized_jobs": [
+    "west-nook-phone-speaker-sized-v1"
+  ],
+  "max_new_jobs": 1,
+  "scope": "Resize nook around phone/dock and speaker only; no retry or other changes"
+}

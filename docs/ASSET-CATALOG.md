@@ -4,13 +4,13 @@ Latest north-wall REF-M dial espresso/canister edit within REF-L composition and
 
 Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashes of repository-relative paths. Hashes describe exact existing bytes; verdicts are sourced review findings, not a new visual inspection.
 
-**67 stills · 3 videos.**
+**68 stills · 3 videos.**
 
 [Open searchable gallery](../outputs/stills-gallery.html) · [Machine-readable catalog](asset-catalog.json)
 
 ## Latest bounded concept
 
-`west-nook-phone-speaker-sized-v1` — **PREPARED; NOT QUOTED OR SUBMITTED**, quoted None credits. See the production state and asset entry below.
+`west-nook-phone-speaker-sized-v1` — **GENERATED**, quoted 6.5 credits. See the production state and asset entry below.
 
 ## Stills
 
@@ -618,6 +618,22 @@ Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashe
 - Quote receipt: [outputs/production/west-nook-charging-only-v1-quote.json](../outputs/production/west-nook-charging-only-v1-quote.json)
 - Result receipt: [outputs/production/west-nook-charging-only-v1-result.json](../outputs/production/west-nook-charging-only-v1-result.json)
 - Stderr receipt: [outputs/production/west-nook-charging-only-v1-stderr.txt](../outputs/production/west-nook-charging-only-v1-stderr.txt)
+
+### ASSET-78589AA69025 — West Nook Phone Speaker Sized V1
+
+- Exact filename: `west-nook-phone-speaker-sized-v1.png`
+- File: [outputs/keyframes/west-nook-phone-speaker-sized-v1.png](../outputs/keyframes/west-nook-phone-speaker-sized-v1.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/keyframes/west-nook-phone-speaker-sized-v1.png`
+- Role: Generated still / diagram; status: **candidate-awaiting-user-review**
+- Known verdict: Lead inspected: compact reduced-height nook, speaker left and phone/dock right; no spices or shelf.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Visual proportions only; user review and measured fit pending. Other scene contents retained under localized scope.
+- Bytes: 5942907; SHA-256: `6016b929bfd20b139fda2c0e49a6656ce5ab0eb240b27e7e05bb0b27e560afc5`
+- Job ID: `6a6a3547-26e8-4cd1-9167-187beb346927`
+- Request receipt: [outputs/production/west-nook-phone-speaker-sized-v1-request.json](../outputs/production/west-nook-phone-speaker-sized-v1-request.json)
+- Quote receipt: [outputs/production/west-nook-phone-speaker-sized-v1-quote.json](../outputs/production/west-nook-phone-speaker-sized-v1-quote.json)
+- Result receipt: [outputs/production/west-nook-phone-speaker-sized-v1-result.json](../outputs/production/west-nook-phone-speaker-sized-v1-result.json)
+- Stderr receipt: [outputs/production/west-nook-phone-speaker-sized-v1-stderr.txt](../outputs/production/west-nook-phone-speaker-sized-v1-stderr.txt)
 
 ### ASSET-6A04401FE294 — Two-worker identity sheet — v1
 

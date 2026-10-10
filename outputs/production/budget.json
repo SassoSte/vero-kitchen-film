@@ -1,7 +1,7 @@
 {
-  "ceiling_credits": 257,
+  "ceiling_credits": 264,
   "opening_balance": 1246.8,
-  "reserved_credits": 256.75,
+  "reserved_credits": 263.25,
   "jobs": [
     {
       "name": "master-v1",
@@ -288,17 +288,24 @@
       "status": "generated",
       "job_id": "565e53bd-73b4-45b1-987f-bb7a5fa2b967",
       "file": "outputs/keyframes/west-nook-charging-only-v1.png"
+    },
+    {
+      "name": "west-nook-phone-speaker-sized-v1",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "6a6a3547-26e8-4cd1-9167-187beb346927",
+      "file": "outputs/keyframes/west-nook-phone-speaker-sized-v1.png"
     }
   ],
-  "balance_after": 3974.5,
+  "balance_after": 3968,
   "balance_delta": null,
-  "remaining_phase_credits": 0.25,
-  "account_snapshot_note": "2026-10-10 west charging nook3981 to3974.5 matches6.5 quote; task cap257 unchanged.",
-  "task_quote_total": 256.75,
+  "remaining_phase_credits": 0.75,
+  "account_snapshot_note": "2026-10-10 sized nook3974.5 to3968 matches6.5 quote; task cap264 unchanged.",
+  "task_quote_total": 263.25,
   "latest_pass": {
-    "opening_account_balance": 3981,
-    "closing_account_balance": 3974.5,
+    "opening_account_balance": 3974.5,
+    "closing_account_balance": 3968,
     "quoted_cost": 6.5
   },
-  "authorization": "outputs/production/west-nook-charging-authorization.json"
+  "authorization": "outputs/production/west-nook-sized-authorization.json"
 }

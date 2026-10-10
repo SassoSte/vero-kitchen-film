@@ -1,7 +1,7 @@
 {
   "project": "vero-kitchen-film",
   "inventory_revision": "2026-10-09-resumed-one-concept",
-  "production": "User directs return to iPhone plus speaker; resize nook only; paid allowance pending",
+  "production": "Resized iPhone/speaker nook rendered; user review pending; north/east remains locked",
   "authority": "Latest north-wall REF-M dial espresso/canister edit within REF-L composition and retained frosted uppers; two upper French doors/lower freezer drawer, model/fit pending. North/east wide view kitchen-smeg-realism-v1 is user-locked; west view is under review, complete cross-view set pending.",
   "review_sources": [
     "outputs/inspection.txt",
@@ -10,20 +10,9 @@
     "conversation review findings"
   ],
   "root": "/Users/stefansassoon/projects/vero-kitchen-film",
-  "still_count": 67,
+  "still_count": 68,
   "video_count": 3,
-  "prepared_not_generated": [
-    {
-      "id": "PREP-west-nook-phone-speaker-sized-v1",
-      "name": "west-nook-phone-speaker-sized-v1",
-      "status": "PREPARED; NOT QUOTED OR SUBMITTED",
-      "quote_credits": null,
-      "note": "User directs return to iPhone plus speaker; resize nook only; paid allowance pending",
-      "receipts": {
-        "request": "outputs/production/west-nook-phone-speaker-sized-v1-request.json"
-      }
-    }
-  ],
+  "prepared_not_generated": [],
   "assets": [
     {
       "id": "ASSET-79E492B2F8D4",
@@ -933,6 +922,30 @@
         "quote": "outputs/production/west-nook-charging-only-v1-quote.json",
         "result": "outputs/production/west-nook-charging-only-v1-result.json",
         "stderr": "outputs/production/west-nook-charging-only-v1-stderr.txt"
+      },
+      "source_provenance": null,
+      "review_source_note": "Recorded inspection/conversation findings or source-reference role; not a new visual inspection."
+    },
+    {
+      "id": "ASSET-78589AA69025",
+      "title": "West Nook Phone Speaker Sized V1",
+      "path": "outputs/keyframes/west-nook-phone-speaker-sized-v1.png",
+      "absolute_path": "/Users/stefansassoon/projects/vero-kitchen-film/outputs/keyframes/west-nook-phone-speaker-sized-v1.png",
+      "kind": "still",
+      "category": "generated",
+      "role": "Generated still / diagram",
+      "status": "candidate-awaiting-user-review",
+      "verdict": "Lead inspected: compact reduced-height nook, speaker left and phone/dock right; no spices or shelf.",
+      "superseded_reason": "Visual proportions only; user review and measured fit pending. Other scene contents retained under localized scope.",
+      "bytes": 5942907,
+      "sha256": "6016b929bfd20b139fda2c0e49a6656ce5ab0eb240b27e7e05bb0b27e560afc5",
+      "job_name": "west-nook-phone-speaker-sized-v1",
+      "job_id": "6a6a3547-26e8-4cd1-9167-187beb346927",
+      "receipts": {
+        "request": "outputs/production/west-nook-phone-speaker-sized-v1-request.json",
+        "quote": "outputs/production/west-nook-phone-speaker-sized-v1-quote.json",
+        "result": "outputs/production/west-nook-phone-speaker-sized-v1-result.json",
+        "stderr": "outputs/production/west-nook-phone-speaker-sized-v1-stderr.txt"
       },
       "source_provenance": null,
       "review_source_note": "Recorded inspection/conversation findings or source-reference role; not a new visual inspection."

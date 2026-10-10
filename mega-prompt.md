@@ -1,3 +1,5 @@
+> **Latest WEST result:** [Resized iPhone/speaker nook](docs/WEST-SIZED-NOOK-REVIEW.md) rendered; no broader restyling. User review pending. North/east visual lock unchanged. Task **263.25/264**, **0.75 remaining**; generation disabled. Earlier status/budget text is historical.
+
 > **LATEST USER DIRECTION:** Return to iPhone dock PLUS small speaker in west nook; correct nook proportions only and move on. No more decorative proposals or broader restyling. `west-nook-phone-speaker-sized-v1` prepared; current spending cap still257.
 
 > **Latest WEST correction:** User rejects oversized charging nook and flower/fruit props. Remove those props without replacing them; resize charging detail to purpose. Research contemporary built references before further generation. Prior keep-flowers/fruit wording is superseded. No new paid render requested/authorized beyond exhausted allowance.
