@@ -1,3 +1,5 @@
+> **Latest direction:** User says espresso revision is better; toaster and kettle also look like pasted toys. Prepare one localized realism edit for both red SMEG appliances using `kitchen-espresso-realism-v1` as preferred base. Keep espresso area and room unchanged. Request `kitchen-smeg-realism-v1` prepared; additional paid allowance pending.
+
 > **Latest review:** [Espresso realism attempt](docs/ESPRESSO-REALISM-REVIEW.md) gives modest improvement but adds an unwanted cup. Comparison candidate only; prior wide reference retained. Task **243.75/244**, **0.25 remaining**; generation disabled. Earlier status/budget text below is historical.
 
 > **Latest requested correction:** Espresso maker looks artificial in wide view. Keep selected machine design; correct only perspective/depth, black-and-metal materials, lighting/contact and distance-appropriate sharpness. `kitchen-espresso-realism-v1` prepared; further paid allowance pending. Preserve rest of kitchen.

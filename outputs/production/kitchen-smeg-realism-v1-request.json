@@ -1,0 +1,13 @@
+{
+  "model": "gpt_image_2",
+  "params": {
+    "quality": "high",
+    "resolution": "2k",
+    "aspect_ratio": "16:9"
+  },
+  "references": [
+    "outputs/keyframes/kitchen-espresso-realism-v1.png"
+  ],
+  "prompt": "Make a localized photorealism correction to ONLY the red SMEG toaster left of the range and red SMEG kettle right of the range in this full kitchen image. They currently read as overly glossy toy objects pasted into the room. Keep their recognizable red retro SMEG designs, their existing locations, orientations, approximate physical sizes, branding placement, and the same full-image camera/crop. Do not replace models, recolor them, enlarge them or relocate them.\nRender both as real appliances photographed on these counters. Give the curved red enamel natural surface response, subtle variation and restrained broad highlights consistent with the warm room and undercabinet lighting. Replace plastic-looking uniform shine and excessively sharp outlines with distance-appropriate photographic detail, local focus and grain matching neighboring countertop and cabinetry. Brushed/chrome trim should reflect the actual nearby stone, warm cupboards and room, not generic studio lights. Preserve the toaster's real three-dimensional volume and kettle's coherent handle, lid, spout and base. Establish convincing weight/contact shadows and ambient occlusion where their bases meet the quartz, without dark cutout halos. Do not make their red dull or muddy; retain the intended red accents while reducing toy-like contrast and oversaturation. Brand letters should resolve naturally at scene scale, not glow or become unusually crisp. No new logos, duplicated cords, cups or accessories.\nEverything else stays unchanged, including espresso machine and its entire north-wall station, wine fridge, shelves, canisters, upper glass/contents, main fridge, range/hood/pot filler, all cabinets, worktops, walls, room dimensions and floor. Do not alter the espresso area or attempt other fixes. One full photoreal16:9 kitchen image; no crop-in, product collage or annotations.",
+  "output": "outputs/keyframes/kitchen-smeg-realism-v1.png"
+}

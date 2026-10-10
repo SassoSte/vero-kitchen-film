@@ -1,6 +1,6 @@
 {
   "project": "vero-kitchen-film",
-  "phase": "Espresso realism attempt inspected: modest improvement, unwanted cup; no further generation authorized",
+  "phase": "User prefers latest espresso result; paired SMEG realism edit prepared, extra budget pending",
   "budget_ceiling_credits": 244,
   "approved_features": [
     "Wolf GR304 red knobs with pale hood; no over-range microwave",
@@ -93,12 +93,11 @@
   "geometry_lock": "outputs/production/geometry-lock.json",
   "fridge_style": "French-door upper pair meeting at center, bottom freezer drawer",
   "next_job": {
-    "request": "outputs/production/kitchen-espresso-realism-v1-request.json",
-    "status": "GENERATED; partial improvement with unwanted-cup regression; not promoted",
+    "request": "outputs/production/kitchen-smeg-realism-v1-request.json",
+    "status": "PREPARED; NOT QUOTED OR SUBMITTED",
     "prior_comparable_quote_credits": 6.5,
-    "proposed_total_ceiling": 244,
-    "authorization": "Approve 244 total for one render",
-    "quoted_credits": 6.5
+    "proposed_total_ceiling": 251,
+    "authorization": "Not approved"
   },
   "status": "concept-review-hold",
   "pause_reason": null,
@@ -124,7 +123,8 @@
       "Unwanted cup added beneath group head",
       "Do not replace wider master automatically",
       "North frosting consistency and physical fit still unresolved"
-    ]
+    ],
+    "user_feedback": "Better; SMEG toaster and kettle also look like transposed toys"
   },
   "orientation_review": "docs/ORIENTATION-2026-10-09.md",
   "discussion_directions": {
@@ -169,5 +169,6 @@
     "date": "2026-10-09",
     "task_cap_unchanged": 238
   },
-  "espresso_realism_candidate": "outputs/keyframes/kitchen-espresso-realism-v1.png"
+  "espresso_realism_candidate": "outputs/keyframes/kitchen-espresso-realism-v1.png",
+  "preferred_edit_base": "outputs/keyframes/kitchen-espresso-realism-v1.png"
 }
