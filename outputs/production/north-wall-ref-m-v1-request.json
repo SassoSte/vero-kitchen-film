@@ -1,0 +1,14 @@
+{
+  "model": "gpt_image_2",
+  "params": {
+    "quality": "high",
+    "resolution": "2k",
+    "aspect_ratio": "4:5"
+  },
+  "references": [
+    "outputs/keyframes/north-wall-ref-l-v1.png",
+    "references/inspiration/ref-m-espresso-dials.png"
+  ],
+  "prompt": "Edit image1, the existing north-wall detail, with ONLY the following targeted changes. Image2 is the USER-SELECTED espresso-machine appearance reference. Preserve image1 camera, framing, room envelope, exact cupboard and niche geometry, frosted glass, warm lights, oak lining, quartz, wider wine fridge and both narrow ribbed-oak storage fronts. Do not redesign the composition.\nReplace ONLY the espresso machine with a faithful visual adaptation of image2's machine: compact rounded rectangular black body, warm brushed brass/champagne perimeter trim, prominent central circular analog dial/gauge, tactile round knobs and smaller circular controls, polished metallic group head, black portafilter handle with warm metal end detail, and matching drip tray. It should have the reference's Italian espresso-machine character, not image1's flat rectangular control strip. Keep its whole body visible and plausibly sized on the same surface, with convincing weight and contact shadows. Do not invent readable brand text or claim a product model.\nRemove both countertop cups, and do not add a cup or glass under the group head. Replace the cups at the left with two restrained matching lidded coffee-storage canisters in warm neutral ceramic with subtle dark or warm-metal details. Keep them subordinate to the machine and leave usable preparation surface; no coffee beans scattered, serving plates or clutter. Inside the UPPER cupboard add a few cups faintly visible through the existing frosted glass, in the same subdued way as the wine glasses already there. Retain wine glasses and frosted opacity; do not make cupboard doors clear or open them.\nDo not import image2's electrical plates, wall tiles, cabinetry, countertop, cups, plate, beans or window. Preserve everything else in image1. One photoreal 4:5 image, same straight-on viewpoint. No text overlay.",
+  "output": "outputs/keyframes/north-wall-ref-m-v1.png"
+}

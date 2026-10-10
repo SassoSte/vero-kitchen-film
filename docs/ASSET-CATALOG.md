@@ -4,13 +4,13 @@ Latest north-wall style REF-L with retained REF-K frosted uppers; two upper Fren
 
 Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashes of repository-relative paths. Hashes describe exact existing bytes; verdicts are sourced review findings, not a new visual inspection.
 
-**59 stills · 3 videos.**
+**60 stills · 3 videos.**
 
 [Open searchable gallery](../outputs/stills-gallery.html) · [Machine-readable catalog](asset-catalog.json)
 
 ## Latest bounded concept
 
-`north-wall-ref-l-v1` — **GENERATED**, quoted 6.5 credits. See the production state and asset entry below.
+`north-wall-ref-m-v1` — **PREPARED; NOT QUOTED OR SUBMITTED**, quoted None credits. See the production state and asset entry below.
 
 ## Stills
 
@@ -725,6 +725,18 @@ Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashe
 - Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
 - Limit / superseded reason: Appearance only; preserve existing envelope and liked frosted uppers; no projecting cabinet.
 - Bytes: 1179512; SHA-256: `6dcac1e977b32d69e1fb98ac6305de2c126e7103505dfeb12cd7446803506126`
+- Job ID: `not recorded`
+
+### ASSET-49A4F1B4AF03 — Ref M Espresso Dials
+
+- Exact filename: `ref-m-espresso-dials.png`
+- File: [references/inspiration/ref-m-espresso-dials.png](../references/inspiration/ref-m-espresso-dials.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/references/inspiration/ref-m-espresso-dials.png`
+- Role: User-selected espresso appearance; status: **current-user-reference**
+- Known verdict: Black body, warm metal trim, prominent analog dial and tactile knobs.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Appearance reference; brand/SKU unverified. Surrounding kitchen and cups not adopted.
+- Bytes: 365619; SHA-256: `62a8e9a11c6c68e9a65d1c70ccaf7cedc06d3a361b95e3376f842c6380a6f3ff`
 - Job ID: `not recorded`
 
 ### ASSET-C0BB67BE6089 — Original kitchen — cooking/fridge wall

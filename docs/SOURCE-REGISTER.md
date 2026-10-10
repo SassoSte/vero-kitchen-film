@@ -1,3 +1,7 @@
+## Latest espresso reference — REF-M
+
+[REF-M machine](../references/inspiration/ref-m-espresso-dials.png) is the user-selected appliance appearance; [provenance](../references/inspiration/ref-m-source.json). Black body, warm metal trim, prominent dial and knobs. Brand/SKU not verified. Do not copy its surrounding kitchen or countertop cups.
+
 ## Latest user reference — REF-L
 
 [REF-L north coffee/wine inspiration](../references/inspiration/ref-l-north-coffee-wine.png), user attachment saved byte-exact; [provenance](../references/inspiration/ref-l-source.json). Controls north-wall espresso presence, wine proportions and restrained oak/lighting details. Not room geometry, appliance selection or permission for a projecting cabinet. Retain liked frosted uppers.

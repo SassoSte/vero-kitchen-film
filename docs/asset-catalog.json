@@ -1,7 +1,7 @@
 {
   "project": "vero-kitchen-film",
   "inventory_revision": "2026-10-09-resumed-one-concept",
-  "production": "REF-L north-wall detail generated; user review pending; further generation disabled",
+  "production": "Targeted REF-M espresso/canister edit prepared; additional paid budget pending",
   "authority": "Latest north-wall style REF-L with retained REF-K frosted uppers; two upper French doors/lower freezer drawer, model/fit pending. No generated still is final approved complete current design.",
   "review_sources": [
     "outputs/inspection.txt",
@@ -10,9 +10,20 @@
     "conversation review findings"
   ],
   "root": "/Users/stefansassoon/projects/vero-kitchen-film",
-  "still_count": 59,
+  "still_count": 60,
   "video_count": 3,
-  "prepared_not_generated": [],
+  "prepared_not_generated": [
+    {
+      "id": "PREP-north-wall-ref-m-v1",
+      "name": "north-wall-ref-m-v1",
+      "status": "PREPARED; NOT QUOTED OR SUBMITTED",
+      "quote_credits": null,
+      "note": "Targeted REF-M espresso/canister edit prepared; additional paid budget pending",
+      "receipts": {
+        "request": "outputs/production/north-wall-ref-m-v1-request.json"
+      }
+    }
+  ],
   "assets": [
     {
       "id": "ASSET-79E492B2F8D4",
@@ -1163,6 +1174,25 @@
       "superseded_reason": "Appearance only; preserve existing envelope and liked frosted uppers; no projecting cabinet.",
       "bytes": 1179512,
       "sha256": "6dcac1e977b32d69e1fb98ac6305de2c126e7103505dfeb12cd7446803506126",
+      "job_name": null,
+      "job_id": null,
+      "receipts": {},
+      "source_provenance": null,
+      "review_source_note": "Recorded inspection/conversation findings or source-reference role; not a new visual inspection."
+    },
+    {
+      "id": "ASSET-49A4F1B4AF03",
+      "title": "Ref M Espresso Dials",
+      "path": "references/inspiration/ref-m-espresso-dials.png",
+      "absolute_path": "/Users/stefansassoon/projects/vero-kitchen-film/references/inspiration/ref-m-espresso-dials.png",
+      "kind": "still",
+      "category": "inspiration",
+      "role": "User-selected espresso appearance",
+      "status": "current-user-reference",
+      "verdict": "Black body, warm metal trim, prominent analog dial and tactile knobs.",
+      "superseded_reason": "Appearance reference; brand/SKU unverified. Surrounding kitchen and cups not adopted.",
+      "bytes": 365619,
+      "sha256": "62a8e9a11c6c68e9a65d1c70ccaf7cedc06d3a361b95e3376f842c6380a6f3ff",
       "job_name": null,
       "job_id": null,
       "receipts": {},

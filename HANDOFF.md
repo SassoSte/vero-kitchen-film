@@ -1,3 +1,5 @@
+> **Latest requested edit — REF-M:** Preserve the improved north-wall composition. Use the user-selected black/brass machine with prominent analog dial and knobs; remove countertop cups, add coffee canisters, show cups faintly behind frosted glass above. Request `north-wall-ref-m-v1` is prepared, not quoted/submitted; further spending authority pending.
+
 > **Latest result:** [REF-L north-wall detail](docs/NORTH-WALL-REF-L-REVIEW.md) generated and inspected by lead; awaiting user review. Task total **211.25/212 credits**, **0.75 remaining**. Generation disabled after the one authorized render. Earlier budgets/statuses below are historical.
 
 > **North-wall improvement requested:** REF-L (`references/inspiration/ref-l-north-coffee-wine.png`) is the latest user ideal appearance reference. Prepare premium black/metal espresso styling, wider wine front and narrower adjacent storage; retain liked lighting/frosted uppers and established room design. One isolated north-wall detail render is now authorized under a 212-credit total ceiling; see the current state and authorization receipt.

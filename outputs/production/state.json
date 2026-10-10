@@ -1,6 +1,6 @@
 {
   "project": "vero-kitchen-film",
-  "phase": "REF-L north-wall detail generated; user review pending; further generation disabled",
+  "phase": "Targeted REF-M espresso/canister edit prepared; additional paid budget pending",
   "budget_ceiling_credits": 212,
   "approved_features": [
     "Wolf GR304 red knobs with pale hood; no over-range microwave",
@@ -69,10 +69,11 @@
   "design_revision": "2026-10-09-ref-k-french-doors",
   "pending_design_selection": "One north-wall detail: premium black/metal espresso machine, wider wine front, narrower adjacent storage; preserve developed kitchen.",
   "coffee_garage": {
-    "status": "REF-L espresso presence and wine proportions; retain liked REF-K lighting and frosted upper cupboards",
+    "status": "Keep REF-L composition; replace espresso with REF-M black/brass analog dial and knobs; coffee canisters on counter; cups faintly in frosted upper cupboard",
     "wall": "SAME blank wall beside main refrigerator as wine fridge",
     "reference": "references/inspiration/ref-l-north-coffee-wine.png",
-    "limits": "Current concept exists but espresso/proportions need revision; physical recess and fit unverified."
+    "limits": "Current concept exists but espresso/proportions need revision; physical recess and fit unverified.",
+    "machine_reference": "references/inspiration/ref-m-espresso-dials.png"
   },
   "appliance_candidates": {
     "main": "French-door model pending fit; previous Bosch single-door superseded",
@@ -89,12 +90,11 @@
   "geometry_lock": "outputs/production/geometry-lock.json",
   "fridge_style": "French-door upper pair meeting at center, bottom freezer drawer",
   "next_job": {
-    "request": "outputs/production/north-wall-ref-l-v1-request.json",
-    "status": "GENERATED; user review pending",
+    "request": "outputs/production/north-wall-ref-m-v1-request.json",
+    "status": "PREPARED; NOT QUOTED OR SUBMITTED",
     "prior_comparable_quote_credits": 6.5,
-    "proposed_total_ceiling": 212,
-    "authorization": "One render under212 approved and consumed",
-    "quoted_credits": 6.5
+    "proposed_total_ceiling": 218,
+    "authorization": "Not approved"
   },
   "status": "concept-review-hold",
   "pause_reason": null,
