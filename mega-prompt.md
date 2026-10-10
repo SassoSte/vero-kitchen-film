@@ -1,4 +1,6 @@
-> **User accepted composition and next steps:** Three finishing corrections (visible steam wand, canister-lid clearance, light frosting), then wider kitchen integration. Two sequential requests prepared; inspect first result before the second. No increased cap approved yet; paid generation remains disabled.
+> **Current continuation:** [Finishing/integration record](docs/NORTH-WALL-FINISH-INTEGRATION.md). Step1 rendered: wand/frosting corrected, canister clearance still needs correction. Step2 already authorized under238 but not submitted: account0.5 credits insufficient. Task total230.75/238;7.25 allowance remains. Recheck wallet; no top-up or repeat of step1 authorized.
+
+> **User accepted composition and next steps:** Three finishing corrections (visible steam wand, canister-lid clearance, light frosting), then wider kitchen integration. Two sequential requests prepared; inspect first result before the second. User approved238 total for these two renders; inspect first before enabling second. Account funds may limit execution; no top-up authorized.
 
 > **Latest result:** [Coffee-service shelves](docs/NORTH-WALL-COFFEE-SHELVES-REVIEW.md) rendered and lead-inspected; user review pending. Upper glass is clearer and steam wand is not clearly visible. Task total **224.25/225**, **0.75 remaining**; generation disabled. Earlier status/budget text is historical.
 

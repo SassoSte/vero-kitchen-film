@@ -1,0 +1,40 @@
+[
+  {
+    "created_at": "2026-10-10T06:20:17.483798Z",
+    "display_name": "GPT Image 2",
+    "id": "f6f75a07-0475-427c-91b4-609e503223ae",
+    "job_type": "gpt_image_2",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_062017_f6f75a07-0475-427c-91b4-609e503223ae_min.webp",
+    "params": {
+      "aspect_ratio": "4:5",
+      "height": 2240,
+      "medias": [
+        {
+          "data": {
+            "id": "b58d7400-6e10-4a28-a364-6bf37ac3705f",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/b58d7400-6e10-4a28-a364-6bf37ac3705f_resize.jpg"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "5fffcb91-e082-4c42-95ea-c87b6afe657e",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/5fffcb91-e082-4c42-95ea-c87b6afe657e.png"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "videotape-alpha",
+      "prompt": "Edit image1 with ONLY THREE FINISHING CORRECTIONS approved by the user. Preserve the existing composition, camera, crop, cabinet and niche envelope, wider wine fridge, ribbed-oak side fronts, shelves, coffee canisters, espresso cups/saucers, stir spoons, clear raw-sugar-cube jar, warm lighting and black/brass central-dial machine.\n1. Restore a clearly visible slim metallic STEAM WAND on the machine's right side, faithfully consistent with the machine appearance reference image2. Keep the same machine, central analog gauge, knobs, black body, rounded brass trim and portafilter. Do not create a second wand or other appliance.\n2. Create visibly useful hand/lid clearance between the taller countertop coffee canister and the underside of the lower little shelf. Make a modest local adjustment to shelf height/spacing and, only if needed, slightly reduce the taller canister height. Preserve two shelves and all espresso-service objects; no enlargement of niche/cupboards. Keep the sugar jar and spoon holder comfortable beneath the upper shelf, and espresso cups/saucers comfortable below the main upper cabinet.\n3. Restore light satin FROSTING to both upper glass doors. Retain the warm glowing light and intentional matching cappuccino cups/saucers and stemmed wine glasses, but soften their outlines to understated silhouettes. Do not make doors opaque or remove their contents. No isolated random mugs/tumblers/decor.\nEverything else stays visually unchanged. No text overlay or new brand lettering. One photoreal4:5 image.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 1792
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_062017_f6f75a07-0475-427c-91b4-609e503223ae.png",
+    "status": "completed"
+  }
+]

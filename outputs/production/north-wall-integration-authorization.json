@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-09",
+  "timezone": "America/Phoenix",
+  "budget_user_text": "Approve 238 total for two renders",
+  "total_ceiling_credits": 238,
+  "authorized_jobs": [
+    "north-wall-finish-v1",
+    "kitchen-north-integrated-v2"
+  ],
+  "max_new_jobs": 2,
+  "scope": "Sequential finishing detail then wider integration after inspection; no automatic retries or purchase."
+}

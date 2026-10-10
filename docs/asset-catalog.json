@@ -1,7 +1,7 @@
 {
   "project": "vero-kitchen-film",
   "inventory_revision": "2026-10-09-resumed-one-concept",
-  "production": "North-wall composition accepted with finishing corrections; two-step edit/integration prepared, extra budget pending",
+  "production": "Finishing detail returned; wider integration authorized but awaiting account credits",
   "authority": "Latest north-wall REF-M dial espresso/canister edit within REF-L composition and retained frosted uppers; two upper French doors/lower freezer drawer, model/fit pending. No generated still is final approved complete current design.",
   "review_sources": [
     "outputs/inspection.txt",
@@ -10,17 +10,17 @@
     "conversation review findings"
   ],
   "root": "/Users/stefansassoon/projects/vero-kitchen-film",
-  "still_count": 62,
+  "still_count": 63,
   "video_count": 3,
   "prepared_not_generated": [
     {
-      "id": "PREP-north-wall-finish-v1",
-      "name": "north-wall-finish-v1",
-      "status": "PREPARED; NOT QUOTED OR SUBMITTED",
+      "id": "PREP-kitchen-north-integrated-v2",
+      "name": "kitchen-north-integrated-v2",
+      "status": "AUTHORIZED; NOT QUOTED OR SUBMITTED; account0.5 insufficient for prior6.5 price",
       "quote_credits": null,
-      "note": "North-wall composition accepted with finishing corrections; two-step edit/integration prepared, extra budget pending",
+      "note": "Finishing detail returned; wider integration authorized but awaiting account credits",
       "receipts": {
-        "request": "outputs/production/north-wall-finish-v1-request.json"
+        "request": "outputs/production/kitchen-north-integrated-v2-request.json"
       }
     }
   ],
@@ -549,6 +549,30 @@
         "quote": "outputs/production/north-wall-coffee-shelves-v1-quote.json",
         "result": "outputs/production/north-wall-coffee-shelves-v1-result.json",
         "stderr": "outputs/production/north-wall-coffee-shelves-v1-stderr.txt"
+      },
+      "source_provenance": null,
+      "review_source_note": "Recorded inspection/conversation findings or source-reference role; not a new visual inspection."
+    },
+    {
+      "id": "ASSET-B6CF6756DF47",
+      "title": "North Wall Finish V1",
+      "path": "outputs/keyframes/north-wall-finish-v1.png",
+      "absolute_path": "/Users/stefansassoon/projects/vero-kitchen-film/outputs/keyframes/north-wall-finish-v1.png",
+      "kind": "still",
+      "category": "generated",
+      "role": "Generated still / diagram",
+      "status": "partial-finishing-pass",
+      "verdict": "Lead inspected: steam wand restored and frosted glass softened. Canister lid clearance remains too tight.",
+      "superseded_reason": "Wider integration prepared with shorter-canister correction; authorized but wallet funds insufficient. Physical fit unresolved.",
+      "bytes": 5879033,
+      "sha256": "04727de431040d2c61b393ef493d6da54ec6b1ff660e6aaf957051c67d51162a",
+      "job_name": "north-wall-finish-v1",
+      "job_id": "f6f75a07-0475-427c-91b4-609e503223ae",
+      "receipts": {
+        "request": "outputs/production/north-wall-finish-v1-request.json",
+        "quote": "outputs/production/north-wall-finish-v1-quote.json",
+        "result": "outputs/production/north-wall-finish-v1-result.json",
+        "stderr": "outputs/production/north-wall-finish-v1-stderr.txt"
       },
       "source_provenance": null,
       "review_source_note": "Recorded inspection/conversation findings or source-reference role; not a new visual inspection."

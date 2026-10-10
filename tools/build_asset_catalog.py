@@ -5,6 +5,7 @@ import hashlib, json, re, html
 ROOT=Path(__file__).resolve().parents[1]
 OUT=ROOT/'outputs'; E=html.escape
 KNOWN={
+'north-wall-finish-v1':('partial-finishing-pass','Lead inspected: steam wand restored and frosted glass softened. Canister lid clearance remains too tight.','Wider integration prepared with shorter-canister correction; authorized but wallet funds insufficient. Physical fit unresolved.'),
 'north-wall-coffee-shelves-v1':('candidate-awaiting-user-review','Lead inspected: espresso-service shelves, spoons and raw-sugar jar; coordinated cappuccino/wine cupboard contents.','Glazing clearer than prior frost; steam wand unclear; canister lid access unverified. User review and fit pending.'),
 'north-wall-ref-m-v1':('candidate-awaiting-user-review','Lead inspected: black/warm-metal machine with prominent dial and knobs; two coffee canisters; cups behind frosted glass. Wider wine front and cabinetry retained.','User review and physical-fit verification pending; generated lettering does not identify a real product.'),
 'north-wall-ref-l-v1':('candidate-awaiting-user-review','Lead inspected: stronger black/metal espresso machine, wider wine front, narrower ribbed-oak side storage; frosted uppers and warm lighting retained.','North-wall detail only; user approval, exact dimensions, physical fit and wide-view integration pending.'),

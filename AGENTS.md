@@ -4,13 +4,14 @@ Read `HANDOFF.md` first, then `mega-prompt.md`, `docs/SOURCE-REGISTER.md` and th
 `docs/BACKLOG.md`. `outputs/stills-gallery.html` / `docs/asset-catalog.json` identify
 assets and their status; version number alone is not approval.
 
-User approved **225 total credits for ONE targeted north-wall coffee-shelves edit**, `north-wall-coffee-shelves-v1`,
-on 2026-10-09 after the prior single concept consumed its authorization. Read
-`outputs/production/north-wall-coffee-shelves-authorization.json` and the live state/ledger.
-REF-M controls the espresso machine; keep REF-L composition, keep canisters, add coffee-service shelves above them and coordinate wine/cappuccino contents behind frosted glass. Preserve developed
-sink/apartment views and confirmed orientation. No retries, video batch, purchases,
-scheduling or additional jobs are authorized. Disable generation after this one job.
-Earlier pause/200/205-credit text is historical; latest dated user approval governs.
+User approved **238 total credits for TWO sequential renders** on 2026-10-09:
+`north-wall-finish-v1`, then `kitchen-north-integrated-v2` after inspecting the first.
+Read `outputs/production/north-wall-integration-authorization.json` and live ledger/state.
+No automatic retries, purchases or video jobs. Account balance is separate from task
+budget; insufficient wallet funds do not authorize top-ups. Preserve the developed
+kitchen and confirmed orientation; restore wand, canister clearance and frosting,
+then integrate the accepted north-wall detail. Disable generation between steps.
+
 
 Original photos/plans and manufacturer evidence remain separate from generated concepts.
 Never modify original source drawings to fit a render. Latest explicit user design

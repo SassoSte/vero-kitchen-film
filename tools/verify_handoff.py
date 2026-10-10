@@ -10,13 +10,13 @@ state=json.loads((ROOT/'outputs/production/state.json').read_text())
 budget_path=ROOT/'outputs/production/budget.json';budget=json.loads(budget_path.read_text())
 check(state.get('status')=='concept-review-hold' and state.get('generation_allowed') is False,'One-concept complete; further generation disabled')
 authorization=json.loads((ROOT/budget['authorization']).read_text())
-check(authorization['budget_user_text']=='Approve 225 total for one render' and authorization['max_new_jobs']==1,'Explicit one-concept authorization')
-check(budget['ceiling_credits']==authorization['total_ceiling_credits']==225,'Approved total ceiling225')
+check(authorization['budget_user_text']=='Approve 238 total for two renders' and authorization['max_new_jobs']==2,'Explicit two-render authorization')
+check(budget['ceiling_credits']==authorization['total_ceiling_credits']==238,'Approved total ceiling238')
 quote_total=round(sum(x['quote'] for x in budget['jobs']),2)
-check(quote_total==224.25 and budget['task_quote_total']==quote_total,'36 job quotes total224.25')
-check(len(budget['jobs'])==36 and all(x['status']=='generated' for x in budget['jobs']),'All36 recorded jobs terminal/generated')
-check(round(budget['ceiling_credits']-quote_total,2)==budget['remaining_phase_credits']==0.75,'Remaining task allowance0.75')
-name='north-wall-coffee-shelves-v1'
+check(quote_total==230.75 and budget['task_quote_total']==quote_total,'37 job quotes total230.75')
+check(len(budget['jobs'])==37 and all(x['status']=='generated' for x in budget['jobs']),'All37 recorded jobs terminal/generated')
+check(round(budget['ceiling_credits']-quote_total,2)==budget['remaining_phase_credits']==7.25,'Remaining task allowance7.25')
+name='north-wall-finish-v1'
 job=next((x for x in budget['jobs'] if x['name']==name),None)
 result_path=ROOT/f'outputs/production/{name}-result.json'
 check(job is not None and result_path.exists(),'Authorized concept has ledger and result receipt')
@@ -32,7 +32,7 @@ check(actual=={a['path'] for a in assets},'Every raster/video is cataloged exact
 for a in assets:
  p=ROOT/a['path'];check(p.is_file() and digest(p)==a['sha256'],f'Asset hash {a["path"]}')
  for kind,rel in a.get('receipts',{}).items():check((ROOT/rel).is_file(),f'Receipt {rel}')
-check(cat['still_count']==62 and cat['video_count']==3,'Inventory62 stills /3 videos')
+check(cat['still_count']==63 and cat['video_count']==3,'Inventory63 stills /3 videos')
 manifest=json.loads((ROOT/'references/source-manifest.json').read_text())
 for group in ['files','supplemental_documents_captured_2026_10_09']:
  for a in manifest.get(group,[]):

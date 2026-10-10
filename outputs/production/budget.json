@@ -1,7 +1,7 @@
 {
-  "ceiling_credits": 225,
+  "ceiling_credits": 238,
   "opening_balance": 1246.8,
-  "reserved_credits": 224.25,
+  "reserved_credits": 230.75,
   "jobs": [
     {
       "name": "master-v1",
@@ -253,17 +253,24 @@
       "status": "generated",
       "job_id": "95b64b9f-595a-4ab5-8a4f-0ef24d5af91e",
       "file": "outputs/keyframes/north-wall-coffee-shelves-v1.png"
+    },
+    {
+      "name": "north-wall-finish-v1",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "f6f75a07-0475-427c-91b4-609e503223ae",
+      "file": "outputs/keyframes/north-wall-finish-v1.png"
     }
   ],
-  "balance_after": 9,
+  "balance_after": 0.5,
   "balance_delta": null,
-  "remaining_phase_credits": 0.75,
-  "account_snapshot_note": "2026-10-09 shelves edit:15.5 to9, consistent with one6.5 quote; task ledger authoritative.",
-  "task_quote_total": 224.25,
+  "remaining_phase_credits": 7.25,
+  "account_snapshot_note": "2026-10-09 finish:7 to0.5 matches6.5 quote. Prior account9 to7 change is not attributed to task. Second job needs funds, not more task authority.",
+  "task_quote_total": 230.75,
   "latest_pass": {
-    "opening_account_balance": 15.5,
-    "closing_account_balance": 9,
+    "opening_account_balance": 7,
+    "closing_account_balance": 0.5,
     "quoted_cost": 6.5
   },
-  "authorization": "outputs/production/north-wall-coffee-shelves-authorization.json"
+  "authorization": "outputs/production/north-wall-integration-authorization.json"
 }

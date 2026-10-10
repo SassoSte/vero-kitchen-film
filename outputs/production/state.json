@@ -1,7 +1,7 @@
 {
   "project": "vero-kitchen-film",
-  "phase": "North-wall composition accepted with finishing corrections; two-step edit/integration prepared, extra budget pending",
-  "budget_ceiling_credits": 225,
+  "phase": "Finishing detail returned; wider integration authorized but awaiting account credits",
+  "budget_ceiling_credits": 238,
   "approved_features": [
     "Wolf GR304 red knobs with pale hood; no over-range microwave",
     "Built-in microwave on sink side left of sink",
@@ -91,9 +91,10 @@
   "geometry_lock": "outputs/production/geometry-lock.json",
   "fridge_style": "French-door upper pair meeting at center, bottom freezer drawer",
   "next_job": {
-    "request": "outputs/production/north-wall-finish-v1-request.json",
-    "status": "PREPARED; NOT QUOTED OR SUBMITTED",
-    "authorization": "Additional spending not yet approved"
+    "request": "outputs/production/kitchen-north-integrated-v2-request.json",
+    "status": "AUTHORIZED; NOT QUOTED OR SUBMITTED; account0.5 insufficient for prior6.5 price",
+    "authorization": "Approve 238 total for two renders; second remains unconsumed",
+    "prior_comparable_quote_credits": 6.5
   },
   "status": "concept-review-hold",
   "pause_reason": null,
@@ -108,19 +109,17 @@
     "lessons": "docs/LESSONS.md"
   },
   "authorized_jobs": [],
-  "authorization": "outputs/production/north-wall-coffee-shelves-authorization.json",
-  "latest_concept": "outputs/keyframes/north-wall-coffee-shelves-v1.png",
+  "authorization": "outputs/production/north-wall-integration-authorization.json",
+  "latest_concept": "outputs/keyframes/north-wall-finish-v1.png",
   "latest_concept_review": {
-    "status": "user-approved-composition-with-finishing-corrections",
+    "status": "partial-finishing-pass",
     "reviewer": "lead only",
-    "record": "docs/NORTH-WALL-COFFEE-SHELVES-REVIEW.md",
+    "record": "docs/NORTH-WALL-FINISH-INTEGRATION.md",
     "limits": [
-      "Upper glass clearer than prior frosted treatment",
-      "Steam wand no longer clearly visible",
-      "Canister-lid clearance under shelf unverified",
-      "Physical fit and wide-room integration unresolved"
-    ],
-    "user_response": "That looks good; Yes to all (steam wand, canister clearance, frosting and wider integration)"
+      "Steam wand and frosting corrected; tall-canister clearance not clearly improved",
+      "Wider integration pending wallet funds",
+      "Physical fit unverified"
+    ]
   },
   "orientation_review": "docs/ORIENTATION-2026-10-09.md",
   "discussion_directions": {
@@ -135,7 +134,7 @@
     "west_sink": "outputs/keyframes/sink-v4.png",
     "west_external_view": "outputs/keyframes/apartment-v7.png",
     "west_external_view_exception": "Single-door fridge superseded; retain latest French-door instruction",
-    "north_latest": "outputs/keyframes/north-wall-coffee-shelves-v1.png",
+    "north_latest": "outputs/keyframes/north-wall-finish-v1.png",
     "north_exceptions": "Candidate awaiting user review; wider-kitchen integration and real-product sizing unresolved."
   },
   "planned_sequence": [
@@ -154,7 +153,16 @@
     "max_jobs": 2,
     "prior_comparable_cost_per_job": 6.5,
     "expected_total": 237.25,
-    "status": "NOT APPROVED",
+    "status": "APPROVED",
     "no_automatic_retries": true
-  }
+  },
+  "account_credit_block": {
+    "observed_balance": 0.5,
+    "prior_next_job_price": 6.5,
+    "additional_needed_at_prior_price": 6,
+    "purchase_authorized": false
+  },
+  "remaining_authorized_jobs": [
+    "kitchen-north-integrated-v2"
+  ]
 }
