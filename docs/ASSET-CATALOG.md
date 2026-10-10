@@ -1,16 +1,16 @@
 # Asset catalog — bounded concept resume
 
-Latest style REF-K; two upper French doors/lower freezer drawer, model/fit pending. No generated still is final approved complete current design.
+Latest north-wall style REF-L with retained REF-K frosted uppers; two upper French doors/lower freezer drawer, model/fit pending. No generated still is final approved complete current design.
 
 Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashes of repository-relative paths. Hashes describe exact existing bytes; verdicts are sourced review findings, not a new visual inspection.
 
-**58 stills · 3 videos.**
+**59 stills · 3 videos.**
 
 [Open searchable gallery](../outputs/stills-gallery.html) · [Machine-readable catalog](asset-catalog.json)
 
 ## Latest bounded concept
 
-`integrated-wall-frenchdoor-v1` — **GENERATED**, quoted 6.5 credits. See the resume record and asset entry below.
+`north-wall-ref-l-v1` — **GENERATED**, quoted 6.5 credits. See the production state and asset entry below.
 
 ## Stills
 
@@ -346,6 +346,22 @@ Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashe
 - Quote receipt: [outputs/production/master-v4-quote.json](../outputs/production/master-v4-quote.json)
 - Result receipt: [outputs/production/master-v4-result.json](../outputs/production/master-v4-result.json)
 - Stderr receipt: [outputs/production/master-v4-stderr.txt](../outputs/production/master-v4-stderr.txt)
+
+### ASSET-613288174C79 — North Wall Ref L V1
+
+- Exact filename: `north-wall-ref-l-v1.png`
+- File: [outputs/keyframes/north-wall-ref-l-v1.png](../outputs/keyframes/north-wall-ref-l-v1.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/keyframes/north-wall-ref-l-v1.png`
+- Role: Generated still / diagram; status: **candidate-awaiting-user-review**
+- Known verdict: Lead inspected: stronger black/metal espresso machine, wider wine front, narrower ribbed-oak side storage; frosted uppers and warm lighting retained.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: North-wall detail only; user approval, exact dimensions, physical fit and wide-view integration pending.
+- Bytes: 5528311; SHA-256: `4d7108f7c673772493f72cb014caf9a6362510f134076c2899b0cd4951aa7e85`
+- Job ID: `b67a6829-4b1a-42fb-a178-dfff2c459771`
+- Request receipt: [outputs/production/north-wall-ref-l-v1-request.json](../outputs/production/north-wall-ref-l-v1-request.json)
+- Quote receipt: [outputs/production/north-wall-ref-l-v1-quote.json](../outputs/production/north-wall-ref-l-v1-quote.json)
+- Result receipt: [outputs/production/north-wall-ref-l-v1-result.json](../outputs/production/north-wall-ref-l-v1-result.json)
+- Stderr receipt: [outputs/production/north-wall-ref-l-v1-stderr.txt](../outputs/production/north-wall-ref-l-v1-stderr.txt)
 
 ### ASSET-20A12A705EC8 — Fridge-placement pilot starting frame — v1
 

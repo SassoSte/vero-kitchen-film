@@ -1,7 +1,7 @@
 {
   "project": "vero-kitchen-film",
-  "phase": "North-wall REF-L improvement prepared; additional paid budget pending",
-  "budget_ceiling_credits": 205,
+  "phase": "REF-L north-wall detail generated; user review pending; further generation disabled",
+  "budget_ceiling_credits": 212,
   "approved_features": [
     "Wolf GR304 red knobs with pale hood; no over-range microwave",
     "Built-in microwave on sink side left of sink",
@@ -80,7 +80,7 @@
     "status": "conditional-on-clearance-and-cabinetry",
     "wall": "blank end wall beside main fridge; user calls north wall"
   },
-  "end_wall_status": "Latest REF-K composition requested; prior tower rejected and blank hatch superseded",
+  "end_wall_status": "REF-L detail rendered with stronger espresso machine, wider wine front and narrower oak storage",
   "end_wall_views": {
     "historical_closed": "outputs/keyframes/end-wall-flush-v1.png",
     "status": "Historical partial only; superseded by REF-K and French-door request"
@@ -90,10 +90,11 @@
   "fridge_style": "French-door upper pair meeting at center, bottom freezer drawer",
   "next_job": {
     "request": "outputs/production/north-wall-ref-l-v1-request.json",
-    "status": "PREPARED; NOT QUOTED OR SUBMITTED; increased spending cap required",
+    "status": "GENERATED; user review pending",
     "prior_comparable_quote_credits": 6.5,
     "proposed_total_ceiling": 212,
-    "authorization": "Not approved"
+    "authorization": "One render under212 approved and consumed",
+    "quoted_credits": 6.5
   },
   "status": "concept-review-hold",
   "pause_reason": null,
@@ -108,16 +109,16 @@
     "lessons": "docs/LESSONS.md"
   },
   "authorized_jobs": [],
-  "authorization": "outputs/production/resume-authorization.json",
-  "latest_concept": "outputs/keyframes/integrated-wall-frenchdoor-v1.png",
+  "authorization": "outputs/production/north-wall-ref-l-authorization.json",
+  "latest_concept": "outputs/keyframes/north-wall-ref-l-v1.png",
   "latest_concept_review": {
-    "status": "partial-concept-needs-correction",
+    "status": "candidate-awaiting-user-review",
     "reviewer": "lead only",
-    "record": "docs/RESUME-2026-10-09.md",
-    "defects": [
-      "Microwave incorrectly in upper cabinetry instead of base left of sink",
-      "Unrequested refrigerator upper surround",
-      "Malformed appliance badge; exact model/height unverified"
+    "record": "docs/NORTH-WALL-REF-L-REVIEW.md",
+    "limits": [
+      "Changed close-up camera does not establish exact installation dimensions",
+      "Physical recess/clearances unverified",
+      "Wider-room integration not rendered"
     ]
   },
   "orientation_review": "docs/ORIENTATION-2026-10-09.md",
@@ -133,7 +134,7 @@
     "west_sink": "outputs/keyframes/sink-v4.png",
     "west_external_view": "outputs/keyframes/apartment-v7.png",
     "west_external_view_exception": "Single-door fridge superseded; retain latest French-door instruction",
-    "north_latest": "outputs/keyframes/integrated-wall-frenchdoor-v1.png",
-    "north_exceptions": "Replace pedestrian espresso unit; explore wider wine front and smaller adjacent cupboards. Retain lighting/frosted-glass direction. Remove invented west armoire and fridge surround."
+    "north_latest": "outputs/keyframes/north-wall-ref-l-v1.png",
+    "north_exceptions": "Candidate awaiting user review; wider-kitchen integration and real-product sizing unresolved."
   }
 }

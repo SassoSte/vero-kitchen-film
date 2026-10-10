@@ -1,4 +1,6 @@
-> **North-wall improvement requested:** REF-L (`references/inspiration/ref-l-north-coffee-wine.png`) is the latest user ideal appearance reference. Prepare premium black/metal espresso styling, wider wine front and narrower adjacent storage; retain liked lighting/frosted uppers and established room design. One isolated north-wall detail request is prepared; no increased cap approved yet.
+> **Latest result:** [REF-L north-wall detail](docs/NORTH-WALL-REF-L-REVIEW.md) generated and inspected by lead; awaiting user review. Task total **211.25/212 credits**, **0.75 remaining**. Generation disabled after the one authorized render. Earlier budgets/statuses below are historical.
+
+> **North-wall improvement requested:** REF-L (`references/inspiration/ref-l-north-coffee-wine.png`) is the latest user ideal appearance reference. Prepare premium black/metal espresso styling, wider wine front and narrower adjacent storage; retain liked lighting/frosted uppers and established room design. One isolated north-wall detail render is now authorized under a 212-credit total ceiling; see the current state and authorization receipt.
 
 > **Latest user direction:** Orientation is now confirmed; preserve the developed remodel views and refine the requested details. North = coffee/wine; west = sink/pass-through; east = cooking run. See [orientation reset](docs/ORIENTATION-2026-10-09.md) for photo evidence, source-plan conflicts and espresso/wine-proportion corrections.
 

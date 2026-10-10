@@ -4,12 +4,13 @@ Read `HANDOFF.md` first, then `mega-prompt.md`, `docs/SOURCE-REGISTER.md` and th
 `docs/BACKLOG.md`. `outputs/stills-gallery.html` / `docs/asset-catalog.json` identify
 assets and their status; version number alone is not approval.
 
-User explicitly resumed on 2026-10-09 and approved **205 total credits for ONE concept**,
-`integrated-wall-frenchdoor-v1`, after layout checks. Read `docs/RESUME-2026-10-09.md`
-and `outputs/production/resume-authorization.json`. No retries, video batch, purchases,
-scheduling or additional jobs are authorized. Preserve the runner guard; generation
-must be disabled after the one authorized job. The live ledger owns commitments;
-prior handoff pause/200-credit figures are historical snapshots.
+User approved **212 total credits for ONE north-wall detail render**, `north-wall-ref-l-v1`,
+on 2026-10-09 after the prior single concept consumed its authorization. Read
+`outputs/production/north-wall-ref-l-authorization.json` and the live state/ledger.
+REF-L is the new user ideal north-wall appearance reference; preserve developed
+sink/apartment views and confirmed orientation. No retries, video batch, purchases,
+scheduling or additional jobs are authorized. Disable generation after this one job.
+Earlier pause/200/205-credit text is historical; latest dated user approval governs.
 
 Original photos/plans and manufacturer evidence remain separate from generated concepts.
 Never modify original source drawings to fit a render. Latest explicit user design

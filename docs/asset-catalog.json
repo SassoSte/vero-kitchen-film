@@ -1,8 +1,8 @@
 {
   "project": "vero-kitchen-film",
   "inventory_revision": "2026-10-09-resumed-one-concept",
-  "production": "North-wall REF-L improvement prepared; additional paid budget pending",
-  "authority": "Latest style REF-K; two upper French doors/lower freezer drawer, model/fit pending. No generated still is final approved complete current design.",
+  "production": "REF-L north-wall detail generated; user review pending; further generation disabled",
+  "authority": "Latest north-wall style REF-L with retained REF-K frosted uppers; two upper French doors/lower freezer drawer, model/fit pending. No generated still is final approved complete current design.",
   "review_sources": [
     "outputs/inspection.txt",
     "mega-prompt.md",
@@ -10,7 +10,7 @@
     "conversation review findings"
   ],
   "root": "/Users/stefansassoon/projects/vero-kitchen-film",
-  "still_count": 58,
+  "still_count": 59,
   "video_count": 3,
   "prepared_not_generated": [],
   "assets": [
@@ -514,6 +514,30 @@
         "quote": "outputs/production/master-v4-quote.json",
         "result": "outputs/production/master-v4-result.json",
         "stderr": "outputs/production/master-v4-stderr.txt"
+      },
+      "source_provenance": null,
+      "review_source_note": "Recorded inspection/conversation findings or source-reference role; not a new visual inspection."
+    },
+    {
+      "id": "ASSET-613288174C79",
+      "title": "North Wall Ref L V1",
+      "path": "outputs/keyframes/north-wall-ref-l-v1.png",
+      "absolute_path": "/Users/stefansassoon/projects/vero-kitchen-film/outputs/keyframes/north-wall-ref-l-v1.png",
+      "kind": "still",
+      "category": "generated",
+      "role": "Generated still / diagram",
+      "status": "candidate-awaiting-user-review",
+      "verdict": "Lead inspected: stronger black/metal espresso machine, wider wine front, narrower ribbed-oak side storage; frosted uppers and warm lighting retained.",
+      "superseded_reason": "North-wall detail only; user approval, exact dimensions, physical fit and wide-view integration pending.",
+      "bytes": 5528311,
+      "sha256": "4d7108f7c673772493f72cb014caf9a6362510f134076c2899b0cd4951aa7e85",
+      "job_name": "north-wall-ref-l-v1",
+      "job_id": "b67a6829-4b1a-42fb-a178-dfff2c459771",
+      "receipts": {
+        "request": "outputs/production/north-wall-ref-l-v1-request.json",
+        "quote": "outputs/production/north-wall-ref-l-v1-quote.json",
+        "result": "outputs/production/north-wall-ref-l-v1-result.json",
+        "stderr": "outputs/production/north-wall-ref-l-v1-stderr.txt"
       },
       "source_provenance": null,
       "review_source_note": "Recorded inspection/conversation findings or source-reference role; not a new visual inspection."
