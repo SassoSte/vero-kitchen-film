@@ -1,0 +1,40 @@
+[
+  {
+    "created_at": "2026-10-10T18:11:18.98942Z",
+    "display_name": "GPT Image 2",
+    "id": "2737b9a1-9639-4052-8c5f-fb30d079a5c8",
+    "job_type": "gpt_image_2",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_181118_2737b9a1-9639-4052-8c5f-fb30d079a5c8_min.webp",
+    "params": {
+      "aspect_ratio": "16:9",
+      "height": 1520,
+      "medias": [
+        {
+          "data": {
+            "id": "80d2f9be-8550-4aff-b3ae-703cb21e805e",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/80d2f9be-8550-4aff-b3ae-703cb21e805e_resize.jpg"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "50531474-917f-4c26-88fc-56a3a4e1d933",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/50531474-917f-4c26-88fc-56a3a4e1d933_resize.jpg"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "videotape-alpha",
+      "prompt": "Image1 is the END frame of a short construction take. Produce the START frame of the same take: reproduce image1 exactly — same camera, framing, room, walls, floor, old refrigerator, cabinets, lighting, and the same two workers with the same faces, clothes and tool belts standing in the same places — with ONE difference: the pale stone worktop slab on the right-hand base cabinets is lifted about 8 cm above them, held perfectly level and already aligned in its final position. Both workers grip it from below at its front edge (lead near the front-left corner, partner further along), knees slightly bent, forearms tensed, looking down at the gap. Under the raised slab the tops of the white base cabinets are exposed: unfinished plywood top rims, visible as a thin shadowed gap between slab and cabinets. The slab is the same size, colour and veining, rigid, not tilted. Lead: short grey hair, navy long-sleeve work shirt, tan leather tool belt. Partner: grey work shirt, dark cap, dark-brown tool belt. No new objects, no tools on the slab. Photoreal.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 2688
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_181118_2737b9a1-9639-4052-8c5f-fb30d079a5c8.png",
+    "status": "completed"
+  }
+]

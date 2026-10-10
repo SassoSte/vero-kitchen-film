@@ -7,7 +7,7 @@
 - [Selected stills and history](outputs/stills-gallery.html) · [catalog](docs/ASSET-CATALOG.md) · [sources](docs/SOURCE-REGISTER.md).
 - [Editable shotlist](outputs/shotlist.html) · [construction-state plan](outputs/production/construction-state-plan.json).
 
-Selected views: `kitchen-smeg-realism-v1`, `west-phone-speaker-realism-v1`, and user-restored `apartment-fridge-reconstruction-v11`. The set is not yet fully reconciled; B06a remains open. Local 3D work is archived.
+Selected views: `kitchen-smeg-enclosure-v2` (B06a-corrected view 1, accepted 2026-10-10), `west-phone-speaker-realism-v1`, and user-restored `apartment-fridge-reconstruction-v11`. B06a is closed; B07 is current. Local 3D work is archived.
 
 Task spend **302.25/303 credits**, **0.75 remaining**. No new paid execution authorized. Assistance document prepared locally; no Opus session or external message started.
 

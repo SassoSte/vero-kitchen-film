@@ -1,10 +1,26 @@
 {
   "date": "2026-10-10",
   "timezone": "America/Phoenix",
-  "user_text": "Very well. Let's lock that - and go to the west wall.",
-  "asset": "outputs/keyframes/kitchen-smeg-realism-v1.png",
-  "sha256": "488e9ffedae8f794c97d71a726ffb045a984e095fe85e51b57d1628a25a293fb",
-  "scope": "User-approved visual north/east wide kitchen view. Preserve appearance; not construction-fit or final-film approval.",
-  "next_focus": "West sink/pass-through wall, established sink-v4.png",
-  "known_visual_details": "Accepted current image as displayed, including espresso tray cup and current frosting/SMEG rendering; do not automatically fix or revert them."
+  "user_text": "Accept option 1 and continue to B07",
+  "asset": "outputs/keyframes/kitchen-smeg-enclosure-v2.png",
+  "sha256": "0c0f2f5de8aae00331508e07d5705ba19147b9d27800563d73bd0697c72e55f4",
+  "derived_from": {
+    "asset": "outputs/keyframes/kitchen-smeg-realism-v1.png",
+    "sha256": "488e9ffedae8f794c97d71a726ffb045a984e095fe85e51b57d1628a25a293fb",
+    "method": "Unpaid local masked composite (tools/b06a_local_enclosure.py); 0 pixels changed outside mask",
+    "review": "docs/B06A-LOCAL-ENCLOSURE-REVIEW.md",
+    "receipt": "outputs/production/b06a-local-enclosure-v1-receipt.json"
+  },
+  "scope": "User-accepted north/east view with view-3 fridge enclosure (B06a closed). Preserve appearance; not construction-fit or final-film approval.",
+  "known_visual_details": "Accepted current image as displayed, including espresso tray cup and current frosting/SMEG rendering; do not automatically fix or revert them. B06a candidate weak points (flat tall side panel, approximate handle relief) accepted as-is.",
+  "prior_lock": {
+    "date": "2026-10-10",
+    "timezone": "America/Phoenix",
+    "user_text": "Very well. Let's lock that - and go to the west wall.",
+    "asset": "outputs/keyframes/kitchen-smeg-realism-v1.png",
+    "sha256": "488e9ffedae8f794c97d71a726ffb045a984e095fe85e51b57d1628a25a293fb",
+    "scope": "User-approved visual north/east wide kitchen view. Preserve appearance; not construction-fit or final-film approval.",
+    "next_focus": "West sink/pass-through wall, established sink-v4.png",
+    "known_visual_details": "Accepted current image as displayed, including espresso tray cup and current frosting/SMEG rendering; do not automatically fix or revert them."
+  }
 }

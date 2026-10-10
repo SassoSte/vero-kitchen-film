@@ -10,12 +10,13 @@ state=json.loads((ROOT/'outputs/production/state.json').read_text())
 budget_path=ROOT/'outputs/production/budget.json';budget=json.loads(budget_path.read_text())
 check(state.get('status') in {'concept-review-hold','handoff-prepared'} and state.get('generation_allowed') is False,'One-concept complete; further generation disabled')
 authorization=json.loads((ROOT/budget['authorization']).read_text())
-check(authorization['budget_user_text']=='Approve 303 total; correct view 1' and authorization['max_new_jobs']==1,'Explicit one-render authorization')
-check(budget['ceiling_credits']==authorization['total_ceiling_credits']==303,'Approved total ceiling303')
+check(authorization.get('status')=='APPROVED' and authorization.get('budget_user_text')=='Approve 39 for 03A frames','Current allowance explicitly approved by user')
+check(sum(1 for x in budget['jobs'] if x['name'] in authorization['jobs'] or x['name'].startswith(('stage-03-plate','03A-')))<=authorization['max_new_jobs'],'Allowance job count within approval')
+check(budget['ceiling_credits']==authorization['total_ceiling_credits']==342.25,'Approved total ceiling342.25')
 quote_total=round(sum(x['quote'] for x in budget['jobs']),2)
-check(quote_total==302.25 and budget['task_quote_total']==quote_total,'48 job quotes total302.25')
-check(len(budget['jobs'])==48 and all(x['status']=='generated' for x in budget['jobs']),'All48 recorded jobs terminal/generated')
-check(round(budget['ceiling_credits']-quote_total,2)==budget['remaining_phase_credits']==0.75,'Remaining task allowance0.75')
+check(quote_total==334.75 and budget['task_quote_total']==quote_total,'53 job quotes total334.75')
+check(len(budget['jobs'])==53 and all(x['status']=='generated' for x in budget['jobs']),'All53 recorded jobs terminal/generated')
+check(round(budget['ceiling_credits']-quote_total,2)==budget['remaining_phase_credits']==7.5,'Remaining task allowance7.5')
 name='master-third-view-continuity-v1'
 job=next((x for x in budget['jobs'] if x['name']==name),None)
 result_path=ROOT/f'outputs/production/{name}-result.json'
@@ -41,7 +42,8 @@ check(actual=={a['path'] for a in assets},'Every raster/video is cataloged exact
 for a in assets:
  p=ROOT/a['path'];check(p.is_file() and digest(p)==a['sha256'],f'Asset hash {a["path"]}')
  for kind,rel in a.get('receipts',{}).items():check((ROOT/rel).is_file(),f'Receipt {rel}')
-check(cat['still_count']==82 and cat['video_count']==3,'Inventory82 stills /3 videos')
+vids={'.mp4','.mov','.webm','.m4v'}
+check(cat['video_count']==3 and cat['still_count']==sum(Path(a['path']).suffix.lower() not in vids for a in assets),'Inventory counts match catalog entries; 3 videos')
 manifest=json.loads((ROOT/'references/source-manifest.json').read_text())
 for group in ['files','supplemental_documents_captured_2026_10_09']:
  for a in manifest.get(group,[]):

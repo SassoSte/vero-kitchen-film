@@ -1,0 +1,33 @@
+{
+ "base": "outputs/keyframes/kitchen-smeg-enclosure-v2.png",
+ "returned": "outputs/construction/raw/stage-03-plate-v1.png",
+ "mask": "outputs/production/masks/plate-03-mask.png",
+ "output": "outputs/construction/raw/stage-03-plate-v1-composite.png",
+ "homography": [
+  [
+   0.9987,
+   -0.00983,
+   6.01322
+  ],
+  [
+   0.04382,
+   0.95965,
+   -39.16
+  ],
+  [
+   3e-05,
+   -2e-05,
+   1.0
+  ]
+ ],
+ "ransac_inliers": 181,
+ "protected_mean_abs_diff_raw": 17.54,
+ "protected_mean_abs_diff_registered": 15.33,
+ "ring_colour_gain_bgr": [
+  0.9364,
+  0.9448,
+  0.9727
+ ],
+ "protected_pixels_changed": 0,
+ "output_sha256": "16c3cf69b6a0c5364dccbcc903a9edacf26bae15826603657b5eeb3d66fa04b8"
+}

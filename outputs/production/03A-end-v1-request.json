@@ -1,0 +1,20 @@
+{
+  "model": "gpt_image_2",
+  "params": {
+    "quality": "high",
+    "resolution": "2k",
+    "aspect_ratio": "16:9"
+  },
+  "references": [
+    "outputs/construction/stage-03-plate.png",
+    "outputs/keyframes/workers-v1.png"
+  ],
+  "prompt": "Image1 is a fixed photograph of a kitchen under construction; reproduce it exactly \u2014 same camera, framing, perspective, lighting, walls, floor, old refrigerator, cabinets and stone worktops \u2014 and ADD ONLY two workers. They have just finished seating the pale stone worktop slab on the right-hand cooking-run base cabinets (in the right foreground, already fully seated and flush in image1). Both stand on the concrete floor in the aisle in front of those right cabinets, facing the worktop (toward the right of the frame), hands lifted a few centimetres off the slab's front edge as they let go, looking down at the seam. Lead worker nearer the camera on the right, partly cut by the bottom edge; partner further along the run toward the empty appliance bay. Correct human scale for the cabinet height (worktop at hip height). Lead: short grey hair, navy long-sleeve work shirt, dark trousers, tan leather tool belt, tan boots. Partner: grey work shirt, dark trousers, dark cap, dark-brown tool belt, tan boots. Match image2's faces and clothing exactly. No tools on the worktop, no new objects, no other people. Photoreal.",
+  "output": "outputs/construction/raw/03A-end-v1.png",
+  "post": {
+    "tool": "tools/stage_composite.py (person-difference mask within 03A-action)",
+    "base": "outputs/construction/stage-03-plate.png",
+    "region": "outputs/production/masks/03A-action-mask.png",
+    "final": "outputs/construction/03A-end.png"
+  }
+}

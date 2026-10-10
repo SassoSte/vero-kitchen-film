@@ -1,0 +1,20 @@
+{
+  "model": "gpt_image_2",
+  "params": {
+    "quality": "high",
+    "resolution": "2k",
+    "aspect_ratio": "16:9"
+  },
+  "references": [
+    "outputs/keyframes/kitchen-smeg-enclosure-v2.png",
+    "references/original/ref-a-cooking-run.webp"
+  ],
+  "prompt": "Edit image1 into an EARLIER construction state of the same kitchen. Same exact camera, lens, room, walls, ceiling, concrete floor, west base cabinets/worktop/dishwasher, and the white Shaker base cabinets and pale stone worktop on the right cooking run; do not move or resize anything that stays.\nAt this stage: (1) the cooking wall above the worktop is plain painted drywall: NO stone backsplash, NO upper cabinets, NO glass-front cupboards, NO hood or chimney, NO pot filler; (2) the gas range is NOT installed: leave an empty 30-inch range opening between the base cabinets showing the bare wall, a capped gas stub and the concrete floor; (3) the fitted fridge enclosure and over-fridge cupboard are NOT built: in the same corner stands the OLD freestanding stainless top-freezer refrigerator from image2 with bare wall above it; (4) the north-wall niche is an unfinished framed opening: no glass cupboard, espresso machine, shelves, wine fridge or oak fronts; (5) the west sink is not yet seated: an empty cutout in the worktop; (6) no toaster, kettle, plant or decor; lights off, neutral daylight. No people. Photoreal, same photograph otherwise.",
+  "output": "outputs/construction/raw/stage-03-plate-v1.png",
+  "post": {
+    "tool": "tools/stage_composite.py",
+    "base": "outputs/keyframes/kitchen-smeg-enclosure-v2.png",
+    "mask": "outputs/production/masks/plate-03-mask.png",
+    "final": "outputs/construction/stage-03-plate.png"
+  }
+}

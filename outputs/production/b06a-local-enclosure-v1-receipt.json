@@ -1,0 +1,18 @@
+{
+ "output": "outputs/keyframes/kitchen-smeg-enclosure-v2.png",
+ "mask_px": 205669,
+ "mask_fraction": 0.05034,
+ "mask_bbox": [
+  1287,
+  0,
+  1700,
+  1222
+ ],
+ "v1_sha256": "488e9ffedae8f794c97d71a726ffb045a984e095fe85e51b57d1628a25a293fb",
+ "v3_sha256": "bc6a5b27c05a960c010e0a2404f7bd98fb7f43f92b7cebed6b3e8a48594e9649",
+ "output_sha256": "0c0f2f5de8aae00331508e07d5705ba19147b9d27800563d73bd0697c72e55f4",
+ "generated_as": "outputs/review/b06a-local-enclosure-v1.png",
+ "promoted": "2026-10-10 user: \"Accept option 1 and continue to B07\"",
+ "paid_spend": 0,
+ "pixels_changed_outside_mask": 0
+}

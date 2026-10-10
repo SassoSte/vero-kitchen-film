@@ -2,6 +2,11 @@
 
 Prepared 2026-10-10, America/Phoenix. Workspace: `/Users/stefansassoon/projects/vero-kitchen-film`.
 
+> **Status update 2026-10-10:** B06a resolved — Stefan accepted the unpaid local correction
+> `outputs/keyframes/kitchen-smeg-enclosure-v2.png` as selected view 1
+> ([review](docs/B06A-LOCAL-ENCLOSURE-REVIEW.md)). The view-1 entries below are the pre-correction
+> record. Current work is B07; see [HANDOFF](HANDOFF.md) and [BACKLOG](docs/BACKLOG.md).
+
 ## Request to Opus
 
 Please help resolve the remaining three-view continuity problem, then help carry the kitchen-remodel film toward completion. Preserve Stefan's selected design and use a controlled correction method of your choosing. Do not restart design exploration.

@@ -1,0 +1,27 @@
+{
+  "model": "gpt_image_2",
+  "params": {
+    "quality": "high",
+    "resolution": "2k",
+    "aspect_ratio": "4:3"
+  },
+  "references": [
+    "outputs/construction/raw/stage-03-range-crop-input.png"
+  ],
+  "prompt": "Photo of a kitchen under construction. Remove ONLY the stainless-steel gas range with red knobs in the centre, including its cooktop grates and oven door. In its place show the EMPTY 30-inch appliance opening between the two white Shaker base cabinets: the left cabinet's plain white painted side panel facing the opening, the bare painted wall at the back of the opening, a short capped gas pipe stub and a single electrical outlet low on that back wall, and the polished grey concrete floor continuing into the opening. Nothing stands in the opening. Keep the camera, crop, framing, perspective, lighting, the old stainless top-freezer refrigerator, both white base cabinets, the pale stone worktops, the plain walls and the floor exactly as they are. No people, no tools, no new objects. Photoreal.",
+  "output": "outputs/construction/raw/stage-03-plate-v2-range.png",
+  "crop": {
+    "x0": 1290,
+    "y0": 600,
+    "x1": 2517,
+    "y1": 1520,
+    "from": "outputs/construction/raw/stage-03-plate-local-v1.png"
+  },
+  "post": {
+    "tool": "tools/stage_composite.py",
+    "base": "outputs/construction/raw/stage-03-range-crop-input.png",
+    "mask": "outputs/production/masks/stage-03-range-crop-mask.png"
+  },
+  "attempt": 2,
+  "finding_for_attempt_1": "docs/B07-STAGE-03-PLATE-REVIEW.md"
+}

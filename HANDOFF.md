@@ -2,17 +2,17 @@
 
 Updated 2026-10-10, America/Phoenix.
 
-**Status: incomplete. Codex has not completed the requested film or resolved the remaining finished-view continuity blocker.** Stefan requested help from Anthropic's Opus. The assistance handoff is prepared, not sent.
+**Status: incomplete.** Opus (Claude Code) took over on 2026-10-10. **B06a is closed**: Stefan accepted an unpaid local enclosure correction of view 1 ([review](docs/B06A-LOCAL-ENCLOSURE-REVIEW.md)). The 60-second film is not produced.
 
 Start with **[OPUS-HANDOFF.md](OPUS-HANDOFF.md)**. It contains the exact selected files, previews, authority, acceptance criteria, source pointers and next steps.
 
 ## Current work
 
-B06a is the immediate P0 blocker: match view 1's refrigerator enclosure to the restored third view without changing the surrounding layout. view 2's phone/speaker nook is correctly hidden from the third camera; do not relocate it. Preserve the selected photographic images. Local 3D studies remain archived.
+B07 is current: cumulative construction-state frames, starting with the 03A quartz START/END pair. B06a is closed; do not reopen the enclosure. view 2's phone/speaker nook is correctly hidden from the third camera; do not relocate it. Preserve the selected photographic images. Local 3D studies remain archived.
 
 | View | Selected image |
 |---|---|
-|1 — north/east interior|[kitchen-smeg-realism-v1](outputs/keyframes/kitchen-smeg-realism-v1.png)|
+|1 — north/east interior|[kitchen-smeg-enclosure-v2](outputs/keyframes/kitchen-smeg-enclosure-v2.png) (B06a-corrected)|
 |2 — west sink wall|[west-phone-speaker-realism-v1](outputs/keyframes/west-phone-speaker-realism-v1.png)|
 |3 — living-room-facing|[apartment-fridge-reconstruction-v11](outputs/keyframes/apartment-fridge-reconstruction-v11.png)|
 

@@ -1,0 +1,40 @@
+[
+  {
+    "created_at": "2026-10-10T18:04:11.591037Z",
+    "display_name": "GPT Image 2",
+    "id": "84f938c3-88f1-4835-afb4-52dddfb26401",
+    "job_type": "gpt_image_2",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_180411_84f938c3-88f1-4835-afb4-52dddfb26401_min.webp",
+    "params": {
+      "aspect_ratio": "16:9",
+      "height": 1520,
+      "medias": [
+        {
+          "data": {
+            "id": "58937bdc-3137-4d5d-9f78-5dde6a8378ed",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/58937bdc-3137-4d5d-9f78-5dde6a8378ed_resize.jpg"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "e6222959-fb55-4495-ae7f-77acc96694cf",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/e6222959-fb55-4495-ae7f-77acc96694cf_resize.jpg"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "videotape-alpha",
+      "prompt": "Image1 is a fixed photograph of a kitchen under construction; reproduce it exactly — same camera, framing, perspective, lighting, walls, floor, old refrigerator, cabinets and stone worktops — and ADD ONLY two workers. They have just finished seating the pale stone worktop slab on the right-hand cooking-run base cabinets (in the right foreground, already fully seated and flush in image1). Both stand on the concrete floor in the aisle in front of those right cabinets, facing the worktop (toward the right of the frame), hands lifted a few centimetres off the slab's front edge as they let go, looking down at the seam. Lead worker nearer the camera on the right, partly cut by the bottom edge; partner further along the run toward the empty appliance bay. Correct human scale for the cabinet height (worktop at hip height). Lead: short grey hair, navy long-sleeve work shirt, dark trousers, tan leather tool belt, tan boots. Partner: grey work shirt, dark trousers, dark cap, dark-brown tool belt, tan boots. Match image2's faces and clothing exactly. No tools on the worktop, no new objects, no other people. Photoreal.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 2688
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_180411_84f938c3-88f1-4835-afb4-52dddfb26401.png",
+    "status": "completed"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "created_at": "2026-10-10T17:57:46.734245Z",
+    "display_name": "GPT Image 2",
+    "id": "f1134a0a-9063-44a6-9f79-9649853987cf",
+    "job_type": "gpt_image_2",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_175746_f1134a0a-9063-44a6-9f79-9649853987cf_min.webp",
+    "params": {
+      "aspect_ratio": "4:3",
+      "height": 1744,
+      "medias": [
+        {
+          "data": {
+            "id": "310a49fa-c565-4a2e-b67f-11eb9e5b5d93",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/310a49fa-c565-4a2e-b67f-11eb9e5b5d93.png"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "videotape-alpha",
+      "prompt": "Photo of a kitchen under construction. Remove ONLY the stainless-steel gas range with red knobs in the centre, including its cooktop grates and oven door. In its place show the EMPTY 30-inch appliance opening between the two white Shaker base cabinets: the left cabinet's plain white painted side panel facing the opening, the bare painted wall at the back of the opening, a short capped gas pipe stub and a single electrical outlet low on that back wall, and the polished grey concrete floor continuing into the opening. Nothing stands in the opening. Keep the camera, crop, framing, perspective, lighting, the old stainless top-freezer refrigerator, both white base cabinets, the pale stone worktops, the plain walls and the floor exactly as they are. No people, no tools, no new objects. Photoreal.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 2336
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_175746_f1134a0a-9063-44a6-9f79-9649853987cf.png",
+    "status": "completed"
+  }
+]

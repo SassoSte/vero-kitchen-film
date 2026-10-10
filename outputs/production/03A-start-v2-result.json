@@ -1,0 +1,40 @@
+[
+  {
+    "created_at": "2026-10-10T18:14:19.109945Z",
+    "display_name": "GPT Image 2",
+    "id": "e5947408-eab7-4754-8e52-f9041c8fa9d0",
+    "job_type": "gpt_image_2",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_181419_e5947408-eab7-4754-8e52-f9041c8fa9d0_min.webp",
+    "params": {
+      "aspect_ratio": "16:9",
+      "height": 1520,
+      "medias": [
+        {
+          "data": {
+            "id": "a323783f-77b0-4570-8697-7663f8972851",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/a323783f-77b0-4570-8697-7663f8972851_resize.jpg"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "989c900a-a7bd-473f-8b18-27204345d9eb",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/989c900a-a7bd-473f-8b18-27204345d9eb_resize.jpg"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "videotape-alpha",
+      "prompt": "Image1 is a construction photograph; keep it exactly — same camera, framing, room, walls, floor, old refrigerator, cabinets, the same two workers in the same places with the same faces, clothes and tool belts, and the same pale stone slab in the same horizontal position — with TWO corrections: (1) the slab is LOWER: only about 7 cm (a hand's width) above the exposed white base cabinets, a thin dark gap between slab underside and the plywood cabinet rims; (2) both workers physically SUPPORT its weight from BELOW: fingers curled under the slab's front edge and palms under its underside, thumbs on the top edge, wrists below the slab, elbows bent, shoulders engaged, as if carrying a heavy stone countertop. No hand rests flat on top. Slab rigid, level, same size, veining and thickness. Lead: short grey hair, navy long-sleeve shirt, tan leather tool belt. Partner: grey shirt, dark cap, dark-brown tool belt. No new objects. Photoreal.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 2688
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_181419_e5947408-eab7-4754-8e52-f9041c8fa9d0.png",
+    "status": "completed"
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "status": "APPROVED",
+  "date": "2026-10-10",
+  "scope": "B07 first stage frames for take 03A: stage-03 plate, 03A END, 03A START",
+  "jobs": [
+    "stage-03-plate-v1",
+    "03A-end-v1",
+    "03A-start-v1"
+  ],
+  "max_new_jobs": 6,
+  "max_attempts_per_frame": 2,
+  "expected_quote_per_job_credits": 6.5,
+  "maximum_new_spend_credits": 39,
+  "proposed_total_ceiling_credits": 342.25,
+  "sequence": "strictly sequential; lead inspects and composites each return before the next submission; no automatic retry \u2014 a second attempt per frame only after a written finding",
+  "excludes": [
+    "video generation",
+    "any other stage frames",
+    "top-ups",
+    "publishing"
+  ],
+  "approved": "2026-10-10 America/Phoenix",
+  "budget_user_text": "Approve 39 for 03A frames",
+  "total_ceiling_credits": 342.25,
+  "prior_ceiling_credits": 303
+}

@@ -4,17 +4,19 @@
 
 Read `OPUS-HANDOFF.md`, then `HANDOFF.md`, `mega-prompt.md`, `docs/SOURCE-REGISTER.md`
 and `docs/BACKLOG.md`. The user requested an assistance handoff to Anthropic Opus.
-Codex has not completed the film or resolved B06a. Handoff is prepared locally, not sent.
+Opus (Claude Code) took over 2026-10-10. B06a is closed (user accepted an unpaid local
+correction); the film is not complete. Current work is B07.
 
 ## Scope and authority
 
 Preserve the three selected photographic references and their selection records:
-- View 1: `outputs/keyframes/kitchen-smeg-realism-v1.png`.
+- View 1: `outputs/keyframes/kitchen-smeg-enclosure-v2.png` — B06a-corrected from
+  `kitchen-smeg-realism-v1.png` (preserved), user accepted 2026-10-10.
 - View 2: `outputs/keyframes/west-phone-speaker-realism-v1.png`.
 - View 3: `outputs/keyframes/apartment-fridge-reconstruction-v11.png` — user restored.
 
-Immediate task B06a: align view 1's fridge/enclosure with view 3 without layout drift.
-The phone/speaker nook is on the kitchen-facing west wall and naturally hidden from
+Immediate task B07: cumulative construction-state frames, starting with the 03A quartz
+START/END pair. B06a is closed; do not reopen the fridge enclosure. The phone/speaker nook is on the kitchen-facing west wall and naturally hidden from
 view 3. Do not duplicate or relocate it. Local 3D studies are archived; do not restart
 that workflow or reopen the selected design without explicit user direction.
 

@@ -1,0 +1,33 @@
+{
+ "base": "outputs/construction/raw/stage-03-range-crop-input.png",
+ "returned": "outputs/construction/raw/stage-03-plate-v2-range.png",
+ "mask": "outputs/production/masks/stage-03-range-crop-mask.png",
+ "output": "outputs/construction/raw/stage-03-range-crop-composite.png",
+ "homography": [
+  [
+   1.01726,
+   -0.00074,
+   0.87867
+  ],
+  [
+   0.00641,
+   1.01312,
+   -0.76938
+  ],
+  [
+   2e-05,
+   -1e-05,
+   1.0
+  ]
+ ],
+ "ransac_inliers": 140,
+ "protected_mean_abs_diff_raw": 16.39,
+ "protected_mean_abs_diff_registered": 14.76,
+ "ring_colour_gain_bgr": [
+  0.9879,
+  0.9887,
+  0.9874
+ ],
+ "protected_pixels_changed": 0,
+ "output_sha256": "a9e6660d8c4a73d04e0c602cb0889996629bb7a722086dbcc84e3e9b36c9e3e3"
+}

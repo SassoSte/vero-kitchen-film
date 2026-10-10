@@ -1,7 +1,7 @@
 {
-  "ceiling_credits": 303,
+  "ceiling_credits": 342.25,
   "opening_balance": 1246.8,
-  "reserved_credits": 302.25,
+  "reserved_credits": 334.75,
   "jobs": [
     {
       "name": "master-v1",
@@ -337,17 +337,62 @@
       "status": "generated",
       "job_id": "d5e17269-cc16-40bf-b1f0-e46d19b2dc58",
       "file": "outputs/keyframes/master-third-view-continuity-v1.png"
+    },
+    {
+      "name": "stage-03-plate-v1",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "883c3c79-1e81-4dfd-8240-ae21ab5b5805",
+      "file": "outputs/construction/raw/stage-03-plate-v1.png"
+    },
+    {
+      "name": "stage-03-plate-v2-range",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "f1134a0a-9063-44a6-9f79-9649853987cf",
+      "file": "outputs/construction/raw/stage-03-plate-v2-range.png"
+    },
+    {
+      "name": "03A-end-v1",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "84f938c3-88f1-4835-afb4-52dddfb26401",
+      "file": "outputs/construction/raw/03A-end-v1.png"
+    },
+    {
+      "name": "03A-start-v1",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "2737b9a1-9639-4052-8c5f-fb30d079a5c8",
+      "file": "outputs/construction/raw/03A-start-v1.png"
+    },
+    {
+      "name": "03A-start-v2",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "e5947408-eab7-4754-8e52-f9041c8fa9d0",
+      "file": "outputs/construction/raw/03A-start-v2.png"
     }
   ],
   "balance_after": 3929,
   "balance_delta": null,
-  "remaining_phase_credits": 0.75,
+  "remaining_phase_credits": 7.5,
   "account_snapshot_note": "View1 continuity attempt3935.5 to3929 matches6.5 quote; cap303 unchanged.",
-  "task_quote_total": 302.25,
+  "task_quote_total": 334.75,
   "latest_pass": {
     "opening_account_balance": 3935.5,
     "closing_account_balance": 3929,
     "quoted_cost": 6.5
   },
-  "authorization": "outputs/production/master-third-continuity-authorization.json"
+  "authorization": "outputs/production/b07-03a-frames-authorization.json",
+  "prior_authorization": "outputs/production/master-third-continuity-authorization.json",
+  "ceiling_history": [
+    {
+      "date": "2026-10-10",
+      "from": 303,
+      "to": 342.25,
+      "user_text": "Approve 39 for 03A frames",
+      "scope": "\u22646 sequential GPT Image 2 jobs for 03A stage frames"
+    }
+  ]
 }

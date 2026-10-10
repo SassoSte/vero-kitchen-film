@@ -15,15 +15,15 @@ The final film and accepted production takes do not yet exist.
 
 ## Selected appearance and orientation
 
-- **View 1 — north/east:** `outputs/keyframes/kitchen-smeg-realism-v1.png`.
+- **View 1 — north/east:** `outputs/keyframes/kitchen-smeg-enclosure-v2.png` (B06a-corrected; accepted 2026-10-10).
 - **View 2 — west:** `outputs/keyframes/west-phone-speaker-realism-v1.png`.
 - **View 3 — living-room-facing:** `outputs/keyframes/apartment-fridge-reconstruction-v11.png`.
   The user explicitly restored this image after the 3D detour and said to move on.
 
 North = coffee/wine end wall; east = fridge/cooking run; west = sink/pass-through/bar
 side; south = kitchen access. These are the user's discussion directions, not a survey.
-View 3 is the authority for refrigerator/enclosure appearance; view 1 needs the B06a
-continuity correction. The set is selected but not fully reconciled. Do not use the
+View 3 is the authority for refrigerator/enclosure appearance; view 1 now carries the
+same enclosure (B06a closed 2026-10-10). The three-view set is reconciled visually. Do not use the
 rejected `master-third-view-continuity-v1.png` as a replacement.
 
 The phone dock and small speaker belong in the compact oak-lined west-wall nook.
@@ -92,7 +92,7 @@ Source duration placeholders are not provider quotes or accepted trims.
 
 ## Production gates and budget
 
-B06a must be accepted before dependent stage-image/motion production. Then prepare
+B06a was accepted 2026-10-10. Now prepare
 and inspect matching construction START/END frames. First pilot is 03A: final short
 quartz descent onto aligned bases, with hands released only after complete seating.
 The old quartz/stool failures and obsolete fridge pilot are historical diagnostics.

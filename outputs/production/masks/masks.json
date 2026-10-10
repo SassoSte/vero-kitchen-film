@@ -1,0 +1,21 @@
+{
+  "master": "outputs/keyframes/kitchen-smeg-enclosure-v2.png",
+  "masks": {
+    "plate-03": {
+      "regions": [
+        "east wall above worktop, hood, uppers, pot filler, kettle",
+        "fridge + enclosure -> old fridge, bare wall",
+        "range -> empty opening",
+        "north coffee/wine niche -> unfinished opening",
+        "west sink -> empty cutout"
+      ],
+      "fraction": 0.5248
+    },
+    "03A-action": {
+      "regions": [
+        "right cooking-run worktop and workers"
+      ],
+      "fraction": 0.3163
+    }
+  }
+}

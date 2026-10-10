@@ -7,8 +7,8 @@ The prior accumulated backlog is preserved in the pre-Opus archive.
 
 | Priority | Item | Current status |
 |---|---|---|
-| P0 | B06a — selected-view continuity | Open production blocker; immediate Opus assistance target |
-| P1 | B07 — workers and cumulative stages | Planning prepared; stage frames not generated |
+| — | B06a — selected-view continuity | **CLOSED 2026-10-10** — user accepted `kitchen-smeg-enclosure-v2` |
+| P0 | B07 — workers and cumulative stages | Current; 03A stage-frame requests prepared, awaiting allowance |
 | P1 | B08–B09 — motion pilots | Held behind reference/stage gate and new budget |
 | P1 | B10 — final take/budget plan | 13-shot/30-take draft prepared; quotes/trim decisions pending |
 | P1 | B11–B13 — production, assembly, delivery | Not completed |
@@ -44,7 +44,12 @@ Selected view 2 owns the compact phone/speaker nook, base microwave left of sink
 L-faucet/dispenser and DW relation. Nook is kitchen-facing; view 3 naturally hides it.
 No relocation, duplication or return to spices/decor. Visibility is not an open defect.
 
-### B06a — Reconcile view 1 fridge/enclosure with selected view 3 (P0, OPEN)
+### B06a — Reconcile view 1 fridge/enclosure with selected view 3 (CLOSED 2026-10-10)
+
+Resolved by unpaid local masked composite; Stefan: "Accept option 1 and continue to B07".
+Selected view 1 is now `outputs/keyframes/kitchen-smeg-enclosure-v2.png`; the original
+`kitchen-smeg-realism-v1.png` is preserved. See [review](B06A-LOCAL-ENCLOSURE-REVIEW.md).
+Historical description follows.
 
 **Immediate objective:** correct view 1's refrigerator installation to match view 3,
 without layout drift. Keep views 2 and 3 unchanged. Current selected files and previews are
@@ -60,7 +65,11 @@ cabinetry, unchanged room/camera/range/coffee-station locations, actual three-vi
 inspection and user visual acceptance. Occluded features remain occluded. More budget
 alone does not close this technical gate.
 
-### B07 — Workers and cumulative construction stages (P1, PARTIAL)
+### B07 — Workers and cumulative construction stages (P0, CURRENT)
+
+2026-10-10: 03A stage-frame method, masks, composite tool and three sequential requests
+prepared unpaid; see [B07-03A-PLAN](B07-03A-PLAN.md). Awaiting a concrete allowance.
+Earlier status:
 
 Worker sheet re-inspected. [State plan](../outputs/production/construction-state-plan.json)
 and [shotlist](../outputs/shotlist.html) prepared. No current reviewed START/END image

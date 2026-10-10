@@ -1,0 +1,40 @@
+[
+  {
+    "created_at": "2026-10-10T17:48:29.619641Z",
+    "display_name": "GPT Image 2",
+    "id": "883c3c79-1e81-4dfd-8240-ae21ab5b5805",
+    "job_type": "gpt_image_2",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_174829_883c3c79-1e81-4dfd-8240-ae21ab5b5805_min.webp",
+    "params": {
+      "aspect_ratio": "16:9",
+      "height": 1520,
+      "medias": [
+        {
+          "data": {
+            "id": "739a035e-9635-4840-9563-1770b13f7207",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/739a035e-9635-4840-9563-1770b13f7207_resize.jpg"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "d43eb3be-b741-4a4a-a4fd-907129eb93fd",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/d43eb3be-b741-4a4a-a4fd-907129eb93fd.webp"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "videotape-alpha",
+      "prompt": "Edit image1 into an EARLIER construction state of the same kitchen. Same exact camera, lens, room, walls, ceiling, concrete floor, west base cabinets/worktop/dishwasher, and the white Shaker base cabinets and pale stone worktop on the right cooking run; do not move or resize anything that stays.\nAt this stage: (1) the cooking wall above the worktop is plain painted drywall: NO stone backsplash, NO upper cabinets, NO glass-front cupboards, NO hood or chimney, NO pot filler; (2) the gas range is NOT installed: leave an empty 30-inch range opening between the base cabinets showing the bare wall, a capped gas stub and the concrete floor; (3) the fitted fridge enclosure and over-fridge cupboard are NOT built: in the same corner stands the OLD freestanding stainless top-freezer refrigerator from image2 with bare wall above it; (4) the north-wall niche is an unfinished framed opening: no glass cupboard, espresso machine, shelves, wine fridge or oak fronts; (5) the west sink is not yet seated: an empty cutout in the worktop; (6) no toaster, kettle, plant or decor; lights off, neutral daylight. No people. Photoreal, same photograph otherwise.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 2688
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_174829_883c3c79-1e81-4dfd-8240-ae21ab5b5805.png",
+    "status": "completed"
+  }
+]
