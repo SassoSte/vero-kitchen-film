@@ -1,0 +1,32 @@
+[
+  {
+    "created_at": "2026-10-10T07:28:03.66671Z",
+    "display_name": "GPT Image 2",
+    "id": "565e53bd-73b4-45b1-987f-bb7a5fa2b967",
+    "job_type": "gpt_image_2",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_072803_565e53bd-73b4-45b1-987f-bb7a5fa2b967_min.webp",
+    "params": {
+      "aspect_ratio": "16:9",
+      "height": 1520,
+      "medias": [
+        {
+          "data": {
+            "id": "91b1fd19-09fa-423b-9be5-be108350c56d",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/91b1fd19-09fa-423b-9be5-be108350c56d_resize.jpg"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "videotape-alpha",
+      "prompt": "Edit ONLY the recessed oak-lined nook at the left of this existing west-wall kitchen image. Keep its exact outer opening, position, dimensions, white frame and oak lining. Remove ALL spice jars, their internal horizontal shelf, and the round smart speaker. Leave ONLY the existing phone dock/charging station, with the phone seated naturally on its dock on the bottom of the recess. Conceal charging wiring. Keep restrained, soft concealed light at the top of the nook; no spotlight hotspot or exaggerated glow. The dock/phone should look photographed in the room, with realistic perspective, modest reflections, material texture, contact shadow and image sharpness consistent with nearby cabinetry. Leave the remaining niche empty. Do not add a vase, glasses, tray, plant, cutting boards, knives, decorations, accessories or extra devices.\nEverything outside the nook stays unchanged: existing camera and full framing, west wall, electrical switches/outlets, microwave BELOW the counter LEFT of sink, single basin, L-shaped faucet and soap dispenser, dishwasher and clear worktop, white Shaker cabinetry, pale quartz, raised pass-through, flowers/fruit already on the ledge, living-room opening, doors/windows, ceiling fan and floor. Do not lower the opening to the countertop, add a prep niche, move any appliances, redesign any wall, or change other established styling. One photoreal full16:9 west-wall image with a clean charging-only nook. No labels or new text.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 2688
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_072803_565e53bd-73b4-45b1-987f-bb7a5fa2b967.png",
+    "status": "completed"
+  }
+]

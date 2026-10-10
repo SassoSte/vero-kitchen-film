@@ -1,7 +1,7 @@
 {
-  "ceiling_credits": 251,
+  "ceiling_credits": 257,
   "opening_balance": 1246.8,
-  "reserved_credits": 250.25,
+  "reserved_credits": 256.75,
   "jobs": [
     {
       "name": "master-v1",
@@ -281,17 +281,24 @@
       "status": "generated",
       "job_id": "c0465c56-f945-4754-9bbf-7f88cd109b14",
       "file": "outputs/keyframes/kitchen-smeg-realism-v1.png"
+    },
+    {
+      "name": "west-nook-charging-only-v1",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "565e53bd-73b4-45b1-987f-bb7a5fa2b967",
+      "file": "outputs/keyframes/west-nook-charging-only-v1.png"
     }
   ],
-  "balance_after": 3981,
+  "balance_after": 3974.5,
   "balance_delta": null,
-  "remaining_phase_credits": 0.75,
-  "account_snapshot_note": "2026-10-10 SMEG edit3987.5 to3981 matches6.5 quote; task cap251 unchanged.",
-  "task_quote_total": 250.25,
+  "remaining_phase_credits": 0.25,
+  "account_snapshot_note": "2026-10-10 west charging nook3981 to3974.5 matches6.5 quote; task cap257 unchanged.",
+  "task_quote_total": 256.75,
   "latest_pass": {
-    "opening_account_balance": 3987.5,
-    "closing_account_balance": 3981,
+    "opening_account_balance": 3981,
+    "closing_account_balance": 3974.5,
     "quoted_cost": 6.5
   },
-  "authorization": "outputs/production/smeg-realism-authorization.json"
+  "authorization": "outputs/production/west-nook-charging-authorization.json"
 }

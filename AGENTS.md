@@ -4,12 +4,13 @@ Read `HANDOFF.md` first, then `mega-prompt.md`, `docs/SOURCE-REGISTER.md` and th
 `docs/BACKLOG.md`. `outputs/stills-gallery.html` / `docs/asset-catalog.json` identify
 assets and their status; version number alone is not approval.
 
-User approved **251 total credits for ONE paired SMEG realism correction** on 2026-10-10:
-`kitchen-smeg-realism-v1`, using the preferred espresso revision in the full kitchen view.
-Read `outputs/production/smeg-realism-authorization.json` and live ledger/state.
-Preserve toaster/kettle designs, scale, positions and all other kitchen elements.
-Prior allowances are consumed. No automatic retries, purchases or video jobs.
-Account funds do not expand task authority. Disable generation after this one job.
+User approved **257 total credits for ONE west charging-only nook edit** on 2026-10-10:
+`west-nook-charging-only-v1`, based on established `sink-v4.png`. Read
+`outputs/production/west-nook-charging-authorization.json` and live ledger/state.
+Remove spices/shelf/speaker; keep only phone dock/charging station in existing nook.
+No new decorations, prep niche or other west-wall changes. North/east view is user-locked
+in `outputs/production/north-east-visual-lock.json` and must remain unchanged.
+No automatic retries, purchases or video jobs. Disable generation after this one job.
 
 
 Original photos/plans and manufacturer evidence remain separate from generated concepts.

@@ -1,3 +1,5 @@
+> **Latest WEST result:** [Charging-only nook](WEST-CHARGING-NOOK-REVIEW.md) rendered; user review pending. North/east visual lock unchanged. Task **256.75/257**, **0.25 remaining**; generation disabled. Earlier status/budget text is historical.
+
 > **USER VISUAL LOCK — 2026-10-10:** `kitchen-smeg-realism-v1.png` is approved and locked as the north/east wide view; [exact asset/hash and approval](../outputs/production/north-east-visual-lock.json). Preserve it. Current focus is WEST sink wall using `sink-v4.png`; review first, no new paid job authorized. Task250.25/251. Earlier critiques/statuses below are historical.
 
 > **Latest result — 2026-10-10:** [Paired SMEG correction](SMEG-REALISM-REVIEW.md) rendered; subtle improvement, user review pending. Task **250.25/251**, **0.75 remaining**; generation disabled. Earlier status/budget text is historical.

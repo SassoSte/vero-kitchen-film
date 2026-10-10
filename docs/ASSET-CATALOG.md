@@ -4,13 +4,13 @@ Latest north-wall REF-M dial espresso/canister edit within REF-L composition and
 
 Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashes of repository-relative paths. Hashes describe exact existing bytes; verdicts are sourced review findings, not a new visual inspection.
 
-**66 stills · 3 videos.**
+**67 stills · 3 videos.**
 
 [Open searchable gallery](../outputs/stills-gallery.html) · [Machine-readable catalog](asset-catalog.json)
 
 ## Latest bounded concept
 
-`west-nook-charging-only-v1` — **PREPARED; NOT QUOTED OR SUBMITTED**, quoted None credits. See the production state and asset entry below.
+`west-nook-charging-only-v1` — **GENERATED**, quoted 6.5 credits. See the production state and asset entry below.
 
 ## Stills
 
@@ -602,6 +602,22 @@ Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashe
 - Quote receipt: [outputs/production/sink-v4-quote.json](../outputs/production/sink-v4-quote.json)
 - Result receipt: [outputs/production/sink-v4-result.json](../outputs/production/sink-v4-result.json)
 - Stderr receipt: [outputs/production/sink-v4-stderr.txt](../outputs/production/sink-v4-stderr.txt)
+
+### ASSET-D8AE6544DE03 — West Nook Charging Only V1
+
+- Exact filename: `west-nook-charging-only-v1.png`
+- File: [outputs/keyframes/west-nook-charging-only-v1.png](../outputs/keyframes/west-nook-charging-only-v1.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/keyframes/west-nook-charging-only-v1.png`
+- Role: Generated still / diagram; status: **candidate-awaiting-user-review**
+- Known verdict: Lead inspected: only phone dock/charging station in existing oak nook; spices, shelf and speaker removed. Sink/microwave/DW arrangement retained.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: West candidate awaiting user review; physical niche/electrical fit unverified. North/east locked image unchanged.
+- Bytes: 6005275; SHA-256: `b271ce704b477b8e116f4317b22ab3b8086316b7747ca12a60ee788b59ba12fd`
+- Job ID: `565e53bd-73b4-45b1-987f-bb7a5fa2b967`
+- Request receipt: [outputs/production/west-nook-charging-only-v1-request.json](../outputs/production/west-nook-charging-only-v1-request.json)
+- Quote receipt: [outputs/production/west-nook-charging-only-v1-quote.json](../outputs/production/west-nook-charging-only-v1-quote.json)
+- Result receipt: [outputs/production/west-nook-charging-only-v1-result.json](../outputs/production/west-nook-charging-only-v1-result.json)
+- Stderr receipt: [outputs/production/west-nook-charging-only-v1-stderr.txt](../outputs/production/west-nook-charging-only-v1-stderr.txt)
 
 ### ASSET-6A04401FE294 — Two-worker identity sheet — v1
 

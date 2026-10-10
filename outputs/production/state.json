@@ -1,7 +1,7 @@
 {
   "project": "vero-kitchen-film",
-  "phase": "West nook charging-only edit prepared; additional paid allowance pending",
-  "budget_ceiling_credits": 251,
+  "phase": "West charging-only nook generated; user review pending; north/east remains locked",
+  "budget_ceiling_credits": 257,
   "approved_features": [
     "Wolf GR304 red knobs with pale hood; no over-range microwave",
     "Built-in microwave on sink side left of sink",
@@ -27,8 +27,8 @@
     },
     "sink": {
       "original": "references/original/ref-b-sink-run.webp",
-      "status": "Established west-wall design under current user review",
-      "take": "sink-v4",
+      "status": "Charging-only nook candidate; user review pending",
+      "take": "west-nook-charging-only-v1",
       "defects": []
     },
     "apartment": {
@@ -95,10 +95,11 @@
   "fridge_style": "French-door upper pair meeting at center, bottom freezer drawer",
   "next_job": {
     "request": "outputs/production/west-nook-charging-only-v1-request.json",
-    "status": "PREPARED; NOT QUOTED OR SUBMITTED",
+    "status": "GENERATED; user review pending",
     "prior_comparable_quote_credits": 6.5,
     "proposed_total_ceiling": 257,
-    "authorization": "Not approved"
+    "authorization": "Approve 257 total for one render",
+    "quoted_credits": 6.5
   },
   "status": "concept-review-hold",
   "pause_reason": null,
@@ -113,20 +114,16 @@
     "lessons": "docs/LESSONS.md"
   },
   "authorized_jobs": [],
-  "authorization": "outputs/production/smeg-realism-authorization.json",
-  "latest_concept": "outputs/keyframes/kitchen-smeg-realism-v1.png",
+  "authorization": "outputs/production/west-nook-charging-authorization.json",
+  "latest_concept": "outputs/keyframes/west-nook-charging-only-v1.png",
   "latest_concept_review": {
-    "status": "user-approved-visual-lock",
+    "status": "candidate-awaiting-user-review",
     "reviewer": "lead only",
-    "record": "docs/SMEG-REALISM-REVIEW.md",
+    "record": "docs/WEST-CHARGING-NOOK-REVIEW.md",
     "limits": [
-      "Subtle improvement; kettle remains glossy",
-      "Small neighboring details changed; not pixel-local preservation",
-      "Inherited espresso cup and frosting mismatch remain",
-      "Appliance scale/fit unverified"
-    ],
-    "user_approval": "Very well. Let's lock that - and go to the west wall.",
-    "approval_date": "2026-10-10"
+      "Generated image not pixel-identical to sink-v4",
+      "Niche dimensions/electrical installation unverified"
+    ]
   },
   "orientation_review": "docs/ORIENTATION-2026-10-09.md",
   "discussion_directions": {
@@ -143,7 +140,8 @@
     "west_external_view_exception": "Single-door fridge superseded; retain latest French-door instruction",
     "north_latest": "outputs/keyframes/kitchen-smeg-realism-v1.png",
     "north_exceptions": "User locked current appearance; retain historical critiques only as history. Physical fit remains unverified.",
-    "north_detail": "outputs/keyframes/north-wall-finish-v1.png"
+    "north_detail": "outputs/keyframes/north-wall-finish-v1.png",
+    "west_sink_candidate": "outputs/keyframes/west-nook-charging-only-v1.png"
   },
   "planned_sequence": [
     {
@@ -176,7 +174,7 @@
   "visual_lock": "outputs/production/north-east-visual-lock.json",
   "next_focus": {
     "wall": "west",
-    "view": "outputs/keyframes/sink-v4.png",
+    "view": "outputs/keyframes/west-nook-charging-only-v1.png",
     "scope": "Only dock/charging station in existing nook; remove spices/shelf/speaker; preserve geometry and all other elements"
   },
   "west_nook_direction": {
