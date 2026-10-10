@@ -1,3 +1,5 @@
+> **Latest WEST correction:** User rejects oversized charging nook and flower/fruit props. Remove those props without replacing them; resize charging detail to purpose. Research contemporary built references before further generation. Prior keep-flowers/fruit wording is superseded. No new paid render requested/authorized beyond exhausted allowance.
+
 > **Latest WEST result:** [Charging-only nook](docs/WEST-CHARGING-NOOK-REVIEW.md) rendered; user review pending. North/east visual lock unchanged. Task **256.75/257**, **0.25 remaining**; generation disabled. Earlier status/budget text is historical.
 
 > **Latest WEST-wall instruction:** Existing nook holds ONLY phone dock/charging station. Remove spices, internal shelf and speaker; retain nook shape, oak, discreet light and concealed wiring. No decorative objects, prep niche, boards or knives. North/east visual lock remains intact. `west-nook-charging-only-v1` prepared; paid cap increase pending.

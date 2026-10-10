@@ -5,7 +5,7 @@ import hashlib, json, re, html
 ROOT=Path(__file__).resolve().parents[1]
 OUT=ROOT/'outputs'; E=html.escape
 KNOWN={
-'west-nook-charging-only-v1':('candidate-awaiting-user-review','Lead inspected: only phone dock/charging station in existing oak nook; spices, shelf and speaker removed. Sink/microwave/DW arrangement retained.','West candidate awaiting user review; physical niche/electrical fit unverified. North/east locked image unchanged.'),
+'west-nook-charging-only-v1':('user-rejected-proportions','User rejects oversized nook and generic flower/fruit counter props; charging-only contents remain intended.','Research smaller charging detail and remove props before any further paid edit; no new render authorized.'),
 'kitchen-smeg-realism-v1':('user-approved-visual-lock','User explicitly locked this north/east wide kitchen view on2026-10-10; preserve its appearance.','Visual approval only, not physical fit or final-film approval. Earlier critiques remain historical; no automatic correction.'),
 'kitchen-espresso-realism-v1':('partial-improvement-with-regression','Lead inspected: modestly improved machine depth/reflections, but unwanted cup added beneath group head.','Comparison candidate only; not promoted over prior wide view. Realism/user acceptance unresolved.'),
 'kitchen-north-integrated-v2':('candidate-awaiting-user-review','Lead inspected: developed north station integrated; upper microwave/armoire and fridge surround removed; wand visible and canister clearance improved.','North glass clearer than finishing detail; appliance fit and three-view matching unresolved.'),

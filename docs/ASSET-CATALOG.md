@@ -608,10 +608,10 @@ Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashe
 - Exact filename: `west-nook-charging-only-v1.png`
 - File: [outputs/keyframes/west-nook-charging-only-v1.png](../outputs/keyframes/west-nook-charging-only-v1.png)
 - Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/keyframes/west-nook-charging-only-v1.png`
-- Role: Generated still / diagram; status: **candidate-awaiting-user-review**
-- Known verdict: Lead inspected: only phone dock/charging station in existing oak nook; spices, shelf and speaker removed. Sink/microwave/DW arrangement retained.
+- Role: Generated still / diagram; status: **user-rejected-proportions**
+- Known verdict: User rejects oversized nook and generic flower/fruit counter props; charging-only contents remain intended.
 - Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
-- Limit / superseded reason: West candidate awaiting user review; physical niche/electrical fit unverified. North/east locked image unchanged.
+- Limit / superseded reason: Research smaller charging detail and remove props before any further paid edit; no new render authorized.
 - Bytes: 6005275; SHA-256: `b271ce704b477b8e116f4317b22ab3b8086316b7747ca12a60ee788b59ba12fd`
 - Job ID: `565e53bd-73b4-45b1-987f-bb7a5fa2b967`
 - Request receipt: [outputs/production/west-nook-charging-only-v1-request.json](../outputs/production/west-nook-charging-only-v1-request.json)
