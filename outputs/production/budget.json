@@ -1,7 +1,7 @@
 {
-  "ceiling_credits": 342.25,
+  "ceiling_credits": 352.75,
   "opening_balance": 1246.8,
-  "reserved_credits": 334.75,
+  "reserved_credits": 352.75,
   "jobs": [
     {
       "name": "master-v1",
@@ -372,20 +372,34 @@
       "status": "generated",
       "job_id": "e5947408-eab7-4754-8e52-f9041c8fa9d0",
       "file": "outputs/construction/raw/03A-start-v2.png"
+    },
+    {
+      "name": "03A-pilot-v1",
+      "quote": 9,
+      "status": "generated",
+      "job_id": "4d211265-8e54-4970-9614-f6a1b6f5127f",
+      "file": "outputs/takes/03A-pilot-v1.mp4"
+    },
+    {
+      "name": "03A-pilot-v2",
+      "quote": 9,
+      "status": "generated",
+      "job_id": "91a931c0-d671-4ced-ac7d-862f9bf3c4cc",
+      "file": "outputs/takes/03A-pilot-v2.mp4"
     }
   ],
   "balance_after": 3929,
   "balance_delta": null,
-  "remaining_phase_credits": 7.5,
+  "remaining_phase_credits": 0.0,
   "account_snapshot_note": "View1 continuity attempt3935.5 to3929 matches6.5 quote; cap303 unchanged.",
-  "task_quote_total": 334.75,
+  "task_quote_total": 352.75,
   "latest_pass": {
     "opening_account_balance": 3935.5,
     "closing_account_balance": 3929,
     "quoted_cost": 6.5
   },
-  "authorization": "outputs/production/b07-03a-frames-authorization.json",
-  "prior_authorization": "outputs/production/master-third-continuity-authorization.json",
+  "authorization": "outputs/production/b08-03a-pilot-authorization.json",
+  "prior_authorization": "outputs/production/b07-03a-frames-authorization.json",
   "ceiling_history": [
     {
       "date": "2026-10-10",
@@ -393,6 +407,13 @@
       "to": 342.25,
       "user_text": "Approve 39 for 03A frames",
       "scope": "\u22646 sequential GPT Image 2 jobs for 03A stage frames"
+    },
+    {
+      "date": "2026-10-10",
+      "from": 342.25,
+      "to": 352.75,
+      "user_text": "Approve 18 for 03A pilot",
+      "scope": "\u22642 kling_o3_flf pro jobs for 03A"
     }
   ]
 }

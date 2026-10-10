@@ -1,0 +1,18 @@
+{
+  "model": "kling_o3_flf",
+  "params": {
+    "mode": "pro",
+    "sound": "on",
+    "multi_shots": false,
+    "duration": 5,
+    "aspect_ratio": "16:9"
+  },
+  "media": {
+    "start-image": "outputs/construction/03A-start.png",
+    "end-image": "outputs/construction/03A-end.png"
+  },
+  "prompt": "Fixed locked-off camera, no camera movement. Photoreal construction footage. Two workers hold a heavy pale stone worktop slab level, a few centimetres above white base cabinets, and lower it slowly and evenly straight down until it sits fully flush on the cabinets; only after full contact do they release their hands and lift them slightly away, looking down at the joint. The slab stays rigid and level, does not slide, tilt, bend or change size. The workers keep the same faces, clothes and tool belts; no one enters or leaves. Room, refrigerator, cabinets and lighting do not change. Sound: soft scrape and a low stone-on-wood thud on contact, light footsteps, quiet room tone; no speech, no music.",
+  "output": "outputs/takes/03A-pilot-v1.mp4",
+  "take": "03A",
+  "attempt": 1
+}

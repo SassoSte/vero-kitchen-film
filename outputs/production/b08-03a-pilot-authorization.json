@@ -1,0 +1,32 @@
+{
+  "status": "APPROVED",
+  "date": "2026-10-10",
+  "scope": "03A motion pilot between accepted START/END frames",
+  "model": "kling_o3_flf (Kling 3.0 Omni Frames), pro, 5 s, 16:9, native sound",
+  "quotes_actual_inputs": {
+    "std_sound_on": 6.25,
+    "std_sound_off": 5,
+    "pro_sound_on": 9,
+    "pro_sound_off": 6.25
+  },
+  "jobs": [
+    "03A-pilot-v1",
+    "03A-pilot-v2"
+  ],
+  "max_new_jobs": 2,
+  "expected_quote_per_job_credits": 9,
+  "maximum_new_spend_credits": 18,
+  "current_total": 334.75,
+  "proposed_total_ceiling_credits": 352.75,
+  "sequence": "v1 first; lead reviews seating, contact, rigidity, identity and endpoint frame-by-frame; v2 only after a written finding, with adjusted prompt",
+  "excludes": [
+    "other takes",
+    "image edits",
+    "top-ups",
+    "publishing"
+  ],
+  "approved": "2026-10-10 America/Phoenix",
+  "budget_user_text": "Approve 18 for 03A pilot",
+  "total_ceiling_credits": 352.75,
+  "prior_ceiling_credits": 342.25
+}

@@ -4,7 +4,7 @@ Latest north-wall REF-M dial espresso/canister edit within REF-L composition and
 
 Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashes of repository-relative paths. Hashes describe exact existing bytes; verdicts are sourced review findings, not a new visual inspection.
 
-**123 stills · 3 videos.**
+**127 stills · 5 videos.**
 
 [Open searchable gallery](../outputs/stills-gallery.html) · [Machine-readable catalog](asset-catalog.json)
 
@@ -26,6 +26,30 @@ Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashe
 - Bytes: 11838; SHA-256: `d7489661bb1d596f6e7439b562e94ed4869eac0960d5fc25c9d10e0f8b43cb68`
 - Job ID: `not recorded`
 - Original source: `/Users/stefansassoon/projects/vero/deco/assets/allison-floorplans/tallbot.jpg`; copy provenance in `references/source-manifest.json`.
+
+### ASSET-8EC80E3C8628 — 03A End V1 Accepted
+
+- Exact filename: `03A-end-v1-accepted.png`
+- File: [outputs/construction/03A-end-v1-accepted.png](../outputs/construction/03A-end-v1-accepted.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/construction/03A-end-v1-accepted.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 6102325; SHA-256: `9ce5b90aeaf16196a8f00a713eb36cdd83a9acda0cba8abce68bdc4eefed650d`
+- Job ID: `not recorded`
+
+### ASSET-411941CE954A — 03A End V2
+
+- Exact filename: `03A-end-v2.png`
+- File: [outputs/construction/03A-end-v2.png](../outputs/construction/03A-end-v2.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/construction/03A-end-v2.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 6097423; SHA-256: `9373060da4bb1bcc416126a627e1361c1ce857a89b7a5e2055b1b95eb5f7be10`
+- Job ID: `not recorded`
 
 ### ASSET-E5BA91522298 — 03A End
 
@@ -114,6 +138,30 @@ Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashe
 - Quote receipt: [outputs/production/03A-end-v1-quote.json](../outputs/production/03A-end-v1-quote.json)
 - Result receipt: [outputs/production/03A-end-v1-result.json](../outputs/production/03A-end-v1-result.json)
 - Stderr receipt: [outputs/production/03A-end-v1-stderr.txt](../outputs/production/03A-end-v1-stderr.txt)
+
+### ASSET-CDE30E659C67 — 03A End V2 Composite Personmask
+
+- Exact filename: `03A-end-v2-composite-personmask.png`
+- File: [outputs/construction/raw/03A-end-v2-composite-personmask.png](../outputs/construction/raw/03A-end-v2-composite-personmask.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/construction/raw/03A-end-v2-composite-personmask.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 14107; SHA-256: `b368862b1784dd5e9a4affb4cd9dc21dbbafbe38a50cae261c6f796f0f66fde4`
+- Job ID: `not recorded`
+
+### ASSET-17471455529D — 03A End V2 Composite
+
+- Exact filename: `03A-end-v2-composite.png`
+- File: [outputs/construction/raw/03A-end-v2-composite.png](../outputs/construction/raw/03A-end-v2-composite.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/construction/raw/03A-end-v2-composite.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 6097423; SHA-256: `9373060da4bb1bcc416126a627e1361c1ce857a89b7a5e2055b1b95eb5f7be10`
+- Job ID: `not recorded`
 
 ### ASSET-7A421E64F792 — 03A Start V1 Candidate
 
@@ -1769,3 +1817,35 @@ Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashe
 - Quote receipt: [outputs/production/stool-v1-quote.json](../outputs/production/stool-v1-quote.json)
 - Result receipt: [outputs/production/stool-v1-result.json](../outputs/production/stool-v1-result.json)
 - Stderr receipt: [outputs/production/stool-v1-stderr.txt](../outputs/production/stool-v1-stderr.txt)
+
+### ASSET-0B540FC77DAB — 03A Pilot V1
+
+- Exact filename: `03A-pilot-v1.mp4`
+- File: [outputs/takes/03A-pilot-v1.mp4](../outputs/takes/03A-pilot-v1.mp4)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/takes/03A-pilot-v1.mp4`
+- Role: Isolated motion pilot; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 3759740; SHA-256: `a873449924d0eed0b8f9a1873add0947f87e3de4acad736da489d22b851e404f`
+- Job ID: `4d211265-8e54-4970-9614-f6a1b6f5127f`
+- Request receipt: [outputs/production/03A-pilot-v1-request.json](../outputs/production/03A-pilot-v1-request.json)
+- Quote receipt: [outputs/production/03A-pilot-v1-quote.json](../outputs/production/03A-pilot-v1-quote.json)
+- Result receipt: [outputs/production/03A-pilot-v1-result.json](../outputs/production/03A-pilot-v1-result.json)
+- Stderr receipt: [outputs/production/03A-pilot-v1-stderr.txt](../outputs/production/03A-pilot-v1-stderr.txt)
+
+### ASSET-8090B85E18DA — 03A Pilot V2
+
+- Exact filename: `03A-pilot-v2.mp4`
+- File: [outputs/takes/03A-pilot-v2.mp4](../outputs/takes/03A-pilot-v2.mp4)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/takes/03A-pilot-v2.mp4`
+- Role: Isolated motion pilot; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 3962635; SHA-256: `4708ee840697b75c8150c6269d9a0f66a43b47e8233462d9a444cb2d01535597`
+- Job ID: `91a931c0-d671-4ced-ac7d-862f9bf3c4cc`
+- Request receipt: [outputs/production/03A-pilot-v2-request.json](../outputs/production/03A-pilot-v2-request.json)
+- Quote receipt: [outputs/production/03A-pilot-v2-quote.json](../outputs/production/03A-pilot-v2-quote.json)
+- Result receipt: [outputs/production/03A-pilot-v2-result.json](../outputs/production/03A-pilot-v2-result.json)
+- Stderr receipt: [outputs/production/03A-pilot-v2-stderr.txt](../outputs/production/03A-pilot-v2-stderr.txt)

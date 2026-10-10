@@ -1,6 +1,6 @@
 {
   "project": "vero-kitchen-film",
-  "phase": "B07: 03A frames accepted; 03A motion pilot quote pending; generation disabled",
+  "phase": "B08 03A pilot accepted; B10 plan/quote in preparation; generation disabled",
   "budget_ceiling_credits": 303,
   "approved_features": [
     "Wolf GR304 red knobs with pale hood; no over-range microwave",
@@ -65,6 +65,17 @@
       "take": "stool-v1",
       "finding": "Center stool faces camera away from bar; scale shrinkage not established by sampled review.",
       "design_status": "superseded-by-concrete-and-concealed-espresso-revision"
+    },
+    {
+      "action": "03A quartz final descent and release",
+      "status": "user-accepted",
+      "take": "03A-pilot-v2",
+      "file": "outputs/takes/03A-pilot-v2.mp4",
+      "start": "outputs/construction/03A-start.png",
+      "end": "outputs/construction/03A-end-v2.png",
+      "review": "docs/B08-03A-PILOT-REVIEW.md",
+      "superseded": "03A-pilot-v1 (stepped slab inherited from END v1 composite)",
+      "accepted": "2026-10-10 user: \"Accept pilot v2, commit, and quote the B10 plan\""
     }
   ],
   "gate": "No video generation until finished views agree and stage/worker references are inspected.",
@@ -114,7 +125,7 @@
     "opus_handoff": "OPUS-HANDOFF.md"
   },
   "authorized_jobs": [],
-  "authorization": "outputs/production/b07-03a-frames-authorization.json",
+  "authorization": "outputs/production/b08-03a-pilot-authorization.json",
   "latest_concept": "outputs/keyframes/master-third-view-continuity-v1.png",
   "latest_concept_review": {
     "status": "rejected-layout-drift",

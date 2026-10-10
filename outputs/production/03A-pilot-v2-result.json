@@ -1,0 +1,41 @@
+[
+  {
+    "created_at": "2026-10-10T18:28:06.691066Z",
+    "display_name": "Kling O3 (Frames)",
+    "id": "91a931c0-d671-4ced-ac7d-862f9bf3c4cc",
+    "job_type": "kling_o3_flf",
+    "min_result_url": null,
+    "params": {
+      "aspect_ratio": "16:9",
+      "duration": 5,
+      "height": 1080,
+      "medias": [
+        {
+          "data": {
+            "id": "b7c90a9e-4af4-49c5-9dcf-6a202b0ff53e",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/b7c90a9e-4af4-49c5-9dcf-6a202b0ff53e_resize.jpg"
+          },
+          "role": "start_image"
+        },
+        {
+          "data": {
+            "id": "76ea98a2-097c-4e66-8006-3ecc4b8da263",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/76ea98a2-097c-4e66-8006-3ecc4b8da263_resize.jpg"
+          },
+          "role": "end_image"
+        }
+      ],
+      "mode": "pro",
+      "multi_prompt": [],
+      "multi_shots": false,
+      "prompt": "Fixed locked-off camera, no camera movement. Photoreal construction footage. Two workers hold a heavy pale stone worktop slab level, a few centimetres above white base cabinets, and lower it slowly and evenly straight down until it sits fully flush on the cabinets; only after full contact do they release their hands and lift them slightly away, looking down at the joint. The slab stays rigid and level, does not slide, tilt, bend or change size. The workers keep the same faces, clothes and tool belts; no one enters or leaves. Room, refrigerator, cabinets and lighting do not change. Sound: soft scrape and a low stone-on-wood thud on contact, light footsteps, quiet room tone; no speech, no music.",
+      "sound": "on",
+      "width": 1920
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_182806_91a931c0-d671-4ced-ac7d-862f9bf3c4cc.mp4",
+    "status": "completed",
+    "thumbnail_url": "https://cdn.higgsfield.ai/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_182806_91a931c0-d671-4ced-ac7d-862f9bf3c4cc_thumbnail.webp"
+  }
+]
