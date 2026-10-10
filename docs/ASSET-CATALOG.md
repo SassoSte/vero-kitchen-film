@@ -4,7 +4,7 @@ Latest north-wall REF-M dial espresso/canister edit within REF-L composition and
 
 Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashes of repository-relative paths. Hashes describe exact existing bytes; verdicts are sourced review findings, not a new visual inspection.
 
-**79 stills · 3 videos.**
+**81 stills · 3 videos.**
 
 [Open searchable gallery](../outputs/stills-gallery.html) · [Machine-readable catalog](asset-catalog.json)
 
@@ -897,6 +897,30 @@ Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashe
 - Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
 - Limit / superseded reason: Simplified assets and missing dining context; not final photoreal image or architectural approval.
 - Bytes: 1065174; SHA-256: `865c38eb4f790b582240ef70655926142415e6dc32598c08e9fe641713949c0b`
+- Job ID: `not recorded`
+
+### ASSET-9372001101AE — Kitchen Fixed Materials V2
+
+- Exact filename: `kitchen-fixed-materials-v2.png`
+- File: [outputs/review/kitchen-fixed-materials-v2.png](../outputs/review/kitchen-fixed-materials-v2.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/review/kitchen-fixed-materials-v2.png`
+- Role: Local context-render draft; status: **failed-context-draft**
+- Known verdict: Initial local context pass incorrectly occluded part of refrigerator with hallway wall.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Superseded by corrected v3; no paid generation.
+- Bytes: 1246133; SHA-256: `cc8e1b0a713f842528802a5fcd20847003ea32b591cd34c9fb26f533bb2f3aa2`
+- Job ID: `not recorded`
+
+### ASSET-CEF02CC5287C — Kitchen Fixed Materials V3
+
+- Exact filename: `kitchen-fixed-materials-v3.png`
+- File: [outputs/review/kitchen-fixed-materials-v3.png](../outputs/review/kitchen-fixed-materials-v3.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/review/kitchen-fixed-materials-v3.png`
+- Role: Local fixed-geometry context render; status: **model-based-review-candidate**
+- Known verdict: Restored doorway/dining context and refined furniture; fridge/enclosure/bar/camera invariant checks pass.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Provisional camera/opening, approximate assets and sampling grain remain. Not production-approved.
+- Bytes: 1247742; SHA-256: `5d6cb9e184f33dd7796512050398c959612ed12dfbc8eaee50b07bcd3b5987ee`
 - Job ID: `not recorded`
 
 ### ASSET-9392D932F4A8 — Kitchen Orientation V1

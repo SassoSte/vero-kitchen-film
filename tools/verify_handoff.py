@@ -36,7 +36,7 @@ check(actual=={a['path'] for a in assets},'Every raster/video is cataloged exact
 for a in assets:
  p=ROOT/a['path'];check(p.is_file() and digest(p)==a['sha256'],f'Asset hash {a["path"]}')
  for kind,rel in a.get('receipts',{}).items():check((ROOT/rel).is_file(),f'Receipt {rel}')
-check(cat['still_count']==79 and cat['video_count']==3,'Inventory79 stills /3 videos')
+check(cat['still_count']==81 and cat['video_count']==3,'Inventory81 stills /3 videos')
 manifest=json.loads((ROOT/'references/source-manifest.json').read_text())
 for group in ['files','supplemental_documents_captured_2026_10_09']:
  for a in manifest.get(group,[]):

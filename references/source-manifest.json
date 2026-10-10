@@ -44,8 +44,17 @@
       "source": "/Users/stefansassoon/projects/vero/deco/research-playbook.md",
       "local": "references/provenance/research-playbook.md",
       "copy_type": "source extract; local credential-routing/commands omitted",
-      "sha256": "5cb511388a497e5d4f0491635961d088f29af6273ec45e6b6f7f822853f95923",
-      "source_sha256": "c3feb5b0f81e5afa435702e151e6f2c7660b2343471b459182750cdc67e9d25b"
+      "sha256": "bea8d410714012c5019def7333cca276ba1329bbb978e73da51dc268d71fd158",
+      "source_sha256": "c3feb5b0f81e5afa435702e151e6f2c7660b2343471b459182750cdc67e9d25b",
+      "capture_sha256": "5cb511388a497e5d4f0491635961d088f29af6273ec45e6b6f7f822853f95923",
+      "post_capture_updates": [
+        {
+          "commit": "716e236",
+          "date": "2026-10-10",
+          "description": "Existing committed reference-item name normalization; preserve that change and original capture hash",
+          "sha256": "bea8d410714012c5019def7333cca276ba1329bbb978e73da51dc268d71fd158"
+        }
+      ]
     },
     {
       "source": "/Users/stefansassoon/projects/vero/deco/assets/allison-floorplans/tallbot.jpg",

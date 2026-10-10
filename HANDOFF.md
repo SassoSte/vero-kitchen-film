@@ -1,3 +1,5 @@
+> **Latest local3D result:** [Context/material v3](docs/FIXED-SCENE-CONTEXT-PASS.md) adds doorway/dining context and refined furniture while preserving core fridge/bar geometry and estimated camera. User review pending; v2 context failure retained as history. No paid spend; task295.75/296.
+
 > **Local rendering checkpoint:** [Fixed geometry with materials/light](docs/FIXED-SCENE-MATERIAL-PASS.md) completed without provider spend. It remains a simplified technical scene, not a finished replacement; camera/room uncertainty unresolved. Approved images unchanged; task295.75/296.
 
 > **Unpaid geometry study complete:** [Fixed model/camera check](docs/FIXED-GEOMETRY-CHECK.md) shows freezer occlusion and actual volume. Camera match remains approximate; fitted opening conflicts with old bar schedule. No new style proposal or geometry certification. Third photoreal view unapproved; task remains295.75/296.

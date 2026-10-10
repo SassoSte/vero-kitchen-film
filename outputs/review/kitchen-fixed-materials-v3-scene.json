@@ -1,0 +1,4858 @@
+{
+  "renderer": "Mitsuba 3.9.1",
+  "threads_requested": 2,
+  "width": 1200,
+  "samples_per_pixel": 512,
+  "elapsed_seconds": 288.18975806236267,
+  "camera": {
+    "eye_x": 77.10674305900348,
+    "eye_y": 261.99999999999994,
+    "eye_z": 65.99999999999999,
+    "yaw_radians": -0.08107196469659664,
+    "pitch_radians": -0.10685235117336464,
+    "focal_px_at2688": 2169.7798713712114,
+    "opening_width_estimate": 87.7418540637268,
+    "opening_center_x": 69.00948888486744
+  },
+  "fov_horizontal_degrees": 63.549611908942,
+  "geometry_records": [
+    {
+      "name": "north filler",
+      "min": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        5.25,
+        28.875,
+        84
+      ],
+      "material": "paint",
+      "bevel": 0.05
+    },
+    {
+      "name": "left enclosure",
+      "min": [
+        5.25,
+        0,
+        0
+      ],
+      "size": [
+        0.75,
+        28.875,
+        84
+      ],
+      "material": "paint",
+      "bevel": 0.06
+    },
+    {
+      "name": "right enclosure",
+      "min": [
+        42.75,
+        0,
+        0
+      ],
+      "size": [
+        0.75,
+        28.875,
+        84
+      ],
+      "material": "paint",
+      "bevel": 0.06
+    },
+    {
+      "name": "upper cabinet case",
+      "min": [
+        6,
+        0,
+        71
+      ],
+      "size": [
+        36.75,
+        28.875,
+        13
+      ],
+      "material": "paint",
+      "bevel": 0.06
+    },
+    {
+      "name": "upper fridge door",
+      "min": [
+        6.1,
+        28.2,
+        71.15
+      ],
+      "size": [
+        18.1,
+        0.75,
+        12.7
+      ],
+      "material": "paint",
+      "bevel": 0.1
+    },
+    {
+      "name": "upper fridge recessed panel",
+      "min": [
+        7.8999999999999995,
+        28.9,
+        72.95
+      ],
+      "size": [
+        14.5,
+        0.04,
+        9.1
+      ],
+      "material": "paint",
+      "bevel": 0.03
+    },
+    {
+      "name": "upper fridge pull",
+      "p0": [
+        22.1,
+        29.55,
+        74
+      ],
+      "p1": [
+        22.1,
+        29.55,
+        79
+      ],
+      "radius": 0.15,
+      "material": "chrome"
+    },
+    {
+      "name": "upper fridge door",
+      "min": [
+        24.4,
+        28.2,
+        71.15
+      ],
+      "size": [
+        18.1,
+        0.75,
+        12.7
+      ],
+      "material": "paint",
+      "bevel": 0.1
+    },
+    {
+      "name": "upper fridge recessed panel",
+      "min": [
+        26.2,
+        28.9,
+        72.95
+      ],
+      "size": [
+        14.5,
+        0.04,
+        9.1
+      ],
+      "material": "paint",
+      "bevel": 0.03
+    },
+    {
+      "name": "upper fridge pull",
+      "p0": [
+        26.4,
+        29.55,
+        74
+      ],
+      "p1": [
+        26.4,
+        29.55,
+        79
+      ],
+      "radius": 0.15,
+      "material": "chrome"
+    },
+    {
+      "name": "case",
+      "min": [
+        6.575,
+        1,
+        0
+      ],
+      "size": [
+        35.6,
+        28.5,
+        68.3
+      ],
+      "material": "steel",
+      "bevel": 0.22
+    },
+    {
+      "name": "door shadow seam",
+      "min": [
+        6.375,
+        29.45,
+        20.8
+      ],
+      "size": [
+        36,
+        0.12,
+        49.2
+      ],
+      "material": "black",
+      "bevel": 0
+    },
+    {
+      "name": "French door",
+      "min": [
+        6.375,
+        29.5,
+        21
+      ],
+      "size": [
+        17.9,
+        4.8,
+        49
+      ],
+      "material": "steel",
+      "bevel": 0.22
+    },
+    {
+      "name": "French door",
+      "min": [
+        24.475,
+        29.5,
+        21
+      ],
+      "size": [
+        17.9,
+        4.8,
+        49
+      ],
+      "material": "steel",
+      "bevel": 0.22
+    },
+    {
+      "name": "freezer drawer",
+      "min": [
+        6.375,
+        29.5,
+        0
+      ],
+      "size": [
+        36,
+        4.8,
+        20.6
+      ],
+      "material": "steel",
+      "bevel": 0.25
+    },
+    {
+      "name": "vertical fridge handle",
+      "p0": [
+        22.6,
+        36.15,
+        33
+      ],
+      "p1": [
+        22.6,
+        36.15,
+        61
+      ],
+      "radius": 0.42,
+      "material": "chrome"
+    },
+    {
+      "name": "handle mounting lug",
+      "p0": [
+        22.6,
+        34.1,
+        33.6
+      ],
+      "p1": [
+        22.6,
+        36.15,
+        33.6
+      ],
+      "radius": 0.23,
+      "material": "chrome"
+    },
+    {
+      "name": "handle mounting lug",
+      "p0": [
+        22.6,
+        34.1,
+        60.4
+      ],
+      "p1": [
+        22.6,
+        36.15,
+        60.4
+      ],
+      "radius": 0.23,
+      "material": "chrome"
+    },
+    {
+      "name": "vertical fridge handle",
+      "p0": [
+        25.6,
+        36.15,
+        33
+      ],
+      "p1": [
+        25.6,
+        36.15,
+        61
+      ],
+      "radius": 0.42,
+      "material": "chrome"
+    },
+    {
+      "name": "handle mounting lug",
+      "p0": [
+        25.6,
+        34.1,
+        33.6
+      ],
+      "p1": [
+        25.6,
+        36.15,
+        33.6
+      ],
+      "radius": 0.23,
+      "material": "chrome"
+    },
+    {
+      "name": "handle mounting lug",
+      "p0": [
+        25.6,
+        34.1,
+        60.4
+      ],
+      "p1": [
+        25.6,
+        36.15,
+        60.4
+      ],
+      "radius": 0.23,
+      "material": "chrome"
+    },
+    {
+      "name": "freezer handle",
+      "p0": [
+        9,
+        36.15,
+        17
+      ],
+      "p1": [
+        39,
+        36.15,
+        17
+      ],
+      "radius": 0.42,
+      "material": "chrome"
+    },
+    {
+      "name": "base case",
+      "min": [
+        43.5,
+        0,
+        0
+      ],
+      "size": [
+        13.5,
+        24,
+        34.5
+      ],
+      "material": "paint",
+      "bevel": 0.06
+    },
+    {
+      "name": "quartz",
+      "min": [
+        43.5,
+        0,
+        34.5
+      ],
+      "size": [
+        13.5,
+        25.5,
+        1.5
+      ],
+      "material": "stone",
+      "bevel": 0.08
+    },
+    {
+      "name": "Shaker base door",
+      "min": [
+        43.65,
+        24,
+        4
+      ],
+      "size": [
+        13.2,
+        0.75,
+        20
+      ],
+      "material": "paint",
+      "bevel": 0.08
+    },
+    {
+      "name": "recessed panel",
+      "min": [
+        45.2,
+        24.7,
+        5.5
+      ],
+      "size": [
+        10.1,
+        0.035,
+        17
+      ],
+      "material": "paint",
+      "bevel": 0.01
+    },
+    {
+      "name": "Shaker base door",
+      "min": [
+        43.65,
+        24,
+        24.5
+      ],
+      "size": [
+        13.2,
+        0.75,
+        9
+      ],
+      "material": "paint",
+      "bevel": 0.08
+    },
+    {
+      "name": "recessed panel",
+      "min": [
+        45.2,
+        24.7,
+        26.0
+      ],
+      "size": [
+        10.1,
+        0.035,
+        6
+      ],
+      "material": "paint",
+      "bevel": 0.01
+    },
+    {
+      "name": "base pull",
+      "p0": [
+        47.28,
+        25.6,
+        30
+      ],
+      "p1": [
+        53.22,
+        25.6,
+        30
+      ],
+      "radius": 0.14,
+      "material": "chrome"
+    },
+    {
+      "name": "base case",
+      "min": [
+        87,
+        0,
+        0
+      ],
+      "size": [
+        36,
+        24,
+        34.5
+      ],
+      "material": "paint",
+      "bevel": 0.06
+    },
+    {
+      "name": "quartz",
+      "min": [
+        87,
+        0,
+        34.5
+      ],
+      "size": [
+        36,
+        25.5,
+        1.5
+      ],
+      "material": "stone",
+      "bevel": 0.08
+    },
+    {
+      "name": "Shaker base door",
+      "min": [
+        87.15,
+        24,
+        4
+      ],
+      "size": [
+        35.7,
+        0.75,
+        20
+      ],
+      "material": "paint",
+      "bevel": 0.08
+    },
+    {
+      "name": "recessed panel",
+      "min": [
+        88.7,
+        24.7,
+        5.5
+      ],
+      "size": [
+        32.6,
+        0.035,
+        17
+      ],
+      "material": "paint",
+      "bevel": 0.01
+    },
+    {
+      "name": "Shaker base door",
+      "min": [
+        87.15,
+        24,
+        24.5
+      ],
+      "size": [
+        35.7,
+        0.75,
+        9
+      ],
+      "material": "paint",
+      "bevel": 0.08
+    },
+    {
+      "name": "recessed panel",
+      "min": [
+        88.7,
+        24.7,
+        26.0
+      ],
+      "size": [
+        32.6,
+        0.035,
+        6
+      ],
+      "material": "paint",
+      "bevel": 0.01
+    },
+    {
+      "name": "base pull",
+      "p0": [
+        97.08,
+        25.6,
+        30
+      ],
+      "p1": [
+        112.92,
+        25.6,
+        30
+      ],
+      "radius": 0.14,
+      "material": "chrome"
+    },
+    {
+      "name": "range body",
+      "min": [
+        57,
+        0,
+        0
+      ],
+      "size": [
+        30,
+        27,
+        36
+      ],
+      "material": "steel",
+      "bevel": 0.15
+    },
+    {
+      "name": "oven glass",
+      "min": [
+        59,
+        27,
+        6
+      ],
+      "size": [
+        26,
+        0.15,
+        21
+      ],
+      "material": "black",
+      "bevel": 0.22
+    },
+    {
+      "name": "oven pull",
+      "p0": [
+        60,
+        28.2,
+        26
+      ],
+      "p1": [
+        84,
+        28.2,
+        26
+      ],
+      "radius": 0.4,
+      "material": "chrome"
+    },
+    {
+      "name": "cooktop",
+      "min": [
+        57,
+        1,
+        35.8
+      ],
+      "size": [
+        30,
+        26,
+        0.7
+      ],
+      "material": "black",
+      "bevel": 0.12
+    },
+    {
+      "name": "red range knob",
+      "p0": [
+        59,
+        27.1,
+        32
+      ],
+      "p1": [
+        59,
+        28.4,
+        32
+      ],
+      "radius": 0.85,
+      "material": "red"
+    },
+    {
+      "name": "red range knob",
+      "p0": [
+        65,
+        27.1,
+        32
+      ],
+      "p1": [
+        65,
+        28.4,
+        32
+      ],
+      "radius": 0.85,
+      "material": "red"
+    },
+    {
+      "name": "red range knob",
+      "p0": [
+        72,
+        27.1,
+        32
+      ],
+      "p1": [
+        72,
+        28.4,
+        32
+      ],
+      "radius": 0.85,
+      "material": "red"
+    },
+    {
+      "name": "red range knob",
+      "p0": [
+        79,
+        27.1,
+        32
+      ],
+      "p1": [
+        79,
+        28.4,
+        32
+      ],
+      "radius": 0.85,
+      "material": "red"
+    },
+    {
+      "name": "red range knob",
+      "p0": [
+        85,
+        27.1,
+        32
+      ],
+      "p1": [
+        85,
+        28.4,
+        32
+      ],
+      "radius": 0.85,
+      "material": "red"
+    },
+    {
+      "name": "burner",
+      "p0": [
+        64.5,
+        7.5,
+        36.3
+      ],
+      "p1": [
+        64.5,
+        7.5,
+        36.65
+      ],
+      "radius": 1.9,
+      "material": "black"
+    },
+    {
+      "name": "grate",
+      "min": [
+        60.78,
+        2.8,
+        36.5
+      ],
+      "size": [
+        0.44,
+        9.4,
+        0.35
+      ],
+      "material": "black",
+      "bevel": 0.08
+    },
+    {
+      "name": "grate",
+      "min": [
+        67.78,
+        2.8,
+        36.5
+      ],
+      "size": [
+        0.44,
+        9.4,
+        0.35
+      ],
+      "material": "black",
+      "bevel": 0.08
+    },
+    {
+      "name": "grate",
+      "min": [
+        59.5,
+        7.28,
+        36.5
+      ],
+      "size": [
+        10,
+        0.44,
+        0.35
+      ],
+      "material": "black",
+      "bevel": 0.08
+    },
+    {
+      "name": "burner",
+      "p0": [
+        64.5,
+        21,
+        36.3
+      ],
+      "p1": [
+        64.5,
+        21,
+        36.65
+      ],
+      "radius": 1.9,
+      "material": "black"
+    },
+    {
+      "name": "grate",
+      "min": [
+        60.78,
+        16.3,
+        36.5
+      ],
+      "size": [
+        0.44,
+        9.4,
+        0.35
+      ],
+      "material": "black",
+      "bevel": 0.08
+    },
+    {
+      "name": "grate",
+      "min": [
+        67.78,
+        16.3,
+        36.5
+      ],
+      "size": [
+        0.44,
+        9.4,
+        0.35
+      ],
+      "material": "black",
+      "bevel": 0.08
+    },
+    {
+      "name": "grate",
+      "min": [
+        59.5,
+        20.78,
+        36.5
+      ],
+      "size": [
+        10,
+        0.44,
+        0.35
+      ],
+      "material": "black",
+      "bevel": 0.08
+    },
+    {
+      "name": "burner",
+      "p0": [
+        79.5,
+        7.5,
+        36.3
+      ],
+      "p1": [
+        79.5,
+        7.5,
+        36.65
+      ],
+      "radius": 1.9,
+      "material": "black"
+    },
+    {
+      "name": "grate",
+      "min": [
+        75.78,
+        2.8,
+        36.5
+      ],
+      "size": [
+        0.44,
+        9.4,
+        0.35
+      ],
+      "material": "black",
+      "bevel": 0.08
+    },
+    {
+      "name": "grate",
+      "min": [
+        82.78,
+        2.8,
+        36.5
+      ],
+      "size": [
+        0.44,
+        9.4,
+        0.35
+      ],
+      "material": "black",
+      "bevel": 0.08
+    },
+    {
+      "name": "grate",
+      "min": [
+        74.5,
+        7.28,
+        36.5
+      ],
+      "size": [
+        10,
+        0.44,
+        0.35
+      ],
+      "material": "black",
+      "bevel": 0.08
+    },
+    {
+      "name": "burner",
+      "p0": [
+        79.5,
+        21,
+        36.3
+      ],
+      "p1": [
+        79.5,
+        21,
+        36.65
+      ],
+      "radius": 1.9,
+      "material": "black"
+    },
+    {
+      "name": "grate",
+      "min": [
+        75.78,
+        16.3,
+        36.5
+      ],
+      "size": [
+        0.44,
+        9.4,
+        0.35
+      ],
+      "material": "black",
+      "bevel": 0.08
+    },
+    {
+      "name": "grate",
+      "min": [
+        82.78,
+        16.3,
+        36.5
+      ],
+      "size": [
+        0.44,
+        9.4,
+        0.35
+      ],
+      "material": "black",
+      "bevel": 0.08
+    },
+    {
+      "name": "grate",
+      "min": [
+        74.5,
+        20.78,
+        36.5
+      ],
+      "size": [
+        10,
+        0.44,
+        0.35
+      ],
+      "material": "black",
+      "bevel": 0.08
+    },
+    {
+      "name": "upper side",
+      "min": [
+        43.5,
+        0,
+        54
+      ],
+      "size": [
+        0.75,
+        12,
+        30
+      ],
+      "material": "paint",
+      "bevel": 0.03
+    },
+    {
+      "name": "upper side",
+      "min": [
+        56.25,
+        0,
+        54
+      ],
+      "size": [
+        0.75,
+        12,
+        30
+      ],
+      "material": "paint",
+      "bevel": 0.03
+    },
+    {
+      "name": "upper back",
+      "min": [
+        43.5,
+        0,
+        54
+      ],
+      "size": [
+        13.5,
+        0.5,
+        30
+      ],
+      "material": "paint",
+      "bevel": 0
+    },
+    {
+      "name": "upper top",
+      "min": [
+        43.5,
+        0,
+        83.25
+      ],
+      "size": [
+        13.5,
+        12,
+        0.75
+      ],
+      "material": "paint",
+      "bevel": 0
+    },
+    {
+      "name": "upper floor",
+      "min": [
+        43.5,
+        0,
+        54
+      ],
+      "size": [
+        13.5,
+        12,
+        0.75
+      ],
+      "material": "paint",
+      "bevel": 0
+    },
+    {
+      "name": "glass shelf",
+      "min": [
+        44.3,
+        1,
+        64
+      ],
+      "size": [
+        11.9,
+        10,
+        0.18
+      ],
+      "material": "glass",
+      "bevel": 0
+    },
+    {
+      "name": "glass shelf",
+      "min": [
+        44.3,
+        1,
+        74
+      ],
+      "size": [
+        11.9,
+        10,
+        0.18
+      ],
+      "material": "glass",
+      "bevel": 0
+    },
+    {
+      "name": "door stile",
+      "min": [
+        43.58,
+        11.45,
+        54.1
+      ],
+      "size": [
+        1.5,
+        0.75,
+        29.8
+      ],
+      "material": "paint",
+      "bevel": 0.07
+    },
+    {
+      "name": "door stile",
+      "min": [
+        55.4,
+        11.45,
+        54.1
+      ],
+      "size": [
+        1.5,
+        0.75,
+        29.8
+      ],
+      "material": "paint",
+      "bevel": 0.07
+    },
+    {
+      "name": "door rail",
+      "min": [
+        43.6,
+        11.45,
+        54.1
+      ],
+      "size": [
+        13.3,
+        0.75,
+        1.5
+      ],
+      "material": "paint",
+      "bevel": 0.06
+    },
+    {
+      "name": "door rail",
+      "min": [
+        43.6,
+        11.45,
+        82.4
+      ],
+      "size": [
+        13.3,
+        0.75,
+        1.5
+      ],
+      "material": "paint",
+      "bevel": 0.06
+    },
+    {
+      "name": "frosted pane",
+      "min": [
+        45.0,
+        11.65,
+        55.6
+      ],
+      "size": [
+        10.5,
+        0.16,
+        26.8
+      ],
+      "material": "glass",
+      "bevel": 0
+    },
+    {
+      "name": "upper pull",
+      "p0": [
+        54.9,
+        12.8,
+        60
+      ],
+      "p1": [
+        54.9,
+        12.8,
+        67
+      ],
+      "radius": 0.15,
+      "material": "chrome"
+    },
+    {
+      "name": "upper side",
+      "min": [
+        87,
+        0,
+        54
+      ],
+      "size": [
+        0.75,
+        12,
+        30
+      ],
+      "material": "paint",
+      "bevel": 0.03
+    },
+    {
+      "name": "upper side",
+      "min": [
+        122.25,
+        0,
+        54
+      ],
+      "size": [
+        0.75,
+        12,
+        30
+      ],
+      "material": "paint",
+      "bevel": 0.03
+    },
+    {
+      "name": "upper back",
+      "min": [
+        87,
+        0,
+        54
+      ],
+      "size": [
+        36,
+        0.5,
+        30
+      ],
+      "material": "paint",
+      "bevel": 0
+    },
+    {
+      "name": "upper top",
+      "min": [
+        87,
+        0,
+        83.25
+      ],
+      "size": [
+        36,
+        12,
+        0.75
+      ],
+      "material": "paint",
+      "bevel": 0
+    },
+    {
+      "name": "upper floor",
+      "min": [
+        87,
+        0,
+        54
+      ],
+      "size": [
+        36,
+        12,
+        0.75
+      ],
+      "material": "paint",
+      "bevel": 0
+    },
+    {
+      "name": "glass shelf",
+      "min": [
+        87.8,
+        1,
+        64
+      ],
+      "size": [
+        34.4,
+        10,
+        0.18
+      ],
+      "material": "glass",
+      "bevel": 0
+    },
+    {
+      "name": "glass shelf",
+      "min": [
+        87.8,
+        1,
+        74
+      ],
+      "size": [
+        34.4,
+        10,
+        0.18
+      ],
+      "material": "glass",
+      "bevel": 0
+    },
+    {
+      "name": "door stile",
+      "min": [
+        87.08,
+        11.45,
+        54.1
+      ],
+      "size": [
+        1.5,
+        0.75,
+        29.8
+      ],
+      "material": "paint",
+      "bevel": 0.07
+    },
+    {
+      "name": "door stile",
+      "min": [
+        103.4,
+        11.45,
+        54.1
+      ],
+      "size": [
+        1.5,
+        0.75,
+        29.8
+      ],
+      "material": "paint",
+      "bevel": 0.07
+    },
+    {
+      "name": "door rail",
+      "min": [
+        87.1,
+        11.45,
+        54.1
+      ],
+      "size": [
+        17.8,
+        0.75,
+        1.5
+      ],
+      "material": "paint",
+      "bevel": 0.06
+    },
+    {
+      "name": "door rail",
+      "min": [
+        87.1,
+        11.45,
+        82.4
+      ],
+      "size": [
+        17.8,
+        0.75,
+        1.5
+      ],
+      "material": "paint",
+      "bevel": 0.06
+    },
+    {
+      "name": "frosted pane",
+      "min": [
+        88.5,
+        11.65,
+        55.6
+      ],
+      "size": [
+        15.0,
+        0.16,
+        26.8
+      ],
+      "material": "glass",
+      "bevel": 0
+    },
+    {
+      "name": "upper pull",
+      "p0": [
+        102.9,
+        12.8,
+        60
+      ],
+      "p1": [
+        102.9,
+        12.8,
+        67
+      ],
+      "radius": 0.15,
+      "material": "chrome"
+    },
+    {
+      "name": "door stile",
+      "min": [
+        105.08,
+        11.45,
+        54.1
+      ],
+      "size": [
+        1.5,
+        0.75,
+        29.8
+      ],
+      "material": "paint",
+      "bevel": 0.07
+    },
+    {
+      "name": "door stile",
+      "min": [
+        121.4,
+        11.45,
+        54.1
+      ],
+      "size": [
+        1.5,
+        0.75,
+        29.8
+      ],
+      "material": "paint",
+      "bevel": 0.07
+    },
+    {
+      "name": "door rail",
+      "min": [
+        105.1,
+        11.45,
+        54.1
+      ],
+      "size": [
+        17.8,
+        0.75,
+        1.5
+      ],
+      "material": "paint",
+      "bevel": 0.06
+    },
+    {
+      "name": "door rail",
+      "min": [
+        105.1,
+        11.45,
+        82.4
+      ],
+      "size": [
+        17.8,
+        0.75,
+        1.5
+      ],
+      "material": "paint",
+      "bevel": 0.06
+    },
+    {
+      "name": "frosted pane",
+      "min": [
+        106.5,
+        11.65,
+        55.6
+      ],
+      "size": [
+        15.0,
+        0.16,
+        26.8
+      ],
+      "material": "glass",
+      "bevel": 0
+    },
+    {
+      "name": "upper pull",
+      "p0": [
+        107.1,
+        12.8,
+        60
+      ],
+      "p1": [
+        107.1,
+        12.8,
+        67
+      ],
+      "radius": 0.15,
+      "material": "chrome"
+    },
+    {
+      "name": "hood canopy",
+      "min": [
+        57,
+        0,
+        63
+      ],
+      "size": [
+        30,
+        21,
+        3
+      ],
+      "material": "steel",
+      "bevel": 0.08
+    },
+    {
+      "name": "hood chimney",
+      "min": [
+        64,
+        0,
+        66
+      ],
+      "size": [
+        16,
+        12,
+        30
+      ],
+      "material": "paint",
+      "bevel": 0.07
+    },
+    {
+      "name": "pot filler mount",
+      "p0": [
+        72,
+        0.3,
+        50
+      ],
+      "p1": [
+        72,
+        2,
+        50
+      ],
+      "radius": 0.75,
+      "material": "chrome"
+    },
+    {
+      "name": "pot filler",
+      "p0": [
+        72,
+        2,
+        50
+      ],
+      "p1": [
+        66,
+        2,
+        50
+      ],
+      "radius": 0.25,
+      "material": "chrome"
+    },
+    {
+      "name": "pot filler",
+      "p0": [
+        66,
+        2,
+        50
+      ],
+      "p1": [
+        66,
+        3,
+        47
+      ],
+      "radius": 0.25,
+      "material": "chrome"
+    },
+    {
+      "name": "pot filler",
+      "p0": [
+        66,
+        3,
+        47
+      ],
+      "p1": [
+        74,
+        3,
+        47
+      ],
+      "radius": 0.25,
+      "material": "chrome"
+    },
+    {
+      "name": "pot filler spout",
+      "p0": [
+        74,
+        3,
+        47
+      ],
+      "p1": [
+        74,
+        3,
+        45
+      ],
+      "radius": 0.3,
+      "material": "chrome"
+    },
+    {
+      "name": "red toaster",
+      "min": [
+        44.5,
+        13,
+        36
+      ],
+      "size": [
+        11.5,
+        7.5,
+        8.2
+      ],
+      "material": "red",
+      "bevel": 2.3
+    },
+    {
+      "name": "toaster base",
+      "min": [
+        44.5,
+        13,
+        36
+      ],
+      "size": [
+        11.5,
+        7.5,
+        0.7
+      ],
+      "material": "chrome",
+      "bevel": 0.3
+    },
+    {
+      "name": "toaster slot",
+      "min": [
+        47,
+        14,
+        43.95
+      ],
+      "size": [
+        1.5,
+        5,
+        0.1
+      ],
+      "material": "black",
+      "bevel": 0.1
+    },
+    {
+      "name": "toaster slot",
+      "min": [
+        51,
+        14,
+        43.95
+      ],
+      "size": [
+        1.5,
+        5,
+        0.1
+      ],
+      "material": "black",
+      "bevel": 0.1
+    },
+    {
+      "name": "toaster foot",
+      "p0": [
+        45.5,
+        14,
+        35.95
+      ],
+      "p1": [
+        45.5,
+        14,
+        36.3
+      ],
+      "radius": 0.38,
+      "material": "black"
+    },
+    {
+      "name": "toaster foot",
+      "p0": [
+        45.5,
+        19,
+        35.95
+      ],
+      "p1": [
+        45.5,
+        19,
+        36.3
+      ],
+      "radius": 0.38,
+      "material": "black"
+    },
+    {
+      "name": "toaster foot",
+      "p0": [
+        54.5,
+        14,
+        35.95
+      ],
+      "p1": [
+        54.5,
+        14,
+        36.3
+      ],
+      "radius": 0.38,
+      "material": "black"
+    },
+    {
+      "name": "toaster foot",
+      "p0": [
+        54.5,
+        19,
+        35.95
+      ],
+      "p1": [
+        54.5,
+        19,
+        36.3
+      ],
+      "radius": 0.38,
+      "material": "black"
+    },
+    {
+      "name": "kettle base",
+      "p0": [
+        108,
+        15,
+        36
+      ],
+      "p1": [
+        108,
+        15,
+        36.65
+      ],
+      "radius": 3.65,
+      "material": "chrome"
+    },
+    {
+      "name": "kettle lid",
+      "p0": [
+        108,
+        15,
+        45.5
+      ],
+      "p1": [
+        108,
+        15,
+        45.85
+      ],
+      "radius": 1.6,
+      "material": "chrome"
+    },
+    {
+      "name": "kettle handle",
+      "p0": [
+        111.3,
+        15,
+        44.4
+      ],
+      "p1": [
+        113.2,
+        15,
+        44.3
+      ],
+      "radius": 0.3,
+      "material": "chrome"
+    },
+    {
+      "name": "kettle handle",
+      "p0": [
+        113.2,
+        15,
+        44.3
+      ],
+      "p1": [
+        113.9,
+        15,
+        43
+      ],
+      "radius": 0.3,
+      "material": "chrome"
+    },
+    {
+      "name": "kettle handle",
+      "p0": [
+        113.9,
+        15,
+        43
+      ],
+      "p1": [
+        113.6,
+        15,
+        38.7
+      ],
+      "radius": 0.3,
+      "material": "chrome"
+    },
+    {
+      "name": "kettle handle",
+      "p0": [
+        113.6,
+        15,
+        38.7
+      ],
+      "p1": [
+        111.3,
+        15,
+        37.8
+      ],
+      "radius": 0.3,
+      "material": "chrome"
+    },
+    {
+      "name": "kettle spout",
+      "p0": [
+        104.8,
+        15,
+        42
+      ],
+      "p1": [
+        102.7,
+        15,
+        44
+      ],
+      "radius": 0.65,
+      "material": "chrome"
+    },
+    {
+      "name": "rear wall",
+      "min": [
+        -80,
+        -2,
+        0
+      ],
+      "size": [
+        300,
+        2,
+        140
+      ],
+      "material": "wall",
+      "bevel": 0
+    },
+    {
+      "name": "floor",
+      "min": [
+        -100,
+        -50,
+        -2
+      ],
+      "size": [
+        350,
+        500,
+        2
+      ],
+      "material": "floor",
+      "bevel": 0
+    },
+    {
+      "name": "kitchen ceiling",
+      "min": [
+        -5,
+        0,
+        96
+      ],
+      "size": [
+        135,
+        105,
+        2
+      ],
+      "material": "wall",
+      "bevel": 0
+    },
+    {
+      "name": "foreground left outer",
+      "min": [
+        -90,
+        102,
+        0
+      ],
+      "size": [
+        89,
+        6,
+        160
+      ],
+      "material": "wall",
+      "bevel": 0
+    },
+    {
+      "name": "left door header",
+      "min": [
+        -1,
+        102,
+        84
+      ],
+      "size": [
+        23,
+        6,
+        76
+      ],
+      "material": "wall",
+      "bevel": 0
+    },
+    {
+      "name": "left door jamb",
+      "min": [
+        22,
+        102,
+        0
+      ],
+      "size": [
+        3.1385618530040347,
+        6,
+        160
+      ],
+      "material": "wall",
+      "bevel": 0
+    },
+    {
+      "name": "right opening pier",
+      "min": [
+        112.88041591673084,
+        102,
+        0
+      ],
+      "size": [
+        5,
+        6,
+        160
+      ],
+      "material": "wall",
+      "bevel": 0
+    },
+    {
+      "name": "dining header",
+      "min": [
+        117.88041591673084,
+        102,
+        96
+      ],
+      "size": [
+        100,
+        6,
+        64
+      ],
+      "material": "wall",
+      "bevel": 0
+    },
+    {
+      "name": "opening header",
+      "min": [
+        25.138561853004035,
+        102,
+        96
+      ],
+      "size": [
+        87.7418540637268,
+        6,
+        64
+      ],
+      "material": "wall",
+      "bevel": 0
+    },
+    {
+      "name": "door casing",
+      "min": [
+        -2,
+        108,
+        0
+      ],
+      "size": [
+        1,
+        1,
+        84
+      ],
+      "material": "paint",
+      "bevel": 0.05
+    },
+    {
+      "name": "door casing",
+      "min": [
+        22,
+        108,
+        0
+      ],
+      "size": [
+        1,
+        1,
+        84
+      ],
+      "material": "paint",
+      "bevel": 0.05
+    },
+    {
+      "name": "door casing top",
+      "min": [
+        -2,
+        108,
+        84
+      ],
+      "size": [
+        25,
+        1,
+        1.2
+      ],
+      "material": "paint",
+      "bevel": 0.05
+    },
+    {
+      "name": "hall rear",
+      "min": [
+        -25,
+        -8,
+        0
+      ],
+      "size": [
+        48,
+        2,
+        96
+      ],
+      "material": "wall",
+      "bevel": 0
+    },
+    {
+      "name": "dining rear wall",
+      "min": [
+        123,
+        25,
+        0
+      ],
+      "size": [
+        100,
+        2,
+        100
+      ],
+      "material": "wall",
+      "bevel": 0
+    },
+    {
+      "name": "dining ceiling",
+      "min": [
+        123,
+        25,
+        96
+      ],
+      "size": [
+        100,
+        150,
+        2
+      ],
+      "material": "wall",
+      "bevel": 0
+    },
+    {
+      "name": "dining rug",
+      "min": [
+        125,
+        57,
+        0.015
+      ],
+      "size": [
+        76,
+        86,
+        0.12
+      ],
+      "material": "rug",
+      "bevel": 0.03
+    },
+    {
+      "name": "dining tabletop",
+      "min": [
+        129,
+        78,
+        29
+      ],
+      "size": [
+        60,
+        35,
+        1.7
+      ],
+      "material": "oak",
+      "bevel": 0.35
+    },
+    {
+      "name": "dining table leg",
+      "p0": [
+        132,
+        81,
+        0.2
+      ],
+      "p1": [
+        132,
+        81,
+        29
+      ],
+      "radius": 0.55,
+      "material": "brass"
+    },
+    {
+      "name": "dining table leg",
+      "p0": [
+        132,
+        110,
+        0.2
+      ],
+      "p1": [
+        132,
+        110,
+        29
+      ],
+      "radius": 0.55,
+      "material": "brass"
+    },
+    {
+      "name": "dining table leg",
+      "p0": [
+        186,
+        81,
+        0.2
+      ],
+      "p1": [
+        186,
+        81,
+        29
+      ],
+      "radius": 0.55,
+      "material": "brass"
+    },
+    {
+      "name": "dining table leg",
+      "p0": [
+        186,
+        110,
+        0.2
+      ],
+      "p1": [
+        186,
+        110,
+        29
+      ],
+      "radius": 0.55,
+      "material": "brass"
+    },
+    {
+      "name": "dining seat",
+      "min": [
+        135,
+        58,
+        18
+      ],
+      "size": [
+        16.0,
+        14.0,
+        2.1
+      ],
+      "material": "cream"
+    },
+    {
+      "name": "dining back",
+      "min": [
+        134.5,
+        57,
+        21
+      ],
+      "size": [
+        17.0,
+        2.0,
+        13.0
+      ],
+      "material": "cream"
+    },
+    {
+      "name": "dining back support",
+      "p0": [
+        136,
+        59,
+        16
+      ],
+      "p1": [
+        136,
+        58,
+        26
+      ],
+      "radius": 0.32,
+      "material": "brass"
+    },
+    {
+      "name": "dining chair leg",
+      "p0": [
+        136,
+        59,
+        0
+      ],
+      "p1": [
+        136,
+        59,
+        18
+      ],
+      "radius": 0.35,
+      "material": "brass"
+    },
+    {
+      "name": "dining chair leg",
+      "p0": [
+        136,
+        71,
+        0
+      ],
+      "p1": [
+        136,
+        71,
+        18
+      ],
+      "radius": 0.35,
+      "material": "brass"
+    },
+    {
+      "name": "dining back support",
+      "p0": [
+        150,
+        59,
+        16
+      ],
+      "p1": [
+        150,
+        58,
+        26
+      ],
+      "radius": 0.32,
+      "material": "brass"
+    },
+    {
+      "name": "dining chair leg",
+      "p0": [
+        150,
+        59,
+        0
+      ],
+      "p1": [
+        150,
+        59,
+        18
+      ],
+      "radius": 0.35,
+      "material": "brass"
+    },
+    {
+      "name": "dining chair leg",
+      "p0": [
+        150,
+        71,
+        0
+      ],
+      "p1": [
+        150,
+        71,
+        18
+      ],
+      "radius": 0.35,
+      "material": "brass"
+    },
+    {
+      "name": "dining seat",
+      "min": [
+        135,
+        122,
+        18
+      ],
+      "size": [
+        16.0,
+        14.0,
+        2.1
+      ],
+      "material": "cream"
+    },
+    {
+      "name": "dining back",
+      "min": [
+        134.5,
+        135,
+        21
+      ],
+      "size": [
+        17.0,
+        2.0,
+        13.0
+      ],
+      "material": "cream"
+    },
+    {
+      "name": "dining back support",
+      "p0": [
+        136,
+        135,
+        16
+      ],
+      "p1": [
+        136,
+        136,
+        26
+      ],
+      "radius": 0.32,
+      "material": "brass"
+    },
+    {
+      "name": "dining chair leg",
+      "p0": [
+        136,
+        123,
+        0
+      ],
+      "p1": [
+        136,
+        123,
+        18
+      ],
+      "radius": 0.35,
+      "material": "brass"
+    },
+    {
+      "name": "dining chair leg",
+      "p0": [
+        136,
+        135,
+        0
+      ],
+      "p1": [
+        136,
+        135,
+        18
+      ],
+      "radius": 0.35,
+      "material": "brass"
+    },
+    {
+      "name": "dining back support",
+      "p0": [
+        150,
+        135,
+        16
+      ],
+      "p1": [
+        150,
+        136,
+        26
+      ],
+      "radius": 0.32,
+      "material": "brass"
+    },
+    {
+      "name": "dining chair leg",
+      "p0": [
+        150,
+        123,
+        0
+      ],
+      "p1": [
+        150,
+        123,
+        18
+      ],
+      "radius": 0.35,
+      "material": "brass"
+    },
+    {
+      "name": "dining chair leg",
+      "p0": [
+        150,
+        135,
+        0
+      ],
+      "p1": [
+        150,
+        135,
+        18
+      ],
+      "radius": 0.35,
+      "material": "brass"
+    },
+    {
+      "name": "dining seat",
+      "min": [
+        168,
+        58,
+        18
+      ],
+      "size": [
+        16.0,
+        14.0,
+        2.1
+      ],
+      "material": "cream"
+    },
+    {
+      "name": "dining back",
+      "min": [
+        167.5,
+        57,
+        21
+      ],
+      "size": [
+        17.0,
+        2.0,
+        13.0
+      ],
+      "material": "cream"
+    },
+    {
+      "name": "dining back support",
+      "p0": [
+        169,
+        59,
+        16
+      ],
+      "p1": [
+        169,
+        58,
+        26
+      ],
+      "radius": 0.32,
+      "material": "brass"
+    },
+    {
+      "name": "dining chair leg",
+      "p0": [
+        169,
+        59,
+        0
+      ],
+      "p1": [
+        169,
+        59,
+        18
+      ],
+      "radius": 0.35,
+      "material": "brass"
+    },
+    {
+      "name": "dining chair leg",
+      "p0": [
+        169,
+        71,
+        0
+      ],
+      "p1": [
+        169,
+        71,
+        18
+      ],
+      "radius": 0.35,
+      "material": "brass"
+    },
+    {
+      "name": "dining back support",
+      "p0": [
+        183,
+        59,
+        16
+      ],
+      "p1": [
+        183,
+        58,
+        26
+      ],
+      "radius": 0.32,
+      "material": "brass"
+    },
+    {
+      "name": "dining chair leg",
+      "p0": [
+        183,
+        59,
+        0
+      ],
+      "p1": [
+        183,
+        59,
+        18
+      ],
+      "radius": 0.35,
+      "material": "brass"
+    },
+    {
+      "name": "dining chair leg",
+      "p0": [
+        183,
+        71,
+        0
+      ],
+      "p1": [
+        183,
+        71,
+        18
+      ],
+      "radius": 0.35,
+      "material": "brass"
+    },
+    {
+      "name": "dining seat",
+      "min": [
+        168,
+        122,
+        18
+      ],
+      "size": [
+        16.0,
+        14.0,
+        2.1
+      ],
+      "material": "cream"
+    },
+    {
+      "name": "dining back",
+      "min": [
+        167.5,
+        135,
+        21
+      ],
+      "size": [
+        17.0,
+        2.0,
+        13.0
+      ],
+      "material": "cream"
+    },
+    {
+      "name": "dining back support",
+      "p0": [
+        169,
+        135,
+        16
+      ],
+      "p1": [
+        169,
+        136,
+        26
+      ],
+      "radius": 0.32,
+      "material": "brass"
+    },
+    {
+      "name": "dining chair leg",
+      "p0": [
+        169,
+        123,
+        0
+      ],
+      "p1": [
+        169,
+        123,
+        18
+      ],
+      "radius": 0.35,
+      "material": "brass"
+    },
+    {
+      "name": "dining chair leg",
+      "p0": [
+        169,
+        135,
+        0
+      ],
+      "p1": [
+        169,
+        135,
+        18
+      ],
+      "radius": 0.35,
+      "material": "brass"
+    },
+    {
+      "name": "dining back support",
+      "p0": [
+        183,
+        135,
+        16
+      ],
+      "p1": [
+        183,
+        136,
+        26
+      ],
+      "radius": 0.32,
+      "material": "brass"
+    },
+    {
+      "name": "dining chair leg",
+      "p0": [
+        183,
+        123,
+        0
+      ],
+      "p1": [
+        183,
+        123,
+        18
+      ],
+      "radius": 0.35,
+      "material": "brass"
+    },
+    {
+      "name": "dining chair leg",
+      "p0": [
+        183,
+        135,
+        0
+      ],
+      "p1": [
+        183,
+        135,
+        18
+      ],
+      "radius": 0.35,
+      "material": "brass"
+    },
+    {
+      "name": "art frame",
+      "min": [
+        133,
+        27.05,
+        47
+      ],
+      "size": [
+        19,
+        0.9,
+        27
+      ],
+      "material": "brass",
+      "bevel": 0.1
+    },
+    {
+      "name": "art frame",
+      "min": [
+        155,
+        27.05,
+        47
+      ],
+      "size": [
+        19,
+        0.9,
+        27
+      ],
+      "material": "brass",
+      "bevel": 0.1
+    },
+    {
+      "name": "dining pendant stem",
+      "p0": [
+        158,
+        93,
+        96
+      ],
+      "p1": [
+        158,
+        93,
+        88
+      ],
+      "radius": 0.12,
+      "material": "brass"
+    },
+    {
+      "name": "dining pendant rim",
+      "p0": [
+        158,
+        93,
+        86.3
+      ],
+      "p1": [
+        158,
+        93,
+        87.2
+      ],
+      "radius": 7,
+      "material": "brass"
+    },
+    {
+      "name": "bar wall",
+      "min": [
+        25.138561853004035,
+        102,
+        0
+      ],
+      "size": [
+        87.7418540637268,
+        4.5,
+        41.5
+      ],
+      "material": "oak",
+      "bevel": 0
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        25.338561853004034,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        26.188561853004035,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        27.038561853004037,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        27.88856185300404,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        28.73856185300404,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        29.58856185300404,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        30.438561853004042,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        31.288561853004044,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        32.13856185300405,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        32.98856185300404,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        33.83856185300405,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        34.688561853004046,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        35.538561853004055,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        36.38856185300405,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        37.23856185300406,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        38.08856185300405,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        38.93856185300406,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        39.788561853004055,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        40.63856185300406,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        41.48856185300406,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        42.338561853004066,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        43.18856185300406,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        44.03856185300407,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        44.88856185300406,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        45.73856185300407,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        46.588561853004066,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        47.438561853004074,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        48.28856185300407,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        49.13856185300408,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        49.98856185300407,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        50.83856185300408,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        51.688561853004074,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        52.53856185300408,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        53.38856185300408,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        54.238561853004086,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        55.08856185300408,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        55.93856185300409,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        56.78856185300408,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        57.63856185300409,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        58.488561853004086,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        59.338561853004094,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        60.18856185300409,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        61.0385618530041,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        61.88856185300409,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        62.7385618530041,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        63.588561853004094,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        64.4385618530041,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        65.2885618530041,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        66.1385618530041,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        66.9885618530041,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        67.83856185300411,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        68.6885618530041,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        69.53856185300411,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        70.3885618530041,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        71.23856185300411,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        72.08856185300411,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        72.93856185300412,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        73.78856185300411,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        74.63856185300412,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        75.48856185300411,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        76.33856185300412,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        77.18856185300412,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        78.03856185300413,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        78.88856185300412,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        79.73856185300413,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        80.58856185300412,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        81.43856185300413,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        82.28856185300413,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        83.13856185300413,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        83.98856185300413,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        84.83856185300414,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        85.68856185300413,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        86.53856185300414,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        87.38856185300413,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        88.23856185300414,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        89.08856185300414,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        89.93856185300415,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        90.78856185300414,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        91.63856185300415,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        92.48856185300414,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        93.33856185300415,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        94.18856185300415,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        95.03856185300415,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        95.88856185300415,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        96.73856185300416,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        97.58856185300415,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        98.43856185300416,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        99.28856185300415,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        100.13856185300416,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        100.98856185300416,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        101.83856185300417,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        102.68856185300416,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        103.53856185300417,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        104.38856185300416,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        105.23856185300417,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        106.08856185300417,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        106.93856185300417,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        107.78856185300417,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        108.63856185300418,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        109.48856185300417,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        110.33856185300418,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        111.18856185300417,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar oak rib",
+      "min": [
+        112.03856185300418,
+        106.5,
+        0.5
+      ],
+      "size": [
+        0.48,
+        0.45,
+        40
+      ],
+      "material": "oak",
+      "bevel": 0.12
+    },
+    {
+      "name": "bar quartz cap",
+      "min": [
+        23.138561853004035,
+        99,
+        41.5
+      ],
+      "size": [
+        91.7418540637268,
+        12,
+        1.5
+      ],
+      "material": "stone",
+      "bevel": 0.09
+    },
+    {
+      "name": "sink side base",
+      "min": [
+        25.138561853004035,
+        79.5,
+        0
+      ],
+      "size": [
+        87.7418540637268,
+        22.5,
+        34.5
+      ],
+      "material": "paint",
+      "bevel": 0
+    },
+    {
+      "name": "sink quartz",
+      "min": [
+        25.138561853004035,
+        79.5,
+        34.5
+      ],
+      "size": [
+        87.7418540637268,
+        2.5,
+        1.5
+      ],
+      "material": "stone",
+      "bevel": 0.06
+    },
+    {
+      "name": "sink quartz",
+      "min": [
+        25.138561853004035,
+        99,
+        34.5
+      ],
+      "size": [
+        87.7418540637268,
+        3,
+        1.5
+      ],
+      "material": "stone",
+      "bevel": 0.06
+    },
+    {
+      "name": "sink quartz",
+      "min": [
+        25.138561853004035,
+        82,
+        34.5
+      ],
+      "size": [
+        36.861438146995965,
+        17,
+        1.5
+      ],
+      "material": "stone",
+      "bevel": 0.06
+    },
+    {
+      "name": "sink quartz",
+      "min": [
+        90,
+        82,
+        34.5
+      ],
+      "size": [
+        22.88041591673084,
+        17,
+        1.5
+      ],
+      "material": "stone",
+      "bevel": 0.06
+    },
+    {
+      "name": "sink floor",
+      "min": [
+        62,
+        82,
+        28
+      ],
+      "size": [
+        28,
+        17,
+        0.3
+      ],
+      "material": "steel",
+      "bevel": 0.1
+    },
+    {
+      "name": "sink inner wall",
+      "min": [
+        62,
+        82,
+        28
+      ],
+      "size": [
+        0.25,
+        17,
+        7.7
+      ],
+      "material": "steel",
+      "bevel": 0.06
+    },
+    {
+      "name": "sink inner wall",
+      "min": [
+        89.75,
+        82,
+        28
+      ],
+      "size": [
+        0.25,
+        17,
+        7.7
+      ],
+      "material": "steel",
+      "bevel": 0.06
+    },
+    {
+      "name": "sink inner wall",
+      "min": [
+        62,
+        82,
+        28
+      ],
+      "size": [
+        28,
+        0.25,
+        7.7
+      ],
+      "material": "steel",
+      "bevel": 0.06
+    },
+    {
+      "name": "sink inner wall",
+      "min": [
+        62,
+        98.75,
+        28
+      ],
+      "size": [
+        28,
+        0.25,
+        7.7
+      ],
+      "material": "steel",
+      "bevel": 0.06
+    },
+    {
+      "name": "faucet upright",
+      "p0": [
+        80,
+        98,
+        36
+      ],
+      "p1": [
+        80,
+        98,
+        49
+      ],
+      "radius": 0.45,
+      "material": "chrome"
+    },
+    {
+      "name": "faucet spout",
+      "p0": [
+        80,
+        98,
+        49
+      ],
+      "p1": [
+        73,
+        98,
+        49
+      ],
+      "radius": 0.45,
+      "material": "chrome"
+    },
+    {
+      "name": "faucet nozzle",
+      "p0": [
+        73,
+        98,
+        49
+      ],
+      "p1": [
+        73,
+        98,
+        47.8
+      ],
+      "radius": 0.5,
+      "material": "chrome"
+    },
+    {
+      "name": "faucet control",
+      "p0": [
+        82,
+        98,
+        36
+      ],
+      "p1": [
+        82,
+        98,
+        41
+      ],
+      "radius": 0.22,
+      "material": "chrome"
+    },
+    {
+      "name": "soap pump",
+      "p0": [
+        85,
+        98,
+        36
+      ],
+      "p1": [
+        85,
+        98,
+        41
+      ],
+      "radius": 0.3,
+      "material": "chrome"
+    },
+    {
+      "name": "stool seat",
+      "min": [
+        37.50948888486744,
+        125,
+        24
+      ],
+      "size": [
+        17.0,
+        15.0,
+        2.8
+      ],
+      "material": "cream"
+    },
+    {
+      "name": "stool padded back",
+      "min": [
+        37.00948888486744,
+        139,
+        29
+      ],
+      "size": [
+        18.0,
+        2.2,
+        11.5
+      ],
+      "material": "cream"
+    },
+    {
+      "name": "stool leg",
+      "p0": [
+        38.339488884867436,
+        125.75,
+        0
+      ],
+      "p1": [
+        39.50948888486744,
+        127,
+        24
+      ],
+      "radius": 0.55,
+      "material": "wooddark"
+    },
+    {
+      "name": "stool leg",
+      "p0": [
+        38.339488884867436,
+        138.25,
+        0
+      ],
+      "p1": [
+        39.50948888486744,
+        137,
+        24
+      ],
+      "radius": 0.55,
+      "material": "wooddark"
+    },
+    {
+      "name": "stool leg",
+      "p0": [
+        53.67948888486744,
+        125.75,
+        0
+      ],
+      "p1": [
+        52.50948888486744,
+        127,
+        24
+      ],
+      "radius": 0.55,
+      "material": "wooddark"
+    },
+    {
+      "name": "stool leg",
+      "p0": [
+        53.67948888486744,
+        138.25,
+        0
+      ],
+      "p1": [
+        52.50948888486744,
+        137,
+        24
+      ],
+      "radius": 0.55,
+      "material": "wooddark"
+    },
+    {
+      "name": "stool back support",
+      "p0": [
+        39.50948888486744,
+        137,
+        20
+      ],
+      "p1": [
+        39.50948888486744,
+        140,
+        33
+      ],
+      "radius": 0.4,
+      "material": "wooddark"
+    },
+    {
+      "name": "stool back support",
+      "p0": [
+        52.50948888486744,
+        137,
+        20
+      ],
+      "p1": [
+        52.50948888486744,
+        140,
+        33
+      ],
+      "radius": 0.4,
+      "material": "wooddark"
+    },
+    {
+      "name": "stool footrest",
+      "p0": [
+        38.909488884867436,
+        138.5,
+        9
+      ],
+      "p1": [
+        53.10948888486744,
+        138.5,
+        9
+      ],
+      "radius": 0.28,
+      "material": "wooddark"
+    },
+    {
+      "name": "stool seat",
+      "min": [
+        60.50948888486744,
+        125,
+        24
+      ],
+      "size": [
+        17.0,
+        15.0,
+        2.8
+      ],
+      "material": "cream"
+    },
+    {
+      "name": "stool padded back",
+      "min": [
+        60.00948888486744,
+        139,
+        29
+      ],
+      "size": [
+        18.0,
+        2.2,
+        11.5
+      ],
+      "material": "cream"
+    },
+    {
+      "name": "stool leg",
+      "p0": [
+        61.339488884867436,
+        125.75,
+        0
+      ],
+      "p1": [
+        62.50948888486744,
+        127,
+        24
+      ],
+      "radius": 0.55,
+      "material": "wooddark"
+    },
+    {
+      "name": "stool leg",
+      "p0": [
+        61.339488884867436,
+        138.25,
+        0
+      ],
+      "p1": [
+        62.50948888486744,
+        137,
+        24
+      ],
+      "radius": 0.55,
+      "material": "wooddark"
+    },
+    {
+      "name": "stool leg",
+      "p0": [
+        76.67948888486744,
+        125.75,
+        0
+      ],
+      "p1": [
+        75.50948888486744,
+        127,
+        24
+      ],
+      "radius": 0.55,
+      "material": "wooddark"
+    },
+    {
+      "name": "stool leg",
+      "p0": [
+        76.67948888486744,
+        138.25,
+        0
+      ],
+      "p1": [
+        75.50948888486744,
+        137,
+        24
+      ],
+      "radius": 0.55,
+      "material": "wooddark"
+    },
+    {
+      "name": "stool back support",
+      "p0": [
+        62.50948888486744,
+        137,
+        20
+      ],
+      "p1": [
+        62.50948888486744,
+        140,
+        33
+      ],
+      "radius": 0.4,
+      "material": "wooddark"
+    },
+    {
+      "name": "stool back support",
+      "p0": [
+        75.50948888486744,
+        137,
+        20
+      ],
+      "p1": [
+        75.50948888486744,
+        140,
+        33
+      ],
+      "radius": 0.4,
+      "material": "wooddark"
+    },
+    {
+      "name": "stool footrest",
+      "p0": [
+        61.909488884867436,
+        138.5,
+        9
+      ],
+      "p1": [
+        76.10948888486743,
+        138.5,
+        9
+      ],
+      "radius": 0.28,
+      "material": "wooddark"
+    },
+    {
+      "name": "stool seat",
+      "min": [
+        83.50948888486744,
+        125,
+        24
+      ],
+      "size": [
+        17.0,
+        15.0,
+        2.8
+      ],
+      "material": "cream"
+    },
+    {
+      "name": "stool padded back",
+      "min": [
+        83.00948888486744,
+        139,
+        29
+      ],
+      "size": [
+        18.0,
+        2.2,
+        11.5
+      ],
+      "material": "cream"
+    },
+    {
+      "name": "stool leg",
+      "p0": [
+        84.33948888486744,
+        125.75,
+        0
+      ],
+      "p1": [
+        85.50948888486744,
+        127,
+        24
+      ],
+      "radius": 0.55,
+      "material": "wooddark"
+    },
+    {
+      "name": "stool leg",
+      "p0": [
+        84.33948888486744,
+        138.25,
+        0
+      ],
+      "p1": [
+        85.50948888486744,
+        137,
+        24
+      ],
+      "radius": 0.55,
+      "material": "wooddark"
+    },
+    {
+      "name": "stool leg",
+      "p0": [
+        99.67948888486744,
+        125.75,
+        0
+      ],
+      "p1": [
+        98.50948888486744,
+        127,
+        24
+      ],
+      "radius": 0.55,
+      "material": "wooddark"
+    },
+    {
+      "name": "stool leg",
+      "p0": [
+        99.67948888486744,
+        138.25,
+        0
+      ],
+      "p1": [
+        98.50948888486744,
+        137,
+        24
+      ],
+      "radius": 0.55,
+      "material": "wooddark"
+    },
+    {
+      "name": "stool back support",
+      "p0": [
+        85.50948888486744,
+        137,
+        20
+      ],
+      "p1": [
+        85.50948888486744,
+        140,
+        33
+      ],
+      "radius": 0.4,
+      "material": "wooddark"
+    },
+    {
+      "name": "stool back support",
+      "p0": [
+        98.50948888486744,
+        137,
+        20
+      ],
+      "p1": [
+        98.50948888486744,
+        140,
+        33
+      ],
+      "radius": 0.4,
+      "material": "wooddark"
+    },
+    {
+      "name": "stool footrest",
+      "p0": [
+        84.90948888486744,
+        138.5,
+        9
+      ],
+      "p1": [
+        99.10948888486743,
+        138.5,
+        9
+      ],
+      "radius": 0.28,
+      "material": "wooddark"
+    },
+    {
+      "name": "track stem",
+      "p0": [
+        36,
+        53,
+        95
+      ],
+      "p1": [
+        36,
+        53,
+        91
+      ],
+      "radius": 0.13,
+      "material": "brass"
+    },
+    {
+      "name": "track stem",
+      "p0": [
+        74,
+        53,
+        95
+      ],
+      "p1": [
+        74,
+        53,
+        91
+      ],
+      "radius": 0.13,
+      "material": "brass"
+    },
+    {
+      "name": "track stem",
+      "p0": [
+        110,
+        53,
+        95
+      ],
+      "p1": [
+        110,
+        53,
+        91
+      ],
+      "radius": 0.13,
+      "material": "brass"
+    },
+    {
+      "name": "track rail",
+      "p0": [
+        10,
+        53,
+        94
+      ],
+      "p1": [
+        114,
+        53,
+        94
+      ],
+      "radius": 0.15,
+      "material": "brass"
+    }
+  ],
+  "paid_provider_calls": 0,
+  "limits": [
+    "Estimated camera/opening from prior study retained; not surveyed match",
+    "Procedural materials/fittings/stools; not exact product asset models",
+    "Dining opening, doorway and furniture context approximate; artwork UV-sampled from existing apartment-v7 without editing source",
+    "No hinge-sweep or construction approval"
+  ]
+}
