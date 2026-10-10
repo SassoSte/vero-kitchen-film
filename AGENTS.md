@@ -4,12 +4,12 @@ Read `HANDOFF.md` first, then `mega-prompt.md`, `docs/SOURCE-REGISTER.md` and th
 `docs/BACKLOG.md`. `outputs/stills-gallery.html` / `docs/asset-catalog.json` identify
 assets and their status; version number alone is not approval.
 
-User approved **283 total credits for ONE fridge/bar depth correction** on2026-10-10:
-`apartment-fridge-depth-v9`, max new price6.5. Read
-`outputs/production/apartment-fridge-depth-authorization.json` and live ledger/state.
-Resolve foreground bar versus rear refrigerator overlap; preserve room geometry,
-fridge scale, camera and rest of composition. Both previous visual locks remain intact.
-No automatic retries, purchases or video jobs. Disable generation after this job.
+User approved **290 total credits for ONE local fridge-occlusion correction** on2026-10-10:
+`apartment-fridge-occlusion-v10`, max new price6.5. Read
+`outputs/production/apartment-fridge-occlusion-authorization.json` and live ledger/state.
+Use v8 upper fridge geometry/top unchanged; correct only freezer-handle/bar overlap.
+Both previous visual locks remain intact. No automatic retries, purchases or video jobs.
+Disable generation after this job.
 
 
 Original photos/plans and manufacturer evidence remain separate from generated concepts.

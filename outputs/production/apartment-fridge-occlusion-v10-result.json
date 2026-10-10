@@ -1,0 +1,40 @@
+[
+  {
+    "created_at": "2026-10-10T08:15:39.69523Z",
+    "display_name": "GPT Image 2",
+    "id": "5a61151d-22c7-43d9-b61a-4cd7e7fcd086",
+    "job_type": "gpt_image_2",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_081539_5a61151d-22c7-43d9-b61a-4cd7e7fcd086_min.webp",
+    "params": {
+      "aspect_ratio": "16:9",
+      "height": 1520,
+      "medias": [
+        {
+          "data": {
+            "id": "20163b94-6799-46ee-b41e-cb44d6e377a9",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/20163b94-6799-46ee-b41e-cb44d6e377a9_resize.jpg"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "f22984c1-1502-494f-bdc8-57575458ebb4",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/f22984c1-1502-494f-bdc8-57575458ebb4_resize.jpg"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "videotape-alpha",
+      "prompt": "Image1 is the BASE and controls all geometry. Restore/preserve image1 exactly, including refrigerator TOP HEIGHT, width, door proportions, handles, location, room, camera, three stools, bar and every other object. Image2 is supplied ONLY to explain removal of the ambiguous horizontal freezer handle; DO NOT copy image2's shorter refrigerator or any other changes.\nMake an extremely small local occlusion correction confined to the bottom edge of the refrigerator where it approaches the foreground quartz ledge. Remove the exposed horizontal freezer drawer handle that visually merges into the bar edge, by correctly allowing the opaque foreground ledge to hide it. Keep the ledge continuous and in the foreground. Preserve image1's refrigerator upper doors, center split, vertical handles and especially exact top edge at their original pixel positions. Do not resize, shorten, lower, move or redraw the upper refrigerator body. Do not reinterpret scale or perspective globally. Do not add a fake filler or new door. This is ONLY a local freezer-handle/foreground-overlap cleanup using image1's unchanged taller fridge and room.\nNo changes to walls, cupboards, sink fixtures, cooker, appliances, props, floor or lighting. Same full16:9 frame. No text.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 2688
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_081539_5a61151d-22c7-43d9-b61a-4cd7e7fcd086.png",
+    "status": "completed"
+  }
+]

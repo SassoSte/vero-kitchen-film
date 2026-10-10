@@ -5,6 +5,7 @@ import hashlib, json, re, html
 ROOT=Path(__file__).resolve().parents[1]
 OUT=ROOT/'outputs'; E=html.escape
 KNOWN={
+'apartment-fridge-occlusion-v10':('candidate-awaiting-user-review','Lead inspected: v8 fridge top position restored; horizontal freezer handle hidden behind continuous foreground ledge.','Freezer below ledge not assessable; no physical-fit proof. Third view awaits user approval.'),
 'apartment-fridge-depth-v9':('partial-depth-correction','Lead inspected: freezer handle no longer merges with foreground bar edge.','Fridge appears slightly shorter than v8; scale-preserving correction not established. Third view not locked.'),
 'apartment-continuity-v8':('candidate-awaiting-user-review','Lead inspected: shorter French-door fridge, extra boards/plant removed; bar, three stools and opening retained.','Third-view user approval pending. Freezer/dispenser occluded; exact fit/product fidelity unverified.'),
 'west-phone-speaker-realism-v1':('user-approved-visual-lock','User accepted west-wall view on2026-10-10: compact phone/speaker nook, undercounter microwave, sink and opening.','Visual acceptance only; preserve as-is unless user changes scope. Physical fit unverified.'),

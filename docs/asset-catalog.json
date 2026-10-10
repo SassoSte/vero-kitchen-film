@@ -1,7 +1,7 @@
 {
   "project": "vero-kitchen-film",
   "inventory_revision": "2026-10-09-resumed-one-concept",
-  "production": "Urgent third-view correction prepared: restore v8 geometry, local freezer-handle occlusion only; paid cap pending",
+  "production": "Third-view fridge top restored and handle overlap corrected; user review pending",
   "authority": "Latest north-wall REF-M dial espresso/canister edit within REF-L composition and retained frosted uppers; two upper French doors/lower freezer drawer, model/fit pending. North/east wide view kitchen-smeg-realism-v1 is user-locked; west-phone-speaker-realism-v1 is also user-approved; apartment-facing reconciliation pending.",
   "review_sources": [
     "outputs/inspection.txt",
@@ -10,20 +10,9 @@
     "conversation review findings"
   ],
   "root": "/Users/stefansassoon/projects/vero-kitchen-film",
-  "still_count": 71,
+  "still_count": 72,
   "video_count": 3,
-  "prepared_not_generated": [
-    {
-      "id": "PREP-apartment-fridge-occlusion-v10",
-      "name": "apartment-fridge-occlusion-v10",
-      "status": "PREPARED; NOT QUOTED OR SUBMITTED",
-      "quote_credits": null,
-      "note": "Urgent third-view correction prepared: restore v8 geometry, local freezer-handle occlusion only; paid cap pending",
-      "receipts": {
-        "request": "outputs/production/apartment-fridge-occlusion-v10-request.json"
-      }
-    }
-  ],
+  "prepared_not_generated": [],
   "assets": [
     {
       "id": "ASSET-79E492B2F8D4",
@@ -93,6 +82,30 @@
         "quote": "outputs/production/apartment-fridge-depth-v9-quote.json",
         "result": "outputs/production/apartment-fridge-depth-v9-result.json",
         "stderr": "outputs/production/apartment-fridge-depth-v9-stderr.txt"
+      },
+      "source_provenance": null,
+      "review_source_note": "Recorded inspection/conversation findings or source-reference role; not a new visual inspection."
+    },
+    {
+      "id": "ASSET-8E884FB75FF2",
+      "title": "Apartment Fridge Occlusion V10",
+      "path": "outputs/keyframes/apartment-fridge-occlusion-v10.png",
+      "absolute_path": "/Users/stefansassoon/projects/vero-kitchen-film/outputs/keyframes/apartment-fridge-occlusion-v10.png",
+      "kind": "still",
+      "category": "generated",
+      "role": "Generated still / diagram",
+      "status": "candidate-awaiting-user-review",
+      "verdict": "Lead inspected: v8 fridge top position restored; horizontal freezer handle hidden behind continuous foreground ledge.",
+      "superseded_reason": "Freezer below ledge not assessable; no physical-fit proof. Third view awaits user approval.",
+      "bytes": 5625856,
+      "sha256": "4e070f1276482f2ce25d6d42bf26d9754909afa6cf1ba8de152e2c5403f51192",
+      "job_name": "apartment-fridge-occlusion-v10",
+      "job_id": "5a61151d-22c7-43d9-b61a-4cd7e7fcd086",
+      "receipts": {
+        "request": "outputs/production/apartment-fridge-occlusion-v10-request.json",
+        "quote": "outputs/production/apartment-fridge-occlusion-v10-quote.json",
+        "result": "outputs/production/apartment-fridge-occlusion-v10-result.json",
+        "stderr": "outputs/production/apartment-fridge-occlusion-v10-stderr.txt"
       },
       "source_provenance": null,
       "review_source_note": "Recorded inspection/conversation findings or source-reference role; not a new visual inspection."

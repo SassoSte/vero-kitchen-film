@@ -1,3 +1,5 @@
+> **Latest third-view result:** [Occlusion v10](docs/APARTMENT-OCCLUSION-REVIEW.md) restores v8 fridge top and hides merging freezer handle. User approval pending. Task **289.25/290**, **0.75 remaining**; generation disabled. Other two visual locks unchanged.
+
 > **Urgent correction requested:** Use v8 as geometry base (retain exact fridge upper body/top); borrow only v9 freezer-handle occlusion. `apartment-fridge-occlusion-v10` prepared. No full-room perspective redesign. Paid cap increase pending.
 
 > **Latest third-view result:** [Fridge depth v9](docs/APARTMENT-FRIDGE-DEPTH-REVIEW.md) hides merging freezer handle, but fridge proportions appear changed; third view remains unlocked. Task **282.75/283**, **0.25 remaining**; generation disabled. Two existing visual locks unchanged.

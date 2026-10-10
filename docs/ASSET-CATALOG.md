@@ -4,13 +4,13 @@ Latest north-wall REF-M dial espresso/canister edit within REF-L composition and
 
 Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashes of repository-relative paths. Hashes describe exact existing bytes; verdicts are sourced review findings, not a new visual inspection.
 
-**71 stills · 3 videos.**
+**72 stills · 3 videos.**
 
 [Open searchable gallery](../outputs/stills-gallery.html) · [Machine-readable catalog](asset-catalog.json)
 
 ## Latest bounded concept
 
-`apartment-fridge-occlusion-v10` — **PREPARED; NOT QUOTED OR SUBMITTED**, quoted None credits. See the production state and asset entry below.
+`apartment-fridge-occlusion-v10` — **GENERATED**, quoted 6.5 credits. See the production state and asset entry below.
 
 ## Stills
 
@@ -58,6 +58,22 @@ Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashe
 - Quote receipt: [outputs/production/apartment-fridge-depth-v9-quote.json](../outputs/production/apartment-fridge-depth-v9-quote.json)
 - Result receipt: [outputs/production/apartment-fridge-depth-v9-result.json](../outputs/production/apartment-fridge-depth-v9-result.json)
 - Stderr receipt: [outputs/production/apartment-fridge-depth-v9-stderr.txt](../outputs/production/apartment-fridge-depth-v9-stderr.txt)
+
+### ASSET-8E884FB75FF2 — Apartment Fridge Occlusion V10
+
+- Exact filename: `apartment-fridge-occlusion-v10.png`
+- File: [outputs/keyframes/apartment-fridge-occlusion-v10.png](../outputs/keyframes/apartment-fridge-occlusion-v10.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/keyframes/apartment-fridge-occlusion-v10.png`
+- Role: Generated still / diagram; status: **candidate-awaiting-user-review**
+- Known verdict: Lead inspected: v8 fridge top position restored; horizontal freezer handle hidden behind continuous foreground ledge.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Freezer below ledge not assessable; no physical-fit proof. Third view awaits user approval.
+- Bytes: 5625856; SHA-256: `4e070f1276482f2ce25d6d42bf26d9754909afa6cf1ba8de152e2c5403f51192`
+- Job ID: `5a61151d-22c7-43d9-b61a-4cd7e7fcd086`
+- Request receipt: [outputs/production/apartment-fridge-occlusion-v10-request.json](../outputs/production/apartment-fridge-occlusion-v10-request.json)
+- Quote receipt: [outputs/production/apartment-fridge-occlusion-v10-quote.json](../outputs/production/apartment-fridge-occlusion-v10-quote.json)
+- Result receipt: [outputs/production/apartment-fridge-occlusion-v10-result.json](../outputs/production/apartment-fridge-occlusion-v10-result.json)
+- Stderr receipt: [outputs/production/apartment-fridge-occlusion-v10-stderr.txt](../outputs/production/apartment-fridge-occlusion-v10-stderr.txt)
 
 ### ASSET-370E15D8FB73 — Apartment-facing kitchen — v1
 
