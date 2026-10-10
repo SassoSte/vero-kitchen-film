@@ -1,16 +1,16 @@
 # Asset catalog — bounded concept resume
 
-Latest north-wall style REF-L with retained REF-K frosted uppers; two upper French doors/lower freezer drawer, model/fit pending. No generated still is final approved complete current design.
+Latest north-wall REF-M dial espresso/canister edit within REF-L composition and retained frosted uppers; two upper French doors/lower freezer drawer, model/fit pending. No generated still is final approved complete current design.
 
 Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashes of repository-relative paths. Hashes describe exact existing bytes; verdicts are sourced review findings, not a new visual inspection.
 
-**60 stills · 3 videos.**
+**61 stills · 3 videos.**
 
 [Open searchable gallery](../outputs/stills-gallery.html) · [Machine-readable catalog](asset-catalog.json)
 
 ## Latest bounded concept
 
-`north-wall-ref-m-v1` — **PREPARED; NOT QUOTED OR SUBMITTED**, quoted None credits. See the production state and asset entry below.
+`north-wall-ref-m-v1` — **GENERATED**, quoted 6.5 credits. See the production state and asset entry below.
 
 ## Stills
 
@@ -362,6 +362,22 @@ Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashe
 - Quote receipt: [outputs/production/north-wall-ref-l-v1-quote.json](../outputs/production/north-wall-ref-l-v1-quote.json)
 - Result receipt: [outputs/production/north-wall-ref-l-v1-result.json](../outputs/production/north-wall-ref-l-v1-result.json)
 - Stderr receipt: [outputs/production/north-wall-ref-l-v1-stderr.txt](../outputs/production/north-wall-ref-l-v1-stderr.txt)
+
+### ASSET-18DA6622F973 — North Wall Ref M V1
+
+- Exact filename: `north-wall-ref-m-v1.png`
+- File: [outputs/keyframes/north-wall-ref-m-v1.png](../outputs/keyframes/north-wall-ref-m-v1.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/keyframes/north-wall-ref-m-v1.png`
+- Role: Generated still / diagram; status: **candidate-awaiting-user-review**
+- Known verdict: Lead inspected: black/warm-metal machine with prominent dial and knobs; two coffee canisters; cups behind frosted glass. Wider wine front and cabinetry retained.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: User review and physical-fit verification pending; generated lettering does not identify a real product.
+- Bytes: 5720822; SHA-256: `297112acb80979f3c745562c7978efaf9332b958e648eda4429b43b2c8e85de9`
+- Job ID: `558f5726-75a4-420a-b5a1-e0f4e61025c3`
+- Request receipt: [outputs/production/north-wall-ref-m-v1-request.json](../outputs/production/north-wall-ref-m-v1-request.json)
+- Quote receipt: [outputs/production/north-wall-ref-m-v1-quote.json](../outputs/production/north-wall-ref-m-v1-quote.json)
+- Result receipt: [outputs/production/north-wall-ref-m-v1-result.json](../outputs/production/north-wall-ref-m-v1-result.json)
+- Stderr receipt: [outputs/production/north-wall-ref-m-v1-stderr.txt](../outputs/production/north-wall-ref-m-v1-stderr.txt)
 
 ### ASSET-20A12A705EC8 — Fridge-placement pilot starting frame — v1
 

@@ -4,10 +4,10 @@ Read `HANDOFF.md` first, then `mega-prompt.md`, `docs/SOURCE-REGISTER.md` and th
 `docs/BACKLOG.md`. `outputs/stills-gallery.html` / `docs/asset-catalog.json` identify
 assets and their status; version number alone is not approval.
 
-User approved **212 total credits for ONE north-wall detail render**, `north-wall-ref-l-v1`,
+User approved **218 total credits for ONE targeted north-wall machine/canister edit**, `north-wall-ref-m-v1`,
 on 2026-10-09 after the prior single concept consumed its authorization. Read
-`outputs/production/north-wall-ref-l-authorization.json` and the live state/ledger.
-REF-L is the new user ideal north-wall appearance reference; preserve developed
+`outputs/production/north-wall-ref-m-authorization.json` and the live state/ledger.
+REF-M controls the espresso machine; keep REF-L composition, add canisters and move cups behind frosted glass. Preserve developed
 sink/apartment views and confirmed orientation. No retries, video batch, purchases,
 scheduling or additional jobs are authorized. Disable generation after this one job.
 Earlier pause/200/205-credit text is historical; latest dated user approval governs.

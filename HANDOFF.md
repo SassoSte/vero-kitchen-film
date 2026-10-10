@@ -1,4 +1,6 @@
-> **Latest requested edit — REF-M:** Preserve the improved north-wall composition. Use the user-selected black/brass machine with prominent analog dial and knobs; remove countertop cups, add coffee canisters, show cups faintly behind frosted glass above. Request `north-wall-ref-m-v1` is prepared, not quoted/submitted; further spending authority pending.
+> **Latest result:** [REF-M targeted edit](docs/NORTH-WALL-REF-M-REVIEW.md) generated and lead-inspected; awaiting user review. Task total **217.75/218**, **0.25 remaining**. Generation disabled. Earlier result/budget statements below are historical.
+
+> **Latest requested edit — REF-M:** Preserve the improved north-wall composition. Use the user-selected black/brass machine with prominent analog dial and knobs; remove countertop cups, add coffee canisters, show cups faintly behind frosted glass above. User approved 218 total credits for one `north-wall-ref-m-v1` render; exact authorization is in outputs/production/north-wall-ref-m-authorization.json.
 
 > **Latest result:** [REF-L north-wall detail](docs/NORTH-WALL-REF-L-REVIEW.md) generated and inspected by lead; awaiting user review. Task total **211.25/212 credits**, **0.75 remaining**. Generation disabled after the one authorized render. Earlier budgets/statuses below are historical.
 

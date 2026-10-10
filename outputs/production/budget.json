@@ -1,7 +1,7 @@
 {
-  "ceiling_credits": 212,
+  "ceiling_credits": 218,
   "opening_balance": 1246.8,
-  "reserved_credits": 211.25,
+  "reserved_credits": 217.75,
   "jobs": [
     {
       "name": "master-v1",
@@ -239,17 +239,24 @@
       "status": "generated",
       "job_id": "b67a6829-4b1a-42fb-a178-dfff2c459771",
       "file": "outputs/keyframes/north-wall-ref-l-v1.png"
+    },
+    {
+      "name": "north-wall-ref-m-v1",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "558f5726-75a4-420a-b5a1-e0f4e61025c3",
+      "file": "outputs/keyframes/north-wall-ref-m-v1.png"
     }
   ],
-  "balance_after": 22,
+  "balance_after": 15.5,
   "balance_delta": null,
-  "remaining_phase_credits": 0.75,
-  "account_snapshot_note": "2026-10-09 REF-L detail:28.5 to22, consistent with one6.5 quote. Task ledger remains authoritative.",
-  "task_quote_total": 211.25,
+  "remaining_phase_credits": 0.25,
+  "account_snapshot_note": "2026-10-09 REF-M edit:22 to15.5, consistent with one6.5 quote; task ledger authoritative.",
+  "task_quote_total": 217.75,
   "latest_pass": {
-    "opening_account_balance": 28.5,
-    "closing_account_balance": 22,
+    "opening_account_balance": 22,
+    "closing_account_balance": 15.5,
     "quoted_cost": 6.5
   },
-  "authorization": "outputs/production/north-wall-ref-l-authorization.json"
+  "authorization": "outputs/production/north-wall-ref-m-authorization.json"
 }

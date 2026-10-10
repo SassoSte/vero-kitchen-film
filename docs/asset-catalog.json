@@ -1,8 +1,8 @@
 {
   "project": "vero-kitchen-film",
   "inventory_revision": "2026-10-09-resumed-one-concept",
-  "production": "Targeted REF-M espresso/canister edit prepared; additional paid budget pending",
-  "authority": "Latest north-wall style REF-L with retained REF-K frosted uppers; two upper French doors/lower freezer drawer, model/fit pending. No generated still is final approved complete current design.",
+  "production": "REF-M dial espresso/canister edit generated; user review pending; further generation disabled",
+  "authority": "Latest north-wall REF-M dial espresso/canister edit within REF-L composition and retained frosted uppers; two upper French doors/lower freezer drawer, model/fit pending. No generated still is final approved complete current design.",
   "review_sources": [
     "outputs/inspection.txt",
     "mega-prompt.md",
@@ -10,20 +10,9 @@
     "conversation review findings"
   ],
   "root": "/Users/stefansassoon/projects/vero-kitchen-film",
-  "still_count": 60,
+  "still_count": 61,
   "video_count": 3,
-  "prepared_not_generated": [
-    {
-      "id": "PREP-north-wall-ref-m-v1",
-      "name": "north-wall-ref-m-v1",
-      "status": "PREPARED; NOT QUOTED OR SUBMITTED",
-      "quote_credits": null,
-      "note": "Targeted REF-M espresso/canister edit prepared; additional paid budget pending",
-      "receipts": {
-        "request": "outputs/production/north-wall-ref-m-v1-request.json"
-      }
-    }
-  ],
+  "prepared_not_generated": [],
   "assets": [
     {
       "id": "ASSET-79E492B2F8D4",
@@ -549,6 +538,30 @@
         "quote": "outputs/production/north-wall-ref-l-v1-quote.json",
         "result": "outputs/production/north-wall-ref-l-v1-result.json",
         "stderr": "outputs/production/north-wall-ref-l-v1-stderr.txt"
+      },
+      "source_provenance": null,
+      "review_source_note": "Recorded inspection/conversation findings or source-reference role; not a new visual inspection."
+    },
+    {
+      "id": "ASSET-18DA6622F973",
+      "title": "North Wall Ref M V1",
+      "path": "outputs/keyframes/north-wall-ref-m-v1.png",
+      "absolute_path": "/Users/stefansassoon/projects/vero-kitchen-film/outputs/keyframes/north-wall-ref-m-v1.png",
+      "kind": "still",
+      "category": "generated",
+      "role": "Generated still / diagram",
+      "status": "candidate-awaiting-user-review",
+      "verdict": "Lead inspected: black/warm-metal machine with prominent dial and knobs; two coffee canisters; cups behind frosted glass. Wider wine front and cabinetry retained.",
+      "superseded_reason": "User review and physical-fit verification pending; generated lettering does not identify a real product.",
+      "bytes": 5720822,
+      "sha256": "297112acb80979f3c745562c7978efaf9332b958e648eda4429b43b2c8e85de9",
+      "job_name": "north-wall-ref-m-v1",
+      "job_id": "558f5726-75a4-420a-b5a1-e0f4e61025c3",
+      "receipts": {
+        "request": "outputs/production/north-wall-ref-m-v1-request.json",
+        "quote": "outputs/production/north-wall-ref-m-v1-quote.json",
+        "result": "outputs/production/north-wall-ref-m-v1-result.json",
+        "stderr": "outputs/production/north-wall-ref-m-v1-stderr.txt"
       },
       "source_provenance": null,
       "review_source_note": "Recorded inspection/conversation findings or source-reference role; not a new visual inspection."

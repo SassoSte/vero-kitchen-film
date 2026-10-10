@@ -1,0 +1,11 @@
+{
+  "date": "2026-10-09",
+  "timezone": "America/Phoenix",
+  "budget_user_text": "Approve 218 total for one render",
+  "total_ceiling_credits": 218,
+  "authorized_jobs": [
+    "north-wall-ref-m-v1"
+  ],
+  "max_new_jobs": 1,
+  "scope": "One targeted REF-M espresso/canister edit; no retries or video batch."
+}

@@ -1,3 +1,5 @@
+> **Latest result:** [REF-M targeted edit](NORTH-WALL-REF-M-REVIEW.md) generated and lead-inspected; awaiting user review. Task total **217.75/218**, **0.25 remaining**. Generation disabled. Earlier result/budget statements below are historical.
+
 > **Latest result:** [REF-L north-wall detail](NORTH-WALL-REF-L-REVIEW.md) generated and inspected by lead; awaiting user review. Task total **211.25/212 credits**, **0.75 remaining**. Generation disabled after the one authorized render. Earlier budgets/statuses below are historical.
 
 > **Latest user direction:** Orientation is now confirmed; preserve the developed remodel views and refine the requested details. North = coffee/wine; west = sink/pass-through; east = cooking run. See [orientation reset](ORIENTATION-2026-10-09.md) for photo evidence, source-plan conflicts and espresso/wine-proportion corrections.

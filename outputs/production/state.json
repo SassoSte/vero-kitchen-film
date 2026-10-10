@@ -1,7 +1,7 @@
 {
   "project": "vero-kitchen-film",
-  "phase": "Targeted REF-M espresso/canister edit prepared; additional paid budget pending",
-  "budget_ceiling_credits": 212,
+  "phase": "REF-M dial espresso/canister edit generated; user review pending; further generation disabled",
+  "budget_ceiling_credits": 218,
   "approved_features": [
     "Wolf GR304 red knobs with pale hood; no over-range microwave",
     "Built-in microwave on sink side left of sink",
@@ -81,7 +81,7 @@
     "status": "conditional-on-clearance-and-cabinetry",
     "wall": "blank end wall beside main fridge; user calls north wall"
   },
-  "end_wall_status": "REF-L detail rendered with stronger espresso machine, wider wine front and narrower oak storage",
+  "end_wall_status": "REF-M dial/knob machine, coffee canisters and cups behind frosted glass generated",
   "end_wall_views": {
     "historical_closed": "outputs/keyframes/end-wall-flush-v1.png",
     "status": "Historical partial only; superseded by REF-K and French-door request"
@@ -91,10 +91,11 @@
   "fridge_style": "French-door upper pair meeting at center, bottom freezer drawer",
   "next_job": {
     "request": "outputs/production/north-wall-ref-m-v1-request.json",
-    "status": "PREPARED; NOT QUOTED OR SUBMITTED",
+    "status": "GENERATED; user review pending",
     "prior_comparable_quote_credits": 6.5,
     "proposed_total_ceiling": 218,
-    "authorization": "Not approved"
+    "authorization": "One render under218 approved and consumed",
+    "quoted_credits": 6.5
   },
   "status": "concept-review-hold",
   "pause_reason": null,
@@ -109,16 +110,16 @@
     "lessons": "docs/LESSONS.md"
   },
   "authorized_jobs": [],
-  "authorization": "outputs/production/north-wall-ref-l-authorization.json",
-  "latest_concept": "outputs/keyframes/north-wall-ref-l-v1.png",
+  "authorization": "outputs/production/north-wall-ref-m-authorization.json",
+  "latest_concept": "outputs/keyframes/north-wall-ref-m-v1.png",
   "latest_concept_review": {
     "status": "candidate-awaiting-user-review",
     "reviewer": "lead only",
-    "record": "docs/NORTH-WALL-REF-L-REVIEW.md",
+    "record": "docs/NORTH-WALL-REF-M-REVIEW.md",
     "limits": [
-      "Changed close-up camera does not establish exact installation dimensions",
-      "Physical recess/clearances unverified",
-      "Wider-room integration not rendered"
+      "Generated appliance lettering is not a verified brand/SKU",
+      "Physical dimensions and operating clearances unresolved",
+      "Wide-room integration remains pending"
     ]
   },
   "orientation_review": "docs/ORIENTATION-2026-10-09.md",
@@ -134,7 +135,7 @@
     "west_sink": "outputs/keyframes/sink-v4.png",
     "west_external_view": "outputs/keyframes/apartment-v7.png",
     "west_external_view_exception": "Single-door fridge superseded; retain latest French-door instruction",
-    "north_latest": "outputs/keyframes/north-wall-ref-l-v1.png",
+    "north_latest": "outputs/keyframes/north-wall-ref-m-v1.png",
     "north_exceptions": "Candidate awaiting user review; wider-kitchen integration and real-product sizing unresolved."
   }
 }
