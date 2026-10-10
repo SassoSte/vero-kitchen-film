@@ -1,0 +1,16 @@
+{
+  "model": "kling_o3_flf",
+  "params": {
+    "mode": "pro",
+    "sound": "off",
+    "multi_shots": false,
+    "duration": 5,
+    "aspect_ratio": "16:9"
+  },
+  "media": {
+    "start-image": "outputs/construction/stage-08-lights-off.png",
+    "end-image": "outputs/construction/stage-07-master.png"
+  },
+  "prompt": "Fixed locked-off camera, no camera movement, no zoom. Photoreal. Room, cabinets, appliances and objects stay fixed and keep their shape; workers keep the same faces, clothes and tool belts; no one new appears. Empty kitchen, no people. The installed lights switch on: first the warm under-cabinet LED strips flick on, then the lights inside the glass-front cabinets and under the range hood, then the ceiling track spotlight; the room warms and stays lit. Nothing moves.",
+  "output": "outputs/takes/08A-take-v1.mp4"
+}

@@ -4,7 +4,7 @@ Latest north-wall REF-M dial espresso/canister edit within REF-L composition and
 
 Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashes of repository-relative paths. Hashes describe exact existing bytes; verdicts are sourced review findings, not a new visual inspection.
 
-**311 stills · 22 videos.**
+**393 stills · 31 videos.**
 
 [Open searchable gallery](../outputs/stills-gallery.html) · [Machine-readable catalog](asset-catalog.json)
 
@@ -411,6 +411,126 @@ Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashe
 - Bytes: 6163156; SHA-256: `bb0dd0f34f9337ede3f25bd976cfdc4ab9bf37c8f361cad5cc9a732389a5d47c`
 - Job ID: `not recorded`
 
+### ASSET-FC4B569767FA — 07A End
+
+- Exact filename: `07A-end.png`
+- File: [outputs/construction/07A-end.png](../outputs/construction/07A-end.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/construction/07A-end.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 5712691; SHA-256: `8fba92de16414fb2437943988a60ec636d10b1b226513881c71401b012e86ec4`
+- Job ID: `not recorded`
+
+### ASSET-8F9652E3C0B8 — 07B End
+
+- Exact filename: `07B-end.png`
+- File: [outputs/construction/07B-end.png](../outputs/construction/07B-end.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/construction/07B-end.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 5736429; SHA-256: `b022b34f3368fa4d163a567ad7456ee5dc260b5f33b6c3051ae8fde57154ebb7`
+- Job ID: `not recorded`
+
+### ASSET-F314B1A4F37A — 07B Start
+
+- Exact filename: `07B-start.png`
+- File: [outputs/construction/07B-start.png](../outputs/construction/07B-start.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/construction/07B-start.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 5720458; SHA-256: `52b74e59ceb502b9148cdc5a55da4b752caf3a3dc170785ac86c7a9a0acf1ea2`
+- Job ID: `not recorded`
+
+### ASSET-0781FDA7D64F — 09A End
+
+- Exact filename: `09A-end.png`
+- File: [outputs/construction/09A-end.png](../outputs/construction/09A-end.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/construction/09A-end.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 6217693; SHA-256: `2e40552aafc38f2130f0c664fb36ee6f6c7cdc5cea4e54a48b7a79f83b3135ce`
+- Job ID: `not recorded`
+
+### ASSET-8C68236AAF5E — 09B End
+
+- Exact filename: `09B-end.png`
+- File: [outputs/construction/09B-end.png](../outputs/construction/09B-end.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/construction/09B-end.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 6211649; SHA-256: `282056b1ccf48d9d91c433f9ec28701fbb1c4af8eeb3709fb2af02875bb9b40e`
+- Job ID: `not recorded`
+
+### ASSET-5F42AD693467 — 09B Start
+
+- Exact filename: `09B-start.png`
+- File: [outputs/construction/09B-start.png](../outputs/construction/09B-start.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/construction/09B-start.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 6191778; SHA-256: `90f83b8459e87bced1c42240cbdaf7dc7290a5b313444078167fd15b3346f490`
+- Job ID: `not recorded`
+
+### ASSET-8F9E31590EF5 — 09C End
+
+- Exact filename: `09C-end.png`
+- File: [outputs/construction/09C-end.png](../outputs/construction/09C-end.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/construction/09C-end.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 6271068; SHA-256: `843373031df74ae4bbbf52ae241d3959f3f449ff784839f464febdf62c37cb9a`
+- Job ID: `not recorded`
+
+### ASSET-3B0098B27188 — 09C Start
+
+- Exact filename: `09C-start.png`
+- File: [outputs/construction/09C-start.png](../outputs/construction/09C-start.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/construction/09C-start.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 6247861; SHA-256: `1645611712f671585dcb12fede3af3d463f7614e3cdc9738a786638f58b1ded1`
+- Job ID: `not recorded`
+
+### ASSET-272552FB8E58 — 09D End
+
+- Exact filename: `09D-end.png`
+- File: [outputs/construction/09D-end.png](../outputs/construction/09D-end.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/construction/09D-end.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 6355118; SHA-256: `6817105d6848afa0378194f14041a5c33d76b96333425c525c0555f24bbb85d4`
+- Job ID: `not recorded`
+
+### ASSET-AD33ABED7550 — 09D Start
+
+- Exact filename: `09D-start.png`
+- File: [outputs/construction/09D-start.png](../outputs/construction/09D-start.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/construction/09D-start.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 6354183; SHA-256: `294bf2b1db7d1228a1cf08a17f67fbc0c97efe0a9d0675185a77119cd450b77b`
+- Job ID: `not recorded`
+
 ### ASSET-6593A2F755E6 — Base Ref A Cooking Run
 
 - Exact filename: `base-ref-a-cooking-run.png`
@@ -433,6 +553,18 @@ Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashe
 - Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
 - Limit / superseded reason: Not accepted as a final/current design.
 - Bytes: 2162262; SHA-256: `2d21aab68446fa086b9743b54b6df9a7085872aeb4e0d7d524e47b51a2348f73`
+- Job ID: `not recorded`
+
+### ASSET-8C35A6081E4F — Master Niche Empty
+
+- Exact filename: `master-niche-empty.png`
+- File: [outputs/construction/master-niche-empty.png](../outputs/construction/master-niche-empty.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/construction/master-niche-empty.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 6240648; SHA-256: `1556db79cfcf60778bb2c9f0746384a19356ad5d9445d85d7292f018af3e9997`
 - Job ID: `not recorded`
 
 ### ASSET-ABB3C1168EB4 — Master Stone Clean
@@ -2159,6 +2291,714 @@ Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashe
 - Result receipt: [outputs/production/06C-start-v1-result.json](../outputs/production/06C-start-v1-result.json)
 - Stderr receipt: [outputs/production/06C-start-v1-stderr.txt](../outputs/production/06C-start-v1-stderr.txt)
 
+### ASSET-363EFA4D007B — 07A End V1 Composite Personmask
+
+- Exact filename: `07A-end-v1-composite-personmask.png`
+- File: [outputs/construction/raw/07A-end-v1-composite-personmask.png](../outputs/construction/raw/07A-end-v1-composite-personmask.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/construction/raw/07A-end-v1-composite-personmask.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 11211; SHA-256: `3e15b14280950896fb067b804bf27233ad926e41512eb116099d79b023aa904d`
+- Job ID: `not recorded`
+
+### ASSET-A5203A474ED1 — 07A End V1 Composite
+
+- Exact filename: `07A-end-v1-composite.png`
+- File: [outputs/construction/raw/07A-end-v1-composite.png](../outputs/construction/raw/07A-end-v1-composite.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/construction/raw/07A-end-v1-composite.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 5737404; SHA-256: `19c365ed56984b68f2c1ca19ac64be7ba764d99b5cbec79543826d1d1b4d628f`
+- Job ID: `not recorded`
+
+### ASSET-33C437A132CF — 07A End V1 Saliency
+
+- Exact filename: `07A-end-v1-saliency.png`
+- File: [outputs/construction/raw/07A-end-v1-saliency.png](../outputs/construction/raw/07A-end-v1-saliency.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/construction/raw/07A-end-v1-saliency.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 122090; SHA-256: `758c577ea5f61a726e2522ccb60710d24b3eb097e3e31a142ad64c999c5acadc`
+- Job ID: `not recorded`
+
+### ASSET-B54D314B76EF — 07A End V1
+
+- Exact filename: `07A-end-v1.png`
+- File: [outputs/construction/raw/07A-end-v1.png](../outputs/construction/raw/07A-end-v1.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/construction/raw/07A-end-v1.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 5794391; SHA-256: `fb3f70141a840aac73238cc596208e37fed4b199664384910c9d181dd339d941`
+- Job ID: `b9f39924-0769-4b17-8099-43e19954ca60`
+- Request receipt: [outputs/production/07A-end-v1-request.json](../outputs/production/07A-end-v1-request.json)
+- Quote receipt: [outputs/production/07A-end-v1-quote.json](../outputs/production/07A-end-v1-quote.json)
+- Result receipt: [outputs/production/07A-end-v1-result.json](../outputs/production/07A-end-v1-result.json)
+- Stderr receipt: [outputs/production/07A-end-v1-stderr.txt](../outputs/production/07A-end-v1-stderr.txt)
+
+### ASSET-CD44AA3BFC7A — 07A End V2 Composite Personmask
+
+- Exact filename: `07A-end-v2-composite-personmask.png`
+- File: [outputs/construction/raw/07A-end-v2-composite-personmask.png](../outputs/construction/raw/07A-end-v2-composite-personmask.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/construction/raw/07A-end-v2-composite-personmask.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 9646; SHA-256: `86f96ae3c38d8bf480d3af35ab01f4582e3b18ca282ee35fd67bd8a21ebb7fdc`
+- Job ID: `not recorded`
+
+### ASSET-BD086FE11C47 — 07A End V2 Composite
+
+- Exact filename: `07A-end-v2-composite.png`
+- File: [outputs/construction/raw/07A-end-v2-composite.png](../outputs/construction/raw/07A-end-v2-composite.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/construction/raw/07A-end-v2-composite.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 5712691; SHA-256: `8fba92de16414fb2437943988a60ec636d10b1b226513881c71401b012e86ec4`
+- Job ID: `not recorded`
+
+### ASSET-B12395CAF27A — 07A End V2 Saliency
+
+- Exact filename: `07A-end-v2-saliency.png`
+- File: [outputs/construction/raw/07A-end-v2-saliency.png](../outputs/construction/raw/07A-end-v2-saliency.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/construction/raw/07A-end-v2-saliency.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 89007; SHA-256: `917ef7f865ce7d4318b29c8c8b6761e61ab97a2acc1464068cd5312f2c6fc257`
+- Job ID: `not recorded`
+
+### ASSET-B8E881404B2C — 07A End V2
+
+- Exact filename: `07A-end-v2.png`
+- File: [outputs/construction/raw/07A-end-v2.png](../outputs/construction/raw/07A-end-v2.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/construction/raw/07A-end-v2.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 5675649; SHA-256: `c1115d388d6b3779cc07894734aa6f84d19b8a822ca8ce66c81dd87a1c8739f1`
+- Job ID: `387ff50e-279a-4c0c-b7db-422d815d321c`
+- Request receipt: [outputs/production/07A-end-v2-request.json](../outputs/production/07A-end-v2-request.json)
+- Quote receipt: [outputs/production/07A-end-v2-quote.json](../outputs/production/07A-end-v2-quote.json)
+- Result receipt: [outputs/production/07A-end-v2-result.json](../outputs/production/07A-end-v2-result.json)
+- Stderr receipt: [outputs/production/07A-end-v2-stderr.txt](../outputs/production/07A-end-v2-stderr.txt)
+
+### ASSET-20FDE6F0C3E2 — 07A Start V1 Composite Personmask
+
+- Exact filename: `07A-start-v1-composite-personmask.png`
+- File: [outputs/construction/raw/07A-start-v1-composite-personmask.png](../outputs/construction/raw/07A-start-v1-composite-personmask.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/construction/raw/07A-start-v1-composite-personmask.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 8966; SHA-256: `4fc968745d8bbc97e4d0f415893a1db363a60357a976d54d6b5ab2a77caaba4f`
+- Job ID: `not recorded`
+
+### ASSET-377EC08CCE92 — 07A Start V1 Composite
+
+- Exact filename: `07A-start-v1-composite.png`
+- File: [outputs/construction/raw/07A-start-v1-composite.png](../outputs/construction/raw/07A-start-v1-composite.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/construction/raw/07A-start-v1-composite.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 5702819; SHA-256: `c8e61f1bc609fc908d1b6db3aadd8642f64de7025885262626a80ca0e472f9dc`
+- Job ID: `not recorded`
+
+### ASSET-A8CB0517B58E — 07A Start V1 Saliency
+
+- Exact filename: `07A-start-v1-saliency.png`
+- File: [outputs/construction/raw/07A-start-v1-saliency.png](../outputs/construction/raw/07A-start-v1-saliency.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/construction/raw/07A-start-v1-saliency.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 75073; SHA-256: `c8e6ce25867e42d2f190c25e20f8bffd9cf275d2687d489bdd3aaaad8885d6e6`
+- Job ID: `not recorded`
+
+### ASSET-DB3ACCC785F8 — 07A Start V1
+
+- Exact filename: `07A-start-v1.png`
+- File: [outputs/construction/raw/07A-start-v1.png](../outputs/construction/raw/07A-start-v1.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/construction/raw/07A-start-v1.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 5627152; SHA-256: `1de76f5997a453dcdff905beaf2777f62f4c3bb9d15f5f0a7be3793381f6ee6a`
+- Job ID: `78d33378-2ae4-492c-a62b-de1484052d93`
+- Request receipt: [outputs/production/07A-start-v1-request.json](../outputs/production/07A-start-v1-request.json)
+- Quote receipt: [outputs/production/07A-start-v1-quote.json](../outputs/production/07A-start-v1-quote.json)
+- Result receipt: [outputs/production/07A-start-v1-result.json](../outputs/production/07A-start-v1-result.json)
+- Stderr receipt: [outputs/production/07A-start-v1-stderr.txt](../outputs/production/07A-start-v1-stderr.txt)
+
+### ASSET-7FF84F0DD0CC — 07A Start V2 Composite Personmask
+
+- Exact filename: `07A-start-v2-composite-personmask.png`
+- File: [outputs/construction/raw/07A-start-v2-composite-personmask.png](../outputs/construction/raw/07A-start-v2-composite-personmask.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/construction/raw/07A-start-v2-composite-personmask.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 10318; SHA-256: `17d607a488211589753940d7ca3676ea24d9993ed6a4f38c655ba8674e309211`
+- Job ID: `not recorded`
+
+### ASSET-733A260E783C — 07A Start V2 Composite
+
+- Exact filename: `07A-start-v2-composite.png`
+- File: [outputs/construction/raw/07A-start-v2-composite.png](../outputs/construction/raw/07A-start-v2-composite.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/construction/raw/07A-start-v2-composite.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 5696415; SHA-256: `e4ff9d86aba68400af3b4829deb147e9eb15181a51cf5fef06cd3be9b0d841df`
+- Job ID: `not recorded`
+
+### ASSET-188CFE36FD90 — 07A Start V2 Saliency
+
+- Exact filename: `07A-start-v2-saliency.png`
+- File: [outputs/construction/raw/07A-start-v2-saliency.png](../outputs/construction/raw/07A-start-v2-saliency.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/construction/raw/07A-start-v2-saliency.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 82476; SHA-256: `0f82d9ddae0f788f5aab64c4e22d25039fdfb007960248c2ffa338ec4183581d`
+- Job ID: `not recorded`
+
+### ASSET-C8C5C0CB9EDB — 07A Start V2
+
+- Exact filename: `07A-start-v2.png`
+- File: [outputs/construction/raw/07A-start-v2.png](../outputs/construction/raw/07A-start-v2.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/construction/raw/07A-start-v2.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 5578887; SHA-256: `8502c6d3b056fca1f799b687dc8e259210f62cf44b910cc2eefad0bf60aca72f`
+- Job ID: `d7102252-4f05-47d9-9e32-85663bc0192b`
+- Request receipt: [outputs/production/07A-start-v2-request.json](../outputs/production/07A-start-v2-request.json)
+- Quote receipt: [outputs/production/07A-start-v2-quote.json](../outputs/production/07A-start-v2-quote.json)
+- Result receipt: [outputs/production/07A-start-v2-result.json](../outputs/production/07A-start-v2-result.json)
+- Stderr receipt: [outputs/production/07A-start-v2-stderr.txt](../outputs/production/07A-start-v2-stderr.txt)
+
+### ASSET-C875735844DF — 07B End V1 Composite Personmask
+
+- Exact filename: `07B-end-v1-composite-personmask.png`
+- File: [outputs/construction/raw/07B-end-v1-composite-personmask.png](../outputs/construction/raw/07B-end-v1-composite-personmask.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/construction/raw/07B-end-v1-composite-personmask.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 8761; SHA-256: `bf03452d9247157379506532a3c6deb2d96aefcc9baea2d1413ff061062f1919`
+- Job ID: `not recorded`
+
+### ASSET-27DC813A62DE — 07B End V1 Composite
+
+- Exact filename: `07B-end-v1-composite.png`
+- File: [outputs/construction/raw/07B-end-v1-composite.png](../outputs/construction/raw/07B-end-v1-composite.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/construction/raw/07B-end-v1-composite.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 5736429; SHA-256: `b022b34f3368fa4d163a567ad7456ee5dc260b5f33b6c3051ae8fde57154ebb7`
+- Job ID: `not recorded`
+
+### ASSET-69B79C3FBE68 — 07B End V1 Saliency
+
+- Exact filename: `07B-end-v1-saliency.png`
+- File: [outputs/construction/raw/07B-end-v1-saliency.png](../outputs/construction/raw/07B-end-v1-saliency.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/construction/raw/07B-end-v1-saliency.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 69809; SHA-256: `3f6db20c9002cdb682a88be2d4cec47b044efd23a7aa46c3b36724444863e25b`
+- Job ID: `not recorded`
+
+### ASSET-8CB13AF16DC1 — 07B End V1
+
+- Exact filename: `07B-end-v1.png`
+- File: [outputs/construction/raw/07B-end-v1.png](../outputs/construction/raw/07B-end-v1.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/construction/raw/07B-end-v1.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 5641957; SHA-256: `92d9e5a611273085338ff20ece6d27087f7c901ecd303c150d635cf3d6b6e28b`
+- Job ID: `2dbc18c2-348c-45eb-bcb1-3b5abb831a5c`
+- Request receipt: [outputs/production/07B-end-v1-request.json](../outputs/production/07B-end-v1-request.json)
+- Quote receipt: [outputs/production/07B-end-v1-quote.json](../outputs/production/07B-end-v1-quote.json)
+- Result receipt: [outputs/production/07B-end-v1-result.json](../outputs/production/07B-end-v1-result.json)
+- Stderr receipt: [outputs/production/07B-end-v1-stderr.txt](../outputs/production/07B-end-v1-stderr.txt)
+
+### ASSET-4327A60DEFFE — 07B Start V1 Composite Personmask
+
+- Exact filename: `07B-start-v1-composite-personmask.png`
+- File: [outputs/construction/raw/07B-start-v1-composite-personmask.png](../outputs/construction/raw/07B-start-v1-composite-personmask.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/construction/raw/07B-start-v1-composite-personmask.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 9875; SHA-256: `cba60db58358b420d17418d57f0eb58d38c29004a581d086edc43f1305cd02b6`
+- Job ID: `not recorded`
+
+### ASSET-BC595D34EBFF — 07B Start V1 Composite
+
+- Exact filename: `07B-start-v1-composite.png`
+- File: [outputs/construction/raw/07B-start-v1-composite.png](../outputs/construction/raw/07B-start-v1-composite.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/construction/raw/07B-start-v1-composite.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 5720458; SHA-256: `52b74e59ceb502b9148cdc5a55da4b752caf3a3dc170785ac86c7a9a0acf1ea2`
+- Job ID: `not recorded`
+
+### ASSET-C4A365F63C08 — 07B Start V1 Saliency
+
+- Exact filename: `07B-start-v1-saliency.png`
+- File: [outputs/construction/raw/07B-start-v1-saliency.png](../outputs/construction/raw/07B-start-v1-saliency.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/construction/raw/07B-start-v1-saliency.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 75706; SHA-256: `3bf913143452dace0dbb643b90d9624dc60057270355d966e1324a95551e4b99`
+- Job ID: `not recorded`
+
+### ASSET-7163143FC19D — 07B Start V1
+
+- Exact filename: `07B-start-v1.png`
+- File: [outputs/construction/raw/07B-start-v1.png](../outputs/construction/raw/07B-start-v1.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/construction/raw/07B-start-v1.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 5599384; SHA-256: `e6cdec97fcb29786e2601f743e4fcc433160a73b30c8635a6ebebb73166a4503`
+- Job ID: `e73ee817-f40c-409e-8d4c-eb96dc0b03cc`
+- Request receipt: [outputs/production/07B-start-v1-request.json](../outputs/production/07B-start-v1-request.json)
+- Quote receipt: [outputs/production/07B-start-v1-quote.json](../outputs/production/07B-start-v1-quote.json)
+- Result receipt: [outputs/production/07B-start-v1-result.json](../outputs/production/07B-start-v1-result.json)
+- Stderr receipt: [outputs/production/07B-start-v1-stderr.txt](../outputs/production/07B-start-v1-stderr.txt)
+
+### ASSET-C47A4E9033C1 — 09A End V1 Composite Personmask
+
+- Exact filename: `09A-end-v1-composite-personmask.png`
+- File: [outputs/construction/raw/09A-end-v1-composite-personmask.png](../outputs/construction/raw/09A-end-v1-composite-personmask.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/construction/raw/09A-end-v1-composite-personmask.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 11266; SHA-256: `267f2b935a98e4f4b2fe5d4295fdcc1d24374c1003130671c423fbeaed13469d`
+- Job ID: `not recorded`
+
+### ASSET-9A06AC1BBFC2 — 09A End V1 Composite
+
+- Exact filename: `09A-end-v1-composite.png`
+- File: [outputs/construction/raw/09A-end-v1-composite.png](../outputs/construction/raw/09A-end-v1-composite.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/construction/raw/09A-end-v1-composite.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 6217693; SHA-256: `2e40552aafc38f2130f0c664fb36ee6f6c7cdc5cea4e54a48b7a79f83b3135ce`
+- Job ID: `not recorded`
+
+### ASSET-CF111EF2FBFD — 09A End V1 Saliency
+
+- Exact filename: `09A-end-v1-saliency.png`
+- File: [outputs/construction/raw/09A-end-v1-saliency.png](../outputs/construction/raw/09A-end-v1-saliency.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/construction/raw/09A-end-v1-saliency.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 100205; SHA-256: `1a2879403c9ca3e47e9519e6d0e5474a98fd63472e60379d85f329d7a78736c7`
+- Job ID: `not recorded`
+
+### ASSET-D4528AD84956 — 09A End V1
+
+- Exact filename: `09A-end-v1.png`
+- File: [outputs/construction/raw/09A-end-v1.png](../outputs/construction/raw/09A-end-v1.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/construction/raw/09A-end-v1.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 5841418; SHA-256: `a0f618aa7bb9651f30b9d5aae605a7d078faa9a352851a73a7ec763792749f1f`
+- Job ID: `bbcb6c41-01f1-44f7-a482-ba973136cfc9`
+- Request receipt: [outputs/production/09A-end-v1-request.json](../outputs/production/09A-end-v1-request.json)
+- Quote receipt: [outputs/production/09A-end-v1-quote.json](../outputs/production/09A-end-v1-quote.json)
+- Result receipt: [outputs/production/09A-end-v1-result.json](../outputs/production/09A-end-v1-result.json)
+- Stderr receipt: [outputs/production/09A-end-v1-stderr.txt](../outputs/production/09A-end-v1-stderr.txt)
+
+### ASSET-01FC9D84C873 — 09B End V1 Composite Personmask
+
+- Exact filename: `09B-end-v1-composite-personmask.png`
+- File: [outputs/construction/raw/09B-end-v1-composite-personmask.png](../outputs/construction/raw/09B-end-v1-composite-personmask.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/construction/raw/09B-end-v1-composite-personmask.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 12708; SHA-256: `0a648ca98b79620158433723d0d2efef4888ada41377f91614d7cff152175461`
+- Job ID: `not recorded`
+
+### ASSET-64367EFB07C3 — 09B End V1 Composite
+
+- Exact filename: `09B-end-v1-composite.png`
+- File: [outputs/construction/raw/09B-end-v1-composite.png](../outputs/construction/raw/09B-end-v1-composite.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/construction/raw/09B-end-v1-composite.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 6211649; SHA-256: `282056b1ccf48d9d91c433f9ec28701fbb1c4af8eeb3709fb2af02875bb9b40e`
+- Job ID: `not recorded`
+
+### ASSET-2181935B1C7C — 09B End V1 Saliency
+
+- Exact filename: `09B-end-v1-saliency.png`
+- File: [outputs/construction/raw/09B-end-v1-saliency.png](../outputs/construction/raw/09B-end-v1-saliency.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/construction/raw/09B-end-v1-saliency.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 181231; SHA-256: `dbefbfa79bcfad7f1ee3e8a661f7e4a5c640a92ea6bce0a82961485e4c2894f9`
+- Job ID: `not recorded`
+
+### ASSET-A7EE0CED7523 — 09B End V1
+
+- Exact filename: `09B-end-v1.png`
+- File: [outputs/construction/raw/09B-end-v1.png](../outputs/construction/raw/09B-end-v1.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/construction/raw/09B-end-v1.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 5976576; SHA-256: `087716b207ad5e40c6feda8fa388e172c2077a32965fbbdcdfac52560f1c2e51`
+- Job ID: `b87c1ba6-ca1b-4274-ba03-f3c35a46c16d`
+- Request receipt: [outputs/production/09B-end-v1-request.json](../outputs/production/09B-end-v1-request.json)
+- Quote receipt: [outputs/production/09B-end-v1-quote.json](../outputs/production/09B-end-v1-quote.json)
+- Result receipt: [outputs/production/09B-end-v1-result.json](../outputs/production/09B-end-v1-result.json)
+- Stderr receipt: [outputs/production/09B-end-v1-stderr.txt](../outputs/production/09B-end-v1-stderr.txt)
+
+### ASSET-CCE1BF9858D1 — 09B Start V1 Composite Personmask
+
+- Exact filename: `09B-start-v1-composite-personmask.png`
+- File: [outputs/construction/raw/09B-start-v1-composite-personmask.png](../outputs/construction/raw/09B-start-v1-composite-personmask.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/construction/raw/09B-start-v1-composite-personmask.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 12191; SHA-256: `b3a35f8551164f30c64c5472c22ae4eb7176604c2c257ebd7251e4c93e8d1cfd`
+- Job ID: `not recorded`
+
+### ASSET-8E525DBB8B80 — 09B Start V1 Composite
+
+- Exact filename: `09B-start-v1-composite.png`
+- File: [outputs/construction/raw/09B-start-v1-composite.png](../outputs/construction/raw/09B-start-v1-composite.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/construction/raw/09B-start-v1-composite.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 6191778; SHA-256: `90f83b8459e87bced1c42240cbdaf7dc7290a5b313444078167fd15b3346f490`
+- Job ID: `not recorded`
+
+### ASSET-B6E62D517600 — 09B Start V1 Saliency
+
+- Exact filename: `09B-start-v1-saliency.png`
+- File: [outputs/construction/raw/09B-start-v1-saliency.png](../outputs/construction/raw/09B-start-v1-saliency.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/construction/raw/09B-start-v1-saliency.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 152425; SHA-256: `a4f1ef32beab6f4b5943131bf0ede457cac03857f5cee2bc03dbea7ea9a43fe2`
+- Job ID: `not recorded`
+
+### ASSET-D730A15C31E7 — 09B Start V1
+
+- Exact filename: `09B-start-v1.png`
+- File: [outputs/construction/raw/09B-start-v1.png](../outputs/construction/raw/09B-start-v1.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/construction/raw/09B-start-v1.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 5836029; SHA-256: `b9c538438693adbc8b8a02e27160be09e311c4d94193efc84231943ae7f27740`
+- Job ID: `fd9a798e-6350-47b5-b21c-49713725cde2`
+- Request receipt: [outputs/production/09B-start-v1-request.json](../outputs/production/09B-start-v1-request.json)
+- Quote receipt: [outputs/production/09B-start-v1-quote.json](../outputs/production/09B-start-v1-quote.json)
+- Result receipt: [outputs/production/09B-start-v1-result.json](../outputs/production/09B-start-v1-result.json)
+- Stderr receipt: [outputs/production/09B-start-v1-stderr.txt](../outputs/production/09B-start-v1-stderr.txt)
+
+### ASSET-ABDC480C338C — 09C End V1 Composite Personmask
+
+- Exact filename: `09C-end-v1-composite-personmask.png`
+- File: [outputs/construction/raw/09C-end-v1-composite-personmask.png](../outputs/construction/raw/09C-end-v1-composite-personmask.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/construction/raw/09C-end-v1-composite-personmask.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 11451; SHA-256: `6e01d89b48b30f0ad10eeb37776cedea7a646bde401d1cf05659d430e23abfc2`
+- Job ID: `not recorded`
+
+### ASSET-1BDB16ECF586 — 09C End V1 Composite
+
+- Exact filename: `09C-end-v1-composite.png`
+- File: [outputs/construction/raw/09C-end-v1-composite.png](../outputs/construction/raw/09C-end-v1-composite.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/construction/raw/09C-end-v1-composite.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 6271068; SHA-256: `843373031df74ae4bbbf52ae241d3959f3f449ff784839f464febdf62c37cb9a`
+- Job ID: `not recorded`
+
+### ASSET-6F1C38EB0021 — 09C End V1 Saliency
+
+- Exact filename: `09C-end-v1-saliency.png`
+- File: [outputs/construction/raw/09C-end-v1-saliency.png](../outputs/construction/raw/09C-end-v1-saliency.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/construction/raw/09C-end-v1-saliency.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 113908; SHA-256: `369f8ef22c7bc9c12cd98a176a48512e7232c2b8f043a6e924da1978af499780`
+- Job ID: `not recorded`
+
+### ASSET-DAA88FD9F13C — 09C End V1
+
+- Exact filename: `09C-end-v1.png`
+- File: [outputs/construction/raw/09C-end-v1.png](../outputs/construction/raw/09C-end-v1.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/construction/raw/09C-end-v1.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 5797387; SHA-256: `2084a5076f6e5b5d3f7cfc29ee2dcb6ae619565359098e578ed13138c22d55ee`
+- Job ID: `534a76bc-98c8-482e-aefe-649b8bfff95c`
+- Request receipt: [outputs/production/09C-end-v1-request.json](../outputs/production/09C-end-v1-request.json)
+- Quote receipt: [outputs/production/09C-end-v1-quote.json](../outputs/production/09C-end-v1-quote.json)
+- Result receipt: [outputs/production/09C-end-v1-result.json](../outputs/production/09C-end-v1-result.json)
+- Stderr receipt: [outputs/production/09C-end-v1-stderr.txt](../outputs/production/09C-end-v1-stderr.txt)
+
+### ASSET-1C0081EF2334 — 09C Start V1 Composite Personmask
+
+- Exact filename: `09C-start-v1-composite-personmask.png`
+- File: [outputs/construction/raw/09C-start-v1-composite-personmask.png](../outputs/construction/raw/09C-start-v1-composite-personmask.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/construction/raw/09C-start-v1-composite-personmask.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 11226; SHA-256: `fea3da076a843ac6f5ce36bd0b8be821050cd8ed968495eee328c763878665bc`
+- Job ID: `not recorded`
+
+### ASSET-4309EDF7F7DE — 09C Start V1 Composite
+
+- Exact filename: `09C-start-v1-composite.png`
+- File: [outputs/construction/raw/09C-start-v1-composite.png](../outputs/construction/raw/09C-start-v1-composite.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/construction/raw/09C-start-v1-composite.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 6247861; SHA-256: `1645611712f671585dcb12fede3af3d463f7614e3cdc9738a786638f58b1ded1`
+- Job ID: `not recorded`
+
+### ASSET-1743EE075696 — 09C Start V1 Saliency
+
+- Exact filename: `09C-start-v1-saliency.png`
+- File: [outputs/construction/raw/09C-start-v1-saliency.png](../outputs/construction/raw/09C-start-v1-saliency.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/construction/raw/09C-start-v1-saliency.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 105325; SHA-256: `385c42e6dc8b8458181a95b50570a46464e92ec6e5791d242b08d3d232e4519b`
+- Job ID: `not recorded`
+
+### ASSET-3422E1CCCB4E — 09C Start V1
+
+- Exact filename: `09C-start-v1.png`
+- File: [outputs/construction/raw/09C-start-v1.png](../outputs/construction/raw/09C-start-v1.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/construction/raw/09C-start-v1.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 5802067; SHA-256: `3961d08c041b2f4c63734f31eceffbe5bc0957e1dec7f8bdd4ae769a871835e4`
+- Job ID: `9944224d-6d42-4e41-9c12-55980015955a`
+- Request receipt: [outputs/production/09C-start-v1-request.json](../outputs/production/09C-start-v1-request.json)
+- Quote receipt: [outputs/production/09C-start-v1-quote.json](../outputs/production/09C-start-v1-quote.json)
+- Result receipt: [outputs/production/09C-start-v1-result.json](../outputs/production/09C-start-v1-result.json)
+- Stderr receipt: [outputs/production/09C-start-v1-stderr.txt](../outputs/production/09C-start-v1-stderr.txt)
+
+### ASSET-5E1C5E053951 — 09D End V1 Composite Personmask
+
+- Exact filename: `09D-end-v1-composite-personmask.png`
+- File: [outputs/construction/raw/09D-end-v1-composite-personmask.png](../outputs/construction/raw/09D-end-v1-composite-personmask.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/construction/raw/09D-end-v1-composite-personmask.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 12702; SHA-256: `24cd2de63642baa5de4b7106617bdb72c026fd1d04d8db97d8b4a01826e65a2d`
+- Job ID: `not recorded`
+
+### ASSET-81E46A153842 — 09D End V1 Composite
+
+- Exact filename: `09D-end-v1-composite.png`
+- File: [outputs/construction/raw/09D-end-v1-composite.png](../outputs/construction/raw/09D-end-v1-composite.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/construction/raw/09D-end-v1-composite.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 6355118; SHA-256: `6817105d6848afa0378194f14041a5c33d76b96333425c525c0555f24bbb85d4`
+- Job ID: `not recorded`
+
+### ASSET-FDBB3CB0B53F — 09D End V1 Saliency
+
+- Exact filename: `09D-end-v1-saliency.png`
+- File: [outputs/construction/raw/09D-end-v1-saliency.png](../outputs/construction/raw/09D-end-v1-saliency.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/construction/raw/09D-end-v1-saliency.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 123548; SHA-256: `33dd31170212bf33c051f364fa8e48d40a38fcf521bc19fd7912a7df93ead53a`
+- Job ID: `not recorded`
+
+### ASSET-CBC18C20377D — 09D End V1
+
+- Exact filename: `09D-end-v1.png`
+- File: [outputs/construction/raw/09D-end-v1.png](../outputs/construction/raw/09D-end-v1.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/construction/raw/09D-end-v1.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 6032126; SHA-256: `923c9c0eb916f77054686c291b0a28e69a9be5bf33a060be4f2829f4f8fb397e`
+- Job ID: `aee1248f-75ba-49b5-ab6b-42a9d63dc1de`
+- Request receipt: [outputs/production/09D-end-v1-request.json](../outputs/production/09D-end-v1-request.json)
+- Quote receipt: [outputs/production/09D-end-v1-quote.json](../outputs/production/09D-end-v1-quote.json)
+- Result receipt: [outputs/production/09D-end-v1-result.json](../outputs/production/09D-end-v1-result.json)
+- Stderr receipt: [outputs/production/09D-end-v1-stderr.txt](../outputs/production/09D-end-v1-stderr.txt)
+
+### ASSET-1C32C1ABDD09 — 09D Start V1 Composite Personmask
+
+- Exact filename: `09D-start-v1-composite-personmask.png`
+- File: [outputs/construction/raw/09D-start-v1-composite-personmask.png](../outputs/construction/raw/09D-start-v1-composite-personmask.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/construction/raw/09D-start-v1-composite-personmask.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 12965; SHA-256: `d5fbc388112726ebdf58a9af30be18a7fcc2e91e28fda1558783cb8e0429e699`
+- Job ID: `not recorded`
+
+### ASSET-F5110BEDF6B8 — 09D Start V1 Composite
+
+- Exact filename: `09D-start-v1-composite.png`
+- File: [outputs/construction/raw/09D-start-v1-composite.png](../outputs/construction/raw/09D-start-v1-composite.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/construction/raw/09D-start-v1-composite.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 6354183; SHA-256: `294bf2b1db7d1228a1cf08a17f67fbc0c97efe0a9d0675185a77119cd450b77b`
+- Job ID: `not recorded`
+
+### ASSET-E0089CBAC57A — 09D Start V1 Saliency
+
+- Exact filename: `09D-start-v1-saliency.png`
+- File: [outputs/construction/raw/09D-start-v1-saliency.png](../outputs/construction/raw/09D-start-v1-saliency.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/construction/raw/09D-start-v1-saliency.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 118562; SHA-256: `ddd08c7a2a239788ea6bfb7f934cd9e6b3f45eeec9a46f7f298f57ae6e10cb60`
+- Job ID: `not recorded`
+
+### ASSET-25FFD36CF0C2 — 09D Start V1
+
+- Exact filename: `09D-start-v1.png`
+- File: [outputs/construction/raw/09D-start-v1.png](../outputs/construction/raw/09D-start-v1.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/construction/raw/09D-start-v1.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 6178306; SHA-256: `0d85dae6f2b0b4a9c312c3e9b14fe4f0a581b20249d5cdd151f83bdb526e6bb7`
+- Job ID: `a84d40cd-1d94-40c4-9ca6-d6e1707312ee`
+- Request receipt: [outputs/production/09D-start-v1-request.json](../outputs/production/09D-start-v1-request.json)
+- Quote receipt: [outputs/production/09D-start-v1-quote.json](../outputs/production/09D-start-v1-quote.json)
+- Result receipt: [outputs/production/09D-start-v1-result.json](../outputs/production/09D-start-v1-result.json)
+- Stderr receipt: [outputs/production/09D-start-v1-stderr.txt](../outputs/production/09D-start-v1-stderr.txt)
+
+### ASSET-1E473E70F0AF — F07 Empty V1
+
+- Exact filename: `F07-empty-v1.png`
+- File: [outputs/construction/raw/F07-empty-v1.png](../outputs/construction/raw/F07-empty-v1.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/construction/raw/F07-empty-v1.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 5657017; SHA-256: `4b1184e0596d8c767997386797d8b792172c501e99237a1522cb309447049bf8`
+- Job ID: `6c07da3a-4d1d-43a7-9ce0-bcd9e2b14a23`
+- Request receipt: [outputs/production/F07-empty-v1-request.json](../outputs/production/F07-empty-v1-request.json)
+- Quote receipt: [outputs/production/F07-empty-v1-quote.json](../outputs/production/F07-empty-v1-quote.json)
+- Result receipt: [outputs/production/F07-empty-v1-result.json](../outputs/production/F07-empty-v1-result.json)
+- Stderr receipt: [outputs/production/F07-empty-v1-stderr.txt](../outputs/production/F07-empty-v1-stderr.txt)
+
+### ASSET-9FCCCE619C91 — F07 Old Fridge V1
+
+- Exact filename: `F07-old-fridge-v1.png`
+- File: [outputs/construction/raw/F07-old-fridge-v1.png](../outputs/construction/raw/F07-old-fridge-v1.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/construction/raw/F07-old-fridge-v1.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 5542400; SHA-256: `d8e8dde24f185d1395ddc1e4f2ddb4cd75b2f40e9f8b3f07b365e171252ce19f`
+- Job ID: `883a56b4-8822-4bb6-b4e1-479f53a721c3`
+- Request receipt: [outputs/production/F07-old-fridge-v1-request.json](../outputs/production/F07-old-fridge-v1-request.json)
+- Quote receipt: [outputs/production/F07-old-fridge-v1-quote.json](../outputs/production/F07-old-fridge-v1-quote.json)
+- Result receipt: [outputs/production/F07-old-fridge-v1-result.json](../outputs/production/F07-old-fridge-v1-result.json)
+- Stderr receipt: [outputs/production/F07-old-fridge-v1-stderr.txt](../outputs/production/F07-old-fridge-v1-stderr.txt)
+
 ### ASSET-D35582416B4E — P01 Otr Removed V1
 
 - Exact filename: `P01-otr-removed-v1.png`
@@ -2291,6 +3131,38 @@ Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashe
 - Result receipt: [outputs/production/P05-stone-v1-result.json](../outputs/production/P05-stone-v1-result.json)
 - Stderr receipt: [outputs/production/P05-stone-v1-stderr.txt](../outputs/production/P05-stone-v1-stderr.txt)
 
+### ASSET-C78CE61D7FFC — P08 Lights Off V1
+
+- Exact filename: `P08-lights-off-v1.png`
+- File: [outputs/construction/raw/P08-lights-off-v1.png](../outputs/construction/raw/P08-lights-off-v1.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/construction/raw/P08-lights-off-v1.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 5819612; SHA-256: `3db3525c6270abbfdaca5ebed215b61b02ffaf6a5376ae9f2cd4e4d60e7ad2d2`
+- Job ID: `dae4da2b-177d-42ec-a647-6f4a16cb133b`
+- Request receipt: [outputs/production/P08-lights-off-v1-request.json](../outputs/production/P08-lights-off-v1-request.json)
+- Quote receipt: [outputs/production/P08-lights-off-v1-quote.json](../outputs/production/P08-lights-off-v1-quote.json)
+- Result receipt: [outputs/production/P08-lights-off-v1-result.json](../outputs/production/P08-lights-off-v1-result.json)
+- Stderr receipt: [outputs/production/P08-lights-off-v1-stderr.txt](../outputs/production/P08-lights-off-v1-stderr.txt)
+
+### ASSET-4640DA9A8188 — P09 Niche V1
+
+- Exact filename: `P09-niche-v1.png`
+- File: [outputs/construction/raw/P09-niche-v1.png](../outputs/construction/raw/P09-niche-v1.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/construction/raw/P09-niche-v1.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 5754358; SHA-256: `42bc406a6becf9dab314fbccf42c2637be0b900483664921ccf84a8f22ce4345`
+- Job ID: `f45269b4-b5c0-4307-ab3e-1ffb5f1d327d`
+- Request receipt: [outputs/production/P09-niche-v1-request.json](../outputs/production/P09-niche-v1-request.json)
+- Quote receipt: [outputs/production/P09-niche-v1-quote.json](../outputs/production/P09-niche-v1-quote.json)
+- Result receipt: [outputs/production/P09-niche-v1-result.json](../outputs/production/P09-niche-v1-result.json)
+- Stderr receipt: [outputs/production/P09-niche-v1-stderr.txt](../outputs/production/P09-niche-v1-stderr.txt)
+
 ### ASSET-E067DF9F52C2 — W04 Pre V1
 
 - Exact filename: `W04-pre-v1.png`
@@ -2306,6 +3178,30 @@ Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashe
 - Quote receipt: [outputs/production/W04-pre-v1-quote.json](../outputs/production/W04-pre-v1-quote.json)
 - Result receipt: [outputs/production/W04-pre-v1-result.json](../outputs/production/W04-pre-v1-result.json)
 - Stderr receipt: [outputs/production/W04-pre-v1-stderr.txt](../outputs/production/W04-pre-v1-stderr.txt)
+
+### ASSET-B596D809231D — Ref Final Oldfridge
+
+- Exact filename: `ref-final-oldfridge.png`
+- File: [outputs/construction/raw/ref-final-oldfridge.png](../outputs/construction/raw/ref-final-oldfridge.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/construction/raw/ref-final-oldfridge.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 5650075; SHA-256: `71ca316ac6be6fe43f5d9490b7697597e27c9685c1772630547b987433c27354`
+- Job ID: `not recorded`
+
+### ASSET-88B304E40BF4 — Ref Old Fridge Crop
+
+- Exact filename: `ref-old-fridge-crop.png`
+- File: [outputs/construction/raw/ref-old-fridge-crop.png](../outputs/construction/raw/ref-old-fridge-crop.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/construction/raw/ref-old-fridge-crop.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 669019; SHA-256: `d1d02ae856b247b893d29bba8abf17aa9cbdb2d96f1302bfe88a893e439ec008`
+- Job ID: `not recorded`
 
 ### ASSET-9035975C3D6C — Ref Old Range Crop
 
@@ -2733,6 +3629,126 @@ Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashe
 - Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
 - Limit / superseded reason: Not accepted as a final/current design.
 - Bytes: 6071407; SHA-256: `4e33f472e522f6ec4ba0b406722f2f27e19206be9d2acc9d067c6bce971e05dd`
+- Job ID: `not recorded`
+
+### ASSET-99BD19AE4139 — Stage 07 Final Empty
+
+- Exact filename: `stage-07-final-empty.png`
+- File: [outputs/construction/stage-07-final-empty.png](../outputs/construction/stage-07-final-empty.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/construction/stage-07-final-empty.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 5611401; SHA-256: `1e2849e8b9a4e4fdf17487002424bf2cb11853c35a0731ee8336bc5fcf78c237`
+- Job ID: `not recorded`
+
+### ASSET-4B044DF8FFFA — Stage 07 Final Newfridge
+
+- Exact filename: `stage-07-final-newfridge.png`
+- File: [outputs/construction/stage-07-final-newfridge.png](../outputs/construction/stage-07-final-newfridge.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/construction/stage-07-final-newfridge.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 5671615; SHA-256: `5751cdd3bbc8a15cedad00cf62517da24dc52bd6f2bea9419aa5f5058c9ffbf9`
+- Job ID: `not recorded`
+
+### ASSET-AA9E0C39545F — Stage 07 Final Oldfridge
+
+- Exact filename: `stage-07-final-oldfridge.png`
+- File: [outputs/construction/stage-07-final-oldfridge.png](../outputs/construction/stage-07-final-oldfridge.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/construction/stage-07-final-oldfridge.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 5650075; SHA-256: `71ca316ac6be6fe43f5d9490b7697597e27c9685c1772630547b987433c27354`
+- Job ID: `not recorded`
+
+### ASSET-9E4BA9C876FA — Stage 07 Master
+
+- Exact filename: `stage-07-master.png`
+- File: [outputs/construction/stage-07-master.png](../outputs/construction/stage-07-master.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/construction/stage-07-master.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 6082735; SHA-256: `ded0c3eadc7bb7191d72eb5ff1f4b4c83e0052c14aa72ccf10f86ea5e529d7f9`
+- Job ID: `not recorded`
+
+### ASSET-4206D0DF6FA9 — Stage 08 Lights Off
+
+- Exact filename: `stage-08-lights-off.png`
+- File: [outputs/construction/stage-08-lights-off.png](../outputs/construction/stage-08-lights-off.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/construction/stage-08-lights-off.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 6024280; SHA-256: `8e441f29411dd4c0138b0449d08e8e728aaff146c1e2e00a5a6a2e1f7227dfce`
+- Job ID: `not recorded`
+
+### ASSET-2C9363BA5EE8 — Stage 09 Niche Empty
+
+- Exact filename: `stage-09-niche-empty.png`
+- File: [outputs/construction/stage-09-niche-empty.png](../outputs/construction/stage-09-niche-empty.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/construction/stage-09-niche-empty.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 6150050; SHA-256: `f36c511cca1fb5d619f02f131296e980a75d4967b3317b7f4bc7c07ad31fd49c`
+- Job ID: `not recorded`
+
+### ASSET-D5AF3463686B — Stage 09B Wine
+
+- Exact filename: `stage-09b-wine.png`
+- File: [outputs/construction/stage-09b-wine.png](../outputs/construction/stage-09b-wine.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/construction/stage-09b-wine.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 6188253; SHA-256: `1652e2a3a96c87ac4a20898c6340b95bab18a2a2e6aa470ab584fa674279c332`
+- Job ID: `not recorded`
+
+### ASSET-3CE0658A0A4E — Stage 09C Espresso
+
+- Exact filename: `stage-09c-espresso.png`
+- File: [outputs/construction/stage-09c-espresso.png](../outputs/construction/stage-09c-espresso.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/construction/stage-09c-espresso.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 6214966; SHA-256: `f990fc1e580959080ca453c942e5ad9a01f4f6ddaef03e33af5f3cf5079d33fb`
+- Job ID: `not recorded`
+
+### ASSET-96F8D63E8D71 — Stage 09D Phone
+
+- Exact filename: `stage-09d-phone.png`
+- File: [outputs/construction/stage-09d-phone.png](../outputs/construction/stage-09d-phone.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/construction/stage-09d-phone.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 6335471; SHA-256: `3e010c7f3f6a64a49d0182500f1a569f02826297ff22cea40e9e6fe9b4c740d1`
+- Job ID: `not recorded`
+
+### ASSET-D16FC5E1BAF0 — Stage 09D Speaker
+
+- Exact filename: `stage-09d-speaker.png`
+- File: [outputs/construction/stage-09d-speaker.png](../outputs/construction/stage-09d-speaker.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/construction/stage-09d-speaker.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 6334849; SHA-256: `c5984491f4ddcf5143a019aa35d4fd85f8979b556e069448b46d33760da8a532`
 - Job ID: `not recorded`
 
 ### ASSET-D5F666C967C4 — Apartment Continuity V8
@@ -3611,6 +4627,30 @@ Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashe
 - Bytes: 8665; SHA-256: `03cf2a0483b4fdff040e93148c73d1096f6086cce56ff78340b628d3d42f92a3`
 - Job ID: `not recorded`
 
+### ASSET-10D43A844A31 — F07 Empty Mask
+
+- Exact filename: `F07-empty-mask.png`
+- File: [outputs/production/masks/F07-empty-mask.png](../outputs/production/masks/F07-empty-mask.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/production/masks/F07-empty-mask.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 12901; SHA-256: `8e7a3315ee6c453dcdd048604a88a8adc9bfe5c383dcc0fca4aaf3e1f67a1f23`
+- Job ID: `not recorded`
+
+### ASSET-AA4148E263BF — F07 Fridge Mask
+
+- Exact filename: `F07-fridge-mask.png`
+- File: [outputs/production/masks/F07-fridge-mask.png](../outputs/production/masks/F07-fridge-mask.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/production/masks/F07-fridge-mask.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 8266; SHA-256: `841c4594fa72f04fd61a7cc2ac8de9aba08f4fb2085571cf9783a486b1e0868d`
+- Job ID: `not recorded`
+
 ### ASSET-8185993062F0 — P01 Otr Mask
 
 - Exact filename: `P01-otr-mask.png`
@@ -3669,6 +4709,18 @@ Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashe
 - Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
 - Limit / superseded reason: Not accepted as a final/current design.
 - Bytes: 7314; SHA-256: `43f0009c6dca342f157b9a87aaf469530126280af12b4c2cd77115c082c8e8dc`
+- Job ID: `not recorded`
+
+### ASSET-D170350CAA23 — P09 Niche Mask
+
+- Exact filename: `P09-niche-mask.png`
+- File: [outputs/production/masks/P09-niche-mask.png](../outputs/production/masks/P09-niche-mask.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/production/masks/P09-niche-mask.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 9247; SHA-256: `bc65ca90c3eb079697d46f79570bdd5f0e1f0edb3400d1f7d31bef7d1020e672`
 - Job ID: `not recorded`
 
 ### ASSET-3E34E994BE99 — W04 Pre Mask
@@ -4458,6 +5510,134 @@ Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashe
 - Result receipt: [outputs/production/06C-take-v1-result.json](../outputs/production/06C-take-v1-result.json)
 - Stderr receipt: [outputs/production/06C-take-v1-stderr.txt](../outputs/production/06C-take-v1-stderr.txt)
 
+### ASSET-1337460E2AC8 — 07A Take V1
+
+- Exact filename: `07A-take-v1.mp4`
+- File: [outputs/takes/07A-take-v1.mp4](../outputs/takes/07A-take-v1.mp4)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/takes/07A-take-v1.mp4`
+- Role: Isolated motion pilot; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 2438475; SHA-256: `816fcdbac2407a85d3df647b1622be3f06a1df17d78e6050d8acea16f50282ba`
+- Job ID: `a7fc19c0-44f5-465d-99e5-3dcfcfbb0d83`
+- Request receipt: [outputs/production/07A-take-v1-request.json](../outputs/production/07A-take-v1-request.json)
+- Quote receipt: [outputs/production/07A-take-v1-quote.json](../outputs/production/07A-take-v1-quote.json)
+- Result receipt: [outputs/production/07A-take-v1-result.json](../outputs/production/07A-take-v1-result.json)
+- Stderr receipt: [outputs/production/07A-take-v1-stderr.txt](../outputs/production/07A-take-v1-stderr.txt)
+
+### ASSET-E5558595FB2A — 07A Take V2
+
+- Exact filename: `07A-take-v2.mp4`
+- File: [outputs/takes/07A-take-v2.mp4](../outputs/takes/07A-take-v2.mp4)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/takes/07A-take-v2.mp4`
+- Role: Isolated motion pilot; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 2471029; SHA-256: `bdd7b1b77eba329bc8c99262c3a03823dbd856fb0480807b67fde60ba680dc56`
+- Job ID: `c2d7c52c-91ff-42cf-8c0f-c3787b7d5a99`
+- Request receipt: [outputs/production/07A-take-v2-request.json](../outputs/production/07A-take-v2-request.json)
+- Quote receipt: [outputs/production/07A-take-v2-quote.json](../outputs/production/07A-take-v2-quote.json)
+- Result receipt: [outputs/production/07A-take-v2-result.json](../outputs/production/07A-take-v2-result.json)
+- Stderr receipt: [outputs/production/07A-take-v2-stderr.txt](../outputs/production/07A-take-v2-stderr.txt)
+
+### ASSET-8C7AD7B998E3 — 07B Take V1
+
+- Exact filename: `07B-take-v1.mp4`
+- File: [outputs/takes/07B-take-v1.mp4](../outputs/takes/07B-take-v1.mp4)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/takes/07B-take-v1.mp4`
+- Role: Isolated motion pilot; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 1705676; SHA-256: `e1104044f657d2c3d5bfc6d192dfdac107c8edfc239c8c18e0786b5f642a65fe`
+- Job ID: `4d0fe1bf-1d62-4cf4-87ed-7055182c16b7`
+- Request receipt: [outputs/production/07B-take-v1-request.json](../outputs/production/07B-take-v1-request.json)
+- Quote receipt: [outputs/production/07B-take-v1-quote.json](../outputs/production/07B-take-v1-quote.json)
+- Result receipt: [outputs/production/07B-take-v1-result.json](../outputs/production/07B-take-v1-result.json)
+- Stderr receipt: [outputs/production/07B-take-v1-stderr.txt](../outputs/production/07B-take-v1-stderr.txt)
+
+### ASSET-0AA6ECCF7A9B — 08A Take V1
+
+- Exact filename: `08A-take-v1.mp4`
+- File: [outputs/takes/08A-take-v1.mp4](../outputs/takes/08A-take-v1.mp4)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/takes/08A-take-v1.mp4`
+- Role: Isolated motion pilot; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 3641931; SHA-256: `1c7997f0420ee246b0408544d41d6f7b38a8b2433f7be8487cb0c26f2259910d`
+- Job ID: `83962b87-16bf-4da3-bc23-af97c525abae`
+- Request receipt: [outputs/production/08A-take-v1-request.json](../outputs/production/08A-take-v1-request.json)
+- Quote receipt: [outputs/production/08A-take-v1-quote.json](../outputs/production/08A-take-v1-quote.json)
+- Result receipt: [outputs/production/08A-take-v1-result.json](../outputs/production/08A-take-v1-result.json)
+- Stderr receipt: [outputs/production/08A-take-v1-stderr.txt](../outputs/production/08A-take-v1-stderr.txt)
+
+### ASSET-1E92EA891702 — 09A Take V1
+
+- Exact filename: `09A-take-v1.mp4`
+- File: [outputs/takes/09A-take-v1.mp4](../outputs/takes/09A-take-v1.mp4)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/takes/09A-take-v1.mp4`
+- Role: Isolated motion pilot; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 1965137; SHA-256: `4d88805c314627e9e26352b10702e5abd5d0d059d9b61617b594ee08cb646c5a`
+- Job ID: `e4f00918-8746-4365-8cf8-7383746c61f3`
+- Request receipt: [outputs/production/09A-take-v1-request.json](../outputs/production/09A-take-v1-request.json)
+- Quote receipt: [outputs/production/09A-take-v1-quote.json](../outputs/production/09A-take-v1-quote.json)
+- Result receipt: [outputs/production/09A-take-v1-result.json](../outputs/production/09A-take-v1-result.json)
+- Stderr receipt: [outputs/production/09A-take-v1-stderr.txt](../outputs/production/09A-take-v1-stderr.txt)
+
+### ASSET-5D0C6765BE35 — 09B Take V1
+
+- Exact filename: `09B-take-v1.mp4`
+- File: [outputs/takes/09B-take-v1.mp4](../outputs/takes/09B-take-v1.mp4)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/takes/09B-take-v1.mp4`
+- Role: Isolated motion pilot; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 2019597; SHA-256: `f575edb2ffc4802e2c04dd92c22c352b3db981ada4b665b3e00c01b9cff60339`
+- Job ID: `12aaa44a-e156-405c-860c-01102f073bbf`
+- Request receipt: [outputs/production/09B-take-v1-request.json](../outputs/production/09B-take-v1-request.json)
+- Quote receipt: [outputs/production/09B-take-v1-quote.json](../outputs/production/09B-take-v1-quote.json)
+- Result receipt: [outputs/production/09B-take-v1-result.json](../outputs/production/09B-take-v1-result.json)
+- Stderr receipt: [outputs/production/09B-take-v1-stderr.txt](../outputs/production/09B-take-v1-stderr.txt)
+
+### ASSET-95D1C88DFA18 — 09C Take V1
+
+- Exact filename: `09C-take-v1.mp4`
+- File: [outputs/takes/09C-take-v1.mp4](../outputs/takes/09C-take-v1.mp4)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/takes/09C-take-v1.mp4`
+- Role: Isolated motion pilot; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 1802305; SHA-256: `54c8de98a300ec357644995d95e402cdd3e5355e6241790f6d98d9c90fb6b728`
+- Job ID: `b1ea5de5-2071-4aa2-ac49-47e7b29fd264`
+- Request receipt: [outputs/production/09C-take-v1-request.json](../outputs/production/09C-take-v1-request.json)
+- Quote receipt: [outputs/production/09C-take-v1-quote.json](../outputs/production/09C-take-v1-quote.json)
+- Result receipt: [outputs/production/09C-take-v1-result.json](../outputs/production/09C-take-v1-result.json)
+- Stderr receipt: [outputs/production/09C-take-v1-stderr.txt](../outputs/production/09C-take-v1-stderr.txt)
+
+### ASSET-5F71611FB8F8 — 09D Take V1
+
+- Exact filename: `09D-take-v1.mp4`
+- File: [outputs/takes/09D-take-v1.mp4](../outputs/takes/09D-take-v1.mp4)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/takes/09D-take-v1.mp4`
+- Role: Isolated motion pilot; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 1957429; SHA-256: `e90020c42538c0e7c91077be0371b06133648760c9c22bd28b2bbb184dfa44e6`
+- Job ID: `01c5aa4c-6b24-4495-95ae-c9387582e48e`
+- Request receipt: [outputs/production/09D-take-v1-request.json](../outputs/production/09D-take-v1-request.json)
+- Quote receipt: [outputs/production/09D-take-v1-quote.json](../outputs/production/09D-take-v1-quote.json)
+- Result receipt: [outputs/production/09D-take-v1-result.json](../outputs/production/09D-take-v1-result.json)
+- Stderr receipt: [outputs/production/09D-take-v1-stderr.txt](../outputs/production/09D-take-v1-stderr.txt)
+
 ### ASSET-BF77CE389FE8 — T1 Shot01 Preview
 
 - Exact filename: `T1-shot01-preview.mp4`
@@ -4468,4 +5648,16 @@ Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashe
 - Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
 - Limit / superseded reason: Not accepted as a final/current design.
 - Bytes: 2530021; SHA-256: `65986f94db653afd64707f0386a0d11eb4cf98a9d3b41ecbe9f3eab9795c29e2`
+- Job ID: `not recorded`
+
+### ASSET-352AA25F9CDD — T2 Shots04 06 Preview
+
+- Exact filename: `T2-shots04-06-preview.mp4`
+- File: [outputs/takes/T2-shots04-06-preview.mp4](../outputs/takes/T2-shots04-06-preview.mp4)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/takes/T2-shots04-06-preview.mp4`
+- Role: Isolated motion pilot; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 6541617; SHA-256: `5722a59fe02f4e0db7bec63f71e673e103157f38f338a38badaae947533f07f7`
 - Job ID: `not recorded`

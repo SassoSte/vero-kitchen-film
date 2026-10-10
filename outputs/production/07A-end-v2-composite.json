@@ -1,0 +1,10 @@
+{
+ "plate": "outputs/construction/stage-07-final-empty.png",
+ "returned": "outputs/construction/raw/07A-end-v2.png",
+ "output": "outputs/construction/raw/07A-end-v2-composite.png",
+ "ransac_inliers": 1828,
+ "protected_mean_abs_diff_registered": 3.84,
+ "person_mask_fraction": 0.0655,
+ "pixels_identical_to_plate_fraction": 0.9345,
+ "output_sha256": "8fba92de16414fb2437943988a60ec636d10b1b226513881c71401b012e86ec4"
+}

@@ -1,0 +1,13 @@
+{
+  "model": "gpt_image_2",
+  "params": {
+    "quality": "high",
+    "resolution": "2k",
+    "aspect_ratio": "16:9"
+  },
+  "references": [
+    "outputs/construction/stage-07-master.png"
+  ],
+  "prompt": "Edit this kitchen photograph: turn OFF every electric light \u2014 the ceiling track spotlight, the under-cabinet LED strips, the lights inside the glass-front cabinets and under the range hood. The room is lit only by soft, cool, even daylight from outside the frame, slightly dimmer overall; no warm glow pools on the backsplash or worktop, cabinet interiors behind the frosted glass are dim. Keep the camera, framing and every object exactly as they are. Photoreal.",
+  "output": "outputs/construction/raw/P08-lights-off-v1.png"
+}

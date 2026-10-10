@@ -1,0 +1,14 @@
+{
+  "model": "gpt_image_2",
+  "params": {
+    "quality": "high",
+    "resolution": "2k",
+    "aspect_ratio": "16:9"
+  },
+  "references": [
+    "outputs/construction/stage-07-final-empty.png",
+    "outputs/construction/07B-end.png"
+  ],
+  "prompt": "Image1 is a fixed photograph of a kitchen seen across a bar counter; the tall enclosure on the left is EMPTY. Reproduce it EXACTLY \u2014 same framing, nothing moved, keep every cabinet. ADD the stainless French-door refrigerator from image2 standing in the kitchen aisle just in front of and slightly right of the empty enclosure, about 50 cm out, square to it, ready to roll straight in; ADD the same two workers from image2 in the same places, the lead's palms on its right door edge pushing, the partner guiding its side. Visible from the waist up above the counter, inside the kitchen opening, looking at the refrigerator. No other changes. Photoreal.",
+  "output": "outputs/construction/raw/07B-start-v1.png"
+}

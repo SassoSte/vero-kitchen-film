@@ -1,0 +1,10 @@
+{
+ "plate": "outputs/construction/stage-09-niche-empty.png",
+ "returned": "outputs/construction/raw/09B-start-v1.png",
+ "output": "outputs/construction/raw/09B-start-v1-composite.png",
+ "ransac_inliers": 1720,
+ "protected_mean_abs_diff_registered": 4.77,
+ "person_mask_fraction": 0.0876,
+ "pixels_identical_to_plate_fraction": 0.9124,
+ "output_sha256": "90f83b8459e87bced1c42240cbdaf7dc7290a5b313444078167fd15b3346f490"
+}

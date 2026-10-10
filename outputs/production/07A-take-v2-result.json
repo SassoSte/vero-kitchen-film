@@ -1,0 +1,33 @@
+[
+  {
+    "created_at": "2026-10-10T22:56:39.907923Z",
+    "display_name": "Kling O3 (Frames)",
+    "id": "c2d7c52c-91ff-42cf-8c0f-c3787b7d5a99",
+    "job_type": "kling_o3_flf",
+    "min_result_url": null,
+    "params": {
+      "aspect_ratio": "16:9",
+      "duration": 3,
+      "height": 1080,
+      "medias": [
+        {
+          "data": {
+            "id": "cd570b38-ca53-4a6e-9f6b-e2588e6f0967",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/cd570b38-ca53-4a6e-9f6b-e2588e6f0967_resize.jpg"
+          },
+          "role": "start_image"
+        }
+      ],
+      "mode": "pro",
+      "multi_prompt": [],
+      "multi_shots": false,
+      "prompt": "Fixed locked-off camera, no camera movement, no zoom. Photoreal. The old refrigerator is one rigid metal box: it never bends, curves, folds or changes shape or size, and its tilt angle on the hand truck stays the same the whole time. The lead worker pulls the hand truck backward and both workers walk slowly to the right along the kitchen aisle, so the refrigerator slides smoothly to the right behind the counter by about one metre. Room and lighting stay fixed; workers keep the same faces and clothes; no one new appears.",
+      "sound": "off",
+      "width": 1920
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_225639_c2d7c52c-91ff-42cf-8c0f-c3787b7d5a99.mp4",
+    "status": "completed",
+    "thumbnail_url": "https://cdn.higgsfield.ai/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_225639_c2d7c52c-91ff-42cf-8c0f-c3787b7d5a99_thumbnail.webp"
+  }
+]

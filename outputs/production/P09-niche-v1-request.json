@@ -1,0 +1,19 @@
+{
+  "model": "gpt_image_2",
+  "params": {
+    "quality": "high",
+    "resolution": "2k",
+    "aspect_ratio": "16:9"
+  },
+  "references": [
+    "outputs/keyframes/kitchen-smeg-enclosure-v2.png"
+  ],
+  "prompt": "Edit this kitchen photograph. Keep the camera, framing, lighting and everything else exactly as it is, including the glass-front cupboard, the small shelves with cups, sugar jar and the two coffee canisters, and the ribbed oak storage fronts. Make ONLY two changes in the tall wall niche on the left: (1) the under-counter wine refrigerator is not installed: its opening below the niche counter is an EMPTY rectangular cavity with bare white side panels, a back wall with a power outlet, and the concrete floor; (2) the black espresso machine is not there: the lit niche counter where it stood is bare stone. Photoreal.",
+  "output": "outputs/construction/raw/P09-niche-v1.png",
+  "post": {
+    "tool": "tools/stage_composite.py",
+    "base": "outputs/keyframes/kitchen-smeg-enclosure-v2.png",
+    "mask": "outputs/production/masks/P09-niche-mask.png",
+    "final": "outputs/construction/master-niche-empty.png"
+  }
+}

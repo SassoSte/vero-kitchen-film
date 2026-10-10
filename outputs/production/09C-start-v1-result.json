@@ -1,0 +1,40 @@
+[
+  {
+    "created_at": "2026-10-10T23:13:42.860272Z",
+    "display_name": "GPT Image 2",
+    "id": "9944224d-6d42-4e41-9c12-55980015955a",
+    "job_type": "gpt_image_2",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_231342_9944224d-6d42-4e41-9c12-55980015955a_min.webp",
+    "params": {
+      "aspect_ratio": "16:9",
+      "height": 1520,
+      "medias": [
+        {
+          "data": {
+            "id": "dc52e5dc-3eb4-4abe-96f2-869503b0889b",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/dc52e5dc-3eb4-4abe-96f2-869503b0889b_resize.jpg"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "5c1c9c78-1111-4e41-b002-ae506dfdfe6a",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/5c1c9c78-1111-4e41-b002-ae506dfdfe6a_resize.jpg"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "videotape-alpha",
+      "prompt": "Image1 is a fixed photograph of a kitchen; reproduce it EXACTLY with the same framing — do not zoom, do not move, add or remove any cabinet, appliance or wall element.  The lit niche counter is bare where the espresso machine goes. ADD the same worker from image2 in the same place, holding the same black and brass dial espresso machine in both hands about 10 cm above the counter, about to set it down. Lead: short grey hair, navy long-sleeve work shirt, tan leather tool belt. Partner: grey work shirt, dark cap, dark-brown tool belt. Match image2's faces and clothing exactly. Standing on the floor, correct human scale (the niche counter is at hip height). Serious working expressions, looking at the work, not the camera. Keep every object in image1 exactly; no other new objects. Photoreal.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 2688
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_231342_9944224d-6d42-4e41-9c12-55980015955a.png",
+    "status": "completed"
+  }
+]

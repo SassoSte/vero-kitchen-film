@@ -1,0 +1,1 @@
+{"bbox": [780, 80, 2000, 880], "thr": 60, "saliency": "outputs/construction/raw/07A-start-v1-saliency.png", "sal_thr": 0.6, "floor_y": 1520, "erode": 2, "tone": false, "solid": [[[[780, 80], [2000, 80], [2000, 880], [780, 880]], 60]], "solid_min_d": 10}

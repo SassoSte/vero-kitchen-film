@@ -1,0 +1,35 @@
+{
+  "status": "APPROVED",
+  "date": "2026-10-10",
+  "approved": "2026-10-10 America/Phoenix",
+  "budget_user_text": "Accept T2, commit, approve T3 no sound",
+  "scope": "B10 tranche T3: shots 07-09",
+  "plates": [
+    "F07-old-fridge",
+    "F07-empty",
+    "P08-lights-off",
+    "P09-niche-finished",
+    "W09D-nook-empty"
+  ],
+  "takes": [
+    "07A",
+    "07B",
+    "08A",
+    "09A",
+    "09B",
+    "09C",
+    "09D"
+  ],
+  "video_params": {
+    "model": "kling_o3_flf",
+    "mode": "pro",
+    "sound": "off"
+  },
+  "first_pass_credits": 139.25,
+  "maximum_new_spend_credits": 278.5,
+  "max_attempts_per_item": 2,
+  "prior_ceiling_credits": 646.75,
+  "total_ceiling_credits": 925.25,
+  "note": "T2 unspent headroom not carried forward",
+  "sequence": "strictly sequential; lead inspects each return; retry only after written finding"
+}

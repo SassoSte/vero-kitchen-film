@@ -1,0 +1,40 @@
+[
+  {
+    "created_at": "2026-10-10T23:09:29.505735Z",
+    "display_name": "GPT Image 2",
+    "id": "fd9a798e-6350-47b5-b21c-49713725cde2",
+    "job_type": "gpt_image_2",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_230929_fd9a798e-6350-47b5-b21c-49713725cde2_min.webp",
+    "params": {
+      "aspect_ratio": "16:9",
+      "height": 1520,
+      "medias": [
+        {
+          "data": {
+            "id": "ad7c0ec0-6bef-479a-ae79-7079709176f2",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/ad7c0ec0-6bef-479a-ae79-7079709176f2_resize.jpg"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "3250bc21-13a0-481c-86ff-fca9df83f277",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/3250bc21-13a0-481c-86ff-fca9df83f277_resize.jpg"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "videotape-alpha",
+      "prompt": "Image1 is a fixed photograph of a kitchen; reproduce it EXACTLY with the same framing — do not zoom, do not move, add or remove any cabinet, appliance or wall element.  The wine refrigerator opening below the niche counter is EMPTY. ADD the same two workers from image2 crouching in the same places, holding the same glass-door wine refrigerator level with both hands, its back end just entering the empty opening. Lead: short grey hair, navy long-sleeve work shirt, tan leather tool belt. Partner: grey work shirt, dark cap, dark-brown tool belt. Match image2's faces and clothing exactly. Standing on the floor, correct human scale (the niche counter is at hip height). Serious working expressions, looking at the work, not the camera. Keep every object in image1 exactly; no other new objects. Photoreal.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 2688
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_230929_fd9a798e-6350-47b5-b21c-49713725cde2.png",
+    "status": "completed"
+  }
+]

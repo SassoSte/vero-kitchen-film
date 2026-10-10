@@ -1,0 +1,48 @@
+[
+  {
+    "created_at": "2026-10-10T22:38:58.722291Z",
+    "display_name": "GPT Image 2",
+    "id": "387ff50e-279a-4c0c-b7db-422d815d321c",
+    "job_type": "gpt_image_2",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_223858_387ff50e-279a-4c0c-b7db-422d815d321c_min.webp",
+    "params": {
+      "aspect_ratio": "16:9",
+      "height": 1520,
+      "medias": [
+        {
+          "data": {
+            "id": "96cbe651-f4b5-4c90-92ad-91f60c1b9291",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/96cbe651-f4b5-4c90-92ad-91f60c1b9291_resize.jpg"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "7b9b7321-33ee-438c-b8d4-f90fa718a0f3",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/7b9b7321-33ee-438c-b8d4-f90fa718a0f3_resize.jpg"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "5217d232-788e-4b49-8882-c528c773706e",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/5217d232-788e-4b49-8882-c528c773706e.png"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "videotape-alpha",
+      "prompt": "Image1 is a fixed photograph of a kitchen seen from the living room across a bar counter; reproduce it EXACTLY — same framing, and keep EVERY cabinet: the cupboard above the empty fridge enclosure, the glass-front upper cabinet LEFT of the hood, the hood, the glass-front upper cabinets right of the hood, pot filler, range, faucet. The tall enclosure on the left stays EMPTY. ADD the old stainless top-freezer refrigerator from image3, pulled out of the enclosure and standing tilted back on a hand truck in the kitchen aisle directly in front of the range, between the bar counter and the range; ADD two workers from image2 INSIDE the kitchen opening (between the enclosure and the right wall, never in front of the white wall left of the opening): the lead (navy shirt, grey hair, tan belt) behind the fridge holding the hand truck handles, the partner (grey shirt, dark cap) at its side steadying the top. Both look at the refrigerator, not at the camera, serious working expressions. Visible from the waist up above the counter. No other changes. Photoreal.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 2688
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_223858_387ff50e-279a-4c0c-b7db-422d815d321c.png",
+    "status": "completed"
+  }
+]

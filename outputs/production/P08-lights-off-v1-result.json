@@ -1,0 +1,32 @@
+[
+  {
+    "created_at": "2026-10-10T23:01:51.484049Z",
+    "display_name": "GPT Image 2",
+    "id": "dae4da2b-177d-42ec-a647-6f4a16cb133b",
+    "job_type": "gpt_image_2",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_230151_dae4da2b-177d-42ec-a647-6f4a16cb133b_min.webp",
+    "params": {
+      "aspect_ratio": "16:9",
+      "height": 1520,
+      "medias": [
+        {
+          "data": {
+            "id": "415c5423-8394-4897-8b50-c91779440201",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/415c5423-8394-4897-8b50-c91779440201_resize.jpg"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "videotape-alpha",
+      "prompt": "Edit this kitchen photograph: turn OFF every electric light — the ceiling track spotlight, the under-cabinet LED strips, the lights inside the glass-front cabinets and under the range hood. The room is lit only by soft, cool, even daylight from outside the frame, slightly dimmer overall; no warm glow pools on the backsplash or worktop, cabinet interiors behind the frosted glass are dim. Keep the camera, framing and every object exactly as they are. Photoreal.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 2688
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_230151_dae4da2b-177d-42ec-a647-6f4a16cb133b.png",
+    "status": "completed"
+  }
+]

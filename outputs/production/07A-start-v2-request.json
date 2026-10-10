@@ -1,0 +1,14 @@
+{
+  "model": "gpt_image_2",
+  "params": {
+    "quality": "high",
+    "resolution": "2k",
+    "aspect_ratio": "16:9"
+  },
+  "references": [
+    "outputs/construction/stage-07-final-oldfridge.png",
+    "outputs/construction/07A-end.png"
+  ],
+  "prompt": "Image1 is a fixed photograph of a kitchen seen across a bar counter, with the OLD stainless top-freezer refrigerator standing in its tall enclosure on the left. Reproduce it EXACTLY \u2014 same framing, nothing moved. ADD ONLY the two workers from image2 (same faces, clothes, belts): the lead (navy shirt, grey hair) standing just right of the enclosure gripping the refrigerator's right side and handle, the partner (grey shirt, dark cap) stands to the RIGHT of the lead with a clear gap between them, both his hands on the refrigerator's top right corner; neither touches the other; both about to pull it out. Visible from the waist up above the counter, inside the kitchen opening. Serious working expressions, looking at the refrigerator, not the camera. Keep every cabinet including the glass-front upper left of the hood. No other changes. Photoreal.",
+  "output": "outputs/construction/raw/07A-start-v2.png"
+}

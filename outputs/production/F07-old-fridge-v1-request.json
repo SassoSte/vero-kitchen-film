@@ -1,0 +1,20 @@
+{
+  "model": "gpt_image_2",
+  "params": {
+    "quality": "high",
+    "resolution": "2k",
+    "aspect_ratio": "16:9"
+  },
+  "references": [
+    "outputs/construction/stage-07-final-empty.png",
+    "outputs/construction/raw/ref-old-fridge-crop.png"
+  ],
+  "prompt": "Edit image1. Keep the camera, framing, lighting and every object exactly as it is. ONE change: inside the empty tall enclosure on the left, under the cupboard, now stands the OLD refrigerator shown in image2 \u2014 a stainless top-freezer refrigerator with a small freezer door on top, a larger fresh-food door below, vertical bar handles and black sides \u2014 standing on the floor, slightly narrower than the enclosure so a gap shows on each side and a gap above it below the cupboard. Its lower part is hidden behind the bar counter as the enclosure is. Nothing else changes. Photoreal.",
+  "output": "outputs/construction/raw/F07-old-fridge-v1.png",
+  "post": {
+    "tool": "tools/stage_composite.py",
+    "base": "outputs/construction/stage-07-final-empty.png",
+    "mask": "outputs/production/masks/F07-fridge-mask.png",
+    "final": "outputs/construction/stage-07-final-oldfridge.png"
+  }
+}

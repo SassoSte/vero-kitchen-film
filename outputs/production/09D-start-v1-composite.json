@@ -1,0 +1,10 @@
+{
+ "plate": "outputs/construction/stage-09d-speaker.png",
+ "returned": "outputs/construction/raw/09D-start-v1.png",
+ "output": "outputs/construction/raw/09D-start-v1-composite.png",
+ "ransac_inliers": 1891,
+ "protected_mean_abs_diff_registered": 3.43,
+ "person_mask_fraction": 0.0888,
+ "pixels_identical_to_plate_fraction": 0.9112,
+ "output_sha256": "294bf2b1db7d1228a1cf08a17f67fbc0c97efe0a9d0675185a77119cd450b77b"
+}

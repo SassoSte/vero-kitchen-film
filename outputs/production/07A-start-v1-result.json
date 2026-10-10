@@ -1,0 +1,40 @@
+[
+  {
+    "created_at": "2026-10-10T22:41:02.521789Z",
+    "display_name": "GPT Image 2",
+    "id": "78d33378-2ae4-492c-a62b-de1484052d93",
+    "job_type": "gpt_image_2",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_224102_78d33378-2ae4-492c-a62b-de1484052d93_min.webp",
+    "params": {
+      "aspect_ratio": "16:9",
+      "height": 1520,
+      "medias": [
+        {
+          "data": {
+            "id": "62462953-3267-4475-b479-40ffd7518c5f",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/62462953-3267-4475-b479-40ffd7518c5f_resize.jpg"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "58a06b17-bf6c-4eb1-a82d-812db0d45bc3",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/58a06b17-bf6c-4eb1-a82d-812db0d45bc3_resize.jpg"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "videotape-alpha",
+      "prompt": "Image1 is a fixed photograph of a kitchen seen across a bar counter, with the OLD stainless top-freezer refrigerator standing in its tall enclosure on the left. Reproduce it EXACTLY — same framing, nothing moved. ADD ONLY the two workers from image2 (same faces, clothes, belts): the lead (navy shirt, grey hair) standing just right of the enclosure gripping the refrigerator's right side and handle, the partner (grey shirt, dark cap) beside him reaching to its top edge, both about to pull it out. Visible from the waist up above the counter, inside the kitchen opening. Serious working expressions, looking at the refrigerator, not the camera. Keep every cabinet including the glass-front upper left of the hood. No other changes. Photoreal.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 2688
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_224102_78d33378-2ae4-492c-a62b-de1484052d93.png",
+    "status": "completed"
+  }
+]

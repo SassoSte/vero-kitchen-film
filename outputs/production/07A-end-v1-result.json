@@ -1,0 +1,48 @@
+[
+  {
+    "created_at": "2026-10-10T22:36:42.194959Z",
+    "display_name": "GPT Image 2",
+    "id": "b9f39924-0769-4b17-8099-43e19954ca60",
+    "job_type": "gpt_image_2",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_223642_b9f39924-0769-4b17-8099-43e19954ca60_min.webp",
+    "params": {
+      "aspect_ratio": "16:9",
+      "height": 1520,
+      "medias": [
+        {
+          "data": {
+            "id": "4262f923-d4b5-48fd-ac45-1eec095f5244",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/4262f923-d4b5-48fd-ac45-1eec095f5244_resize.jpg"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "e790ea3d-2e9c-4e97-a9b3-a31385edafca",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/e790ea3d-2e9c-4e97-a9b3-a31385edafca_resize.jpg"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "3f7d737a-4401-446f-9f8f-d878115e75fc",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/3f7d737a-4401-446f-9f8f-d878115e75fc.png"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "videotape-alpha",
+      "prompt": "Image1 is a fixed photograph of a kitchen seen from the living room across a bar counter; reproduce it EXACTLY with the same framing — do not zoom, do not move, add or remove any cabinet, appliance, wall or furniture element except as stated.  The tall enclosure on the left is EMPTY. ADD the old stainless top-freezer refrigerator from image3 standing on an appliance dolly in the kitchen aisle just right of and in front of the enclosure, pulled fully out, and ADD two workers from image2 holding it: the lead tilts it back on the dolly by its handle side, the partner steadies its top. Lead: short grey hair, navy long-sleeve work shirt, tan leather tool belt. Partner: grey work shirt, dark cap, dark-brown tool belt. Match image2's faces and clothing exactly. Both stand on the floor INSIDE the kitchen behind the bar counter, visible from the waist up above the counter; nobody stands in front of the bar or on any surface. Correct human scale relative to the 2.4 m ceiling and cabinets. No other new objects or people. Photoreal.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 2688
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_223642_b9f39924-0769-4b17-8099-43e19954ca60.png",
+    "status": "completed"
+  }
+]

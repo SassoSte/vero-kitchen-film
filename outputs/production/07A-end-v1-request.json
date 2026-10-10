@@ -1,0 +1,15 @@
+{
+  "model": "gpt_image_2",
+  "params": {
+    "quality": "high",
+    "resolution": "2k",
+    "aspect_ratio": "16:9"
+  },
+  "references": [
+    "outputs/construction/stage-07-final-empty.png",
+    "outputs/keyframes/workers-v1.png",
+    "outputs/construction/raw/ref-old-fridge-crop.png"
+  ],
+  "prompt": "Image1 is a fixed photograph of a kitchen seen from the living room across a bar counter; reproduce it EXACTLY with the same framing \u2014 do not zoom, do not move, add or remove any cabinet, appliance, wall or furniture element except as stated.  The tall enclosure on the left is EMPTY. ADD the old stainless top-freezer refrigerator from image3 standing on an appliance dolly in the kitchen aisle just right of and in front of the enclosure, pulled fully out, and ADD two workers from image2 holding it: the lead tilts it back on the dolly by its handle side, the partner steadies its top. Lead: short grey hair, navy long-sleeve work shirt, tan leather tool belt. Partner: grey work shirt, dark cap, dark-brown tool belt. Match image2's faces and clothing exactly. Both stand on the floor INSIDE the kitchen behind the bar counter, visible from the waist up above the counter; nobody stands in front of the bar or on any surface. Correct human scale relative to the 2.4 m ceiling and cabinets. No other new objects or people. Photoreal.",
+  "output": "outputs/construction/raw/07A-end-v1.png"
+}

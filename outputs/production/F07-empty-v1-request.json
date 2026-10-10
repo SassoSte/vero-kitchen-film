@@ -1,0 +1,19 @@
+{
+  "model": "gpt_image_2",
+  "params": {
+    "quality": "high",
+    "resolution": "2k",
+    "aspect_ratio": "16:9"
+  },
+  "references": [
+    "outputs/keyframes/apartment-fridge-reconstruction-v11.png"
+  ],
+  "prompt": "Edit this photograph to an EARLIER construction stage. Keep the camera, framing, lighting, walls, ceiling, track lights, white Shaker upper cabinets, the cupboard above the refrigerator space, hood, pot filler, gas range, faucet, pale stone worktops, dining area and concrete floor exactly as they are. Make ONLY these changes: (1) the refrigerator is not installed: its tall enclosure on the left is EMPTY, showing the bare back wall, the side panels, a water line stub and an outlet, and the concrete floor inside; (2) the ribbed oak bar front is not installed: the front of the bar shows plain unfinished plywood backing panels; (3) no bar stools; (4) the counters are bare: no toaster, no kettle, no flowers in a vase, no bowl of fruit. Photoreal, same photograph otherwise.",
+  "output": "outputs/construction/raw/F07-empty-v1.png",
+  "post": {
+    "tool": "tools/stage_composite.py",
+    "base": "outputs/keyframes/apartment-fridge-reconstruction-v11.png",
+    "mask": "outputs/production/masks/F07-empty-mask.png",
+    "final": "outputs/construction/stage-07-final-empty.png"
+  }
+}

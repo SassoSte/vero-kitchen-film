@@ -1,0 +1,10 @@
+{
+ "plate": "outputs/construction/stage-09c-espresso.png",
+ "returned": "outputs/construction/raw/09C-end-v1.png",
+ "output": "outputs/construction/raw/09C-end-v1-composite.png",
+ "ransac_inliers": 1720,
+ "protected_mean_abs_diff_registered": 4.78,
+ "person_mask_fraction": 0.0474,
+ "pixels_identical_to_plate_fraction": 0.9526,
+ "output_sha256": "843373031df74ae4bbbf52ae241d3959f3f449ff784839f464febdf62c37cb9a"
+}

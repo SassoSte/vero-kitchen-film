@@ -1,0 +1,14 @@
+{
+  "model": "gpt_image_2",
+  "params": {
+    "quality": "high",
+    "resolution": "2k",
+    "aspect_ratio": "16:9"
+  },
+  "references": [
+    "outputs/construction/stage-07-final-newfridge.png",
+    "outputs/construction/07A-end.png"
+  ],
+  "prompt": "Image1 is a fixed photograph of a kitchen seen across a bar counter with the stainless French-door refrigerator fully installed in its tall enclosure on the left. Reproduce it EXACTLY \u2014 same framing, nothing moved. ADD ONLY two workers from image2 (lead: navy shirt, grey hair, tan belt; partner: grey shirt, dark cap, dark-brown belt \u2014 same faces): standing in the kitchen aisle just right of the refrigerator, the lead's palms just lifted off its right door edge after pushing it home, the partner looking at the gap at its side. Visible from the waist up above the counter, inside the kitchen opening. Serious working expressions, looking at the refrigerator, not the camera. Keep every cabinet including the glass-front upper left of the hood. No other changes. Photoreal.",
+  "output": "outputs/construction/raw/07B-end-v1.png"
+}

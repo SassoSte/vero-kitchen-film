@@ -1,0 +1,10 @@
+{
+ "plate": "outputs/construction/stage-09b-wine.png",
+ "returned": "outputs/construction/raw/09B-end-v1.png",
+ "output": "outputs/construction/raw/09B-end-v1-composite.png",
+ "ransac_inliers": 1707,
+ "protected_mean_abs_diff_registered": 7.02,
+ "person_mask_fraction": 0.0719,
+ "pixels_identical_to_plate_fraction": 0.9281,
+ "output_sha256": "282056b1ccf48d9d91c433f9ec28701fbb1c4af8eeb3709fb2af02875bb9b40e"
+}

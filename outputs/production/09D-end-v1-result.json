@@ -1,0 +1,40 @@
+[
+  {
+    "created_at": "2026-10-10T23:11:12.040063Z",
+    "display_name": "GPT Image 2",
+    "id": "aee1248f-75ba-49b5-ab6b-42a9d63dc1de",
+    "job_type": "gpt_image_2",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_231112_aee1248f-75ba-49b5-ab6b-42a9d63dc1de_min.webp",
+    "params": {
+      "aspect_ratio": "16:9",
+      "height": 1520,
+      "medias": [
+        {
+          "data": {
+            "id": "aec7c4a0-6567-4353-bfd5-69a167eb8936",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/aec7c4a0-6567-4353-bfd5-69a167eb8936_resize.jpg"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "685c8161-1951-4050-9847-bd55cbcfa153",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/685c8161-1951-4050-9847-bd55cbcfa153_resize.jpg"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "videotape-alpha",
+      "prompt": "Image1 is a fixed photograph of a kitchen sink wall; reproduce it EXACTLY with the same framing — do not zoom or move anything. The small oak-lined wall nook at upper left holds a round speaker and an iPhone standing in its charging dock. ADD ONLY the lead worker from image2 standing on the floor to the left of the cabinets below the nook, seen from the side, his right hand just letting go of the docked phone, looking at it. Correct human scale. Lead: short grey hair, navy long-sleeve work shirt, tan leather tool belt — same face as image2. Keep every object in image1 exactly; no other new objects. Photoreal.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 2688
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_231112_aee1248f-75ba-49b5-ab6b-42a9d63dc1de.png",
+    "status": "completed"
+  }
+]

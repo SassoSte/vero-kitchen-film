@@ -1,0 +1,16 @@
+{
+  "model": "kling_o3_flf",
+  "params": {
+    "mode": "pro",
+    "sound": "off",
+    "multi_shots": false,
+    "duration": 3,
+    "aspect_ratio": "16:9"
+  },
+  "media": {
+    "start-image": "outputs/construction/07A-end.png"
+  },
+  "prompt": "Fixed locked-off camera, no camera movement, no zoom. Photoreal. The old refrigerator is one rigid metal box: it never bends, curves, folds or changes shape or size, and its tilt angle on the hand truck stays the same the whole time. The lead worker pulls the hand truck backward and both workers walk slowly to the right along the kitchen aisle, so the refrigerator slides smoothly to the right behind the counter by about one metre. Room and lighting stay fixed; workers keep the same faces and clothes; no one new appears.",
+  "output": "outputs/takes/07A-take-v2.mp4",
+  "attempt": 2
+}

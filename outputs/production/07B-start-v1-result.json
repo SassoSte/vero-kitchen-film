@@ -1,0 +1,40 @@
+[
+  {
+    "created_at": "2026-10-10T22:47:27.765691Z",
+    "display_name": "GPT Image 2",
+    "id": "e73ee817-f40c-409e-8d4c-eb96dc0b03cc",
+    "job_type": "gpt_image_2",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_224727_e73ee817-f40c-409e-8d4c-eb96dc0b03cc_min.webp",
+    "params": {
+      "aspect_ratio": "16:9",
+      "height": 1520,
+      "medias": [
+        {
+          "data": {
+            "id": "4dad001e-33cf-4144-b889-70a9658fa112",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/4dad001e-33cf-4144-b889-70a9658fa112_resize.jpg"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "f3c912fa-9e05-4b9a-9aa1-6f30b326f0e6",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/f3c912fa-9e05-4b9a-9aa1-6f30b326f0e6_resize.jpg"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "videotape-alpha",
+      "prompt": "Image1 is a fixed photograph of a kitchen seen across a bar counter; the tall enclosure on the left is EMPTY. Reproduce it EXACTLY — same framing, nothing moved, keep every cabinet. ADD the stainless French-door refrigerator from image2 standing in the kitchen aisle just in front of and slightly right of the empty enclosure, about 50 cm out, square to it, ready to roll straight in; ADD the same two workers from image2 in the same places, the lead's palms on its right door edge pushing, the partner guiding its side. Visible from the waist up above the counter, inside the kitchen opening, looking at the refrigerator. No other changes. Photoreal.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 2688
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_224727_e73ee817-f40c-409e-8d4c-eb96dc0b03cc.png",
+    "status": "completed"
+  }
+]

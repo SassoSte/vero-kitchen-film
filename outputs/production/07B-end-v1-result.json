@@ -1,0 +1,40 @@
+[
+  {
+    "created_at": "2026-10-10T22:42:49.242618Z",
+    "display_name": "GPT Image 2",
+    "id": "2dbc18c2-348c-45eb-bcb1-3b5abb831a5c",
+    "job_type": "gpt_image_2",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_224249_2dbc18c2-348c-45eb-bcb1-3b5abb831a5c_min.webp",
+    "params": {
+      "aspect_ratio": "16:9",
+      "height": 1520,
+      "medias": [
+        {
+          "data": {
+            "id": "c66a0abb-bf55-4444-a9f2-c7411dc48c85",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/c66a0abb-bf55-4444-a9f2-c7411dc48c85_resize.jpg"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "8fece0a8-8022-4f73-a9d4-e34162e3a366",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/8fece0a8-8022-4f73-a9d4-e34162e3a366_resize.jpg"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "videotape-alpha",
+      "prompt": "Image1 is a fixed photograph of a kitchen seen across a bar counter with the stainless French-door refrigerator fully installed in its tall enclosure on the left. Reproduce it EXACTLY — same framing, nothing moved. ADD ONLY two workers from image2 (lead: navy shirt, grey hair, tan belt; partner: grey shirt, dark cap, dark-brown belt — same faces): standing in the kitchen aisle just right of the refrigerator, the lead's palms just lifted off its right door edge after pushing it home, the partner looking at the gap at its side. Visible from the waist up above the counter, inside the kitchen opening. Serious working expressions, looking at the refrigerator, not the camera. Keep every cabinet including the glass-front upper left of the hood. No other changes. Photoreal.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 2688
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_224249_2dbc18c2-348c-45eb-bcb1-3b5abb831a5c.png",
+    "status": "completed"
+  }
+]

@@ -1,7 +1,7 @@
 {
-  "ceiling_credits": 777.0,
+  "ceiling_credits": 925.25,
   "opening_balance": 1246.8,
-  "reserved_credits": 646.75,
+  "reserved_credits": 789.75,
   "jobs": [
     {
       "name": "master-v1",
@@ -750,20 +750,195 @@
       "status": "generated",
       "job_id": "38f45b9c-f313-414b-bc25-6f9807d95276",
       "file": "outputs/takes/05A-take-v2.mp4"
+    },
+    {
+      "name": "F07-empty-v1",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "6c07da3a-4d1d-43a7-9ce0-bcd9e2b14a23",
+      "file": "outputs/construction/raw/F07-empty-v1.png"
+    },
+    {
+      "name": "F07-old-fridge-v1",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "883a56b4-8822-4bb6-b4e1-479f53a721c3",
+      "file": "outputs/construction/raw/F07-old-fridge-v1.png"
+    },
+    {
+      "name": "07A-end-v1",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "b9f39924-0769-4b17-8099-43e19954ca60",
+      "file": "outputs/construction/raw/07A-end-v1.png"
+    },
+    {
+      "name": "07A-end-v2",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "387ff50e-279a-4c0c-b7db-422d815d321c",
+      "file": "outputs/construction/raw/07A-end-v2.png"
+    },
+    {
+      "name": "07A-start-v1",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "78d33378-2ae4-492c-a62b-de1484052d93",
+      "file": "outputs/construction/raw/07A-start-v1.png"
+    },
+    {
+      "name": "07B-end-v1",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "2dbc18c2-348c-45eb-bcb1-3b5abb831a5c",
+      "file": "outputs/construction/raw/07B-end-v1.png"
+    },
+    {
+      "name": "07A-start-v2",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "d7102252-4f05-47d9-9e32-85663bc0192b",
+      "file": "outputs/construction/raw/07A-start-v2.png"
+    },
+    {
+      "name": "07B-start-v1",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "e73ee817-f40c-409e-8d4c-eb96dc0b03cc",
+      "file": "outputs/construction/raw/07B-start-v1.png"
+    },
+    {
+      "name": "07A-take-v1",
+      "quote": 3.75,
+      "status": "generated",
+      "job_id": "a7fc19c0-44f5-465d-99e5-3dcfcfbb0d83",
+      "file": "outputs/takes/07A-take-v1.mp4"
+    },
+    {
+      "name": "07B-take-v1",
+      "quote": 3.75,
+      "status": "generated",
+      "job_id": "4d0fe1bf-1d62-4cf4-87ed-7055182c16b7",
+      "file": "outputs/takes/07B-take-v1.mp4"
+    },
+    {
+      "name": "07A-take-v2",
+      "quote": 3.75,
+      "status": "generated",
+      "job_id": "c2d7c52c-91ff-42cf-8c0f-c3787b7d5a99",
+      "file": "outputs/takes/07A-take-v2.mp4"
+    },
+    {
+      "name": "P09-niche-v1",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "f45269b4-b5c0-4307-ab3e-1ffb5f1d327d",
+      "file": "outputs/construction/raw/P09-niche-v1.png"
+    },
+    {
+      "name": "P08-lights-off-v1",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "dae4da2b-177d-42ec-a647-6f4a16cb133b",
+      "file": "outputs/construction/raw/P08-lights-off-v1.png"
+    },
+    {
+      "name": "09A-end-v1",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "bbcb6c41-01f1-44f7-a482-ba973136cfc9",
+      "file": "outputs/construction/raw/09A-end-v1.png"
+    },
+    {
+      "name": "09B-end-v1",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "b87c1ba6-ca1b-4274-ba03-f3c35a46c16d",
+      "file": "outputs/construction/raw/09B-end-v1.png"
+    },
+    {
+      "name": "09C-end-v1",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "534a76bc-98c8-482e-aefe-649b8bfff95c",
+      "file": "outputs/construction/raw/09C-end-v1.png"
+    },
+    {
+      "name": "09B-start-v1",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "fd9a798e-6350-47b5-b21c-49713725cde2",
+      "file": "outputs/construction/raw/09B-start-v1.png"
+    },
+    {
+      "name": "09D-end-v1",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "aee1248f-75ba-49b5-ab6b-42a9d63dc1de",
+      "file": "outputs/construction/raw/09D-end-v1.png"
+    },
+    {
+      "name": "09C-start-v1",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "9944224d-6d42-4e41-9c12-55980015955a",
+      "file": "outputs/construction/raw/09C-start-v1.png"
+    },
+    {
+      "name": "09D-start-v1",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "a84d40cd-1d94-40c4-9ca6-d6e1707312ee",
+      "file": "outputs/construction/raw/09D-start-v1.png"
+    },
+    {
+      "name": "08A-take-v1",
+      "quote": 6.25,
+      "status": "generated",
+      "job_id": "83962b87-16bf-4da3-bc23-af97c525abae",
+      "file": "outputs/takes/08A-take-v1.mp4"
+    },
+    {
+      "name": "09A-take-v1",
+      "quote": 3.75,
+      "status": "generated",
+      "job_id": "e4f00918-8746-4365-8cf8-7383746c61f3",
+      "file": "outputs/takes/09A-take-v1.mp4"
+    },
+    {
+      "name": "09B-take-v1",
+      "quote": 3.75,
+      "status": "generated",
+      "job_id": "12aaa44a-e156-405c-860c-01102f073bbf",
+      "file": "outputs/takes/09B-take-v1.mp4"
+    },
+    {
+      "name": "09C-take-v1",
+      "quote": 3.75,
+      "status": "generated",
+      "job_id": "b1ea5de5-2071-4aa2-ac49-47e7b29fd264",
+      "file": "outputs/takes/09C-take-v1.mp4"
+    },
+    {
+      "name": "09D-take-v1",
+      "quote": 3.75,
+      "status": "generated",
+      "job_id": "01c5aa4c-6b24-4495-95ae-c9387582e48e",
+      "file": "outputs/takes/09D-take-v1.mp4"
     }
   ],
   "balance_after": 3929,
   "balance_delta": null,
-  "remaining_phase_credits": 130.25,
+  "remaining_phase_credits": 135.5,
   "account_snapshot_note": "View1 continuity attempt3935.5 to3929 matches6.5 quote; cap303 unchanged.",
-  "task_quote_total": 646.75,
+  "task_quote_total": 789.75,
   "latest_pass": {
     "opening_account_balance": 3935.5,
     "closing_account_balance": 3929,
     "quoted_cost": 6.5
   },
-  "authorization": "outputs/production/b10-t2-authorization.json",
-  "prior_authorization": "outputs/production/b10-t1-authorization.json",
+  "authorization": "outputs/production/b10-t3-authorization.json",
+  "prior_authorization": "outputs/production/b10-t2-authorization.json",
   "ceiling_history": [
     {
       "date": "2026-10-10",
@@ -792,6 +967,13 @@
       "to": 777.0,
       "user_text": "Accept shot 01, commit, approve T2 no sound",
       "scope": "B10 tranche T2: shots 04-06"
+    },
+    {
+      "date": "2026-10-10",
+      "from": 777.0,
+      "to": 925.25,
+      "user_text": "Accept T2, commit, approve T3 no sound",
+      "scope": "B10 tranche T3: shots 07-09"
     }
   ]
 }

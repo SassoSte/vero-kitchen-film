@@ -1,0 +1,40 @@
+[
+  {
+    "created_at": "2026-10-10T22:34:35.245983Z",
+    "display_name": "GPT Image 2",
+    "id": "883a56b4-8822-4bb6-b4e1-479f53a721c3",
+    "job_type": "gpt_image_2",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_223435_883a56b4-8822-4bb6-b4e1-479f53a721c3_min.webp",
+    "params": {
+      "aspect_ratio": "16:9",
+      "height": 1520,
+      "medias": [
+        {
+          "data": {
+            "id": "6ffe286a-db14-470a-9e42-8ac1a2bb070f",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/6ffe286a-db14-470a-9e42-8ac1a2bb070f_resize.jpg"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "c5d7404c-4f41-4a40-8e7a-2fac6a4b4bd8",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/c5d7404c-4f41-4a40-8e7a-2fac6a4b4bd8.png"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "videotape-alpha",
+      "prompt": "Edit image1. Keep the camera, framing, lighting and every object exactly as it is. ONE change: inside the empty tall enclosure on the left, under the cupboard, now stands the OLD refrigerator shown in image2 — a stainless top-freezer refrigerator with a small freezer door on top, a larger fresh-food door below, vertical bar handles and black sides — standing on the floor, slightly narrower than the enclosure so a gap shows on each side and a gap above it below the cupboard. Its lower part is hidden behind the bar counter as the enclosure is. Nothing else changes. Photoreal.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 2688
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_223435_883a56b4-8822-4bb6-b4e1-479f53a721c3.png",
+    "status": "completed"
+  }
+]

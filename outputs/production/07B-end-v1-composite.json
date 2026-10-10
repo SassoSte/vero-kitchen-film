@@ -1,0 +1,10 @@
+{
+ "plate": "outputs/construction/stage-07-final-newfridge.png",
+ "returned": "outputs/construction/raw/07B-end-v1.png",
+ "output": "outputs/construction/raw/07B-end-v1-composite.png",
+ "ransac_inliers": 1889,
+ "protected_mean_abs_diff_registered": 3.76,
+ "person_mask_fraction": 0.0353,
+ "pixels_identical_to_plate_fraction": 0.9647,
+ "output_sha256": "b022b34f3368fa4d163a567ad7456ee5dc260b5f33b6c3051ae8fde57154ebb7"
+}

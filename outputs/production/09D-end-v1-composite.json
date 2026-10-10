@@ -1,0 +1,10 @@
+{
+ "plate": "outputs/construction/stage-09d-phone.png",
+ "returned": "outputs/construction/raw/09D-end-v1.png",
+ "output": "outputs/construction/raw/09D-end-v1-composite.png",
+ "ransac_inliers": 1847,
+ "protected_mean_abs_diff_registered": 3.76,
+ "person_mask_fraction": 0.0899,
+ "pixels_identical_to_plate_fraction": 0.9101,
+ "output_sha256": "6817105d6848afa0378194f14041a5c33d76b96333425c525c0555f24bbb85d4"
+}

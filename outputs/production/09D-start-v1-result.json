@@ -1,0 +1,40 @@
+[
+  {
+    "created_at": "2026-10-10T23:15:55.609506Z",
+    "display_name": "GPT Image 2",
+    "id": "a84d40cd-1d94-40c4-9ca6-d6e1707312ee",
+    "job_type": "gpt_image_2",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_231555_a84d40cd-1d94-40c4-9ca6-d6e1707312ee_min.webp",
+    "params": {
+      "aspect_ratio": "16:9",
+      "height": 1520,
+      "medias": [
+        {
+          "data": {
+            "id": "5c979839-1792-4707-b7a1-cbc6ab26344e",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/5c979839-1792-4707-b7a1-cbc6ab26344e_resize.jpg"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "fed57545-6165-44d4-96f8-8ddcfcbda9ca",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/fed57545-6165-44d4-96f8-8ddcfcbda9ca_resize.jpg"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "videotape-alpha",
+      "prompt": "Image1 is a fixed photograph of a kitchen sink wall; reproduce it EXACTLY with the same framing — do not zoom or move anything. The small oak-lined wall nook at upper left holds only a round speaker; the charging dock beside it is empty. ADD ONLY the same worker from image2 standing in exactly the same place and pose, holding an iPhone in his right hand just above the empty dock, about to set it down. Lead: short grey hair, navy long-sleeve work shirt, tan leather tool belt — same face as image2. Keep every object in image1 exactly; no other new objects. Photoreal.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 2688
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_231555_a84d40cd-1d94-40c4-9ca6-d6e1707312ee.png",
+    "status": "completed"
+  }
+]

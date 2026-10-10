@@ -1,0 +1,33 @@
+{
+ "base": "outputs/keyframes/apartment-fridge-reconstruction-v11.png",
+ "returned": "outputs/construction/raw/F07-empty-v1.png",
+ "mask": "outputs/production/masks/F07-empty-mask.png",
+ "output": "outputs/construction/stage-07-final-empty.png",
+ "homography": [
+  [
+   1.00353,
+   0.00043,
+   -3.96433
+  ],
+  [
+   0.0006,
+   1.00259,
+   -1.87343
+  ],
+  [
+   0.0,
+   0.0,
+   1.0
+  ]
+ ],
+ "ransac_inliers": 1454,
+ "protected_mean_abs_diff_raw": 4.46,
+ "protected_mean_abs_diff_registered": 4.79,
+ "ring_colour_gain_bgr": [
+  0.979,
+  0.9805,
+  0.9798
+ ],
+ "protected_pixels_changed": 0,
+ "output_sha256": "1e2849e8b9a4e4fdf17487002424bf2cb11853c35a0731ee8336bc5fcf78c237"
+}

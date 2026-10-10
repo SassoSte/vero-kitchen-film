@@ -1,0 +1,33 @@
+[
+  {
+    "created_at": "2026-10-10T22:49:21.923661Z",
+    "display_name": "Kling O3 (Frames)",
+    "id": "a7fc19c0-44f5-465d-99e5-3dcfcfbb0d83",
+    "job_type": "kling_o3_flf",
+    "min_result_url": null,
+    "params": {
+      "aspect_ratio": "16:9",
+      "duration": 3,
+      "height": 1080,
+      "medias": [
+        {
+          "data": {
+            "id": "6032f5b1-9eaf-4b62-9186-45354e247b10",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/6032f5b1-9eaf-4b62-9186-45354e247b10_resize.jpg"
+          },
+          "role": "start_image"
+        }
+      ],
+      "mode": "pro",
+      "multi_prompt": [],
+      "multi_shots": false,
+      "prompt": "Fixed locked-off camera, no camera movement, no zoom. Photoreal construction footage. Room, cabinets, counters and lighting stay fixed; workers keep the same faces, clothes and tool belts; the refrigerator stays rigid and keeps its shape. The two workers wheel the old refrigerator on its hand truck along the kitchen aisle to the right, past the range, toward the kitchen exit; it stays tilted back and rigid. No one new appears.",
+      "sound": "off",
+      "width": 1920
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_224921_a7fc19c0-44f5-465d-99e5-3dcfcfbb0d83.mp4",
+    "status": "completed",
+    "thumbnail_url": "https://cdn.higgsfield.ai/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_224921_a7fc19c0-44f5-465d-99e5-3dcfcfbb0d83_thumbnail.webp"
+  }
+]

@@ -1,0 +1,10 @@
+{
+ "plate": "outputs/construction/stage-07-final-oldfridge.png",
+ "returned": "outputs/construction/raw/07A-start-v2.png",
+ "output": "outputs/construction/raw/07A-start-v2-composite.png",
+ "ransac_inliers": 1786,
+ "protected_mean_abs_diff_registered": 4.82,
+ "person_mask_fraction": 0.0314,
+ "pixels_identical_to_plate_fraction": 0.9688,
+ "output_sha256": "e4ff9d86aba68400af3b4829deb147e9eb15181a51cf5fef06cd3be9b0d841df"
+}

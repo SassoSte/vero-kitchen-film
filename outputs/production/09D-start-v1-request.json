@@ -1,0 +1,14 @@
+{
+  "model": "gpt_image_2",
+  "params": {
+    "quality": "high",
+    "resolution": "2k",
+    "aspect_ratio": "16:9"
+  },
+  "references": [
+    "outputs/construction/stage-09d-speaker.png",
+    "outputs/construction/09D-end.png"
+  ],
+  "prompt": "Image1 is a fixed photograph of a kitchen sink wall; reproduce it EXACTLY with the same framing \u2014 do not zoom or move anything. The small oak-lined wall nook at upper left holds only a round speaker; the charging dock beside it is empty. ADD ONLY the same worker from image2 standing in exactly the same place and pose, holding an iPhone in his right hand just above the empty dock, about to set it down. Lead: short grey hair, navy long-sleeve work shirt, tan leather tool belt \u2014 same face as image2. Keep every object in image1 exactly; no other new objects. Photoreal.",
+  "output": "outputs/construction/raw/09D-start-v1.png"
+}
