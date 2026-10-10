@@ -1,6 +1,6 @@
 {
   "project": "vero-kitchen-film",
-  "phase": "Orientation confirmed; preserve remodel progress and refine requested north-wall details; generation disabled",
+  "phase": "North-wall REF-L improvement prepared; additional paid budget pending",
   "budget_ceiling_credits": 205,
   "approved_features": [
     "Wolf GR304 red knobs with pale hood; no over-range microwave",
@@ -67,12 +67,12 @@
   ],
   "gate": "No video generation until finished views agree and stage/worker references are inspected.",
   "design_revision": "2026-10-09-ref-k-french-doors",
-  "pending_design_selection": "Orientation/dimension reconciliation first; then sleek modern espresso options and wider wine front with narrower adjacent cupboards.",
+  "pending_design_selection": "One north-wall detail: premium black/metal espresso machine, wider wine front, narrower adjacent storage; preserve developed kitchen.",
   "coffee_garage": {
-    "status": "Current user intent: REF-K integrated recessed coffee/wine composition, compact machine and lit preparation/glass storage",
+    "status": "REF-L espresso presence and wine proportions; retain liked REF-K lighting and frosted upper cupboards",
     "wall": "SAME blank wall beside main refrigerator as wine fridge",
-    "reference": "references/inspiration/ref-k-integrated-coffee-wine.png",
-    "limits": "No generated REF-K implementation; wall cavity and operating mechanism unverified."
+    "reference": "references/inspiration/ref-l-north-coffee-wine.png",
+    "limits": "Current concept exists but espresso/proportions need revision; physical recess and fit unverified."
   },
   "appliance_candidates": {
     "main": "French-door model pending fit; previous Bosch single-door superseded",
@@ -89,11 +89,11 @@
   "geometry_lock": "outputs/production/geometry-lock.json",
   "fridge_style": "French-door upper pair meeting at center, bottom freezer drawer",
   "next_job": {
-    "request": "outputs/production/integrated-wall-frenchdoor-v1-request.json",
-    "quoted_credits": 6.5,
-    "status": "GENERATED; awaiting review",
-    "minimum_total_cap_for_one_job": 204.75,
-    "authorization": "One concept under 205 total, now consumed"
+    "request": "outputs/production/north-wall-ref-l-v1-request.json",
+    "status": "PREPARED; NOT QUOTED OR SUBMITTED; increased spending cap required",
+    "prior_comparable_quote_credits": 6.5,
+    "proposed_total_ceiling": 212,
+    "authorization": "Not approved"
   },
   "status": "concept-review-hold",
   "pause_reason": null,

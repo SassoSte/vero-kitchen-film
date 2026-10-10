@@ -1,7 +1,7 @@
 {
   "project": "vero-kitchen-film",
   "inventory_revision": "2026-10-09-resumed-one-concept",
-  "production": "Orientation confirmed; preserve remodel progress and refine requested north-wall details; generation disabled",
+  "production": "North-wall REF-L improvement prepared; additional paid budget pending",
   "authority": "Latest style REF-K; two upper French doors/lower freezer drawer, model/fit pending. No generated still is final approved complete current design.",
   "review_sources": [
     "outputs/inspection.txt",
@@ -10,7 +10,7 @@
     "conversation review findings"
   ],
   "root": "/Users/stefansassoon/projects/vero-kitchen-film",
-  "still_count": 57,
+  "still_count": 58,
   "video_count": 3,
   "prepared_not_generated": [],
   "assets": [
@@ -1120,6 +1120,25 @@
       "superseded_reason": "Current request requires French upper door pair; exact model/fit pending.",
       "bytes": 683846,
       "sha256": "ae2ec4d50cf67472a4a55ca2aa0d925092e0493b66c0c110fb2774810f04bfc4",
+      "job_name": null,
+      "job_id": null,
+      "receipts": {},
+      "source_provenance": null,
+      "review_source_note": "Recorded inspection/conversation findings or source-reference role; not a new visual inspection."
+    },
+    {
+      "id": "ASSET-94655EBA9024",
+      "title": "Ref L North Coffee Wine",
+      "path": "references/inspiration/ref-l-north-coffee-wine.png",
+      "absolute_path": "/Users/stefansassoon/projects/vero-kitchen-film/references/inspiration/ref-l-north-coffee-wine.png",
+      "kind": "still",
+      "category": "inspiration",
+      "role": "User ideal north-wall appearance reference",
+      "status": "current-user-reference",
+      "verdict": "Premium espresso presence, wider wine proportions, oak and warm niche lighting.",
+      "superseded_reason": "Appearance only; preserve existing envelope and liked frosted uppers; no projecting cabinet.",
+      "bytes": 1179512,
+      "sha256": "6dcac1e977b32d69e1fb98ac6305de2c126e7103505dfeb12cd7446803506126",
       "job_name": null,
       "job_id": null,
       "receipts": {},

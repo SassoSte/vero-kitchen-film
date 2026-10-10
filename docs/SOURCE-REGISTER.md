@@ -1,3 +1,7 @@
+## Latest user reference — REF-L
+
+[REF-L north coffee/wine inspiration](../references/inspiration/ref-l-north-coffee-wine.png), user attachment saved byte-exact; [provenance](../references/inspiration/ref-l-source.json). Controls north-wall espresso presence, wine proportions and restrained oak/lighting details. Not room geometry, appliance selection or permission for a projecting cabinet. Retain liked frosted uppers.
+
 > **Current resume update — 2026-10-09:** User resumed and approved a 205-credit total ceiling for ONE concept. See [resume record](RESUME-2026-10-09.md) and live production state. The pause/200-credit/unsubmitted statements below are the preserved earlier snapshot, superseded only within this one-job scope. The single concept is now generated and needs correction (upper microwave and added fridge surround). Spend is **204.75/205**, remaining **0.25**; further generation is disabled. Full-film production is not authorized.
 
 # Source register — kitchen film

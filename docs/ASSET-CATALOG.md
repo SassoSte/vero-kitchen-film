@@ -4,7 +4,7 @@ Latest style REF-K; two upper French doors/lower freezer drawer, model/fit pendi
 
 Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashes of repository-relative paths. Hashes describe exact existing bytes; verdicts are sourced review findings, not a new visual inspection.
 
-**57 stills · 3 videos.**
+**58 stills · 3 videos.**
 
 [Open searchable gallery](../outputs/stills-gallery.html) · [Machine-readable catalog](asset-catalog.json)
 
@@ -697,6 +697,18 @@ Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashe
 - Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
 - Limit / superseded reason: Current request requires French upper door pair; exact model/fit pending.
 - Bytes: 683846; SHA-256: `ae2ec4d50cf67472a4a55ca2aa0d925092e0493b66c0c110fb2774810f04bfc4`
+- Job ID: `not recorded`
+
+### ASSET-94655EBA9024 — Ref L North Coffee Wine
+
+- Exact filename: `ref-l-north-coffee-wine.png`
+- File: [references/inspiration/ref-l-north-coffee-wine.png](../references/inspiration/ref-l-north-coffee-wine.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/references/inspiration/ref-l-north-coffee-wine.png`
+- Role: User ideal north-wall appearance reference; status: **current-user-reference**
+- Known verdict: Premium espresso presence, wider wine proportions, oak and warm niche lighting.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Appearance only; preserve existing envelope and liked frosted uppers; no projecting cabinet.
+- Bytes: 1179512; SHA-256: `6dcac1e977b32d69e1fb98ac6305de2c126e7103505dfeb12cd7446803506126`
 - Job ID: `not recorded`
 
 ### ASSET-C0BB67BE6089 — Original kitchen — cooking/fridge wall

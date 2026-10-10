@@ -1,0 +1,16 @@
+{
+  "model": "gpt_image_2",
+  "params": {
+    "quality": "high",
+    "resolution": "2k",
+    "aspect_ratio": "4:5"
+  },
+  "references": [
+    "outputs/keyframes/integrated-wall-frenchdoor-v1.png",
+    "references/inspiration/ref-l-north-coffee-wine.png",
+    "outputs/keyframes/sink-v4.png",
+    "references/inspiration/ref-k-integrated-coffee-wine.png"
+  ],
+  "prompt": "Create one photoreal NORTH-WALL DETAIL concept for the existing Vero kitchen, preserving our developed design. Image1 is the latest kitchen concept: edit ONLY its north coffee/wine wall composition. Image2 is the new USER IDEAL STYLE REFERENCE: borrow espresso-machine presence, wider wine-front proportions, restrained ribbed oak detail, warm concealed lighting and recessed niche depth. Image3 is the established sink-side view, provided only to avoid inventing an upper microwave or armoire. Do not redesign that side. Image4 is REF-K, preserving the already-liked warm frosted-glass upper storage and integrated recessed composition.\nFrame a closer straight-on detail of the existing north coffee/wine composition, with enough surrounding plaster wall to show that it is recessed and flush. Exclude the cooking run and sink-side cabinetry from the detail frame so they are not regenerated. Keep the same total composition width and height as image1; do not enlarge the wall, recess envelope, room or ceiling.\nReplace the small pedestrian espresso machine with a confident, sleek contemporary black-and-brushed-stainless espresso machine inspired by image2: clean rectangular body, substantial group head and portafilter, restrained precision controls and an integrated drip tray. It must look premium and proportionate, not miniature, ornate, bulky or commercial-scale. Keep it supported on the existing pale quartz prep surface, with two small cups and useful preparation space.\nMake the wine refrigerator visibly wider and less tall/narrow in proportion than image1, approximately three-fifths of the lower composition width; reduce the adjacent two storage fronts to occupy the remaining side bay. Preserve overall envelope and counter height; these are visual proportions, not a selected appliance SKU or measured cutout. Use a clean dark glass wine door, believable horizontal bottle racks and visible front ventilation. Adjacent narrower storage fronts may have restrained pale-oak ribbing that matches the established kitchen bar, inspired by image2; avoid the reference's dark full-width cabinet mass.\nKeep the liked white Shaker upper cupboards, frosted glass and warm internal lighting from image1/REF-K. Retain a warmly lit recessed coffee/prep alcove below. A discreet oak accent within the niche can echo image2, but do not replace all upper cupboards with open shelves. All lower cabinet fronts and wine front align with the existing wall face; quartz is recessed, not a projecting countertop cabinet. Preserve the kitchen's pale veined stone, warm white walls, restrained oak and warm-grey concrete. No window, curtain, armchair, oversized vase/branches, hanging-glass clutter, poster, new microwave or added room geometry from the inspiration. No people, captions, labels, fictitious brand text or measurements. This is a north-wall design detail only, not an installation-proof image.",
+  "output": "outputs/keyframes/north-wall-ref-l-v1.png"
+}
