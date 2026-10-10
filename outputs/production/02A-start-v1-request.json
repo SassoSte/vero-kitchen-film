@@ -1,0 +1,14 @@
+{
+  "model": "gpt_image_2",
+  "params": {
+    "quality": "high",
+    "resolution": "2k",
+    "aspect_ratio": "16:9"
+  },
+  "references": [
+    "outputs/construction/02A-end.png",
+    "outputs/keyframes/workers-v1.png"
+  ],
+  "prompt": "Image1 is the END frame of a short construction take. Produce the START frame of the same take: reproduce image1 exactly \u2014 same camera, framing, room, walls, niche, old refrigerator, lighting, the same two workers with the same faces, clothes, tool belts, kneeling board and bucket, in the same places and nearly the same poses \u2014 with ONE difference: the rectangular patch of fresh concrete is NOT yet smoothed: its surface is rough and uneven with visible ridges and trowel marks, wetter and darker, and the lead worker's steel trowel rests at the FAR edge of the patch (near the niche), about to start the smoothing stroke toward himself. The patch keeps exactly the same outline and position. No new objects. Photoreal.",
+  "output": "outputs/construction/raw/02A-start-v1.png"
+}

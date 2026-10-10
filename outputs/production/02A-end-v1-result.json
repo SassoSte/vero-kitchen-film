@@ -1,0 +1,40 @@
+[
+  {
+    "created_at": "2026-10-10T18:40:41.33466Z",
+    "display_name": "GPT Image 2",
+    "id": "8c1de794-ff1b-4039-bdd6-d5c1d3e6855b",
+    "job_type": "gpt_image_2",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_184041_8c1de794-ff1b-4039-bdd6-d5c1d3e6855b_min.webp",
+    "params": {
+      "aspect_ratio": "16:9",
+      "height": 1520,
+      "medias": [
+        {
+          "data": {
+            "id": "f7bf71ea-3a1b-4c4b-b185-a28f8216e466",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/f7bf71ea-3a1b-4c4b-b185-a28f8216e466_resize.jpg"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "20a7f7ce-1727-4e09-96ac-f439dda08efd",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/20a7f7ce-1727-4e09-96ac-f439dda08efd_resize.jpg"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "videotape-alpha",
+      "prompt": "Image1 is a fixed photograph of an empty kitchen under construction; reproduce it exactly — same camera, framing, walls, niche, old refrigerator, plumbing stubs, lighting — and ADD ONLY two workers and a freshly finished patch of concrete. In the open floor in front of the niche and refrigerator, a rectangular section of the concrete floor about 1.2 m × 1 m is freshly troweled: darker grey, smooth, slightly wet sheen, with a clean edge against the dry floor. The lead worker kneels on a knee board at the near edge of that patch, holding a steel finishing trowel flat on the wet concrete as he completes the last smoothing stroke, looking down at it. The partner stands just behind him at the side holding a bucket, watching the patch. Correct human scale for the 2.4 m ceiling and the refrigerator. Lead: short grey hair, navy long-sleeve work shirt, dark trousers, tan leather tool belt, tan boots. Partner: grey work shirt, dark trousers, dark cap, dark-brown tool belt, tan boots. Match image2's faces and clothing exactly. No other new objects, no other people. Photoreal.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 2688
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_184041_8c1de794-ff1b-4039-bdd6-d5c1d3e6855b.png",
+    "status": "completed"
+  }
+]

@@ -1,0 +1,32 @@
+{
+  "status": "APPROVED",
+  "date": "2026-10-10",
+  "approved": "2026-10-10 America/Phoenix",
+  "budget_user_text": "Approve T1 ceiling 249, no sound for now.",
+  "scope": "B10 tranche T1: shots 01-03 (03A already accepted)",
+  "plates": [
+    "P01-otr-removed",
+    "P01-range-removed",
+    "P01D-lamp-removed",
+    "P02-bare",
+    "P02-bases"
+  ],
+  "takes": [
+    "01B",
+    "01C",
+    "01D",
+    "02A",
+    "02B"
+  ],
+  "video_params": {
+    "model": "kling_o3_flf",
+    "mode": "pro",
+    "sound": "off"
+  },
+  "first_pass_credits": 116.25,
+  "maximum_new_spend_credits": 249,
+  "max_attempts_per_item": 2,
+  "prior_ceiling_credits": 352.75,
+  "total_ceiling_credits": 601.75,
+  "sequence": "strictly sequential; lead inspects each return; second attempt per item only after written finding; no automatic retry"
+}

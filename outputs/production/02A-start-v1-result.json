@@ -1,0 +1,40 @@
+[
+  {
+    "created_at": "2026-10-10T18:48:43.908138Z",
+    "display_name": "GPT Image 2",
+    "id": "dc87b29a-995e-4f3f-a04b-b28414f10bed",
+    "job_type": "gpt_image_2",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_184843_dc87b29a-995e-4f3f-a04b-b28414f10bed_min.webp",
+    "params": {
+      "aspect_ratio": "16:9",
+      "height": 1520,
+      "medias": [
+        {
+          "data": {
+            "id": "4856429b-53e2-431f-9843-3a1849eda156",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/4856429b-53e2-431f-9843-3a1849eda156_resize.jpg"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "6df20fc1-3126-43a8-9a38-5ca8ed3dc8cc",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/6df20fc1-3126-43a8-9a38-5ca8ed3dc8cc_resize.jpg"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "videotape-alpha",
+      "prompt": "Image1 is the END frame of a short construction take. Produce the START frame of the same take: reproduce image1 exactly — same camera, framing, room, walls, niche, old refrigerator, lighting, the same two workers with the same faces, clothes, tool belts, kneeling board and bucket, in the same places and nearly the same poses — with ONE difference: the rectangular patch of fresh concrete is NOT yet smoothed: its surface is rough and uneven with visible ridges and trowel marks, wetter and darker, and the lead worker's steel trowel rests at the FAR edge of the patch (near the niche), about to start the smoothing stroke toward himself. The patch keeps exactly the same outline and position. No new objects. Photoreal.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 2688
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_184843_dc87b29a-995e-4f3f-a04b-b28414f10bed.png",
+    "status": "completed"
+  }
+]

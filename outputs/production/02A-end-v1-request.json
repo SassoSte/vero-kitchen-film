@@ -1,0 +1,14 @@
+{
+  "model": "gpt_image_2",
+  "params": {
+    "quality": "high",
+    "resolution": "2k",
+    "aspect_ratio": "16:9"
+  },
+  "references": [
+    "outputs/construction/stage-02-bare.png",
+    "outputs/keyframes/workers-v1.png"
+  ],
+  "prompt": "Image1 is a fixed photograph of an empty kitchen under construction; reproduce it exactly \u2014 same camera, framing, walls, niche, old refrigerator, plumbing stubs, lighting \u2014 and ADD ONLY two workers and a freshly finished patch of concrete. In the open floor in front of the niche and refrigerator, a rectangular section of the concrete floor about 1.2 m \u00d7 1 m is freshly troweled: darker grey, smooth, slightly wet sheen, with a clean edge against the dry floor. The lead worker kneels on a knee board at the near edge of that patch, holding a steel finishing trowel flat on the wet concrete as he completes the last smoothing stroke, looking down at it. The partner stands just behind him at the side holding a bucket, watching the patch. Correct human scale for the 2.4 m ceiling and the refrigerator. Lead: short grey hair, navy long-sleeve work shirt, dark trousers, tan leather tool belt, tan boots. Partner: grey work shirt, dark trousers, dark cap, dark-brown tool belt, tan boots. Match image2's faces and clothing exactly. No other new objects, no other people. Photoreal.",
+  "output": "outputs/construction/raw/02A-end-v1.png"
+}

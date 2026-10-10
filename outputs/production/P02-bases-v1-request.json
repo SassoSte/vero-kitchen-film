@@ -1,0 +1,19 @@
+{
+  "model": "gpt_image_2",
+  "params": {
+    "quality": "high",
+    "resolution": "2k",
+    "aspect_ratio": "16:9"
+  },
+  "references": [
+    "outputs/construction/stage-03-plate.png"
+  ],
+  "prompt": "Edit this photograph of a kitchen under construction. Keep the camera, framing, perspective, lighting, walls, ceiling, track light, framed wall niche, old stainless refrigerator, concrete floor, dishwasher and every white Shaker cabinet front exactly as they are. Make ONE change: the stone worktops are NOT installed yet. Remove all pale stone worktop slabs \u2014 on the left (west) run including the sink cutout and the raised back ledge cap, on the narrow cabinet beside the refrigerator, and on the right cooking run. In their place show the bare tops of the base cabinets: unfinished plywood cabinet box edges and corner braces, slightly lower than the stone was, with the back wall visible behind; the left raised ledge shows bare painted drywall on top. No sink, no faucet, no tools, no people. Photoreal.",
+  "output": "outputs/construction/raw/P02-bases-v1.png",
+  "post": {
+    "tool": "tools/stage_composite.py",
+    "base": "outputs/construction/stage-03-plate.png",
+    "mask": "outputs/production/masks/plate-02-worktops-mask.png",
+    "final": "outputs/construction/stage-02-bases.png"
+  }
+}

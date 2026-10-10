@@ -1,7 +1,7 @@
 {
-  "ceiling_credits": 352.75,
+  "ceiling_credits": 601.75,
   "opening_balance": 1246.8,
-  "reserved_credits": 352.75,
+  "reserved_credits": 405.75,
   "jobs": [
     {
       "name": "master-v1",
@@ -386,20 +386,83 @@
       "status": "generated",
       "job_id": "91a931c0-d671-4ced-ac7d-862f9bf3c4cc",
       "file": "outputs/takes/03A-pilot-v2.mp4"
+    },
+    {
+      "name": "P02-bases-v1",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "e9694d3f-b741-4be0-912a-53f79811480d",
+      "file": "outputs/construction/raw/P02-bases-v1.png"
+    },
+    {
+      "name": "P02-bare-v1",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "5ed247e2-f82b-46a3-9472-cf03230649e1",
+      "file": "outputs/construction/raw/P02-bare-v1.png"
+    },
+    {
+      "name": "02A-end-v1",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "8c1de794-ff1b-4039-bdd6-d5c1d3e6855b",
+      "file": "outputs/construction/raw/02A-end-v1.png"
+    },
+    {
+      "name": "02A-start-v1",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "dc87b29a-995e-4f3f-a04b-b28414f10bed",
+      "file": "outputs/construction/raw/02A-start-v1.png"
+    },
+    {
+      "name": "02B-end-v1",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "397c4c75-e323-415d-a8c7-090ef887eaa9",
+      "file": "outputs/construction/raw/02B-end-v1.png"
+    },
+    {
+      "name": "02B-end-v2",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "27b73368-17bc-4c73-85e7-232c7a12340e",
+      "file": "outputs/construction/raw/02B-end-v2.png"
+    },
+    {
+      "name": "02B-start-v1",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "60f370f0-55ad-4ece-99cf-847b58a474a4",
+      "file": "outputs/construction/raw/02B-start-v1.png"
+    },
+    {
+      "name": "02A-take-v1",
+      "quote": 3.75,
+      "status": "generated",
+      "job_id": "df681dd3-b64e-4368-a97b-403754a02678",
+      "file": "outputs/takes/02A-take-v1.mp4"
+    },
+    {
+      "name": "02B-take-v1",
+      "quote": 3.75,
+      "status": "generated",
+      "job_id": "fc3a77b2-5170-4aa7-b82b-bb4bea95152b",
+      "file": "outputs/takes/02B-take-v1.mp4"
     }
   ],
   "balance_after": 3929,
   "balance_delta": null,
-  "remaining_phase_credits": 0.0,
+  "remaining_phase_credits": 196.0,
   "account_snapshot_note": "View1 continuity attempt3935.5 to3929 matches6.5 quote; cap303 unchanged.",
-  "task_quote_total": 352.75,
+  "task_quote_total": 405.75,
   "latest_pass": {
     "opening_account_balance": 3935.5,
     "closing_account_balance": 3929,
     "quoted_cost": 6.5
   },
-  "authorization": "outputs/production/b08-03a-pilot-authorization.json",
-  "prior_authorization": "outputs/production/b07-03a-frames-authorization.json",
+  "authorization": "outputs/production/b10-t1-authorization.json",
+  "prior_authorization": "outputs/production/b08-03a-pilot-authorization.json",
   "ceiling_history": [
     {
       "date": "2026-10-10",
@@ -414,6 +477,13 @@
       "to": 352.75,
       "user_text": "Approve 18 for 03A pilot",
       "scope": "\u22642 kling_o3_flf pro jobs for 03A"
+    },
+    {
+      "date": "2026-10-10",
+      "from": 352.75,
+      "to": 601.75,
+      "user_text": "Approve T1 ceiling 249, no sound for now.",
+      "scope": "B10 tranche T1: shots 01-03 (03A already accepted)"
     }
   ]
 }

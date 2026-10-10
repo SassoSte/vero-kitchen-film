@@ -1,0 +1,33 @@
+{
+ "base": "outputs/construction/stage-03-plate.png",
+ "returned": "outputs/construction/raw/P02-bases-v1.png",
+ "mask": "outputs/production/masks/plate-02-worktops-mask.png",
+ "output": "outputs/construction/raw/P02-bases-v1-composite.png",
+ "homography": [
+  [
+   0.99989,
+   -0.0005,
+   0.53999
+  ],
+  [
+   0.00091,
+   1.00021,
+   -1.34426
+  ],
+  [
+   0.0,
+   -0.0,
+   1.0
+  ]
+ ],
+ "ransac_inliers": 1279,
+ "protected_mean_abs_diff_raw": 4.1,
+ "protected_mean_abs_diff_registered": 3.98,
+ "ring_colour_gain_bgr": [
+  0.9457,
+  0.9517,
+  0.9534
+ ],
+ "protected_pixels_changed": 0,
+ "output_sha256": "f1bd8f5d5188d698c2d22cc250d66fe5173e48a116991ed8299f14e783fd0e52"
+}

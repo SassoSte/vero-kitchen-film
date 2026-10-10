@@ -1,0 +1,16 @@
+{
+  "model": "kling_o3_flf",
+  "params": {
+    "mode": "pro",
+    "sound": "off",
+    "multi_shots": false,
+    "duration": 3,
+    "aspect_ratio": "16:9"
+  },
+  "media": {
+    "start-image": "outputs/construction/02B-start.png",
+    "end-image": "outputs/construction/02B-end.png"
+  },
+  "prompt": "Fixed locked-off camera, no camera movement, no zoom. Photoreal construction footage. Room, walls, refrigerator, cabinets and lighting do not change; no one enters or leaves; workers keep the same faces, clothes and tool belts. The worker at the right cabinet brings the cordless drill forward onto the screw at the cabinet's back rail and drives it in; the second worker lowers the yellow spirit level onto the cabinet top and checks the bubble. Cabinets stay rigid and in place.",
+  "output": "outputs/takes/02B-take-v1.mp4"
+}

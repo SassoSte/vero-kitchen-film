@@ -1,0 +1,19 @@
+{
+  "model": "gpt_image_2",
+  "params": {
+    "quality": "high",
+    "resolution": "2k",
+    "aspect_ratio": "16:9"
+  },
+  "references": [
+    "outputs/construction/stage-02-bases.png"
+  ],
+  "prompt": "Edit this photograph of a kitchen under construction to an EARLIER stage. Keep the camera, framing, perspective, lighting, walls, ceiling, track light, framed wall niche, old stainless refrigerator and its position, and the polished grey concrete floor exactly as they are. Remove ALL base cabinets and the dishwasher: the left run of cabinet boxes and the dishwasher, the narrow cabinet beside the refrigerator, and the right run of cabinet boxes. Where they stood, show the bare painted walls down to the floor with a plain baseboard gap, a capped water supply stub and a drain stub low on the left wall, an electrical box on the right wall, and the same polished grey concrete floor continuing to the walls. The left raised ledge wall remains as bare drywall. Empty room, no tools, no people. Photoreal.",
+  "output": "outputs/construction/raw/P02-bare-v1.png",
+  "post": {
+    "tool": "tools/stage_composite.py",
+    "base": "outputs/construction/stage-02-bases.png",
+    "mask": "outputs/production/masks/plate-02-bare-mask.png",
+    "final": "outputs/construction/stage-02-bare.png"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "project": "vero-kitchen-film",
-  "phase": "B08 03A pilot accepted; B10 plan/quote in preparation; generation disabled",
+  "phase": "B10 T1: shot 02 frames+takes done (lead pass); shot 01 paused on source-photo watermark decision; generation disabled",
   "budget_ceiling_credits": 303,
   "approved_features": [
     "Wolf GR304 red knobs with pale hood; no over-range microwave",
@@ -125,7 +125,7 @@
     "opus_handoff": "OPUS-HANDOFF.md"
   },
   "authorized_jobs": [],
-  "authorization": "outputs/production/b08-03a-pilot-authorization.json",
+  "authorization": "outputs/production/b10-t1-authorization.json",
   "latest_concept": "outputs/keyframes/master-third-view-continuity-v1.png",
   "latest_concept_review": {
     "status": "rejected-layout-drift",

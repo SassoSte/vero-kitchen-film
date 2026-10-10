@@ -1,0 +1,13 @@
+{
+  "model": "gpt_image_2",
+  "params": {
+    "quality": "high",
+    "resolution": "2k",
+    "aspect_ratio": "16:9"
+  },
+  "references": [
+    "outputs/construction/02B-end.png"
+  ],
+  "prompt": "Image1 is the END frame of a short take; produce the START frame of the same take. Reproduce image1 exactly \u2014 camera, room, cabinets, refrigerator, both workers with the same faces, clothes, belts and body positions \u2014 with ONLY these differences: the lead worker's yellow cordless drill is lifted a few centimetres away from the cabinet's back rail, not yet touching the screw, his other hand steadying the cabinet; the partner is just lowering the yellow spirit level toward the cabinet top, still a few centimetres above it. No new objects. Photoreal.",
+  "output": "outputs/construction/raw/02B-start-v1.png"
+}

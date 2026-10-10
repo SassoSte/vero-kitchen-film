@@ -1,0 +1,41 @@
+[
+  {
+    "created_at": "2026-10-10T19:01:48.069628Z",
+    "display_name": "Kling O3 (Frames)",
+    "id": "df681dd3-b64e-4368-a97b-403754a02678",
+    "job_type": "kling_o3_flf",
+    "min_result_url": null,
+    "params": {
+      "aspect_ratio": "16:9",
+      "duration": 3,
+      "height": 1080,
+      "medias": [
+        {
+          "data": {
+            "id": "7ac576db-9b69-418c-bc9b-b53e13b5416b",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/7ac576db-9b69-418c-bc9b-b53e13b5416b_resize.jpg"
+          },
+          "role": "start_image"
+        },
+        {
+          "data": {
+            "id": "eb92a0e2-f930-482c-8e9e-f1811a2a7442",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/eb92a0e2-f930-482c-8e9e-f1811a2a7442_resize.jpg"
+          },
+          "role": "end_image"
+        }
+      ],
+      "mode": "pro",
+      "multi_prompt": [],
+      "multi_shots": false,
+      "prompt": "Fixed locked-off camera, no camera movement, no zoom. Photoreal construction footage. Room, walls, refrigerator, cabinets and lighting do not change; no one enters or leaves; workers keep the same faces, clothes and tool belts. The kneeling worker draws the steel finishing trowel in one slow, even stroke across the wet concrete patch toward himself, smoothing the rough surface flat behind the blade; the standing worker holds the bucket and watches. The patch outline stays fixed.",
+      "sound": "off",
+      "width": 1920
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_190148_df681dd3-b64e-4368-a97b-403754a02678.mp4",
+    "status": "completed",
+    "thumbnail_url": "https://cdn.higgsfield.ai/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_190148_df681dd3-b64e-4368-a97b-403754a02678_thumbnail.webp"
+  }
+]

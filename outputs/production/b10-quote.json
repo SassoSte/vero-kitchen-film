@@ -1,0 +1,527 @@
+{
+  "date": "2026-10-10",
+  "prices": {
+    "gpt_image_2_high_2k": 6.5,
+    "kling_o3_flf_pro": {
+      "on": {
+        "3": 5.4,
+        "4": 7.2,
+        "5": 9.0
+      },
+      "off": {
+        "3": 3.75,
+        "4": 5.0,
+        "5": 6.25
+      }
+    }
+  },
+  "counts": {
+    "takes": 30,
+    "accepted": 1,
+    "local_holds": 3,
+    "paid_plates": 13,
+    "worker_frame_jobs": 50,
+    "video_jobs": 26,
+    "video_seconds_by_len": {
+      "3": 24,
+      "4": 0,
+      "5": 2
+    }
+  },
+  "totals_sound_on": {
+    "plates": 84.5,
+    "worker_frames": 325.0,
+    "videos": 147.6,
+    "first_pass": 557.1,
+    "expected_with_retries": 903.9,
+    "ceiling_2_attempts_each": 1114.2
+  },
+  "totals_sound_off": {
+    "plates": 84.5,
+    "worker_frames": 325.0,
+    "videos": 102.5,
+    "first_pass": 512.0,
+    "expected_with_retries": 836.25,
+    "ceiling_2_attempts_each": 1024.0
+  },
+  "tranches_sound_on": {
+    "T1": {
+      "shots": [
+        "01",
+        "02",
+        "03"
+      ],
+      "plates": [
+        "P01-otr-removed",
+        "P01-range-removed",
+        "P01D-lamp-removed",
+        "P02-bare",
+        "P02-bases"
+      ],
+      "image_jobs": 15,
+      "video_jobs": 5,
+      "first_pass": 124.5,
+      "ceiling": 249.0
+    },
+    "T2": {
+      "shots": [
+        "04",
+        "05",
+        "06"
+      ],
+      "plates": [
+        "W04-pre-sink"
+      ],
+      "image_jobs": 17,
+      "video_jobs": 8,
+      "first_pass": 153.7,
+      "ceiling": 307.4
+    },
+    "T3": {
+      "shots": [
+        "07",
+        "08",
+        "09"
+      ],
+      "plates": [
+        "F07-old-fridge",
+        "F07-empty",
+        "P08-lights-off",
+        "P09-niche-finished",
+        "W09D-nook-empty"
+      ],
+      "image_jobs": 17,
+      "video_jobs": 7,
+      "first_pass": 151.9,
+      "ceiling": 303.8
+    },
+    "T4": {
+      "shots": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "plates": [
+        "F10-backing",
+        "F11-pre-furnish"
+      ],
+      "image_jobs": 14,
+      "video_jobs": 6,
+      "first_pass": 127.0,
+      "ceiling": 254.0
+    }
+  },
+  "plates": [
+    {
+      "id": "P01-otr-removed",
+      "view": "BEFORE-A",
+      "used_by": "01B/01C",
+      "state": "original kitchen with over-range microwave removed"
+    },
+    {
+      "id": "P01-range-removed",
+      "view": "BEFORE-A",
+      "used_by": "01C/02",
+      "state": "prepared room: range removed, old fridge kept"
+    },
+    {
+      "id": "P01D-lamp-removed",
+      "view": "BEFORE-H",
+      "used_by": "01D",
+      "state": "apartment angle without floor lamp"
+    },
+    {
+      "id": "P02-bare",
+      "view": "MASTER",
+      "used_by": "02A",
+      "state": "no base cabinets; concrete floor being finished; old fridge"
+    },
+    {
+      "id": "P02-bases",
+      "view": "MASTER",
+      "used_by": "02B/03",
+      "state": "base cabinets without worktops"
+    },
+    {
+      "id": "W04-pre-sink",
+      "view": "WEST",
+      "used_by": "04A-C",
+      "state": "west counter cutout empty; no faucet; microwave opening empty"
+    },
+    {
+      "id": "F07-old-fridge",
+      "view": "FINAL",
+      "used_by": "07A",
+      "state": "old fridge in enclosure corner; bar backing exposed; no stools/styling"
+    },
+    {
+      "id": "F07-empty",
+      "view": "FINAL",
+      "used_by": "07A/07B",
+      "state": "empty fridge enclosure"
+    },
+    {
+      "id": "F10-backing",
+      "view": "FINAL",
+      "used_by": "10A",
+      "state": "bar front backing exposed, kitchen complete"
+    },
+    {
+      "id": "F11-pre-furnish",
+      "view": "FINAL",
+      "used_by": "11A/11D/11E",
+      "state": "two stools parked, rug edge not placed, no vase"
+    },
+    {
+      "id": "P08-lights-off",
+      "view": "MASTER",
+      "used_by": "08A",
+      "state": "finished kitchen with all lighting off"
+    },
+    {
+      "id": "P09-niche-finished",
+      "view": "MASTER",
+      "used_by": "09A-C",
+      "state": "north niche finished, empty (no wine unit, machine)"
+    },
+    {
+      "id": "W09D-nook-empty",
+      "view": "WEST",
+      "used_by": "09D",
+      "state": "west nook with speaker, no phone"
+    }
+  ],
+  "takes": [
+    {
+      "take": "01A",
+      "shot": "01",
+      "view": "BEFORE-A",
+      "action": "Establish the original kitchen",
+      "slot_s": 1,
+      "kind": "local-hold",
+      "frames": 0,
+      "video_s": 0,
+      "note": "local hold/push on original ref-a photo"
+    },
+    {
+      "take": "01B",
+      "shot": "01",
+      "view": "BEFORE-A",
+      "action": "Two workers remove the old over-range microwave",
+      "slot_s": 1.4,
+      "kind": "workers",
+      "frames": 2,
+      "video_s": 3,
+      "note": "paid END + START worker composites"
+    },
+    {
+      "take": "01C",
+      "shot": "01",
+      "view": "BEFORE-A",
+      "action": "Workers roll out the old electric range",
+      "slot_s": 1.4,
+      "kind": "workers",
+      "frames": 2,
+      "video_s": 3,
+      "note": "paid END + START worker composites"
+    },
+    {
+      "take": "01D",
+      "shot": "01",
+      "view": "BEFORE-H",
+      "action": "Remove the wooden floor lamp in the supported apartment angle",
+      "slot_s": 1.2,
+      "kind": "workers",
+      "frames": 2,
+      "video_s": 3,
+      "note": "paid END + START worker composites"
+    },
+    {
+      "take": "02A",
+      "shot": "02",
+      "view": "MASTER",
+      "action": "Trowel one clear section of the concrete floor",
+      "slot_s": 2.5,
+      "kind": "workers",
+      "frames": 2,
+      "video_s": 3,
+      "note": "paid END + START worker composites"
+    },
+    {
+      "take": "02B",
+      "shot": "02",
+      "view": "MASTER",
+      "action": "Level and fasten one base cabinet; cut to cumulative installed bases",
+      "slot_s": 2.5,
+      "kind": "workers",
+      "frames": 2,
+      "video_s": 3,
+      "note": "paid END + START worker composites"
+    },
+    {
+      "take": "03A",
+      "shot": "03",
+      "view": "MASTER",
+      "action": "Two workers lower the already-aligned quartz through its final short descent and release only after full seating",
+      "slot_s": 5,
+      "kind": "accepted",
+      "frames": 0,
+      "video_s": 0,
+      "note": "03A-pilot-v2 accepted"
+    },
+    {
+      "take": "04A",
+      "shot": "04",
+      "view": "WEST",
+      "action": "Seat the single sink in the prepared west counter",
+      "slot_s": 2,
+      "kind": "workers",
+      "frames": 2,
+      "video_s": 3,
+      "note": "paid END + START worker composites"
+    },
+    {
+      "take": "04B",
+      "shot": "04",
+      "view": "WEST",
+      "action": "Secure the L faucet at its existing location",
+      "slot_s": 1.5,
+      "kind": "workers",
+      "frames": 2,
+      "video_s": 3,
+      "note": "paid END + START worker composites"
+    },
+    {
+      "take": "04C",
+      "shot": "04",
+      "view": "WEST",
+      "action": "Slide the microwave into its base-cabinet opening left of sink",
+      "slot_s": 1.5,
+      "kind": "workers",
+      "frames": 2,
+      "video_s": 3,
+      "note": "paid END + START worker composites"
+    },
+    {
+      "take": "05A",
+      "shot": "05",
+      "view": "MASTER",
+      "action": "Seat one backsplash slab against the cooking wall",
+      "slot_s": 2.5,
+      "kind": "workers",
+      "frames": 2,
+      "video_s": 3,
+      "note": "paid END + START worker composites"
+    },
+    {
+      "take": "05B",
+      "shot": "05",
+      "view": "MASTER",
+      "action": "Fasten an upper cabinet to prepared mounting points",
+      "slot_s": 2.5,
+      "kind": "workers",
+      "frames": 2,
+      "video_s": 3,
+      "note": "paid END + START worker composites"
+    },
+    {
+      "take": "06A",
+      "shot": "06",
+      "view": "MASTER",
+      "action": "Secure the pale hood assembly",
+      "slot_s": 2,
+      "kind": "workers",
+      "frames": 2,
+      "video_s": 3,
+      "note": "paid END + START worker composites"
+    },
+    {
+      "take": "06B",
+      "shot": "06",
+      "view": "MASTER",
+      "action": "Fasten the pot filler",
+      "slot_s": 1.5,
+      "kind": "workers",
+      "frames": 2,
+      "video_s": 3,
+      "note": "paid END + START worker composites"
+    },
+    {
+      "take": "06C",
+      "shot": "06",
+      "view": "MASTER",
+      "action": "Guide the gas range through its final positioning movement",
+      "slot_s": 2.5,
+      "kind": "workers",
+      "frames": 2,
+      "video_s": 3,
+      "note": "paid END + START worker composites"
+    },
+    {
+      "take": "07A",
+      "shot": "07",
+      "view": "FINAL",
+      "action": "Roll the old refrigerator out",
+      "slot_s": 1.5,
+      "kind": "workers",
+      "frames": 2,
+      "video_s": 3,
+      "note": "paid END + START worker composites"
+    },
+    {
+      "take": "07B",
+      "shot": "07",
+      "view": "FINAL",
+      "action": "After an editorial preparation cut, guide the new French-door refrigerator into its enclosure",
+      "slot_s": 2.5,
+      "kind": "workers",
+      "frames": 2,
+      "video_s": 3,
+      "note": "paid END + START worker composites"
+    },
+    {
+      "take": "08A",
+      "shot": "08",
+      "view": "MASTER",
+      "action": "Operate switches and visibly bring the installed warm lighting on",
+      "slot_s": 4,
+      "kind": "video-no-workers",
+      "frames": 0,
+      "video_s": 5,
+      "note": "lights-off plate -> MASTER lights-on; switch operated off-screen"
+    },
+    {
+      "take": "09A",
+      "shot": "09",
+      "view": "MASTER",
+      "action": "Finish a small visible wall section",
+      "slot_s": 1.5,
+      "kind": "workers",
+      "frames": 2,
+      "video_s": 3,
+      "note": "paid END + START worker composites"
+    },
+    {
+      "take": "09B",
+      "shot": "09",
+      "view": "MASTER",
+      "action": "Seat the wine unit in the prepared opening",
+      "slot_s": 1.5,
+      "kind": "workers",
+      "frames": 2,
+      "video_s": 3,
+      "note": "paid END + START worker composites"
+    },
+    {
+      "take": "09C",
+      "shot": "09",
+      "view": "MASTER",
+      "action": "Place the dial espresso machine on its north-wall niche surface",
+      "slot_s": 1.2,
+      "kind": "workers",
+      "frames": 2,
+      "video_s": 3,
+      "note": "paid END + START worker composites"
+    },
+    {
+      "take": "09D",
+      "shot": "09",
+      "view": "WEST",
+      "action": "Dock the phone beside the speaker in the small west nook",
+      "slot_s": 0.8,
+      "kind": "workers",
+      "frames": 2,
+      "video_s": 3,
+      "note": "paid END + START worker composites"
+    },
+    {
+      "take": "10A",
+      "shot": "10",
+      "view": "FINAL",
+      "action": "Two workers align and secure one ribbed-oak panel; cut to the completed bar",
+      "slot_s": 5,
+      "kind": "workers",
+      "frames": 2,
+      "video_s": 5,
+      "note": "paid END + START worker composites"
+    },
+    {
+      "take": "11A",
+      "shot": "11",
+      "view": "FINAL",
+      "action": "Lower the third stool facing the bar, matching the two parked stools",
+      "slot_s": 2.4,
+      "kind": "workers",
+      "frames": 2,
+      "video_s": 3,
+      "note": "paid END + START worker composites"
+    },
+    {
+      "take": "11B",
+      "shot": "11",
+      "view": "MASTER",
+      "action": "Set the red toaster left of range",
+      "slot_s": 0.8,
+      "kind": "workers",
+      "frames": 2,
+      "video_s": 3,
+      "note": "paid END + START worker composites"
+    },
+    {
+      "take": "11C",
+      "shot": "11",
+      "view": "MASTER",
+      "action": "Set the red kettle right of range",
+      "slot_s": 0.8,
+      "kind": "workers",
+      "frames": 2,
+      "video_s": 3,
+      "note": "paid END + START worker composites"
+    },
+    {
+      "take": "11D",
+      "shot": "11",
+      "view": "FINAL",
+      "action": "Position the dining rug edge beneath the table",
+      "slot_s": 1.0,
+      "kind": "workers",
+      "frames": 2,
+      "video_s": 3,
+      "note": "paid END + START worker composites"
+    },
+    {
+      "take": "11E",
+      "shot": "11",
+      "view": "FINAL",
+      "action": "Place the selected final vase; other final styling established across the editorial cut",
+      "slot_s": 1.0,
+      "kind": "workers",
+      "frames": 2,
+      "video_s": 3,
+      "note": "paid END + START worker composites"
+    },
+    {
+      "take": "12A",
+      "shot": "12",
+      "view": "MASTER",
+      "action": "Hold the widest source-supported kitchen reveal with no new geometry",
+      "slot_s": 2,
+      "kind": "local-hold",
+      "frames": 0,
+      "video_s": 0,
+      "note": "local hold/push on selected MASTER"
+    },
+    {
+      "take": "13A",
+      "shot": "13",
+      "view": "FINAL",
+      "action": "Restrained final apartment-facing reveal matching the restored photograph",
+      "slot_s": 3,
+      "kind": "local-hold",
+      "frames": 0,
+      "video_s": 0,
+      "note": "local hold/push on selected FINAL"
+    }
+  ]
+}

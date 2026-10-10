@@ -53,6 +53,25 @@ if cfg.get('saliency'):
     pm |= (cv2.dilate(pm.astype(np.uint8), np.ones((9, 9), np.uint8)) > 0) & (sal > 0.9) & box
 for poly in cfg.get('contact', []):
     c = np.zeros((H, W), np.uint8); cv2.fillPoly(c, [np.array(poly, np.int32)], 1); pm |= c > 0
+for poly, t in cfg.get('strict_final', []):     # e.g. an appliance behind a person
+    c = np.zeros((H, W), np.uint8); cv2.fillPoly(c, [np.array(poly, np.int32)], 1); c = c > 0
+    keep = c & (d > t)
+    if cfg.get('saliency') and cfg.get('strict_final_sal'):
+        _s = cv2.warpPerspective(cv2.imread(cfg['saliency'], 0).astype(np.float32) / 255, Hm, (W, H))
+        keep &= _s > cfg['strict_final_sal']
+    keep = cv2.morphologyEx(keep.astype(np.uint8), cv2.MORPH_CLOSE, np.ones((15, 15), np.uint8)) > 0
+    pm = (pm & ~c) | (keep & pm)
+for poly, t in cfg.get('solid', []):             # one person: largest blob of diff|saliency, holes filled
+    c = np.zeros((H, W), np.uint8); cv2.fillPoly(c, [np.array(poly, np.int32)], 1); c = c > 0
+    _s = cv2.warpPerspective(cv2.imread(cfg['saliency'], 0).astype(np.float32) / 255, Hm, (W, H))
+    b = ((d > t) | ((_s > 0.5) & (d > cfg.get('solid_min_d', 15)))) & c
+    b = cv2.morphologyEx(b.astype(np.uint8), cv2.MORPH_OPEN, np.ones((7, 7), np.uint8))
+    b = cv2.morphologyEx(b, cv2.MORPH_CLOSE, np.ones((21, 21), np.uint8))
+    n, lab, st2, _ = cv2.connectedComponentsWithStats(b)
+    blob = lab == (1 + int(np.argmax(st2[1:, cv2.CC_STAT_AREA]))) if n > 1 else b > 0
+    cn, _ = cv2.findContours(blob.astype(np.uint8), cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_NONE)
+    f = np.zeros((H, W), np.uint8); cv2.drawContours(f, cn, -1, 1, -1)
+    pm = (pm & ~c) | (f > 0)
 for poly in cfg.get('exclude', []):
     c = np.zeros((H, W), np.uint8); cv2.fillPoly(c, [np.array(poly, np.int32)], 1); pm &= ~(c > 0)
 ycc = cv2.cvtColor(al, cv2.COLOR_BGR2YCrCb)
@@ -76,12 +95,18 @@ for ch in range(3):
 person_core = cv2.dilate(((d > 40) & box).astype(np.uint8), np.ones((5, 5), np.uint8)) > 0
 if cfg.get('saliency'):
     person_core |= (sal > 0.8) & box
+_y = cv2.cvtColor(al, cv2.COLOR_BGR2YCrCb)
+person_core |= (_y[..., 1] > 135) & (_y[..., 1] < 180) & (_y[..., 2] > 80) & (_y[..., 2] < 135) & box
 pw = cv2.GaussianBlur(person_core.astype(np.float32), (0, 0), 3)[..., None]
-alf = alf * pw + tm * (1 - pw)
+alf = alf * pw + tm * (1 - pw) if cfg.get('tone', True) else alf
 # shadows: darkening ratio from the return, inside bbox, outside people
 lp = lambda im: cv2.GaussianBlur(im.astype(np.float32), (0, 0), 6)
 ratio = np.clip((lp(alf).mean(2) + 1) / (lp(plate).mean(2) + 1), 0.45, 1.0)
-sh = box & ~pm & (ratio < 0.97) & (np.mgrid[0:H, 0:W][0] > cfg.get('floor_y', 0))
+so = np.zeros((H, W), bool)
+for poly in cfg.get('shadow_only', []):          # return's cast shadow: keep as soft darkening only
+    c = np.zeros((H, W), np.uint8); cv2.fillPoly(c, [np.array(poly, np.int32)], 1); so |= c > 0
+pm &= ~(so & (d < cfg.get('shadow_d', 40)))
+sh = box & ~(cv2.erode(pm.astype(np.uint8), np.ones((11, 11), np.uint8)) > 0) & (ratio < 0.97) & ((np.mgrid[0:H, 0:W][0] > cfg.get('floor_y', 0)) | cv2.dilate(so.astype(np.uint8), np.ones((15, 15), np.uint8)).astype(bool))
 ratio = np.where(sh, cv2.GaussianBlur(ratio, (0, 0), 4), 1.0)[..., None]
 out = plate.astype(np.float32) * ratio
 pm = cv2.erode(pm.astype(np.uint8), np.ones((cfg.get('erode', 1) * 2 + 1,) * 2, np.uint8)) > 0

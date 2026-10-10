@@ -1,0 +1,32 @@
+[
+  {
+    "created_at": "2026-10-10T18:37:54.813855Z",
+    "display_name": "GPT Image 2",
+    "id": "5ed247e2-f82b-46a3-9472-cf03230649e1",
+    "job_type": "gpt_image_2",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_183754_5ed247e2-f82b-46a3-9472-cf03230649e1_min.webp",
+    "params": {
+      "aspect_ratio": "16:9",
+      "height": 1520,
+      "medias": [
+        {
+          "data": {
+            "id": "362ef2a9-8b66-45b4-9031-31d8ca22e4c9",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/362ef2a9-8b66-45b4-9031-31d8ca22e4c9_resize.jpg"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "videotape-alpha",
+      "prompt": "Edit this photograph of a kitchen under construction to an EARLIER stage. Keep the camera, framing, perspective, lighting, walls, ceiling, track light, framed wall niche, old stainless refrigerator and its position, and the polished grey concrete floor exactly as they are. Remove ALL base cabinets and the dishwasher: the left run of cabinet boxes and the dishwasher, the narrow cabinet beside the refrigerator, and the right run of cabinet boxes. Where they stood, show the bare painted walls down to the floor with a plain baseboard gap, a capped water supply stub and a drain stub low on the left wall, an electrical box on the right wall, and the same polished grey concrete floor continuing to the walls. The left raised ledge wall remains as bare drywall. Empty room, no tools, no people. Photoreal.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 2688
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_183754_5ed247e2-f82b-46a3-9472-cf03230649e1.png",
+    "status": "completed"
+  }
+]

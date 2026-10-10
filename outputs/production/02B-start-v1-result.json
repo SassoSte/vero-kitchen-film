@@ -1,0 +1,32 @@
+[
+  {
+    "created_at": "2026-10-10T18:59:24.282721Z",
+    "display_name": "GPT Image 2",
+    "id": "60f370f0-55ad-4ece-99cf-847b58a474a4",
+    "job_type": "gpt_image_2",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_185924_60f370f0-55ad-4ece-99cf-847b58a474a4_min.webp",
+    "params": {
+      "aspect_ratio": "16:9",
+      "height": 1520,
+      "medias": [
+        {
+          "data": {
+            "id": "d5cabd99-7c4c-465e-af80-22d73dbe4b94",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/d5cabd99-7c4c-465e-af80-22d73dbe4b94_resize.jpg"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "videotape-alpha",
+      "prompt": "Image1 is the END frame of a short take; produce the START frame of the same take. Reproduce image1 exactly — camera, room, cabinets, refrigerator, both workers with the same faces, clothes, belts and body positions — with ONLY these differences: the lead worker's yellow cordless drill is lifted a few centimetres away from the cabinet's back rail, not yet touching the screw, his other hand steadying the cabinet; the partner is just lowering the yellow spirit level toward the cabinet top, still a few centimetres above it. No new objects. Photoreal.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 2688
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_185924_60f370f0-55ad-4ece-99cf-847b58a474a4.png",
+    "status": "completed"
+  }
+]

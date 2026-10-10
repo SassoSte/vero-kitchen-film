@@ -23,6 +23,17 @@ REGIONS = {
         'north coffee/wine niche -> unfinished opening': [[600, 185], [1005, 185], [1005, 1305], [600, 1305]],
         'west sink -> empty cutout': [[0, 925], [315, 925], [315, 1075], [0, 1075]],
     },
+    # shot-02 state on the stage-03 plate: all stone worktops off, cabinet boxes exposed
+    'plate-02-worktops': {
+        'west worktop, back ledge cap, sink cutout': [[0, 815], [205, 815], [205, 868], [490, 868], [490, 945], [0, 1435]],
+        'narrow cabinet top': [[1486, 832], [1836, 826], [1836, 884], [1541, 908], [1486, 908]],
+        'right cooking-run worktop + corner strip': [[1790, 826], [1840, 826], [2140, 893], [2688, 958], [2688, 1252], [1800, 1020], [1790, 1020]],
+    },
+    # shot-02 start state on stage-02-bases: no base cabinets or dishwasher yet
+    'plate-02-bare': {
+        'west base run + dishwasher': [[0, 815], [205, 815], [205, 868], [495, 868], [495, 1520], [0, 1520]],
+        'narrow cabinet + right base run': [[1455, 880], [1486, 880], [1486, 826], [1840, 826], [2140, 880], [2688, 945], [2688, 1520], [1486, 1520], [1455, 1400]],
+    },
     # 03A: workers + cooking-run quartz right of the range opening, plus floor they stand on
     '03A-action': {
         'right cooking-run worktop and workers': [[1800, 700], [2688, 760], [2688, 1520], [900, 1520], [900, 950], [1500, 860]],

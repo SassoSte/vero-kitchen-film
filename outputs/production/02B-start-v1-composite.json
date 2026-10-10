@@ -1,0 +1,33 @@
+{
+ "base": "outputs/construction/02B-end.png",
+ "returned": "outputs/construction/raw/02B-start-v1.png",
+ "mask": "outputs/production/masks/02B-start-mask.png",
+ "output": "outputs/construction/raw/02B-start-v1-composite.png",
+ "homography": [
+  [
+   0.99995,
+   0.0003,
+   -0.26539
+  ],
+  [
+   0.00019,
+   1.00161,
+   -1.38256
+  ],
+  [
+   0.0,
+   0.0,
+   1.0
+  ]
+ ],
+ "ransac_inliers": 1154,
+ "protected_mean_abs_diff_raw": 5.66,
+ "protected_mean_abs_diff_registered": 5.2,
+ "ring_colour_gain_bgr": [
+  0.9662,
+  0.9354,
+  0.9058
+ ],
+ "protected_pixels_changed": 0,
+ "output_sha256": "0cd5eb2c13ec5c33b1e5918124db37fabd11e2de2bd4191c29a496ca6828f7f2"
+}

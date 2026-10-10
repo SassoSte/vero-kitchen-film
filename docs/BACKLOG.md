@@ -10,7 +10,7 @@ The prior accumulated backlog is preserved in the pre-Opus archive.
 | — | B06a — selected-view continuity | **CLOSED 2026-10-10** — user accepted `kitchen-smeg-enclosure-v2` |
 | P0 | B07 — workers and cumulative stages | Current; 03A stage-frame requests prepared, awaiting allowance |
 | P1 | B08–B09 — motion pilots | Held behind reference/stage gate and new budget |
-| P1 | B10 — final take/budget plan | 13-shot/30-take draft prepared; quotes/trim decisions pending |
+| P0 | B10 — final take/budget plan | Quoted 2026-10-10 ([B10-PLAN](B10-PLAN.md)); awaiting tranche authorization |
 | P1 | B11–B13 — production, assembly, delivery | Not completed |
 
 ### B01 — Current authority and documentation

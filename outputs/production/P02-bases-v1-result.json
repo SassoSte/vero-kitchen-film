@@ -1,0 +1,32 @@
+[
+  {
+    "created_at": "2026-10-10T18:35:23.240167Z",
+    "display_name": "GPT Image 2",
+    "id": "e9694d3f-b741-4be0-912a-53f79811480d",
+    "job_type": "gpt_image_2",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_183523_e9694d3f-b741-4be0-912a-53f79811480d_min.webp",
+    "params": {
+      "aspect_ratio": "16:9",
+      "height": 1520,
+      "medias": [
+        {
+          "data": {
+            "id": "bf2796ca-c62c-4637-a751-bc635ca0aaf3",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/bf2796ca-c62c-4637-a751-bc635ca0aaf3_resize.jpg"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "videotape-alpha",
+      "prompt": "Edit this photograph of a kitchen under construction. Keep the camera, framing, perspective, lighting, walls, ceiling, track light, framed wall niche, old stainless refrigerator, concrete floor, dishwasher and every white Shaker cabinet front exactly as they are. Make ONE change: the stone worktops are NOT installed yet. Remove all pale stone worktop slabs — on the left (west) run including the sink cutout and the raised back ledge cap, on the narrow cabinet beside the refrigerator, and on the right cooking run. In their place show the bare tops of the base cabinets: unfinished plywood cabinet box edges and corner braces, slightly lower than the stone was, with the back wall visible behind; the left raised ledge shows bare painted drywall on top. No sink, no faucet, no tools, no people. Photoreal.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 2688
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_183523_e9694d3f-b741-4be0-912a-53f79811480d.png",
+    "status": "completed"
+  }
+]

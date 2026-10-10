@@ -1,0 +1,40 @@
+[
+  {
+    "created_at": "2026-10-10T18:50:50.208173Z",
+    "display_name": "GPT Image 2",
+    "id": "397c4c75-e323-415d-a8c7-090ef887eaa9",
+    "job_type": "gpt_image_2",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_185050_397c4c75-e323-415d-a8c7-090ef887eaa9_min.webp",
+    "params": {
+      "aspect_ratio": "16:9",
+      "height": 1520,
+      "medias": [
+        {
+          "data": {
+            "id": "ebdda47e-12df-41d7-b0a3-0d4f2188edf9",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/ebdda47e-12df-41d7-b0a3-0d4f2188edf9_resize.jpg"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "58fefa96-e1cb-4f84-930f-14d0469775c0",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/58fefa96-e1cb-4f84-930f-14d0469775c0_resize.jpg"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "videotape-alpha",
+      "prompt": "Image1 is a fixed photograph of a kitchen under construction; reproduce it exactly — same camera, framing, walls, niche, old refrigerator, every white base cabinet box and the concrete floor — and ADD ONLY two workers. They are fastening the right-hand run of white base cabinets (right foreground): the lead worker stands in the aisle in front of the first right cabinet, one hand pressing its top front edge, the other holding a cordless drill against the inside of the open cabinet box, driving a screw through the cabinet back into the wall. The partner stands further along the right run toward the refrigerator, holding a long yellow spirit level flat across the top edges of the cabinet boxes, checking it. Both look at their work. Correct human scale (cabinet tops at hip height). Lead: short grey hair, navy long-sleeve work shirt, dark trousers, tan leather tool belt, tan boots. Partner: grey work shirt, dark trousers, dark cap, dark-brown tool belt, tan boots. Match image2's faces and clothing exactly. No other new objects, no other people. Photoreal.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 2688
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_185050_397c4c75-e323-415d-a8c7-090ef887eaa9.png",
+    "status": "completed"
+  }
+]

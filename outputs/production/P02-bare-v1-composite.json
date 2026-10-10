@@ -1,0 +1,33 @@
+{
+ "base": "outputs/construction/stage-02-bases.png",
+ "returned": "outputs/construction/raw/P02-bare-v1.png",
+ "mask": "outputs/production/masks/plate-02-bare-mask.png",
+ "output": "outputs/construction/raw/P02-bare-v1-composite.png",
+ "homography": [
+  [
+   1.00286,
+   -0.00012,
+   -0.21669
+  ],
+  [
+   0.00064,
+   1.00526,
+   -3.3609
+  ],
+  [
+   0.0,
+   0.0,
+   1.0
+  ]
+ ],
+ "ransac_inliers": 749,
+ "protected_mean_abs_diff_raw": 9.3,
+ "protected_mean_abs_diff_registered": 8.88,
+ "ring_colour_gain_bgr": [
+  0.9024,
+  0.9287,
+  0.9474
+ ],
+ "protected_pixels_changed": 0,
+ "output_sha256": "1b87c2176c4b2179fada93ce2ab6272be726599fefbece57f7d33d21e34373cc"
+}

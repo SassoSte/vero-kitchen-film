@@ -1,0 +1,40 @@
+[
+  {
+    "created_at": "2026-10-10T18:53:08.752977Z",
+    "display_name": "GPT Image 2",
+    "id": "27b73368-17bc-4c73-85e7-232c7a12340e",
+    "job_type": "gpt_image_2",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_185308_27b73368-17bc-4c73-85e7-232c7a12340e_min.webp",
+    "params": {
+      "aspect_ratio": "16:9",
+      "height": 1520,
+      "medias": [
+        {
+          "data": {
+            "id": "64b49bc7-b409-4bfe-9cc8-c969c6122c22",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/64b49bc7-b409-4bfe-9cc8-c969c6122c22_resize.jpg"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "74310251-a87a-4b99-b72e-fbad849b23ef",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/74310251-a87a-4b99-b72e-fbad849b23ef_resize.jpg"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "videotape-alpha",
+      "prompt": "Image1 is a fixed photograph; every object in it must stay exactly where and how it is. Do NOT add, remove, extend, move or resize any cabinet, appliance or wall. The layout on the right side is fixed: the old stainless refrigerator, then ONE narrow white cabinet beside it, then an EMPTY gap of bare wall and floor about 30 inches wide (the future range space — keep it empty), then the long right-hand run of white drawer cabinets with open plywood tops in the right foreground. ADD ONLY two workers standing on the concrete floor in the aisle: the lead worker in the right foreground in front of the long right-hand run, one hand on the front top edge of its first cabinet box, the other holding a yellow cordless drill inside the open box driving a screw into the wall; the partner stands in the aisle near the empty gap, holding a long yellow spirit level across the top of the long run's first cabinet, looking at the bubble. Correct human scale (cabinet tops at hip height). Lead: short grey hair, navy long-sleeve work shirt, dark trousers, tan leather tool belt, tan boots. Partner: grey work shirt, dark trousers, dark cap, dark-brown tool belt, tan boots. Match image2's faces and clothing exactly. No other new objects or people. Photoreal.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 2688
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_185308_27b73368-17bc-4c73-85e7-232c7a12340e.png",
+    "status": "completed"
+  }
+]

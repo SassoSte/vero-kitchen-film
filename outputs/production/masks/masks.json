@@ -11,6 +11,21 @@
       ],
       "fraction": 0.5248
     },
+    "plate-02-worktops": {
+      "regions": [
+        "west worktop, back ledge cap, sink cutout",
+        "narrow cabinet top",
+        "right cooking-run worktop + corner strip"
+      ],
+      "fraction": 0.0991
+    },
+    "plate-02-bare": {
+      "regions": [
+        "west base run + dishwasher",
+        "narrow cabinet + right base run"
+      ],
+      "fraction": 0.2768
+    },
     "03A-action": {
       "regions": [
         "right cooking-run worktop and workers"
