@@ -1,3 +1,5 @@
+> **Latest third-view result:** [Fridge depth v9](docs/APARTMENT-FRIDGE-DEPTH-REVIEW.md) hides merging freezer handle, but fridge proportions appear changed; third view remains unlocked. Task **282.75/283**, **0.25 remaining**; generation disabled. Two existing visual locks unchanged.
+
 > **Third view not locked:** User flags fridge as visually attached to bar; localized perspective/occlusion correction approved. Preserve geometry and appliance scale; let foreground ledge correctly hide freezer portions. `apartment-fridge-depth-v9` prepared; further spending allowance pending.
 
 > **Third-view result:** [Apartment continuity v8](docs/APARTMENT-CONTINUITY-REVIEW.md) generated; user review pending. North/east and west visual locks unchanged. Task **276.25/277**, **0.75 remaining**; no more generation authorized. Earlier status/budget text is historical.

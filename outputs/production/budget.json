@@ -1,7 +1,7 @@
 {
-  "ceiling_credits": 277,
+  "ceiling_credits": 283,
   "opening_balance": 1246.8,
-  "reserved_credits": 276.25,
+  "reserved_credits": 282.75,
   "jobs": [
     {
       "name": "master-v1",
@@ -309,17 +309,24 @@
       "status": "generated",
       "job_id": "1f043805-a256-453d-961b-a51741be3511",
       "file": "outputs/keyframes/apartment-continuity-v8.png"
+    },
+    {
+      "name": "apartment-fridge-depth-v9",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "fadc4b38-fc6f-4861-b1bc-c25711694732",
+      "file": "outputs/keyframes/apartment-fridge-depth-v9.png"
     }
   ],
-  "balance_after": 3955,
+  "balance_after": 3948.5,
   "balance_delta": null,
-  "remaining_phase_credits": 0.75,
-  "account_snapshot_note": "2026-10-10 third-view render3961.5 to3955 matches6.5 quote; cap277 unchanged.",
-  "task_quote_total": 276.25,
+  "remaining_phase_credits": 0.25,
+  "account_snapshot_note": "2026-10-10 depth correction3955 to3948.5 matches6.5 quote; cap283 unchanged.",
+  "task_quote_total": 282.75,
   "latest_pass": {
-    "opening_account_balance": 3961.5,
-    "closing_account_balance": 3955,
+    "opening_account_balance": 3955,
+    "closing_account_balance": 3948.5,
     "quoted_cost": 6.5
   },
-  "authorization": "outputs/production/apartment-continuity-authorization.json"
+  "authorization": "outputs/production/apartment-fridge-depth-authorization.json"
 }

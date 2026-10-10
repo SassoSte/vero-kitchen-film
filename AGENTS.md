@@ -4,13 +4,12 @@ Read `HANDOFF.md` first, then `mega-prompt.md`, `docs/SOURCE-REGISTER.md` and th
 `docs/BACKLOG.md`. `outputs/stills-gallery.html` / `docs/asset-catalog.json` identify
 assets and their status; version number alone is not approval.
 
-User approved **277 total credits for ONE third-view continuity render** on2026-10-10:
-`apartment-continuity-v8`, max new job price6.5. Read
-`outputs/production/apartment-continuity-authorization.json` and live state/ledger.
-Preserve apartment-v7 camera, opening, bar/stools/dining; update visible kitchen to
-locked north/east and west references, remove extra cooking-counter boards/plant.
-Both visual locks remain intact. No automatic retries, purchases or video jobs.
-Disable generation after this one job.
+User approved **283 total credits for ONE fridge/bar depth correction** on2026-10-10:
+`apartment-fridge-depth-v9`, max new price6.5. Read
+`outputs/production/apartment-fridge-depth-authorization.json` and live ledger/state.
+Resolve foreground bar versus rear refrigerator overlap; preserve room geometry,
+fridge scale, camera and rest of composition. Both previous visual locks remain intact.
+No automatic retries, purchases or video jobs. Disable generation after this job.
 
 
 Original photos/plans and manufacturer evidence remain separate from generated concepts.

@@ -1,3 +1,5 @@
+> **Latest third-view result:** [Fridge depth v9](APARTMENT-FRIDGE-DEPTH-REVIEW.md) hides merging freezer handle, but fridge proportions appear changed; third view remains unlocked. Task **282.75/283**, **0.25 remaining**; generation disabled. Two existing visual locks unchanged.
+
 > **Third-view result:** [Apartment continuity v8](APARTMENT-CONTINUITY-REVIEW.md) generated; user review pending. North/east and west visual locks unchanged. Task **276.25/277**, **0.75 remaining**; no more generation authorized. Earlier status/budget text is historical.
 
 > **WEST VIEW ACCEPTED — 2026-10-10:** [Exact accepted asset and hash](../outputs/production/west-visual-lock.json): `west-phone-speaker-realism-v1.png`. North/east lock also remains in force. Next: reconcile `apartment-v7` with locked kitchen views, especially French-door fridge. Planning only; no new paid job authorized.

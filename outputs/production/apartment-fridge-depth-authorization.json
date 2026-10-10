@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-10",
+  "timezone": "America/Phoenix",
+  "budget_user_text": "Approve 283 total for one render",
+  "total_ceiling_credits": 283,
+  "maximum_new_spend_credits": 6.5,
+  "authorized_jobs": [
+    "apartment-fridge-depth-v9"
+  ],
+  "max_new_jobs": 1,
+  "scope": "One fridge/bar depth correction; no retries or geometric redesign"
+}

@@ -4,13 +4,13 @@ Latest north-wall REF-M dial espresso/canister edit within REF-L composition and
 
 Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashes of repository-relative paths. Hashes describe exact existing bytes; verdicts are sourced review findings, not a new visual inspection.
 
-**70 stills · 3 videos.**
+**71 stills · 3 videos.**
 
 [Open searchable gallery](../outputs/stills-gallery.html) · [Machine-readable catalog](asset-catalog.json)
 
 ## Latest bounded concept
 
-`apartment-fridge-depth-v9` — **PREPARED; NOT QUOTED OR SUBMITTED**, quoted None credits. See the production state and asset entry below.
+`apartment-fridge-depth-v9` — **GENERATED**, quoted 6.5 credits. See the production state and asset entry below.
 
 ## Stills
 
@@ -42,6 +42,22 @@ Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashe
 - Quote receipt: [outputs/production/apartment-continuity-v8-quote.json](../outputs/production/apartment-continuity-v8-quote.json)
 - Result receipt: [outputs/production/apartment-continuity-v8-result.json](../outputs/production/apartment-continuity-v8-result.json)
 - Stderr receipt: [outputs/production/apartment-continuity-v8-stderr.txt](../outputs/production/apartment-continuity-v8-stderr.txt)
+
+### ASSET-94D5251EDC27 — Apartment Fridge Depth V9
+
+- Exact filename: `apartment-fridge-depth-v9.png`
+- File: [outputs/keyframes/apartment-fridge-depth-v9.png](../outputs/keyframes/apartment-fridge-depth-v9.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/keyframes/apartment-fridge-depth-v9.png`
+- Role: Generated still / diagram; status: **partial-depth-correction**
+- Known verdict: Lead inspected: freezer handle no longer merges with foreground bar edge.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Fridge appears slightly shorter than v8; scale-preserving correction not established. Third view not locked.
+- Bytes: 5782440; SHA-256: `a3b4f2f37471c25c8800abb77e59671272a2963432017dcc7152883d75edfdbd`
+- Job ID: `fadc4b38-fc6f-4861-b1bc-c25711694732`
+- Request receipt: [outputs/production/apartment-fridge-depth-v9-request.json](../outputs/production/apartment-fridge-depth-v9-request.json)
+- Quote receipt: [outputs/production/apartment-fridge-depth-v9-quote.json](../outputs/production/apartment-fridge-depth-v9-quote.json)
+- Result receipt: [outputs/production/apartment-fridge-depth-v9-result.json](../outputs/production/apartment-fridge-depth-v9-result.json)
+- Stderr receipt: [outputs/production/apartment-fridge-depth-v9-stderr.txt](../outputs/production/apartment-fridge-depth-v9-stderr.txt)
 
 ### ASSET-370E15D8FB73 — Apartment-facing kitchen — v1
 

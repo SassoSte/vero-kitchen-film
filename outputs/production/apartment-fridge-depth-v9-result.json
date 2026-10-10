@@ -1,0 +1,40 @@
+[
+  {
+    "created_at": "2026-10-10T08:08:20.024859Z",
+    "display_name": "GPT Image 2",
+    "id": "fadc4b38-fc6f-4861-b1bc-c25711694732",
+    "job_type": "gpt_image_2",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_080820_fadc4b38-fc6f-4861-b1bc-c25711694732_min.webp",
+    "params": {
+      "aspect_ratio": "16:9",
+      "height": 1520,
+      "medias": [
+        {
+          "data": {
+            "id": "53ebc750-71aa-4e42-ac80-b818ab7db8bf",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/53ebc750-71aa-4e42-ac80-b818ab7db8bf_resize.jpg"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "d8dc7d0b-f687-4fd3-bcf8-eb081781dde2",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/d8dc7d0b-f687-4fd3-bcf8-eb081781dde2_resize.jpg"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "videotape-alpha",
+      "prompt": "Correct ONLY the refrigerator/bar depth relationship in image1, the apartment-facing kitchen view. Image2 is the approved interior kitchen reference for refrigerator placement, proportions and its relationship to the cooking run. Preserve the full apartment-facing camera and composition, room/opening geometry, bar height/depth, three stools, dining area, floors, cabinets, lighting, appliances and existing styling.\nIn image1 the lower freezer handle and foreground bar/ledge edge align ambiguously, making the refrigerator look structurally attached to the bar. Resolve this photographic occlusion and perspective error. The stainless French-door fridge is freestanding at the back cooking run, behind the kitchen aisle; the pale quartz ledge and oak bar are in the foreground. Reconstruct coherent refrigerator body/door/handle perspective at that existing back-run position, consistent with image2. The opaque foreground ledge must occlude whatever genuinely falls behind it. Its front edge and thickness must be a continuous, clearly separate foreground surface, without metallic fridge parts merging into or continuing along it. Any freezer portion that should be hidden stays hidden; do not force its handle into view.\nUse physically plausible surface separation, edge ownership, lighting/reflections and occlusion to show the aisle depth. Keep metal and stone boundaries distinct. Do not create a black outline, decorative gap, fake shadow floating in space, extra trim strip or new cabinet. Do not move the fridge into a new bay, raise it, change its model/scale, widen the room, lower/raise the bar, remove a stool, or shift the camera merely to avoid the problem. Preserve two center-meeting upper fridge doors and lower pull-out freezer configuration; no invented single door or surround. Keep everything else visually unchanged. One full16:9 photoreal kitchen view, no labels or annotations.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 2688
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_080820_fadc4b38-fc6f-4861-b1bc-c25711694732.png",
+    "status": "completed"
+  }
+]

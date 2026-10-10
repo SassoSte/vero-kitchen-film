@@ -1,7 +1,7 @@
 {
   "project": "vero-kitchen-film",
-  "phase": "Third-view fridge/bar depth correction prepared; additional paid allowance pending",
-  "budget_ceiling_credits": 277,
+  "phase": "Third-view overlap correction returned; fridge proportion concern remains; not locked",
+  "budget_ceiling_credits": 283,
   "approved_features": [
     "Wolf GR304 red knobs with pale hood; no over-range microwave",
     "Built-in microwave on sink side left of sink",
@@ -33,8 +33,8 @@
     },
     "apartment": {
       "original": "references/original/ref-h-apartment-facing.webp",
-      "status": "Not locked: user flags fridge/bar depth ambiguity",
-      "take": "apartment-continuity-v8",
+      "status": "Partial overlap correction; proportion concern and user review pending",
+      "take": "apartment-fridge-depth-v9",
       "defects": [],
       "review_limits": [
         "bar partly occludes freezer drawer",
@@ -95,10 +95,11 @@
   "fridge_style": "French-door upper pair meeting at center, bottom freezer drawer",
   "next_job": {
     "request": "outputs/production/apartment-fridge-depth-v9-request.json",
-    "status": "PREPARED; NOT QUOTED OR SUBMITTED",
+    "status": "GENERATED; partial correction, user review pending",
     "prior_comparable_quote_credits": 6.5,
     "proposed_total_ceiling": 283,
-    "authorization": "Correction scope approved; additional spending pending"
+    "authorization": "Approve 283 total for one render",
+    "quoted_credits": 6.5
   },
   "status": "concept-review-hold",
   "pause_reason": null,
@@ -113,17 +114,16 @@
     "lessons": "docs/LESSONS.md"
   },
   "authorized_jobs": [],
-  "authorization": "outputs/production/apartment-continuity-authorization.json",
-  "latest_concept": "outputs/keyframes/apartment-continuity-v8.png",
+  "authorization": "outputs/production/apartment-fridge-depth-authorization.json",
+  "latest_concept": "outputs/keyframes/apartment-fridge-depth-v9.png",
   "latest_concept_review": {
-    "status": "needs-fridge-bar-depth-correction",
+    "status": "partial-depth-correction",
     "reviewer": "lead only",
-    "record": "docs/APARTMENT-CONTINUITY-REVIEW.md",
+    "record": "docs/APARTMENT-FRIDGE-DEPTH-REVIEW.md",
     "limits": [
-      "Freezer mostly occluded by ledge",
-      "Dispenser not clearly assessable",
-      "Exact proportions/product fidelity and physical fit not established",
-      "User flags refrigerator visually merging with foreground bar"
+      "Handle overlap improved but fridge appears slightly shorter",
+      "Depth/scale not independently established",
+      "Third view not locked"
     ]
   },
   "orientation_review": "docs/ORIENTATION-2026-10-09.md",
@@ -143,7 +143,7 @@
     "north_exceptions": "User locked current appearance; retain historical critiques only as history. Physical fit remains unverified.",
     "north_detail": "outputs/keyframes/north-wall-finish-v1.png",
     "west_sink_candidate": "outputs/keyframes/west-phone-speaker-realism-v1.png",
-    "west_external_candidate": "outputs/keyframes/apartment-continuity-v8.png"
+    "west_external_candidate": "outputs/keyframes/apartment-fridge-depth-v9.png"
   },
   "planned_sequence": [
     {
@@ -175,8 +175,8 @@
   "preferred_edit_base": "outputs/keyframes/kitchen-smeg-realism-v1.png",
   "visual_lock": "outputs/production/north-east-visual-lock.json",
   "next_focus": {
-    "view": "outputs/keyframes/apartment-continuity-v8.png",
-    "scope": "User review of third finished view; no motion or further paid jobs authorized"
+    "view": "outputs/keyframes/apartment-fridge-depth-v9.png",
+    "scope": "Review third-view refrigerator depth/proportions; no further generation authorized"
   },
   "west_nook_direction": {
     "latest_user_instruction": "Go back to the iPhone and speaker in the nook; just fix dimensions and move on",
