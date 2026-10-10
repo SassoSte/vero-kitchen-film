@@ -1,4 +1,10 @@
-# Kitchen remodel film — active production brief
+# Kitchen remodel film — current design brief
+
+> **PRODUCTION PAUSED BY USER — 2026-10-09.** This document records design intent;
+> it is not execution authorization. Read `HANDOFF.md` before resuming. No generation,
+> quoting through upload/submission flows or automatic continuation while paused.
+> The proposed 205-credit cap has NOT been approved; current ceiling remains 200.
+
 
 Current design authority, consolidated 2026-10-09 and revised for REF-K/French doors. Create a photorealistic **60.000-second** construction film of the kitchen at 14145 N 92nd St #2130, Scottsdale AZ 85260. This brief contains active instructions only. Prior contradictory proposals are archived in `docs/archive/mega-prompt-before-consolidation-2026-10-09.md` and are not production authority.
 
@@ -82,7 +88,7 @@ Use source-based stable cameras; construction framing locked. Separate atomic ac
 
 ## 7. Exact 60-second editorial timeline
 
-Source takes may be longer than edited actions. Optional coffee opening/closure must fit existing Shot 11; omit the optional demonstration if unreadable rather than extend total duration or leave garage open. Wine/coffee operation shown separately, with no unverified simultaneous clearance claim.
+Source takes may be longer than edited actions. Optional coffee opening/closure must fit existing Shot 11; omit the optional demonstration if unreadable rather than extend total duration. A reviewed open lit display state may remain for the REF-K appearance; do not confuse that display with a fully extended operating state. Wine/coffee operation shown separately, with no unverified simultaneous clearance claim.
 
 | Shot | Time | Viewpoint | Action | Output |
 |---|---|---|---|---|

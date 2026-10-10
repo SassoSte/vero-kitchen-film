@@ -3,6 +3,11 @@ import json,sys,subprocess,urllib.request
 from pathlib import Path
 root=Path(__file__).resolve().parents[1]
 p=root/'outputs/production';name=sys.argv[1]
+state_file=p/'state.json'
+if state_file.exists():
+ state=json.loads(state_file.read_text())
+ if state.get('status')=='paused' or state.get('generation_allowed') is False:
+  raise SystemExit('Production paused by user; do not quote or submit jobs until explicit resume and budget authorization.')
 x=json.loads((p/f'{name}-request.json').read_text())
 bpath=p/'budget.json';b=json.loads(bpath.read_text())
 if any(j['name']==name for j in b['jobs']):raise SystemExit('Job already recorded; inspect or resume existing job, never resubmit.')

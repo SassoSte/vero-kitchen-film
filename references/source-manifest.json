@@ -32,5 +32,52 @@
       "local": "apartment-blueprint/unit-plan.svg",
       "sha256": "d6eb2914273ccf685cabef08644040cead2bcc438741d2dd03fedb30e789b01d"
     }
-  ]
+  ],
+  "supplemental_documents_captured_2026_10_09": [
+    {
+      "source": "/Users/stefansassoon/projects/vero/deco/kitchen-blueprint/specifications.md",
+      "local": "kitchen-blueprint/original-specifications.md",
+      "copy_type": "byte-exact",
+      "sha256": "8afee3b71a3074b88ee4dd6e996837a3c7e5e3897b716890873b2149a7a58497"
+    },
+    {
+      "source": "/Users/stefansassoon/projects/vero/deco/research-playbook.md",
+      "local": "references/provenance/research-playbook.md",
+      "copy_type": "source extract; local credential-routing/commands omitted",
+      "sha256": "5cb511388a497e5d4f0491635961d088f29af6273ec45e6b6f7f822853f95923",
+      "source_sha256": "c3feb5b0f81e5afa435702e151e6f2c7660b2343471b459182750cdc67e9d25b"
+    },
+    {
+      "source": "/Users/stefansassoon/projects/vero/deco/assets/allison-floorplans/tallbot.jpg",
+      "local": "apartment-blueprint/tallbot-marketing-reference.jpg",
+      "copy_type": "byte-exact",
+      "sha256": "d7489661bb1d596f6e7439b562e94ed4869eac0960d5fc25c9d10e0f8b43cb68"
+    },
+    {
+      "source": "/Users/stefansassoon/projects/vero/deco/assets/unit2130-2023/photo-03.webp",
+      "local": "references/original/unit2130-photo-03.webp",
+      "copy_type": "byte-exact",
+      "sha256": "8e312af945fdee2815c1e259710fae632ea3249a04cb3c8041cac0f345621b50"
+    },
+    {
+      "source": "/Users/stefansassoon/projects/vero/deco/assets/unit2130-2023/photo-24.webp",
+      "local": "references/original/unit2130-photo-24.webp",
+      "copy_type": "byte-exact",
+      "sha256": "c841964f5cb3759728e5db5ce816e63c458730c96d03c9f7d0be484d425658e5"
+    },
+    {
+      "source": "/Users/stefansassoon/projects/vero/deco/assets/unit2130-2023/photo-25.webp",
+      "local": "references/original/unit2130-photo-25.webp",
+      "copy_type": "byte-exact",
+      "sha256": "315ab8464b235b7a6a2566c1a6dbc811d434907093e00ac460960dc3c3bf3d92"
+    },
+    {
+      "source": "/Users/stefansassoon/projects/vero/deco/unit-blueprint/unit-dimensions.md",
+      "source_sha256": "760ef12716de72efeed0c5f8b083b62e6457f777ea4c9033a02ab5504e916b0e",
+      "local": "apartment-blueprint/unit-dimensions-source-extract.md",
+      "copy_type": "source extract from Method section onward; ownership/valuation frontmatter omitted",
+      "sha256": "e3b53cfd5c0f3b333eec43d51840e1ba8bb8758d310d9d7c736e280781d85894"
+    }
+  ],
+  "supplemental_source_revision": "d0c8dff057cada8f148c18e4d743616ed2cee4e2"
 }

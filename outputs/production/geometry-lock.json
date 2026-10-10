@@ -56,7 +56,7 @@
     "Original photos govern viewpoint and handedness; SVG page orientation is not a reason to mirror the room.",
     "Wine wall and sink-side niche wall must retain separate source-based identities.",
     "No projected wine tower, poster, or added room width.",
-    "Coffee location remains unresolved; dishwasher countertop clear."
+    "Coffee and wine share the blank end wall; REF-K composition pending scaled implementation. Dishwasher countertop clear."
   ],
   "source_discrepancies": [
     "whole-unit table kitchen142sqft contradicts123x105inch area89.6875sqft",
@@ -64,5 +64,6 @@
     "plan cap45in differs dimension/elevation approx60in",
     "whole-unit schematic appliance labels/handedness cannot override original photos"
   ],
-  "generated_views_are_not_geometry_evidence": true
+  "generated_views_are_not_geometry_evidence": true,
+  "production_status": "paused"
 }

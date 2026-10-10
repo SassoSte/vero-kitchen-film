@@ -1,6 +1,6 @@
 {
   "project": "vero-kitchen-film",
-  "phase": "new integrated coffee reference and French-door revision; awaiting model fit and rendering budget",
+  "phase": "PAUSED \u2014 documentation and handoff only",
   "budget_ceiling_credits": 200,
   "approved_features": [
     "Wolf GR304 red knobs with pale hood; no over-range microwave",
@@ -67,12 +67,12 @@
   ],
   "gate": "No video generation until finished views agree and stage/worker references are inspected.",
   "design_revision": "2026-10-09-ref-k-french-doors",
-  "pending_design_selection": null,
+  "pending_design_selection": "Exact French-door model/clearances and scaled REF-K composition pending; coffee wall location is settled.",
   "coffee_garage": {
-    "status": "REF-K integrated recessed coffee/wine composition; smaller coffee unit; plain hatch superseded",
-    "wall": "same blank wall as wine fridge beside main refrigerator",
-    "reference": "outputs/keyframes/end-wall-flush-v1.png",
-    "limits": "Closed panel hides function; open reveal, mechanism and cavity/clearance not established."
+    "status": "Current user intent: REF-K integrated recessed coffee/wine composition, compact machine and lit preparation/glass storage",
+    "wall": "SAME blank wall beside main refrigerator as wine fridge",
+    "reference": "references/inspiration/ref-k-integrated-coffee-wine.png",
+    "limits": "No generated REF-K implementation; wall cavity and operating mechanism unverified."
   },
   "appliance_candidates": {
     "main": "French-door model pending fit; previous Bosch single-door superseded",
@@ -80,11 +80,10 @@
     "status": "conditional-on-clearance-and-cabinetry",
     "wall": "blank end wall beside main fridge; user calls north wall"
   },
-  "end_wall_layout": "kitchen-blueprint/end-wall-proposed.json",
-  "end_wall_status": "wall-flush wine and closed coffee reference generated; prior tower rejected",
+  "end_wall_status": "Latest REF-K composition requested; prior tower rejected and blank hatch superseded",
   "end_wall_views": {
-    "closed": "outputs/keyframes/end-wall-flush-v1.png",
-    "status": "candidate visually reviewed; no physical-fit claim"
+    "historical_closed": "outputs/keyframes/end-wall-flush-v1.png",
+    "status": "Historical partial only; superseded by REF-K and French-door request"
   },
   "microwave_location": "sink-side leftof sink peruserreference; forcedx27\u201351shift withdrawn withtower",
   "geometry_lock": "outputs/production/geometry-lock.json",
@@ -92,7 +91,20 @@
   "next_job": {
     "request": "outputs/production/integrated-wall-frenchdoor-v1-request.json",
     "quoted_credits": 6.5,
-    "status": "NOT SUBMITTED; requires budget cap increase",
-    "minimum_total_cap_for_one_job": 204.75
+    "status": "NOT SUBMITTED; blocked by explicit user pause and unapproved budget increase",
+    "minimum_total_cap_for_one_job": 204.75,
+    "authorization": "None; proposed205 cap was not approved"
+  },
+  "status": "paused",
+  "pause_reason": "User explicitly requested pause and documentation/handoff on2026-10-09.",
+  "generation_allowed": false,
+  "historical_rejected_layout": "kitchen-blueprint/end-wall-proposed.json",
+  "documentation": {
+    "handoff": "HANDOFF.md",
+    "sources": "docs/SOURCE-REGISTER.md",
+    "backlog": "docs/BACKLOG.md",
+    "gallery": "outputs/stills-gallery.html",
+    "catalog": "docs/asset-catalog.json",
+    "lessons": "docs/LESSONS.md"
   }
 }

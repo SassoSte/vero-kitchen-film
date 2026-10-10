@@ -1,5 +1,5 @@
 {
-  "status": "film concept; nominal dimensions, not surveyed installation",
+  "status": "REJECTED historical projecting-unit proposal; not current design or original blueprint",
   "units": "inches",
   "main_fridge": {
     "model": "Bosch B30BB130SS",
@@ -90,5 +90,6 @@
       123
     ],
     "shared_operating_zone": "coffee tray/wine door/microwave; use one at a time, detailed fit unverified"
-  }
+  },
+  "superseded_by": "User rejected tower, poster and merged nook. Current REF-K/French-door brief governs; retain coordinates for history only."
 }

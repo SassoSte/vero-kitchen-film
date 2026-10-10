@@ -1,73 +1,61 @@
-# vero-kitchen-film
+# Vero kitchen-remodel video
 
-Photoreal 60-second kitchen-remodel video in preparation. Full video not generated.
+**PAUSED by the user — 2026-10-09.** No generation or automatic continuation.
+The requested 60-second video has not been produced.
 
-## Current revision — 2026-10-09
+## Start here
 
-REF-K now governs the coffee/wine composition: recessed lit alcove, glass-front upper
-storage and a smaller espresso unit, adapted to our finishes. Main fridge is now
-FRENCH DOORS meeting centrally with bottom freezer drawer. Previous Bosch single-door
-choice and its height/cabinet decision are superseded; exact replacement model and
-wall-side clearance remain unverified. Next concept quoted 6.5 credits, not submitted
-because only 1.75 remain under the 200-credit cap.
+- **[HANDOFF.md](HANDOFF.md)** — current status, design preferences, exact resume boundary and next steps.
+- **[Searchable stills gallery](outputs/stills-gallery.html)** — 54 stills with previews, semantic names, statuses and original-file links; three video tests separately listed.
+- **[Asset catalog](docs/ASSET-CATALOG.md)** / [JSON](docs/asset-catalog.json) — stable IDs, exact paths, hashes, reviews and generation receipts.
+- **[Source register](docs/SOURCE-REGISTER.md)** — blueprints, floor plans, dimension schedules, specifications, photos and provenance.
+- **[Detailed backlog](docs/BACKLOG.md)** — ordered gates, dependencies, acceptance evidence, optional work and rejected designs.
+- **[Lessons](docs/LESSONS.md)** — succinct findings to preserve across handoffs.
+- **[Current design brief](mega-prompt.md)** / [editable shotlist](outputs/shotlist.html) — design and timeline intent; neither authorizes execution while paused.
 
-### Earlier design elements retained or superseded below
+## Current direction
 
-- Wine fridge AND coffee garage on the SAME blank wall beside the main refrigerator,
-  both flush with the wall face. No projecting tower, poster, or electronics there.
-- Spice/tech nook on the OTHER sink-side wall left of sink near the microwave.
-- Dishwasher countertop clear. No exposed espresso or garage above it.
-- French-door main fridge: upper pair meeting centrally, outer hinges and bottom
-  freezer drawer. Keep 33-inch bay; model-specific height/cabinet decisions pending.
-- Wolf gas range/red knobs and pale hood; red SMEG toaster/kettle; white Shaker/glass
-  cabinets and warm lighting; single undermount sink and refined L-spout faucet;
-  sink-side built-in microwave; concrete floor and dining rug; oak bar and three
-  cream stools; flowers and fruit. No wooden floor lamp.
+Latest user reference is **REF-K**, an integrated recessed coffee/wine composition with
+lit glass storage and a small preparation alcove, adapted to our style with a smaller
+espresso unit. Coffee and wine share the blank end wall beside the main fridge;
+fronts are wall-flush. Spice/tech stays on the other sink-side wall near the microwave.
+The dishwasher counter remains clear. Main fridge now requires **French upper doors
+meeting centrally and a lower freezer drawer**; the real model and fit are unresolved.
 
-Wall-flush installations are visual concepts. No wall cavity, operating clearance,
-ventilation or mechanism has been physically verified.
+Retain Wolf gas range/red knobs and pale hood, red SMEG toaster/kettle, white Shaker and
+frosted inserts, warm lighting, refined L-faucet/single sink, built-in sink-side microwave,
+concrete floor/dining rug, oak bar, three cream stools, flowers and fruit.
 
-## Active references
+No current generated three-view set fully represents REF-K + French doors. Old single-door
+fridge frames, plain hatch concepts and rejected towers are cataloged as historical or
+partial—not final approved designs. The next concept request is prepared but **not submitted**.
 
-| View | Candidate | Scope |
-|---|---|---|
-| Apartment-facing | [apartment-v7](outputs/keyframes/apartment-v7.png) | Corrected Bosch and faucet; freezer partly occluded by bar |
-| Cooking/end wall | [end-wall-flush-v1](outputs/keyframes/end-wall-flush-v1.png) | Wall-flush wine + closed coffee panel, updated main fridge |
-| Sink side | [sink-v4](outputs/keyframes/sink-v4.png) | Separate spice/tech nook, microwave, clear dishwasher counter |
+## Budget and pause
 
-These were visually reviewed before the latest REF-K/French-door change and are now
-historical candidates, not current appliance references or physical-fit proof.
-Coffee opening/reveal still needs its own reference before animation. Older images,
-especially projecting towers and top-freezer versions, are historical drafts only.
+Recorded task quotes: **198.25 / 200 credits**, **1.75 remaining**. The proposed
+**205-credit cap is NOT approved**. No top-ups or new paid jobs are authorized.
+[Budget ledger](outputs/production/budget.json) and [paused state](outputs/production/state.json)
+are authoritative; account-wide wallet changes are not task spend.
 
-## Canonical brief and sources
+The paid runner refuses to quote or submit while paused. Explicit resume plus sufficient
+approved budget is required before clearing that guard.
 
-- [Clean active mega-prompt](mega-prompt.md) — active instructions only.
-- [Archived pre-consolidation brief](docs/archive/mega-prompt-before-consolidation-2026-10-09.md)
-  — history, never production instructions.
-- [Shared geometry lock](outputs/production/geometry-lock.json).
-- [Kitchen dimensions](kitchen-blueprint/dimensions.md), [plan](kitchen-blueprint/plan.svg),
-  [elevations](kitchen-blueprint/elevations.svg).
-- [Living-room dimensions](apartment-blueprint/living-room-dimensions.md),
-  [plan](apartment-blueprint/living-room-plan.svg), [unit plan](apartment-blueprint/unit-plan.svg).
-- Full source project: `/Users/stefansassoon/projects/vero/deco`.
-- [Copied-reference provenance](references/source-manifest.json).
+## Source geometry
 
-Kitchen runs 123 inches, zone 105, aisle 54, ceiling 96, counters 36 AFF, uppers 54–84.
-Original source tolerances apply; generated images do not establish measurements.
-The proposed projecting end-wall SVG/JSON are REJECTED history and must not execute.
+Original source project: `/Users/stefansassoon/projects/vero/deco`.
+The film repo holds portable copies of all four architectural SVGs, relevant dimensions,
+original specifications, calibration plan and room photos. Their source paths and hashes
+are in the [source register](docs/SOURCE-REGISTER.md) and [copy manifest](references/source-manifest.json).
+Manufacturer PDFs have a separate [capture manifest](references/products/specs/capture-manifest.json).
+Original-source estimates are not surveyed measurements; generated images establish no
+real wall cavity or appliance clearance. Rejected proposed drawings are not source plans.
 
-## Production and budget
+## Safe documentation maintenance
 
-[Editable shotlist](outputs/shotlist.html) · [Inspection log](outputs/inspection.txt) ·
-[State](outputs/production/state.json) · [Job ledger](outputs/production/budget.json).
+```bash
+python3 tools/build_asset_catalog.py
+python3 tools/verify_handoff.py
+```
 
-First-phase ceiling 200 credits. Task quote total **198.25**; remaining **1.75**.
-No automatic top-ups or further paid work queued. Further full-video production needs
-its own reviewed spending authorization; the existing ceiling cannot cover it.
-
-Historical silent motion pilots: quartz fails seating, fridge sampled as provisionally
-plausible, stool faces wrong direction. Those sources retain superseded finishes and
-are not accepted final shots. No new motion generated for the latest design.
-
-Workflow: `shotlist-director`. Commits use per-invocation Codex attribution.
+These operate on existing local files. Do not use the paid runner or historical
+end-wall-layout builder as documentation commands.

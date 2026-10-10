@@ -1,0 +1,26 @@
+[
+  {
+    "local": "references/products/specs/uline-urwc315.pdf",
+    "source_url": "https://www.u-line.com/pub/media/u-line/spec_sheets/URWC315.PDF?new_version=92529",
+    "captured": "2026-10-09",
+    "sha256": "131eb79378c55825c38ae96838d5a7e4403c2180db4f5d30ffd7d3f40bb77f86",
+    "bytes": 371851,
+    "status": "Wine candidate, physical fit unverified"
+  },
+  {
+    "local": "references/products/specs/frigidaire-frfg1723a.pdf",
+    "source_url": "https://frigidaire.bynder.com/m/699ef842ab2132f7/original/FRFG1723A_EN-pdf.pdf",
+    "captured": "2026-10-09",
+    "sha256": "90d44782a810a0469666542d883da958167273dbdf62fb5a7d57e8ca245a3d49",
+    "bytes": 256285,
+    "status": "French-door screening only, no selected model"
+  },
+  {
+    "local": "references/products/specs/samsung-rf18a5101sr-v14.pdf",
+    "source_url": "https://image-us.samsung.com/SamsungUS/home/home-appliances/refrigerators/pdp/09112025/RF18A5101SR_V14.pdf",
+    "captured": "2026-10-09",
+    "sha256": "fbdf4657762fa9a0811a238ff40c3057db721f83a6b0fdc4451563893b9741ea",
+    "bytes": 1083658,
+    "status": "French-door screening only, wall-side clearance unresolved"
+  }
+]
