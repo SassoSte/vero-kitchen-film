@@ -35,5 +35,10 @@
     }
   ],
   "status": "Set not yet fully reconciled: view1 fridge/enclosure correction pending",
-  "paid_spend": 0
+  "paid_spend": 0,
+  "correction_attempt": {
+    "file": "outputs/keyframes/master-third-view-continuity-v1.png",
+    "status": "rejected-layout-drift",
+    "record": "docs/THREE-VIEW-CONTINUITY-REVIEW.md"
+  }
 }

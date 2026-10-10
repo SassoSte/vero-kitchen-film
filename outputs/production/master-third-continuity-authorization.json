@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-10",
+  "timezone": "America/Phoenix",
+  "budget_user_text": "Approve 303 total; correct view 1",
+  "total_ceiling_credits": 303,
+  "maximum_new_spend_credits": 6.5,
+  "authorized_jobs": [
+    "master-third-view-continuity-v1"
+  ],
+  "max_new_jobs": 1,
+  "scope": "One view1 fridge/enclosure continuity correction to selected third view; retain west nook and coffee station; no retries"
+}

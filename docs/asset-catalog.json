@@ -1,7 +1,7 @@
 {
   "project": "vero-kitchen-film",
   "inventory_revision": "2026-10-09-resumed-one-concept",
-  "production": "Three-view review: nook correctly hidden in view3; view1 fridge/enclosure alignment pending",
+  "production": "View1 alignment attempt rejected for layout drift; selected images retained; continuity still unresolved",
   "authority": "Latest north-wall REF-M dial espresso/canister edit within REF-L composition and retained frosted uppers; two upper French doors/lower freezer drawer, model/fit pending. North/east wide view kitchen-smeg-realism-v1 is user-locked; west-phone-speaker-realism-v1 is also user-approved; apartment-fridge-reconstruction-v11 restored by user; construction planning is next.",
   "review_sources": [
     "outputs/inspection.txt",
@@ -10,20 +10,9 @@
     "conversation review findings"
   ],
   "root": "/Users/stefansassoon/projects/vero-kitchen-film",
-  "still_count": 81,
+  "still_count": 82,
   "video_count": 3,
-  "prepared_not_generated": [
-    {
-      "id": "PREP-master-third-view-continuity-v1",
-      "name": "master-third-view-continuity-v1",
-      "status": "PREPARED; NOT QUOTED OR SUBMITTED",
-      "quote_credits": null,
-      "note": "Three-view review: nook correctly hidden in view3; view1 fridge/enclosure alignment pending",
-      "receipts": {
-        "request": "outputs/production/master-third-view-continuity-v1-request.json"
-      }
-    }
-  ],
+  "prepared_not_generated": [],
   "assets": [
     {
       "id": "ASSET-79E492B2F8D4",
@@ -597,6 +586,30 @@
         "quote": "outputs/production/kitchen-smeg-realism-v1-quote.json",
         "result": "outputs/production/kitchen-smeg-realism-v1-result.json",
         "stderr": "outputs/production/kitchen-smeg-realism-v1-stderr.txt"
+      },
+      "source_provenance": null,
+      "review_source_note": "Recorded inspection/conversation findings or source-reference role; not a new visual inspection."
+    },
+    {
+      "id": "ASSET-F13D46BD7EE5",
+      "title": "Master Third View Continuity V1",
+      "path": "outputs/keyframes/master-third-view-continuity-v1.png",
+      "absolute_path": "/Users/stefansassoon/projects/vero-kitchen-film/outputs/keyframes/master-third-view-continuity-v1.png",
+      "kind": "still",
+      "category": "generated",
+      "role": "Generated still / diagram",
+      "status": "rejected-layout-drift",
+      "verdict": "Added fridge cupboard but moved fridge toward range and removed intervening glass-front upper.",
+      "superseded_reason": "Do not promote; original view1 and other selected files retained. Continuity mismatch unresolved.",
+      "bytes": 5803705,
+      "sha256": "4d934308853e67bfa270bd233713d44b671ab53654b4c7d9b0418e4bd2b7d550",
+      "job_name": "master-third-view-continuity-v1",
+      "job_id": "d5e17269-cc16-40bf-b1f0-e46d19b2dc58",
+      "receipts": {
+        "request": "outputs/production/master-third-view-continuity-v1-request.json",
+        "quote": "outputs/production/master-third-view-continuity-v1-quote.json",
+        "result": "outputs/production/master-third-view-continuity-v1-result.json",
+        "stderr": "outputs/production/master-third-view-continuity-v1-stderr.txt"
       },
       "source_provenance": null,
       "review_source_note": "Recorded inspection/conversation findings or source-reference role; not a new visual inspection."

@@ -5,6 +5,7 @@ import hashlib, json, re, html
 ROOT=Path(__file__).resolve().parents[1]
 OUT=ROOT/'outputs'; E=html.escape
 KNOWN={
+'master-third-view-continuity-v1':('rejected-layout-drift','Added fridge cupboard but moved fridge toward range and removed intervening glass-front upper.','Do not promote; original view1 and other selected files retained. Continuity mismatch unresolved.'),
 'apartment-fridge-reconstruction-v11':('user-selected-restored-visual-reference','User explicitly restored the supplied photographic third view on2026-10-10 and instructed move on.','Visual selection only; prior geometry critique is historical, not permission to keep redesigning. Physical fit unverified.'),
 'apartment-fridge-occlusion-v10':('candidate-awaiting-user-review','Lead inspected: v8 fridge top position restored; horizontal freezer handle hidden behind continuous foreground ledge.','Freezer below ledge not assessable; no physical-fit proof. Third view awaits user approval.'),
 'apartment-fridge-depth-v9':('partial-depth-correction','Lead inspected: freezer handle no longer merges with foreground bar edge.','Fridge appears slightly shorter than v8; scale-preserving correction not established. Third view not locked.'),

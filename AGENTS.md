@@ -4,16 +4,15 @@ Read `HANDOFF.md` first, then `mega-prompt.md`, `docs/SOURCE-REGISTER.md` and th
 `docs/BACKLOG.md`. `outputs/stills-gallery.html` / `docs/asset-catalog.json` identify
 assets and their status; version number alone is not approval.
 
-Current user instruction (2026-10-10): restore the supplied photographic third view,
-`outputs/keyframes/apartment-fridge-reconstruction-v11.png`, and move on. Exact selection
-is in `outputs/production/apartment-visual-lock.json`. Stop the local3D workflow;
-retain it only as historical experiments. Do not restart geometry/design revisions.
-Use `outputs/production/construction-state-plan.json` and `outputs/shotlist.html` for
-construction-state preparation. The selected third view governs fridge/enclosure
-appearance in derived frames; original photos still govern topology. Prior visual
-selections are not measured installation approvals.
-Task spend295.75 of296; no additional paid jobs, quotes/uploads, retries, purchases
-or video batch authorized. Planning is permitted; keep generation disabled.
+Current user instruction: restore photographic third view `apartment-fridge-reconstruction-v11.png`
+and keep local3D work archived. User then requested three-view consistency and approved
+**303 total credits for ONE view1 continuity correction**, `master-third-view-continuity-v1`,
+maximum new job6.5. Authority: `outputs/production/master-third-continuity-authorization.json`.
+Match view1 fridge/enclosure to selected view3; preserve north coffee station and view2.
+Phone/speaker nook is kitchen-facing WEST wall: visible in view2, hidden from view3's
+living-room camera. Do not relocate/duplicate it to force visibility.
+No retries, purchases or video batch. Disable generation after this one job.
+Use construction-state-plan.json / shotlist.html after finished-reference reconciliation.
 
 
 Original photos/plans and manufacturer evidence remain separate from generated concepts.

@@ -1,0 +1,48 @@
+[
+  {
+    "created_at": "2026-10-10T10:11:15.75137Z",
+    "display_name": "GPT Image 2",
+    "id": "d5e17269-cc16-40bf-b1f0-e46d19b2dc58",
+    "job_type": "gpt_image_2",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_101115_d5e17269-cc16-40bf-b1f0-e46d19b2dc58_min.webp",
+    "params": {
+      "aspect_ratio": "16:9",
+      "height": 1520,
+      "medias": [
+        {
+          "data": {
+            "id": "45ab44a5-396f-42fe-a342-921cab5a54c2",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/45ab44a5-396f-42fe-a342-921cab5a54c2_resize.jpg"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "c7b2dfe0-3052-41f2-a664-65689d83b52d",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/c7b2dfe0-3052-41f2-a664-65689d83b52d_resize.jpg"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "346d133d-0a79-4b68-aa88-3847343dcfa7",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/346d133d-0a79-4b68-aa88-3847343dcfa7_resize.jpg"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "videotape-alpha",
+      "prompt": "Bring image1, the selected NORTH/EAST interior kitchen view, into visual continuity with image2, the user's selected apartment-facing THIRD view. Image3 is the accepted WEST sink/nook view and protects west-side locations. This is continuity correction, not a new design proposal.\nChange the refrigerator installation in image1 to match image2's chosen appearance: same stainless French-door refrigerator configuration, fitted white side enclosure and two-door white Shaker cupboard above it, including the established silhouette, panel proportions, finish and relation to nearby cabinets. Revise only the immediately adjacent cabinetry width as necessary to reproduce that selected installation within the unchanged room/run. The third view is the appearance authority; do not resurrect bare wall over the fridge, an old single-door model, or any discarded local3D study. Preserve image1's camera and correctly project the selected installation into this existing perspective. Keep the main refrigerator at the same north/east corner; do not widen the room or move the range/openings.\nCheck visible range/hood/pot filler and red toaster/kettle against image2 and retain the same selected appliance silhouettes and material treatment from this camera. Correct an obvious conflicting detail only; do not restyle the room or introduce items.\nPreserve image1's north-wall coffee/wine station exactly: dial espresso machine with current selected tray cup, two small espresso-service shelves, coffee canisters, sugar jar/spoons, wine/cappuccino storage, wine fridge and narrow ribbed-oak fronts. Preserve white Shaker, stone, concrete and established lighting. Keep west sink/DW relationship and clear usable counter. The phone/speaker nook is on the kitchen-facing WEST wall by the microwave as in image3, toward the entrance; it is outside this camera's visible crop. Do not move or duplicate it onto the north coffee wall, cooking wall, living-room-facing wall or visible counter. No new shelves, art, plants, appliances or decorations. Do not change the camera merely to reveal hidden features. One full16:9 photoreal view with the selected third-view refrigerator installation integrated, no labels.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 2688
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_101115_d5e17269-cc16-40bf-b1f0-e46d19b2dc58.png",
+    "status": "completed"
+  }
+]

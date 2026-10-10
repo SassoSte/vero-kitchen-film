@@ -1,7 +1,7 @@
 {
   "project": "vero-kitchen-film",
-  "phase": "Three-view review: nook correctly hidden in view3; view1 fridge/enclosure alignment pending",
-  "budget_ceiling_credits": 296,
+  "phase": "View1 alignment attempt rejected for layout drift; selected images retained; continuity still unresolved",
+  "budget_ceiling_credits": 303,
   "approved_features": [
     "Wolf GR304 red knobs with pale hood; no over-range microwave",
     "Built-in microwave on sink side left of sink",
@@ -18,7 +18,7 @@
   "views": {
     "master": {
       "original": "references/original/ref-a-cooking-run.webp",
-      "status": "Prior user visual lock preserved; refrigerator/enclosure superseded by explicit36-inch revision",
+      "status": "User-approved original retained; enclosure mismatch versus selected third view unresolved",
       "take": "kitchen-smeg-realism-v1",
       "defects": [],
       "review_limits": [
@@ -95,10 +95,11 @@
   "fridge_style": "French-door upper pair meeting at center, bottom freezer drawer",
   "next_job": {
     "request": "outputs/production/master-third-view-continuity-v1-request.json",
-    "status": "PREPARED; NOT QUOTED OR SUBMITTED",
+    "status": "GENERATED; rejected layout drift; not promoted",
     "prior_comparable_quote_credits": 6.5,
     "proposed_total_ceiling": 303,
-    "authorization": "Consistency work requested; new paid cap pending"
+    "authorization": "Approve 303 total; correct view 1",
+    "quoted_credits": 6.5
   },
   "status": "concept-review-hold",
   "pause_reason": null,
@@ -113,15 +114,16 @@
     "lessons": "docs/LESSONS.md"
   },
   "authorized_jobs": [],
-  "authorization": "outputs/production/fridge-reconstruction-authorization.json",
-  "latest_concept": "outputs/keyframes/apartment-fridge-reconstruction-v11.png",
+  "authorization": "outputs/production/master-third-continuity-authorization.json",
+  "latest_concept": "outputs/keyframes/master-third-view-continuity-v1.png",
   "latest_concept_review": {
-    "status": "user-selected-restored-visual-reference",
-    "approval_date": "2026-10-10",
-    "user_text": "Restore what we had before. And move on.",
-    "record": "outputs/production/apartment-visual-lock.json",
+    "status": "rejected-layout-drift",
+    "reviewer": "lead only",
+    "record": "docs/THREE-VIEW-CONTINUITY-REVIEW.md",
     "limits": [
-      "Visual selection; no architectural/installation certification"
+      "Fridge/range separation changed",
+      "Intervening glass-front upper removed",
+      "Original view1 retained; enclosure mismatch still unresolved"
     ]
   },
   "orientation_review": "docs/ORIENTATION-2026-10-09.md",
@@ -173,8 +175,8 @@
   "preferred_edit_base": "outputs/keyframes/apartment-fridge-reconstruction-v11.png",
   "visual_lock": "outputs/production/north-east-visual-lock.json",
   "next_focus": {
-    "scope": "Align view1 refrigerator/enclosure to selected third view; retain view2 and original nook location",
-    "authorization": "No new paid generation yet"
+    "scope": "Resolve only view1 fridge/enclosure continuity without layout drift; west nook stays on its original wall",
+    "authorization": "No additional paid jobs; no full-frame automatic retry"
   },
   "west_nook_direction": {
     "latest_user_instruction": "Go back to the iPhone and speaker in the nook; just fix dimensions and move on",
@@ -216,5 +218,6 @@
     "superseded_by_user": "2026-10-10 restore supplied photographic image and move on"
   },
   "apartment_visual_lock": "outputs/production/apartment-visual-lock.json",
-  "continuity_audit": "outputs/production/three-view-continuity-audit.json"
+  "continuity_audit": "outputs/production/three-view-continuity-audit.json",
+  "finished_views_consistent": false
 }
