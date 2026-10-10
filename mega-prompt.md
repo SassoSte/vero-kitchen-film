@@ -1,3 +1,5 @@
+> **Urgent correction requested:** Use v8 as geometry base (retain exact fridge upper body/top); borrow only v9 freezer-handle occlusion. `apartment-fridge-occlusion-v10` prepared. No full-room perspective redesign. Paid cap increase pending.
+
 > **Latest third-view result:** [Fridge depth v9](docs/APARTMENT-FRIDGE-DEPTH-REVIEW.md) hides merging freezer handle, but fridge proportions appear changed; third view remains unlocked. Task **282.75/283**, **0.25 remaining**; generation disabled. Two existing visual locks unchanged.
 
 > **Third view not locked:** User flags fridge as visually attached to bar; localized perspective/occlusion correction approved. Preserve geometry and appliance scale; let foreground ledge correctly hide freezer portions. `apartment-fridge-depth-v9` prepared; further spending allowance pending.

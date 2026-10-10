@@ -1,0 +1,14 @@
+{
+  "model": "gpt_image_2",
+  "params": {
+    "quality": "high",
+    "resolution": "2k",
+    "aspect_ratio": "16:9"
+  },
+  "references": [
+    "outputs/keyframes/apartment-continuity-v8.png",
+    "outputs/keyframes/apartment-fridge-depth-v9.png"
+  ],
+  "prompt": "Image1 is the BASE and controls all geometry. Restore/preserve image1 exactly, including refrigerator TOP HEIGHT, width, door proportions, handles, location, room, camera, three stools, bar and every other object. Image2 is supplied ONLY to explain removal of the ambiguous horizontal freezer handle; DO NOT copy image2's shorter refrigerator or any other changes.\nMake an extremely small local occlusion correction confined to the bottom edge of the refrigerator where it approaches the foreground quartz ledge. Remove the exposed horizontal freezer drawer handle that visually merges into the bar edge, by correctly allowing the opaque foreground ledge to hide it. Keep the ledge continuous and in the foreground. Preserve image1's refrigerator upper doors, center split, vertical handles and especially exact top edge at their original pixel positions. Do not resize, shorten, lower, move or redraw the upper refrigerator body. Do not reinterpret scale or perspective globally. Do not add a fake filler or new door. This is ONLY a local freezer-handle/foreground-overlap cleanup using image1's unchanged taller fridge and room.\nNo changes to walls, cupboards, sink fixtures, cooker, appliances, props, floor or lighting. Same full16:9 frame. No text.",
+  "output": "outputs/keyframes/apartment-fridge-occlusion-v10.png"
+}

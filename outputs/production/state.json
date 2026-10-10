@@ -1,6 +1,6 @@
 {
   "project": "vero-kitchen-film",
-  "phase": "Third-view overlap correction returned; fridge proportion concern remains; not locked",
+  "phase": "Urgent third-view correction prepared: restore v8 geometry, local freezer-handle occlusion only; paid cap pending",
   "budget_ceiling_credits": 283,
   "approved_features": [
     "Wolf GR304 red knobs with pale hood; no over-range microwave",
@@ -94,12 +94,11 @@
   "geometry_lock": "outputs/production/geometry-lock.json",
   "fridge_style": "French-door upper pair meeting at center, bottom freezer drawer",
   "next_job": {
-    "request": "outputs/production/apartment-fridge-depth-v9-request.json",
-    "status": "GENERATED; partial correction, user review pending",
+    "request": "outputs/production/apartment-fridge-occlusion-v10-request.json",
+    "status": "PREPARED; NOT QUOTED OR SUBMITTED",
     "prior_comparable_quote_credits": 6.5,
-    "proposed_total_ceiling": 283,
-    "authorization": "Approve 283 total for one render",
-    "quoted_credits": 6.5
+    "proposed_total_ceiling": 290,
+    "authorization": "Urgent correction requested; additional spending pending"
   },
   "status": "concept-review-hold",
   "pause_reason": null,
