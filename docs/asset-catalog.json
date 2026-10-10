@@ -1,7 +1,7 @@
 {
   "project": "vero-kitchen-film",
   "inventory_revision": "2026-10-09-resumed-one-concept",
-  "production": "Resized iPhone/speaker nook rendered; user review pending; north/east remains locked",
+  "production": "Phone/speaker cleanup returned; subtle change, user review pending; generation disabled",
   "authority": "Latest north-wall REF-M dial espresso/canister edit within REF-L composition and retained frosted uppers; two upper French doors/lower freezer drawer, model/fit pending. North/east wide view kitchen-smeg-realism-v1 is user-locked; west view is under review, complete cross-view set pending.",
   "review_sources": [
     "outputs/inspection.txt",
@@ -10,7 +10,7 @@
     "conversation review findings"
   ],
   "root": "/Users/stefansassoon/projects/vero-kitchen-film",
-  "still_count": 68,
+  "still_count": 69,
   "video_count": 3,
   "prepared_not_generated": [],
   "assets": [
@@ -946,6 +946,30 @@
         "quote": "outputs/production/west-nook-phone-speaker-sized-v1-quote.json",
         "result": "outputs/production/west-nook-phone-speaker-sized-v1-result.json",
         "stderr": "outputs/production/west-nook-phone-speaker-sized-v1-stderr.txt"
+      },
+      "source_provenance": null,
+      "review_source_note": "Recorded inspection/conversation findings or source-reference role; not a new visual inspection."
+    },
+    {
+      "id": "ASSET-1F52D89A0669",
+      "title": "West Phone Speaker Realism V1",
+      "path": "outputs/keyframes/west-phone-speaker-realism-v1.png",
+      "absolute_path": "/Users/stefansassoon/projects/vero-kitchen-film/outputs/keyframes/west-phone-speaker-realism-v1.png",
+      "kind": "still",
+      "category": "generated",
+      "role": "Generated still / diagram",
+      "status": "modest-cleanup-candidate",
+      "verdict": "Lead inspected: compact nook and device arrangement retained; subtle screen/material/contact cleanup.",
+      "superseded_reason": "Improvement modest at full-room scale; realism resolution and user acceptance not established.",
+      "bytes": 6270112,
+      "sha256": "b0b80c58c7cdf947d88013dbbb16bd9f5688d6cce8a4a4be06a68303de70c88d",
+      "job_name": "west-phone-speaker-realism-v1",
+      "job_id": "07bb2667-b4cd-4a1a-b686-e7efc07cacb1",
+      "receipts": {
+        "request": "outputs/production/west-phone-speaker-realism-v1-request.json",
+        "quote": "outputs/production/west-phone-speaker-realism-v1-quote.json",
+        "result": "outputs/production/west-phone-speaker-realism-v1-result.json",
+        "stderr": "outputs/production/west-phone-speaker-realism-v1-stderr.txt"
       },
       "source_provenance": null,
       "review_source_note": "Recorded inspection/conversation findings or source-reference role; not a new visual inspection."

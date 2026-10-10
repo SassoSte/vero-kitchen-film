@@ -1,7 +1,7 @@
 {
-  "ceiling_credits": 264,
+  "ceiling_credits": 269.75,
   "opening_balance": 1246.8,
-  "reserved_credits": 263.25,
+  "reserved_credits": 269.75,
   "jobs": [
     {
       "name": "master-v1",
@@ -295,17 +295,24 @@
       "status": "generated",
       "job_id": "6a6a3547-26e8-4cd1-9167-187beb346927",
       "file": "outputs/keyframes/west-nook-phone-speaker-sized-v1.png"
+    },
+    {
+      "name": "west-phone-speaker-realism-v1",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "07bb2667-b4cd-4a1a-b686-e7efc07cacb1",
+      "file": "outputs/keyframes/west-phone-speaker-realism-v1.png"
     }
   ],
-  "balance_after": 3968,
+  "balance_after": 3961.5,
   "balance_delta": null,
-  "remaining_phase_credits": 0.75,
-  "account_snapshot_note": "2026-10-10 sized nook3974.5 to3968 matches6.5 quote; task cap264 unchanged.",
-  "task_quote_total": 263.25,
+  "remaining_phase_credits": 0.0,
+  "account_snapshot_note": "2026-10-10 device cleanup3968 to3961.5 matches6.5 quote. One-job authorization bounded by lead to prior price; derived total269.75, no wider authority.",
+  "task_quote_total": 269.75,
   "latest_pass": {
-    "opening_account_balance": 3974.5,
-    "closing_account_balance": 3968,
+    "opening_account_balance": 3968,
+    "closing_account_balance": 3961.5,
     "quoted_cost": 6.5
   },
-  "authorization": "outputs/production/west-nook-sized-authorization.json"
+  "authorization": "outputs/production/west-devices-realism-authorization.json"
 }

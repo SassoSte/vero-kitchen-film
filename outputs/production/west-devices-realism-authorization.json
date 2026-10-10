@@ -1,0 +1,13 @@
+{
+  "date": "2026-10-10",
+  "timezone": "America/Phoenix",
+  "budget_user_text": "Can you clean up the speaker and phone - they look fake and unreal. You're authorized.",
+  "total_ceiling_credits": 269.75,
+  "ceiling_basis": "Agent bounds explicit authorization to ONE requested edit at previous6.5-credit price; not a user-quoted numeric ceiling",
+  "maximum_new_spend_credits": 6.5,
+  "authorized_jobs": [
+    "west-phone-speaker-realism-v1"
+  ],
+  "max_new_jobs": 1,
+  "scope": "Phone/dock and speaker realism only; no retry; stop if quote exceeds6.5"
+}

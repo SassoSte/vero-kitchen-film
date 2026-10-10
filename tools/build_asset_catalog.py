@@ -5,6 +5,7 @@ import hashlib, json, re, html
 ROOT=Path(__file__).resolve().parents[1]
 OUT=ROOT/'outputs'; E=html.escape
 KNOWN={
+'west-phone-speaker-realism-v1':('modest-cleanup-candidate','Lead inspected: compact nook and device arrangement retained; subtle screen/material/contact cleanup.','Improvement modest at full-room scale; realism resolution and user acceptance not established.'),
 'west-nook-phone-speaker-sized-v1':('candidate-awaiting-user-review','Lead inspected: compact reduced-height nook, speaker left and phone/dock right; no spices or shelf.','Visual proportions only; user review and measured fit pending. Other scene contents retained under localized scope.'),
 'west-nook-charging-only-v1':('user-rejected-proportions','User rejects oversized nook and generic flower/fruit counter props; charging-only contents remain intended.','Research smaller charging detail and remove props before any further paid edit; no new render authorized.'),
 'kitchen-smeg-realism-v1':('user-approved-visual-lock','User explicitly locked this north/east wide kitchen view on2026-10-10; preserve its appearance.','Visual approval only, not physical fit or final-film approval. Earlier critiques remain historical; no automatic correction.'),

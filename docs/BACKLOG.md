@@ -1,3 +1,5 @@
+> **Latest WEST result:** [Phone/speaker realism cleanup](WEST-DEVICE-REALISM-REVIEW.md) rendered under explicit user authorization; change subtle, user review pending. Task total **269.75**; single-render6.5 allowance consumed, generation disabled. North/east lock unchanged. Earlier status/budget text is historical.
+
 > **Latest WEST result:** [Resized iPhone/speaker nook](WEST-SIZED-NOOK-REVIEW.md) rendered; no broader restyling. User review pending. North/east visual lock unchanged. Task **263.25/264**, **0.75 remaining**; generation disabled. Earlier status/budget text is historical.
 
 > **Latest WEST result:** [Charging-only nook](WEST-CHARGING-NOOK-REVIEW.md) rendered; user review pending. North/east visual lock unchanged. Task **256.75/257**, **0.25 remaining**; generation disabled. Earlier status/budget text is historical.

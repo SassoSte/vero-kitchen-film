@@ -4,12 +4,13 @@ Read `HANDOFF.md` first, then `mega-prompt.md`, `docs/SOURCE-REGISTER.md` and th
 `docs/BACKLOG.md`. `outputs/stills-gallery.html` / `docs/asset-catalog.json` identify
 assets and their status; version number alone is not approval.
 
-User approved **264 total credits for ONE resized west nook render** on 2026-10-10:
-`west-nook-phone-speaker-sized-v1`. Approval was “Ok, go” in direct response to264 proposal.
-Read `outputs/production/west-nook-sized-authorization.json` and live ledger/state.
-Restore iPhone dock and small speaker; reduce nook around them. No spices/shelf,
-new decor, broader restyling, automatic retries, purchases or video jobs.
-North/east visual lock remains intact. Disable generation after this one job.
+User explicitly authorized ONE phone/speaker realism cleanup on2026-10-10 (“You're authorized”).
+`west-phone-speaker-realism-v1` is bounded by the lead to the prior6.5-credit price;
+derived cumulative cap269.75 is an execution bound, not a user-quoted numeric ceiling.
+Read `outputs/production/west-devices-realism-authorization.json` and live ledger/state.
+Preserve compact nook, phone/dock and speaker size/positions and rest of kitchen.
+No automatic retries, purchases or video jobs. North/east visual lock remains intact.
+Disable generation after this one job.
 
 
 Original photos/plans and manufacturer evidence remain separate from generated concepts.

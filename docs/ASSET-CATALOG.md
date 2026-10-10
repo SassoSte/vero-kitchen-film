@@ -4,13 +4,13 @@ Latest north-wall REF-M dial espresso/canister edit within REF-L composition and
 
 Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashes of repository-relative paths. Hashes describe exact existing bytes; verdicts are sourced review findings, not a new visual inspection.
 
-**68 stills · 3 videos.**
+**69 stills · 3 videos.**
 
 [Open searchable gallery](../outputs/stills-gallery.html) · [Machine-readable catalog](asset-catalog.json)
 
 ## Latest bounded concept
 
-`west-nook-phone-speaker-sized-v1` — **GENERATED**, quoted 6.5 credits. See the production state and asset entry below.
+`west-phone-speaker-realism-v1` — **GENERATED**, quoted 6.5 credits. See the production state and asset entry below.
 
 ## Stills
 
@@ -634,6 +634,22 @@ Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashe
 - Quote receipt: [outputs/production/west-nook-phone-speaker-sized-v1-quote.json](../outputs/production/west-nook-phone-speaker-sized-v1-quote.json)
 - Result receipt: [outputs/production/west-nook-phone-speaker-sized-v1-result.json](../outputs/production/west-nook-phone-speaker-sized-v1-result.json)
 - Stderr receipt: [outputs/production/west-nook-phone-speaker-sized-v1-stderr.txt](../outputs/production/west-nook-phone-speaker-sized-v1-stderr.txt)
+
+### ASSET-1F52D89A0669 — West Phone Speaker Realism V1
+
+- Exact filename: `west-phone-speaker-realism-v1.png`
+- File: [outputs/keyframes/west-phone-speaker-realism-v1.png](../outputs/keyframes/west-phone-speaker-realism-v1.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/keyframes/west-phone-speaker-realism-v1.png`
+- Role: Generated still / diagram; status: **modest-cleanup-candidate**
+- Known verdict: Lead inspected: compact nook and device arrangement retained; subtle screen/material/contact cleanup.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Improvement modest at full-room scale; realism resolution and user acceptance not established.
+- Bytes: 6270112; SHA-256: `b0b80c58c7cdf947d88013dbbb16bd9f5688d6cce8a4a4be06a68303de70c88d`
+- Job ID: `07bb2667-b4cd-4a1a-b686-e7efc07cacb1`
+- Request receipt: [outputs/production/west-phone-speaker-realism-v1-request.json](../outputs/production/west-phone-speaker-realism-v1-request.json)
+- Quote receipt: [outputs/production/west-phone-speaker-realism-v1-quote.json](../outputs/production/west-phone-speaker-realism-v1-quote.json)
+- Result receipt: [outputs/production/west-phone-speaker-realism-v1-result.json](../outputs/production/west-phone-speaker-realism-v1-result.json)
+- Stderr receipt: [outputs/production/west-phone-speaker-realism-v1-stderr.txt](../outputs/production/west-phone-speaker-realism-v1-stderr.txt)
 
 ### ASSET-6A04401FE294 — Two-worker identity sheet — v1
 
