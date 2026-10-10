@@ -1,0 +1,11 @@
+{
+  "date": "2026-10-10",
+  "timezone": "America/Phoenix",
+  "user_text": "Restore what we had before. And move on.",
+  "identification": "User-supplied image visually matches apartment-fridge-reconstruction-v11.png",
+  "asset": "outputs/keyframes/apartment-fridge-reconstruction-v11.png",
+  "sha256": "bc6a5b27c05a960c010e0a2404f7bd98fb7f43f92b7cebed6b3e8a48594e9649",
+  "scope": "Selected third-view visual reference, as supplied. Stop3D reconstruction and further fridge design iteration. Not construction-fit certification.",
+  "next_work": "Construction-state preparation and atomic take plan using photographic references",
+  "paid_generation_authorized": false
+}

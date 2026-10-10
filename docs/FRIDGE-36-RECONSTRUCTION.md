@@ -1,3 +1,5 @@
+> **Subsequent user decision — 2026-10-10:** User restored this photographic v11 image and instructed move on. It is now the selected third-view appearance reference. Prior dimensional critique below remains historical; it does not authorize further redesign.
+
 # 36-inch full-depth refrigerator reconstruction — 2026-10-10
 
 User explicitly selected **36-inch fridge; revise adjacent cabinetry**. This supersedes the former33-inch bay and the old no-surround requirement ONLY for the refrigerator installation. Preserve original source drawings and room boundaries.

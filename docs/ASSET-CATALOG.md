@@ -1,6 +1,6 @@
 # Asset catalog — bounded concept resume
 
-Latest north-wall REF-M dial espresso/canister edit within REF-L composition and retained frosted uppers; two upper French doors/lower freezer drawer, model/fit pending. North/east wide view kitchen-smeg-realism-v1 is user-locked; west-phone-speaker-realism-v1 is also user-approved; apartment-facing reconciliation pending.
+Latest north-wall REF-M dial espresso/canister edit within REF-L composition and retained frosted uppers; two upper French doors/lower freezer drawer, model/fit pending. North/east wide view kitchen-smeg-realism-v1 is user-locked; west-phone-speaker-realism-v1 is also user-approved; apartment-fridge-reconstruction-v11 restored by user; construction planning is next.
 
 Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashes of repository-relative paths. Hashes describe exact existing bytes; verdicts are sourced review findings, not a new visual inspection.
 
@@ -80,10 +80,10 @@ Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashe
 - Exact filename: `apartment-fridge-reconstruction-v11.png`
 - File: [outputs/keyframes/apartment-fridge-reconstruction-v11.png](../outputs/keyframes/apartment-fridge-reconstruction-v11.png)
 - Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/keyframes/apartment-fridge-reconstruction-v11.png`
-- Role: Generated still / diagram; status: **failed-geometry-match**
-- Known verdict: Side enclosure/upper cupboard added, but top too high and dimensional/depth compliance not established.
+- Role: Generated still / diagram; status: **user-selected-restored-visual-reference**
+- Known verdict: User explicitly restored the supplied photographic third view on2026-10-10 and instructed move on.
 - Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
-- Limit / superseded reason: Not architecturally accurate or approved; use documented numeric blockout for future camera-matched reconstruction.
+- Limit / superseded reason: Visual selection only; prior geometry critique is historical, not permission to keep redesigning. Physical fit unverified.
 - Bytes: 5532038; SHA-256: `bc6a5b27c05a960c010e0a2404f7bd98fb7f43f92b7cebed6b3e8a48594e9649`
 - Job ID: `6107e559-e860-42fe-991e-5683cc53c39e`
 - Request receipt: [outputs/production/apartment-fridge-reconstruction-v11-request.json](../outputs/production/apartment-fridge-reconstruction-v11-request.json)
@@ -892,10 +892,10 @@ Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashe
 - Exact filename: `kitchen-fixed-materials-v1.png`
 - File: [outputs/review/kitchen-fixed-materials-v1.png](../outputs/review/kitchen-fixed-materials-v1.png)
 - Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/review/kitchen-fixed-materials-v1.png`
-- Role: Local fixed-geometry material render; status: **technical-material-checkpoint**
-- Known verdict: Deterministic Mitsuba material/light pass with fixed fridge/enclosure and estimated camera; no paid generation.
+- Role: Archived local3D experiment; status: **archived-experiment**
+- Known verdict: User restored photographic third view and ended3D detour on2026-10-10.
 - Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
-- Limit / superseded reason: Simplified assets and missing dining context; not final photoreal image or architectural approval.
+- Limit / superseded reason: Not a production appearance/camera reference; historical only.
 - Bytes: 1065174; SHA-256: `865c38eb4f790b582240ef70655926142415e6dc32598c08e9fe641713949c0b`
 - Job ID: `not recorded`
 
@@ -904,10 +904,10 @@ Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashe
 - Exact filename: `kitchen-fixed-materials-v2.png`
 - File: [outputs/review/kitchen-fixed-materials-v2.png](../outputs/review/kitchen-fixed-materials-v2.png)
 - Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/review/kitchen-fixed-materials-v2.png`
-- Role: Local context-render draft; status: **failed-context-draft**
-- Known verdict: Initial local context pass incorrectly occluded part of refrigerator with hallway wall.
+- Role: Archived local3D experiment; status: **archived-experiment**
+- Known verdict: User restored photographic third view and ended3D detour on2026-10-10.
 - Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
-- Limit / superseded reason: Superseded by corrected v3; no paid generation.
+- Limit / superseded reason: Not a production appearance/camera reference; historical only.
 - Bytes: 1246133; SHA-256: `cc8e1b0a713f842528802a5fcd20847003ea32b591cd34c9fb26f533bb2f3aa2`
 - Job ID: `not recorded`
 
@@ -916,10 +916,10 @@ Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashe
 - Exact filename: `kitchen-fixed-materials-v3.png`
 - File: [outputs/review/kitchen-fixed-materials-v3.png](../outputs/review/kitchen-fixed-materials-v3.png)
 - Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/review/kitchen-fixed-materials-v3.png`
-- Role: Local fixed-geometry context render; status: **model-based-review-candidate**
-- Known verdict: Restored doorway/dining context and refined furniture; fridge/enclosure/bar/camera invariant checks pass.
+- Role: Archived local3D experiment; status: **archived-experiment**
+- Known verdict: User restored photographic third view and ended3D detour on2026-10-10.
 - Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
-- Limit / superseded reason: Provisional camera/opening, approximate assets and sampling grain remain. Not production-approved.
+- Limit / superseded reason: Not a production appearance/camera reference; historical only.
 - Bytes: 1247742; SHA-256: `5d6cb9e184f33dd7796512050398c959612ed12dfbc8eaee50b07bcd3b5987ee`
 - Job ID: `not recorded`
 

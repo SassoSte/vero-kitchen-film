@@ -1,6 +1,6 @@
 {
   "project": "vero-kitchen-film",
-  "phase": "Local3D context/material v3 complete; user review pending; no paid spend",
+  "phase": "Photographic third view restored by user; construction-state planning active; 3D detour closed",
   "budget_ceiling_credits": 296,
   "approved_features": [
     "Wolf GR304 red knobs with pale hood; no over-range microwave",
@@ -33,7 +33,7 @@
     },
     "apartment": {
       "original": "references/original/ref-h-apartment-facing.webp",
-      "status": "Not approved: failed dimensional match",
+      "status": "user-selected-restored-visual-reference",
       "take": "apartment-fridge-reconstruction-v11",
       "defects": [],
       "review_limits": [
@@ -95,7 +95,7 @@
   "fridge_style": "French-door upper pair meeting at center, bottom freezer drawer",
   "next_job": {
     "request": "outputs/production/apartment-fridge-reconstruction-v11-request.json",
-    "status": "GENERATED; failed geometry match; not approved",
+    "status": "Historical submitted job; selected output restored by user; no next paid job authorized",
     "prior_comparable_quote_credits": 6.5,
     "proposed_total_ceiling": 296,
     "authorization": "Approve 296 total; render reconstruction",
@@ -117,14 +117,12 @@
   "authorization": "outputs/production/fridge-reconstruction-authorization.json",
   "latest_concept": "outputs/keyframes/apartment-fridge-reconstruction-v11.png",
   "latest_concept_review": {
-    "status": "failed-geometry-match",
-    "reviewer": "lead only",
-    "record": "docs/FRIDGE-36-RECONSTRUCTION.md",
+    "status": "user-selected-restored-visual-reference",
+    "approval_date": "2026-10-10",
+    "user_text": "Restore what we had before. And move on.",
+    "record": "outputs/production/apartment-visual-lock.json",
     "limits": [
-      "Enclosure top too high relative to specified84-inch alignment",
-      "36x70 envelope and43.5 allocation not reliably followed",
-      "Required door/handle depth projection unclear",
-      "Actual clearances and architecture accuracy unverified"
+      "Visual selection; no architectural/installation certification"
     ]
   },
   "orientation_review": "docs/ORIENTATION-2026-10-09.md",
@@ -138,13 +136,13 @@
   "dimension_estimates_confirmed_by_user": false,
   "design_progress_references": {
     "west_sink": "outputs/keyframes/west-phone-speaker-realism-v1.png",
-    "west_external_view": "outputs/keyframes/apartment-v7.png",
-    "west_external_view_exception": "Single-door fridge superseded; retain latest French-door instruction",
+    "west_external_view": "outputs/keyframes/apartment-fridge-reconstruction-v11.png",
+    "west_external_view_exception": "Selected third-view fridge/enclosure governs any visible derived construction state; no further redesign requested.",
     "north_latest": "outputs/keyframes/kitchen-smeg-realism-v1.png",
     "north_exceptions": "User locked current appearance; retain historical critiques only as history. Physical fit remains unverified.",
     "north_detail": "outputs/keyframes/north-wall-finish-v1.png",
     "west_sink_candidate": "outputs/keyframes/west-phone-speaker-realism-v1.png",
-    "west_external_candidate": "outputs/keyframes/apartment-fridge-occlusion-v10.png"
+    "west_external_candidate": "outputs/keyframes/apartment-fridge-reconstruction-v11.png"
   },
   "planned_sequence": [
     {
@@ -173,12 +171,14 @@
     "task_cap_unchanged": 238
   },
   "espresso_realism_candidate": "outputs/keyframes/kitchen-espresso-realism-v1.png",
-  "preferred_edit_base": "outputs/keyframes/kitchen-smeg-realism-v1.png",
+  "preferred_edit_base": "outputs/keyframes/apartment-fridge-reconstruction-v11.png",
   "visual_lock": "outputs/production/north-east-visual-lock.json",
   "next_focus": {
-    "view": "outputs/review/kitchen-fixed-materials-v3.png",
-    "scope": "Review local3D context/material candidate; fixed geometry preserved",
-    "authorization": "No additional paid generation; approved raster images unchanged"
+    "scope": "Construction stages and first quartz-seating motion test preparation",
+    "plan": "outputs/production/construction-state-plan.json",
+    "shotlist": "outputs/shotlist.html",
+    "first_test": "03A",
+    "authority": "Preparation only; no additional paid generation approved"
   },
   "west_nook_direction": {
     "latest_user_instruction": "Go back to the iPhone and speaker in the nook; just fix dimensions and move on",
@@ -197,24 +197,27 @@
     "record": "docs/FIXED-GEOMETRY-CHECK.md",
     "view": "outputs/review/kitchen-fixed-geometry-camera-v1.png",
     "scene": "outputs/review/kitchen-fixed-geometry-scene.obj",
-    "status": "provisional-camera-match",
+    "status": "archived-experiment-not-production",
     "paid_spend": 0,
     "limits": [
       "Fitted opening87.7in differs from old66in bar schedule",
       "Camera at height66in and nominal far-room bound",
       "Hinge sweep and physical fit unresolved"
-    ]
+    ],
+    "superseded_by_user": "2026-10-10 restore supplied photographic image and move on"
   },
   "local_material_pass": {
     "record": "docs/FIXED-SCENE-CONTEXT-PASS.md",
     "image": "outputs/review/kitchen-fixed-materials-v3.png",
     "renderer": "Mitsuba3.9.1 scalar_rgb",
     "paid_spend": 0,
-    "status": "model-based-review-candidate",
+    "status": "archived-experiment-not-production",
     "limits": [
       "Camera/opening remains provisional",
       "Furniture/context approximate; visible sampling grain",
       "Not third-view visual lock or construction approval"
-    ]
-  }
+    ],
+    "superseded_by_user": "2026-10-10 restore supplied photographic image and move on"
+  },
+  "apartment_visual_lock": "outputs/production/apartment-visual-lock.json"
 }

@@ -1,3 +1,5 @@
+> **CURRENT USER DECISION:** [Restore supplied photographic third view](../outputs/production/apartment-visual-lock.json) (`apartment-fridge-reconstruction-v11.png`) and move on. Local3D studies are archived; do not reopen that detour. Current construction plan: `outputs/production/construction-state-plan.json`; refreshed editable shotlist: `outputs/shotlist.html`. First next test03A quartz, after reviewed stage frames. No new paid authority; spend295.75/296.
+
 > **Latest local3D result:** [Context/material v3](FIXED-SCENE-CONTEXT-PASS.md) adds doorway/dining context and refined furniture while preserving core fridge/bar geometry and estimated camera. User review pending; v2 context failure retained as history. No paid spend; task295.75/296.
 
 > **Local rendering checkpoint:** [Fixed geometry with materials/light](FIXED-SCENE-MATERIAL-PASS.md) completed without provider spend. It remains a simplified technical scene, not a finished replacement; camera/room uncertainty unresolved. Approved images unchanged; task295.75/296.

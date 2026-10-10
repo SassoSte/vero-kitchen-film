@@ -1,0 +1,787 @@
+{
+  "revision": "2026-10-10-photographic-restoration",
+  "status": "planning; no generation authorized",
+  "selected_references": {
+    "MASTER": {
+      "path": "outputs/keyframes/kitchen-smeg-realism-v1.png",
+      "sha256": "488e9ffedae8f794c97d71a726ffb045a984e095fe85e51b57d1628a25a293fb"
+    },
+    "WEST": {
+      "path": "outputs/keyframes/west-phone-speaker-realism-v1.png",
+      "sha256": "b0b80c58c7cdf947d88013dbbb16bd9f5688d6cce8a4a4be06a68303de70c88d"
+    },
+    "FINAL": {
+      "path": "outputs/keyframes/apartment-fridge-reconstruction-v11.png",
+      "sha256": "bc6a5b27c05a960c010e0a2404f7bd98fb7f43f92b7cebed6b3e8a48594e9649"
+    },
+    "WORKERS": {
+      "path": "outputs/keyframes/workers-v1.png",
+      "sha256": "85030e1692e35fb8d075bbf08d03789c45f2be67178e785756cc0d5826f78dd9"
+    },
+    "BEFORE-A": {
+      "path": "references/original/ref-a-cooking-run.webp",
+      "sha256": "c865abe741dd2e6dfaaca0395fd0e0a198babdaefed02346e16d454f12e883cf"
+    },
+    "BEFORE-B": {
+      "path": "references/original/ref-b-sink-run.webp",
+      "sha256": "5777ff24f9d682eb61e819b47231d5c1827810ab2add6e55d7114ba0ca58fe09"
+    },
+    "BEFORE-H": {
+      "path": "references/original/ref-h-apartment-facing.webp",
+      "sha256": "cf4b6aecb4fa78a0033ad6dd1d3f494ae3c5b78d6cc3f799e565ffceec2475dc"
+    }
+  },
+  "editorial_duration_s": 60,
+  "delivery_frames": 1440,
+  "delivery_fps": 24,
+  "selected_third_view": "outputs/keyframes/apartment-fridge-reconstruction-v11.png",
+  "reference_limits": [
+    "User restored v11 visually; not construction-fit certification",
+    "Older MASTER has different fridge surround; restored FINAL controls fridge/enclosure in any derived frame where visible",
+    "Local3D studies are archived experiments, not production references"
+  ],
+  "workers_review": "Lead re-inspected workers-v1 on2026-10-10; wardrobe/identities match prior contract; no new worker generation",
+  "first_motion_test": "03A quartz seating, after newly reviewed matching start/end stage frames",
+  "old_pilots": "Historical diagnostics only; no accepted production take",
+  "shots": [
+    {
+      "id": "01",
+      "title": "Original kitchen \u2192 prepared room",
+      "edit_in": 0,
+      "edit_out": 5,
+      "view": "BEFORE-A",
+      "start_state": "Old kitchen; original fridge remains",
+      "end_state": "Remove old OTR/range; room prepared; old fridge retained",
+      "takes": [
+        {
+          "id": "01A",
+          "action": "Establish the original kitchen",
+          "edit_in": 0,
+          "edit_out": 1,
+          "planned_source_duration_s": 5,
+          "duration_note": "Planning placeholder; verify current provider mode/quote before execution",
+          "source_in": null,
+          "source_out": null,
+          "status": "planned",
+          "references": [
+            "references/original/ref-a-cooking-run.webp",
+            "outputs/keyframes/workers-v1.png"
+          ],
+          "view": "BEFORE-A",
+          "start_frame_planned": "outputs/construction/01A-start.png",
+          "end_frame_planned": "outputs/construction/01A-end.png",
+          "prompt": "Photoreal construction film. Fixed source-based room/camera; two consistent workers. Lead: short grey hair, navy shirt, dark trousers, tan tool belt. Partner: grey shirt, dark trousers, dark cap, dark tool belt. Rigid objects, believable weight/contact. No morphing, teleporting, duplicates, narration, music, captions or overlays. Construction sound only. One atomic action per take; time jumps happen in edit.\nShot 01, take 01A. Current view reference: references/original/ref-a-cooking-run.webp. Workers: outputs/keyframes/workers-v1.png. Original geometry reference: references/original/ref-a-cooking-run.webp.\nSTART: Old kitchen; original fridge remains.\nACTION: Establish the original kitchen.\nEND: Remove old OTR/range; room prepared; old fridge retained.\nKeep only this action in the uninterrupted take. Preserve all already installed elements; new fridge arrives only in07, lighting stays ON after08. Microwave below counter LEFT of west sink; charging nook phone+speaker only; coffee/wine on north wall. Restored FINAL reference governs refrigerator/enclosure where visible, without reopening its design.\nMandatory stage START/END images are not yet generated. Attach and inspect both before submission; do not animate a finished photograph as an earlier construction state."
+        },
+        {
+          "id": "01B",
+          "action": "Two workers remove the old over-range microwave",
+          "edit_in": 1,
+          "edit_out": 2.4,
+          "planned_source_duration_s": 5,
+          "duration_note": "Planning placeholder; verify current provider mode/quote before execution",
+          "source_in": null,
+          "source_out": null,
+          "status": "planned",
+          "references": [
+            "references/original/ref-a-cooking-run.webp",
+            "outputs/keyframes/workers-v1.png"
+          ],
+          "view": "BEFORE-A",
+          "start_frame_planned": "outputs/construction/01B-start.png",
+          "end_frame_planned": "outputs/construction/01B-end.png",
+          "prompt": "Photoreal construction film. Fixed source-based room/camera; two consistent workers. Lead: short grey hair, navy shirt, dark trousers, tan tool belt. Partner: grey shirt, dark trousers, dark cap, dark tool belt. Rigid objects, believable weight/contact. No morphing, teleporting, duplicates, narration, music, captions or overlays. Construction sound only. One atomic action per take; time jumps happen in edit.\nShot 01, take 01B. Current view reference: references/original/ref-a-cooking-run.webp. Workers: outputs/keyframes/workers-v1.png. Original geometry reference: references/original/ref-a-cooking-run.webp.\nSTART: Old kitchen; original fridge remains.\nACTION: Two workers remove the old over-range microwave.\nEND: Remove old OTR/range; room prepared; old fridge retained.\nKeep only this action in the uninterrupted take. Preserve all already installed elements; new fridge arrives only in07, lighting stays ON after08. Microwave below counter LEFT of west sink; charging nook phone+speaker only; coffee/wine on north wall. Restored FINAL reference governs refrigerator/enclosure where visible, without reopening its design.\nMandatory stage START/END images are not yet generated. Attach and inspect both before submission; do not animate a finished photograph as an earlier construction state."
+        },
+        {
+          "id": "01C",
+          "action": "Workers roll out the old electric range",
+          "edit_in": 2.4,
+          "edit_out": 3.8,
+          "planned_source_duration_s": 5,
+          "duration_note": "Planning placeholder; verify current provider mode/quote before execution",
+          "source_in": null,
+          "source_out": null,
+          "status": "planned",
+          "references": [
+            "references/original/ref-a-cooking-run.webp",
+            "outputs/keyframes/workers-v1.png"
+          ],
+          "view": "BEFORE-A",
+          "start_frame_planned": "outputs/construction/01C-start.png",
+          "end_frame_planned": "outputs/construction/01C-end.png",
+          "prompt": "Photoreal construction film. Fixed source-based room/camera; two consistent workers. Lead: short grey hair, navy shirt, dark trousers, tan tool belt. Partner: grey shirt, dark trousers, dark cap, dark tool belt. Rigid objects, believable weight/contact. No morphing, teleporting, duplicates, narration, music, captions or overlays. Construction sound only. One atomic action per take; time jumps happen in edit.\nShot 01, take 01C. Current view reference: references/original/ref-a-cooking-run.webp. Workers: outputs/keyframes/workers-v1.png. Original geometry reference: references/original/ref-a-cooking-run.webp.\nSTART: Old kitchen; original fridge remains.\nACTION: Workers roll out the old electric range.\nEND: Remove old OTR/range; room prepared; old fridge retained.\nKeep only this action in the uninterrupted take. Preserve all already installed elements; new fridge arrives only in07, lighting stays ON after08. Microwave below counter LEFT of west sink; charging nook phone+speaker only; coffee/wine on north wall. Restored FINAL reference governs refrigerator/enclosure where visible, without reopening its design.\nMandatory stage START/END images are not yet generated. Attach and inspect both before submission; do not animate a finished photograph as an earlier construction state."
+        },
+        {
+          "id": "01D",
+          "action": "Remove the wooden floor lamp in the supported apartment angle",
+          "edit_in": 3.8,
+          "edit_out": 5.0,
+          "planned_source_duration_s": 5,
+          "duration_note": "Planning placeholder; verify current provider mode/quote before execution",
+          "source_in": null,
+          "source_out": null,
+          "status": "planned",
+          "references": [
+            "references/original/ref-h-apartment-facing.webp",
+            "outputs/keyframes/workers-v1.png"
+          ],
+          "view": "BEFORE-H",
+          "start_frame_planned": "outputs/construction/01D-start.png",
+          "end_frame_planned": "outputs/construction/01D-end.png",
+          "prompt": "Photoreal construction film. Fixed source-based room/camera; two consistent workers. Lead: short grey hair, navy shirt, dark trousers, tan tool belt. Partner: grey shirt, dark trousers, dark cap, dark tool belt. Rigid objects, believable weight/contact. No morphing, teleporting, duplicates, narration, music, captions or overlays. Construction sound only. One atomic action per take; time jumps happen in edit.\nShot 01, take 01D. Current view reference: references/original/ref-h-apartment-facing.webp. Workers: outputs/keyframes/workers-v1.png. Original geometry reference: references/original/ref-h-apartment-facing.webp.\nSTART: Old kitchen; original fridge remains.\nACTION: Remove the wooden floor lamp in the supported apartment angle.\nEND: Remove old OTR/range; room prepared; old fridge retained.\nKeep only this action in the uninterrupted take. Preserve all already installed elements; new fridge arrives only in07, lighting stays ON after08. Microwave below counter LEFT of west sink; charging nook phone+speaker only; coffee/wine on north wall. Restored FINAL reference governs refrigerator/enclosure where visible, without reopening its design.\nMandatory stage START/END images are not yet generated. Attach and inspect both before submission; do not animate a finished photograph as an earlier construction state."
+        }
+      ]
+    },
+    {
+      "id": "02",
+      "title": "Floor and base cabinets",
+      "edit_in": 5,
+      "edit_out": 10,
+      "view": "MASTER",
+      "start_state": "Prepared room; old fridge retained",
+      "end_state": "Concrete and new base cabinets; no quartz yet",
+      "takes": [
+        {
+          "id": "02A",
+          "action": "Trowel one clear section of the concrete floor",
+          "edit_in": 5,
+          "edit_out": 7.5,
+          "planned_source_duration_s": 5,
+          "duration_note": "Planning placeholder; verify current provider mode/quote before execution",
+          "source_in": null,
+          "source_out": null,
+          "status": "planned",
+          "references": [
+            "outputs/keyframes/kitchen-smeg-realism-v1.png",
+            "outputs/keyframes/workers-v1.png",
+            "references/original/ref-a-cooking-run.webp"
+          ],
+          "view": "MASTER",
+          "start_frame_planned": "outputs/construction/02A-start.png",
+          "end_frame_planned": "outputs/construction/02A-end.png",
+          "prompt": "Photoreal construction film. Fixed source-based room/camera; two consistent workers. Lead: short grey hair, navy shirt, dark trousers, tan tool belt. Partner: grey shirt, dark trousers, dark cap, dark tool belt. Rigid objects, believable weight/contact. No morphing, teleporting, duplicates, narration, music, captions or overlays. Construction sound only. One atomic action per take; time jumps happen in edit.\nShot 02, take 02A. Current view reference: outputs/keyframes/kitchen-smeg-realism-v1.png. Workers: outputs/keyframes/workers-v1.png. Original geometry reference: references/original/ref-a-cooking-run.webp.\nSTART: Prepared room; old fridge retained.\nACTION: Trowel one clear section of the concrete floor.\nEND: Concrete and new base cabinets; no quartz yet.\nKeep only this action in the uninterrupted take. Preserve all already installed elements; new fridge arrives only in07, lighting stays ON after08. Microwave below counter LEFT of west sink; charging nook phone+speaker only; coffee/wine on north wall. Restored FINAL reference governs refrigerator/enclosure where visible, without reopening its design.\nMandatory stage START/END images are not yet generated. Attach and inspect both before submission; do not animate a finished photograph as an earlier construction state."
+        },
+        {
+          "id": "02B",
+          "action": "Level and fasten one base cabinet; cut to cumulative installed bases",
+          "edit_in": 7.5,
+          "edit_out": 10.0,
+          "planned_source_duration_s": 5,
+          "duration_note": "Planning placeholder; verify current provider mode/quote before execution",
+          "source_in": null,
+          "source_out": null,
+          "status": "planned",
+          "references": [
+            "outputs/keyframes/kitchen-smeg-realism-v1.png",
+            "outputs/keyframes/workers-v1.png",
+            "references/original/ref-a-cooking-run.webp"
+          ],
+          "view": "MASTER",
+          "start_frame_planned": "outputs/construction/02B-start.png",
+          "end_frame_planned": "outputs/construction/02B-end.png",
+          "prompt": "Photoreal construction film. Fixed source-based room/camera; two consistent workers. Lead: short grey hair, navy shirt, dark trousers, tan tool belt. Partner: grey shirt, dark trousers, dark cap, dark tool belt. Rigid objects, believable weight/contact. No morphing, teleporting, duplicates, narration, music, captions or overlays. Construction sound only. One atomic action per take; time jumps happen in edit.\nShot 02, take 02B. Current view reference: outputs/keyframes/kitchen-smeg-realism-v1.png. Workers: outputs/keyframes/workers-v1.png. Original geometry reference: references/original/ref-a-cooking-run.webp.\nSTART: Prepared room; old fridge retained.\nACTION: Level and fasten one base cabinet; cut to cumulative installed bases.\nEND: Concrete and new base cabinets; no quartz yet.\nKeep only this action in the uninterrupted take. Preserve all already installed elements; new fridge arrives only in07, lighting stays ON after08. Microwave below counter LEFT of west sink; charging nook phone+speaker only; coffee/wine on north wall. Restored FINAL reference governs refrigerator/enclosure where visible, without reopening its design.\nMandatory stage START/END images are not yet generated. Attach and inspect both before submission; do not animate a finished photograph as an earlier construction state."
+        }
+      ]
+    },
+    {
+      "id": "03",
+      "title": "Seat cooking-run quartz",
+      "edit_in": 10,
+      "edit_out": 15,
+      "view": "MASTER",
+      "start_state": "Bases ready; exposed cooking-run cabinet tops; old fridge",
+      "end_state": "Quartz fully seated on cooking run; no sink cutout here",
+      "takes": [
+        {
+          "id": "03A",
+          "action": "Two workers lower the already-aligned quartz through its final short descent and release only after full seating",
+          "edit_in": 10,
+          "edit_out": 15,
+          "planned_source_duration_s": 5,
+          "duration_note": "Planning placeholder; verify current provider mode/quote before execution",
+          "source_in": null,
+          "source_out": null,
+          "status": "planned",
+          "references": [
+            "outputs/keyframes/kitchen-smeg-realism-v1.png",
+            "outputs/keyframes/workers-v1.png",
+            "references/original/ref-a-cooking-run.webp"
+          ],
+          "view": "MASTER",
+          "start_frame_planned": "outputs/construction/03A-start.png",
+          "end_frame_planned": "outputs/construction/03A-end.png",
+          "prompt": "Photoreal construction film. Fixed source-based room/camera; two consistent workers. Lead: short grey hair, navy shirt, dark trousers, tan tool belt. Partner: grey shirt, dark trousers, dark cap, dark tool belt. Rigid objects, believable weight/contact. No morphing, teleporting, duplicates, narration, music, captions or overlays. Construction sound only. One atomic action per take; time jumps happen in edit.\nShot 03, take 03A. Current view reference: outputs/keyframes/kitchen-smeg-realism-v1.png. Workers: outputs/keyframes/workers-v1.png. Original geometry reference: references/original/ref-a-cooking-run.webp.\nSTART: Bases ready; exposed cooking-run cabinet tops; old fridge.\nACTION: Two workers lower the already-aligned quartz through its final short descent and release only after full seating.\nEND: Quartz fully seated on cooking run; no sink cutout here.\nKeep only this action in the uninterrupted take. Preserve all already installed elements; new fridge arrives only in07, lighting stays ON after08. Microwave below counter LEFT of west sink; charging nook phone+speaker only; coffee/wine on north wall. Restored FINAL reference governs refrigerator/enclosure where visible, without reopening its design.\nMandatory stage START/END images are not yet generated. Attach and inspect both before submission; do not animate a finished photograph as an earlier construction state."
+        }
+      ]
+    },
+    {
+      "id": "04",
+      "title": "Sink-side equipment",
+      "edit_in": 15,
+      "edit_out": 20,
+      "view": "WEST",
+      "start_state": "West base run ready",
+      "end_state": "Single sink, L faucet/dispenser and base microwave left of sink installed; DW retained",
+      "takes": [
+        {
+          "id": "04A",
+          "action": "Seat the single sink in the prepared west counter",
+          "edit_in": 15,
+          "edit_out": 17,
+          "planned_source_duration_s": 5,
+          "duration_note": "Planning placeholder; verify current provider mode/quote before execution",
+          "source_in": null,
+          "source_out": null,
+          "status": "planned",
+          "references": [
+            "outputs/keyframes/west-phone-speaker-realism-v1.png",
+            "outputs/keyframes/workers-v1.png",
+            "references/original/ref-b-sink-run.webp"
+          ],
+          "view": "WEST",
+          "start_frame_planned": "outputs/construction/04A-start.png",
+          "end_frame_planned": "outputs/construction/04A-end.png",
+          "prompt": "Photoreal construction film. Fixed source-based room/camera; two consistent workers. Lead: short grey hair, navy shirt, dark trousers, tan tool belt. Partner: grey shirt, dark trousers, dark cap, dark tool belt. Rigid objects, believable weight/contact. No morphing, teleporting, duplicates, narration, music, captions or overlays. Construction sound only. One atomic action per take; time jumps happen in edit.\nShot 04, take 04A. Current view reference: outputs/keyframes/west-phone-speaker-realism-v1.png. Workers: outputs/keyframes/workers-v1.png. Original geometry reference: references/original/ref-b-sink-run.webp.\nSTART: West base run ready.\nACTION: Seat the single sink in the prepared west counter.\nEND: Single sink, L faucet/dispenser and base microwave left of sink installed; DW retained.\nKeep only this action in the uninterrupted take. Preserve all already installed elements; new fridge arrives only in07, lighting stays ON after08. Microwave below counter LEFT of west sink; charging nook phone+speaker only; coffee/wine on north wall. Restored FINAL reference governs refrigerator/enclosure where visible, without reopening its design.\nMandatory stage START/END images are not yet generated. Attach and inspect both before submission; do not animate a finished photograph as an earlier construction state."
+        },
+        {
+          "id": "04B",
+          "action": "Secure the L faucet at its existing location",
+          "edit_in": 17,
+          "edit_out": 18.5,
+          "planned_source_duration_s": 5,
+          "duration_note": "Planning placeholder; verify current provider mode/quote before execution",
+          "source_in": null,
+          "source_out": null,
+          "status": "planned",
+          "references": [
+            "outputs/keyframes/west-phone-speaker-realism-v1.png",
+            "outputs/keyframes/workers-v1.png",
+            "references/original/ref-b-sink-run.webp"
+          ],
+          "view": "WEST",
+          "start_frame_planned": "outputs/construction/04B-start.png",
+          "end_frame_planned": "outputs/construction/04B-end.png",
+          "prompt": "Photoreal construction film. Fixed source-based room/camera; two consistent workers. Lead: short grey hair, navy shirt, dark trousers, tan tool belt. Partner: grey shirt, dark trousers, dark cap, dark tool belt. Rigid objects, believable weight/contact. No morphing, teleporting, duplicates, narration, music, captions or overlays. Construction sound only. One atomic action per take; time jumps happen in edit.\nShot 04, take 04B. Current view reference: outputs/keyframes/west-phone-speaker-realism-v1.png. Workers: outputs/keyframes/workers-v1.png. Original geometry reference: references/original/ref-b-sink-run.webp.\nSTART: West base run ready.\nACTION: Secure the L faucet at its existing location.\nEND: Single sink, L faucet/dispenser and base microwave left of sink installed; DW retained.\nKeep only this action in the uninterrupted take. Preserve all already installed elements; new fridge arrives only in07, lighting stays ON after08. Microwave below counter LEFT of west sink; charging nook phone+speaker only; coffee/wine on north wall. Restored FINAL reference governs refrigerator/enclosure where visible, without reopening its design.\nMandatory stage START/END images are not yet generated. Attach and inspect both before submission; do not animate a finished photograph as an earlier construction state."
+        },
+        {
+          "id": "04C",
+          "action": "Slide the microwave into its base-cabinet opening left of sink",
+          "edit_in": 18.5,
+          "edit_out": 20.0,
+          "planned_source_duration_s": 5,
+          "duration_note": "Planning placeholder; verify current provider mode/quote before execution",
+          "source_in": null,
+          "source_out": null,
+          "status": "planned",
+          "references": [
+            "outputs/keyframes/west-phone-speaker-realism-v1.png",
+            "outputs/keyframes/workers-v1.png",
+            "references/original/ref-b-sink-run.webp"
+          ],
+          "view": "WEST",
+          "start_frame_planned": "outputs/construction/04C-start.png",
+          "end_frame_planned": "outputs/construction/04C-end.png",
+          "prompt": "Photoreal construction film. Fixed source-based room/camera; two consistent workers. Lead: short grey hair, navy shirt, dark trousers, tan tool belt. Partner: grey shirt, dark trousers, dark cap, dark tool belt. Rigid objects, believable weight/contact. No morphing, teleporting, duplicates, narration, music, captions or overlays. Construction sound only. One atomic action per take; time jumps happen in edit.\nShot 04, take 04C. Current view reference: outputs/keyframes/west-phone-speaker-realism-v1.png. Workers: outputs/keyframes/workers-v1.png. Original geometry reference: references/original/ref-b-sink-run.webp.\nSTART: West base run ready.\nACTION: Slide the microwave into its base-cabinet opening left of sink.\nEND: Single sink, L faucet/dispenser and base microwave left of sink installed; DW retained.\nKeep only this action in the uninterrupted take. Preserve all already installed elements; new fridge arrives only in07, lighting stays ON after08. Microwave below counter LEFT of west sink; charging nook phone+speaker only; coffee/wine on north wall. Restored FINAL reference governs refrigerator/enclosure where visible, without reopening its design.\nMandatory stage START/END images are not yet generated. Attach and inspect both before submission; do not animate a finished photograph as an earlier construction state."
+        }
+      ]
+    },
+    {
+      "id": "05",
+      "title": "Backsplash and uppers",
+      "edit_in": 20,
+      "edit_out": 25,
+      "view": "MASTER",
+      "start_state": "Counters and sink equipment installed",
+      "end_state": "Stone backsplash and Shaker/frosted uppers installed",
+      "takes": [
+        {
+          "id": "05A",
+          "action": "Seat one backsplash slab against the cooking wall",
+          "edit_in": 20,
+          "edit_out": 22.5,
+          "planned_source_duration_s": 5,
+          "duration_note": "Planning placeholder; verify current provider mode/quote before execution",
+          "source_in": null,
+          "source_out": null,
+          "status": "planned",
+          "references": [
+            "outputs/keyframes/kitchen-smeg-realism-v1.png",
+            "outputs/keyframes/workers-v1.png",
+            "references/original/ref-a-cooking-run.webp"
+          ],
+          "view": "MASTER",
+          "start_frame_planned": "outputs/construction/05A-start.png",
+          "end_frame_planned": "outputs/construction/05A-end.png",
+          "prompt": "Photoreal construction film. Fixed source-based room/camera; two consistent workers. Lead: short grey hair, navy shirt, dark trousers, tan tool belt. Partner: grey shirt, dark trousers, dark cap, dark tool belt. Rigid objects, believable weight/contact. No morphing, teleporting, duplicates, narration, music, captions or overlays. Construction sound only. One atomic action per take; time jumps happen in edit.\nShot 05, take 05A. Current view reference: outputs/keyframes/kitchen-smeg-realism-v1.png. Workers: outputs/keyframes/workers-v1.png. Original geometry reference: references/original/ref-a-cooking-run.webp.\nSTART: Counters and sink equipment installed.\nACTION: Seat one backsplash slab against the cooking wall.\nEND: Stone backsplash and Shaker/frosted uppers installed.\nKeep only this action in the uninterrupted take. Preserve all already installed elements; new fridge arrives only in07, lighting stays ON after08. Microwave below counter LEFT of west sink; charging nook phone+speaker only; coffee/wine on north wall. Restored FINAL reference governs refrigerator/enclosure where visible, without reopening its design.\nMandatory stage START/END images are not yet generated. Attach and inspect both before submission; do not animate a finished photograph as an earlier construction state."
+        },
+        {
+          "id": "05B",
+          "action": "Fasten an upper cabinet to prepared mounting points",
+          "edit_in": 22.5,
+          "edit_out": 25.0,
+          "planned_source_duration_s": 5,
+          "duration_note": "Planning placeholder; verify current provider mode/quote before execution",
+          "source_in": null,
+          "source_out": null,
+          "status": "planned",
+          "references": [
+            "outputs/keyframes/kitchen-smeg-realism-v1.png",
+            "outputs/keyframes/workers-v1.png",
+            "references/original/ref-a-cooking-run.webp"
+          ],
+          "view": "MASTER",
+          "start_frame_planned": "outputs/construction/05B-start.png",
+          "end_frame_planned": "outputs/construction/05B-end.png",
+          "prompt": "Photoreal construction film. Fixed source-based room/camera; two consistent workers. Lead: short grey hair, navy shirt, dark trousers, tan tool belt. Partner: grey shirt, dark trousers, dark cap, dark tool belt. Rigid objects, believable weight/contact. No morphing, teleporting, duplicates, narration, music, captions or overlays. Construction sound only. One atomic action per take; time jumps happen in edit.\nShot 05, take 05B. Current view reference: outputs/keyframes/kitchen-smeg-realism-v1.png. Workers: outputs/keyframes/workers-v1.png. Original geometry reference: references/original/ref-a-cooking-run.webp.\nSTART: Counters and sink equipment installed.\nACTION: Fasten an upper cabinet to prepared mounting points.\nEND: Stone backsplash and Shaker/frosted uppers installed.\nKeep only this action in the uninterrupted take. Preserve all already installed elements; new fridge arrives only in07, lighting stays ON after08. Microwave below counter LEFT of west sink; charging nook phone+speaker only; coffee/wine on north wall. Restored FINAL reference governs refrigerator/enclosure where visible, without reopening its design.\nMandatory stage START/END images are not yet generated. Attach and inspect both before submission; do not animate a finished photograph as an earlier construction state."
+        }
+      ]
+    },
+    {
+      "id": "06",
+      "title": "Cooking equipment",
+      "edit_in": 25,
+      "edit_out": 31,
+      "view": "MASTER",
+      "start_state": "Backsplash/uppers installed",
+      "end_state": "Pale hood, pot filler and red-knob gas range installed",
+      "takes": [
+        {
+          "id": "06A",
+          "action": "Secure the pale hood assembly",
+          "edit_in": 25,
+          "edit_out": 27,
+          "planned_source_duration_s": 5,
+          "duration_note": "Planning placeholder; verify current provider mode/quote before execution",
+          "source_in": null,
+          "source_out": null,
+          "status": "planned",
+          "references": [
+            "outputs/keyframes/kitchen-smeg-realism-v1.png",
+            "outputs/keyframes/workers-v1.png",
+            "references/original/ref-a-cooking-run.webp"
+          ],
+          "view": "MASTER",
+          "start_frame_planned": "outputs/construction/06A-start.png",
+          "end_frame_planned": "outputs/construction/06A-end.png",
+          "prompt": "Photoreal construction film. Fixed source-based room/camera; two consistent workers. Lead: short grey hair, navy shirt, dark trousers, tan tool belt. Partner: grey shirt, dark trousers, dark cap, dark tool belt. Rigid objects, believable weight/contact. No morphing, teleporting, duplicates, narration, music, captions or overlays. Construction sound only. One atomic action per take; time jumps happen in edit.\nShot 06, take 06A. Current view reference: outputs/keyframes/kitchen-smeg-realism-v1.png. Workers: outputs/keyframes/workers-v1.png. Original geometry reference: references/original/ref-a-cooking-run.webp.\nSTART: Backsplash/uppers installed.\nACTION: Secure the pale hood assembly.\nEND: Pale hood, pot filler and red-knob gas range installed.\nKeep only this action in the uninterrupted take. Preserve all already installed elements; new fridge arrives only in07, lighting stays ON after08. Microwave below counter LEFT of west sink; charging nook phone+speaker only; coffee/wine on north wall. Restored FINAL reference governs refrigerator/enclosure where visible, without reopening its design.\nMandatory stage START/END images are not yet generated. Attach and inspect both before submission; do not animate a finished photograph as an earlier construction state."
+        },
+        {
+          "id": "06B",
+          "action": "Fasten the pot filler",
+          "edit_in": 27,
+          "edit_out": 28.5,
+          "planned_source_duration_s": 5,
+          "duration_note": "Planning placeholder; verify current provider mode/quote before execution",
+          "source_in": null,
+          "source_out": null,
+          "status": "planned",
+          "references": [
+            "outputs/keyframes/kitchen-smeg-realism-v1.png",
+            "outputs/keyframes/workers-v1.png",
+            "references/original/ref-a-cooking-run.webp"
+          ],
+          "view": "MASTER",
+          "start_frame_planned": "outputs/construction/06B-start.png",
+          "end_frame_planned": "outputs/construction/06B-end.png",
+          "prompt": "Photoreal construction film. Fixed source-based room/camera; two consistent workers. Lead: short grey hair, navy shirt, dark trousers, tan tool belt. Partner: grey shirt, dark trousers, dark cap, dark tool belt. Rigid objects, believable weight/contact. No morphing, teleporting, duplicates, narration, music, captions or overlays. Construction sound only. One atomic action per take; time jumps happen in edit.\nShot 06, take 06B. Current view reference: outputs/keyframes/kitchen-smeg-realism-v1.png. Workers: outputs/keyframes/workers-v1.png. Original geometry reference: references/original/ref-a-cooking-run.webp.\nSTART: Backsplash/uppers installed.\nACTION: Fasten the pot filler.\nEND: Pale hood, pot filler and red-knob gas range installed.\nKeep only this action in the uninterrupted take. Preserve all already installed elements; new fridge arrives only in07, lighting stays ON after08. Microwave below counter LEFT of west sink; charging nook phone+speaker only; coffee/wine on north wall. Restored FINAL reference governs refrigerator/enclosure where visible, without reopening its design.\nMandatory stage START/END images are not yet generated. Attach and inspect both before submission; do not animate a finished photograph as an earlier construction state."
+        },
+        {
+          "id": "06C",
+          "action": "Guide the gas range through its final positioning movement",
+          "edit_in": 28.5,
+          "edit_out": 31.0,
+          "planned_source_duration_s": 5,
+          "duration_note": "Planning placeholder; verify current provider mode/quote before execution",
+          "source_in": null,
+          "source_out": null,
+          "status": "planned",
+          "references": [
+            "outputs/keyframes/kitchen-smeg-realism-v1.png",
+            "outputs/keyframes/workers-v1.png",
+            "references/original/ref-a-cooking-run.webp"
+          ],
+          "view": "MASTER",
+          "start_frame_planned": "outputs/construction/06C-start.png",
+          "end_frame_planned": "outputs/construction/06C-end.png",
+          "prompt": "Photoreal construction film. Fixed source-based room/camera; two consistent workers. Lead: short grey hair, navy shirt, dark trousers, tan tool belt. Partner: grey shirt, dark trousers, dark cap, dark tool belt. Rigid objects, believable weight/contact. No morphing, teleporting, duplicates, narration, music, captions or overlays. Construction sound only. One atomic action per take; time jumps happen in edit.\nShot 06, take 06C. Current view reference: outputs/keyframes/kitchen-smeg-realism-v1.png. Workers: outputs/keyframes/workers-v1.png. Original geometry reference: references/original/ref-a-cooking-run.webp.\nSTART: Backsplash/uppers installed.\nACTION: Guide the gas range through its final positioning movement.\nEND: Pale hood, pot filler and red-knob gas range installed.\nKeep only this action in the uninterrupted take. Preserve all already installed elements; new fridge arrives only in07, lighting stays ON after08. Microwave below counter LEFT of west sink; charging nook phone+speaker only; coffee/wine on north wall. Restored FINAL reference governs refrigerator/enclosure where visible, without reopening its design.\nMandatory stage START/END images are not yet generated. Attach and inspect both before submission; do not animate a finished photograph as an earlier construction state."
+        }
+      ]
+    },
+    {
+      "id": "07",
+      "title": "French-door refrigerator",
+      "edit_in": 31,
+      "edit_out": 35,
+      "view": "FINAL",
+      "start_state": "Old fridge still present; new opening prepared between cuts",
+      "end_state": "Selected third-view French-door fridge and enclosure in place",
+      "takes": [
+        {
+          "id": "07A",
+          "action": "Roll the old refrigerator out",
+          "edit_in": 31,
+          "edit_out": 32.5,
+          "planned_source_duration_s": 5,
+          "duration_note": "Planning placeholder; verify current provider mode/quote before execution",
+          "source_in": null,
+          "source_out": null,
+          "status": "planned",
+          "references": [
+            "outputs/keyframes/apartment-fridge-reconstruction-v11.png",
+            "outputs/keyframes/workers-v1.png",
+            "references/original/ref-h-apartment-facing.webp"
+          ],
+          "view": "FINAL",
+          "start_frame_planned": "outputs/construction/07A-start.png",
+          "end_frame_planned": "outputs/construction/07A-end.png",
+          "prompt": "Photoreal construction film. Fixed source-based room/camera; two consistent workers. Lead: short grey hair, navy shirt, dark trousers, tan tool belt. Partner: grey shirt, dark trousers, dark cap, dark tool belt. Rigid objects, believable weight/contact. No morphing, teleporting, duplicates, narration, music, captions or overlays. Construction sound only. One atomic action per take; time jumps happen in edit.\nShot 07, take 07A. Current view reference: outputs/keyframes/apartment-fridge-reconstruction-v11.png. Workers: outputs/keyframes/workers-v1.png. Original geometry reference: references/original/ref-h-apartment-facing.webp.\nSTART: Old fridge still present; new opening prepared between cuts.\nACTION: Roll the old refrigerator out.\nEND: Selected third-view French-door fridge and enclosure in place.\nKeep only this action in the uninterrupted take. Preserve all already installed elements; new fridge arrives only in07, lighting stays ON after08. Microwave below counter LEFT of west sink; charging nook phone+speaker only; coffee/wine on north wall. Restored FINAL reference governs refrigerator/enclosure where visible, without reopening its design.\nMandatory stage START/END images are not yet generated. Attach and inspect both before submission; do not animate a finished photograph as an earlier construction state."
+        },
+        {
+          "id": "07B",
+          "action": "After an editorial preparation cut, guide the new French-door refrigerator into its enclosure",
+          "edit_in": 32.5,
+          "edit_out": 35.0,
+          "planned_source_duration_s": 5,
+          "duration_note": "Planning placeholder; verify current provider mode/quote before execution",
+          "source_in": null,
+          "source_out": null,
+          "status": "planned",
+          "references": [
+            "outputs/keyframes/apartment-fridge-reconstruction-v11.png",
+            "outputs/keyframes/workers-v1.png",
+            "references/original/ref-h-apartment-facing.webp"
+          ],
+          "view": "FINAL",
+          "start_frame_planned": "outputs/construction/07B-start.png",
+          "end_frame_planned": "outputs/construction/07B-end.png",
+          "prompt": "Photoreal construction film. Fixed source-based room/camera; two consistent workers. Lead: short grey hair, navy shirt, dark trousers, tan tool belt. Partner: grey shirt, dark trousers, dark cap, dark tool belt. Rigid objects, believable weight/contact. No morphing, teleporting, duplicates, narration, music, captions or overlays. Construction sound only. One atomic action per take; time jumps happen in edit.\nShot 07, take 07B. Current view reference: outputs/keyframes/apartment-fridge-reconstruction-v11.png. Workers: outputs/keyframes/workers-v1.png. Original geometry reference: references/original/ref-h-apartment-facing.webp.\nSTART: Old fridge still present; new opening prepared between cuts.\nACTION: After an editorial preparation cut, guide the new French-door refrigerator into its enclosure.\nEND: Selected third-view French-door fridge and enclosure in place.\nKeep only this action in the uninterrupted take. Preserve all already installed elements; new fridge arrives only in07, lighting stays ON after08. Microwave below counter LEFT of west sink; charging nook phone+speaker only; coffee/wine on north wall. Restored FINAL reference governs refrigerator/enclosure where visible, without reopening its design.\nMandatory stage START/END images are not yet generated. Attach and inspect both before submission; do not animate a finished photograph as an earlier construction state."
+        }
+      ]
+    },
+    {
+      "id": "08",
+      "title": "Commission lighting",
+      "edit_in": 35,
+      "edit_out": 39,
+      "view": "MASTER",
+      "start_state": "Installed equipment; lighting not yet commissioned",
+      "end_state": "Interior/undercabinet/hood lights ON and remain on",
+      "takes": [
+        {
+          "id": "08A",
+          "action": "Operate switches and visibly bring the installed warm lighting on",
+          "edit_in": 35,
+          "edit_out": 39,
+          "planned_source_duration_s": 5,
+          "duration_note": "Planning placeholder; verify current provider mode/quote before execution",
+          "source_in": null,
+          "source_out": null,
+          "status": "planned",
+          "references": [
+            "outputs/keyframes/kitchen-smeg-realism-v1.png",
+            "outputs/keyframes/workers-v1.png",
+            "references/original/ref-a-cooking-run.webp"
+          ],
+          "view": "MASTER",
+          "start_frame_planned": "outputs/construction/08A-start.png",
+          "end_frame_planned": "outputs/construction/08A-end.png",
+          "prompt": "Photoreal construction film. Fixed source-based room/camera; two consistent workers. Lead: short grey hair, navy shirt, dark trousers, tan tool belt. Partner: grey shirt, dark trousers, dark cap, dark tool belt. Rigid objects, believable weight/contact. No morphing, teleporting, duplicates, narration, music, captions or overlays. Construction sound only. One atomic action per take; time jumps happen in edit.\nShot 08, take 08A. Current view reference: outputs/keyframes/kitchen-smeg-realism-v1.png. Workers: outputs/keyframes/workers-v1.png. Original geometry reference: references/original/ref-a-cooking-run.webp.\nSTART: Installed equipment; lighting not yet commissioned.\nACTION: Operate switches and visibly bring the installed warm lighting on.\nEND: Interior/undercabinet/hood lights ON and remain on.\nKeep only this action in the uninterrupted take. Preserve all already installed elements; new fridge arrives only in07, lighting stays ON after08. Microwave below counter LEFT of west sink; charging nook phone+speaker only; coffee/wine on north wall. Restored FINAL reference governs refrigerator/enclosure where visible, without reopening its design.\nMandatory stage START/END images are not yet generated. Attach and inspect both before submission; do not animate a finished photograph as an earlier construction state."
+        }
+      ]
+    },
+    {
+      "id": "09",
+      "title": "North station and west charging nook",
+      "edit_in": 39,
+      "edit_out": 44,
+      "view": "MASTER",
+      "start_state": "Major kitchen complete, north service station unfinished",
+      "end_state": "Coffee/wine station installed; west nook holds phone and speaker",
+      "takes": [
+        {
+          "id": "09A",
+          "action": "Finish a small visible wall section",
+          "edit_in": 39,
+          "edit_out": 40.5,
+          "planned_source_duration_s": 5,
+          "duration_note": "Planning placeholder; verify current provider mode/quote before execution",
+          "source_in": null,
+          "source_out": null,
+          "status": "planned",
+          "references": [
+            "outputs/keyframes/kitchen-smeg-realism-v1.png",
+            "outputs/keyframes/workers-v1.png",
+            "references/original/ref-a-cooking-run.webp"
+          ],
+          "view": "MASTER",
+          "start_frame_planned": "outputs/construction/09A-start.png",
+          "end_frame_planned": "outputs/construction/09A-end.png",
+          "prompt": "Photoreal construction film. Fixed source-based room/camera; two consistent workers. Lead: short grey hair, navy shirt, dark trousers, tan tool belt. Partner: grey shirt, dark trousers, dark cap, dark tool belt. Rigid objects, believable weight/contact. No morphing, teleporting, duplicates, narration, music, captions or overlays. Construction sound only. One atomic action per take; time jumps happen in edit.\nShot 09, take 09A. Current view reference: outputs/keyframes/kitchen-smeg-realism-v1.png. Workers: outputs/keyframes/workers-v1.png. Original geometry reference: references/original/ref-a-cooking-run.webp.\nSTART: Major kitchen complete, north service station unfinished.\nACTION: Finish a small visible wall section.\nEND: Coffee/wine station installed; west nook holds phone and speaker.\nKeep only this action in the uninterrupted take. Preserve all already installed elements; new fridge arrives only in07, lighting stays ON after08. Microwave below counter LEFT of west sink; charging nook phone+speaker only; coffee/wine on north wall. Restored FINAL reference governs refrigerator/enclosure where visible, without reopening its design.\nMandatory stage START/END images are not yet generated. Attach and inspect both before submission; do not animate a finished photograph as an earlier construction state."
+        },
+        {
+          "id": "09B",
+          "action": "Seat the wine unit in the prepared opening",
+          "edit_in": 40.5,
+          "edit_out": 42.0,
+          "planned_source_duration_s": 5,
+          "duration_note": "Planning placeholder; verify current provider mode/quote before execution",
+          "source_in": null,
+          "source_out": null,
+          "status": "planned",
+          "references": [
+            "outputs/keyframes/kitchen-smeg-realism-v1.png",
+            "outputs/keyframes/workers-v1.png",
+            "references/original/ref-a-cooking-run.webp"
+          ],
+          "view": "MASTER",
+          "start_frame_planned": "outputs/construction/09B-start.png",
+          "end_frame_planned": "outputs/construction/09B-end.png",
+          "prompt": "Photoreal construction film. Fixed source-based room/camera; two consistent workers. Lead: short grey hair, navy shirt, dark trousers, tan tool belt. Partner: grey shirt, dark trousers, dark cap, dark tool belt. Rigid objects, believable weight/contact. No morphing, teleporting, duplicates, narration, music, captions or overlays. Construction sound only. One atomic action per take; time jumps happen in edit.\nShot 09, take 09B. Current view reference: outputs/keyframes/kitchen-smeg-realism-v1.png. Workers: outputs/keyframes/workers-v1.png. Original geometry reference: references/original/ref-a-cooking-run.webp.\nSTART: Major kitchen complete, north service station unfinished.\nACTION: Seat the wine unit in the prepared opening.\nEND: Coffee/wine station installed; west nook holds phone and speaker.\nKeep only this action in the uninterrupted take. Preserve all already installed elements; new fridge arrives only in07, lighting stays ON after08. Microwave below counter LEFT of west sink; charging nook phone+speaker only; coffee/wine on north wall. Restored FINAL reference governs refrigerator/enclosure where visible, without reopening its design.\nMandatory stage START/END images are not yet generated. Attach and inspect both before submission; do not animate a finished photograph as an earlier construction state."
+        },
+        {
+          "id": "09C",
+          "action": "Place the dial espresso machine on its north-wall niche surface",
+          "edit_in": 42.0,
+          "edit_out": 43.2,
+          "planned_source_duration_s": 5,
+          "duration_note": "Planning placeholder; verify current provider mode/quote before execution",
+          "source_in": null,
+          "source_out": null,
+          "status": "planned",
+          "references": [
+            "outputs/keyframes/kitchen-smeg-realism-v1.png",
+            "outputs/keyframes/workers-v1.png",
+            "references/original/ref-a-cooking-run.webp"
+          ],
+          "view": "MASTER",
+          "start_frame_planned": "outputs/construction/09C-start.png",
+          "end_frame_planned": "outputs/construction/09C-end.png",
+          "prompt": "Photoreal construction film. Fixed source-based room/camera; two consistent workers. Lead: short grey hair, navy shirt, dark trousers, tan tool belt. Partner: grey shirt, dark trousers, dark cap, dark tool belt. Rigid objects, believable weight/contact. No morphing, teleporting, duplicates, narration, music, captions or overlays. Construction sound only. One atomic action per take; time jumps happen in edit.\nShot 09, take 09C. Current view reference: outputs/keyframes/kitchen-smeg-realism-v1.png. Workers: outputs/keyframes/workers-v1.png. Original geometry reference: references/original/ref-a-cooking-run.webp.\nSTART: Major kitchen complete, north service station unfinished.\nACTION: Place the dial espresso machine on its north-wall niche surface.\nEND: Coffee/wine station installed; west nook holds phone and speaker.\nKeep only this action in the uninterrupted take. Preserve all already installed elements; new fridge arrives only in07, lighting stays ON after08. Microwave below counter LEFT of west sink; charging nook phone+speaker only; coffee/wine on north wall. Restored FINAL reference governs refrigerator/enclosure where visible, without reopening its design.\nMandatory stage START/END images are not yet generated. Attach and inspect both before submission; do not animate a finished photograph as an earlier construction state."
+        },
+        {
+          "id": "09D",
+          "action": "Dock the phone beside the speaker in the small west nook",
+          "edit_in": 43.2,
+          "edit_out": 44.0,
+          "planned_source_duration_s": 5,
+          "duration_note": "Planning placeholder; verify current provider mode/quote before execution",
+          "source_in": null,
+          "source_out": null,
+          "status": "planned",
+          "references": [
+            "outputs/keyframes/west-phone-speaker-realism-v1.png",
+            "outputs/keyframes/workers-v1.png",
+            "references/original/ref-b-sink-run.webp"
+          ],
+          "view": "WEST",
+          "start_frame_planned": "outputs/construction/09D-start.png",
+          "end_frame_planned": "outputs/construction/09D-end.png",
+          "prompt": "Photoreal construction film. Fixed source-based room/camera; two consistent workers. Lead: short grey hair, navy shirt, dark trousers, tan tool belt. Partner: grey shirt, dark trousers, dark cap, dark tool belt. Rigid objects, believable weight/contact. No morphing, teleporting, duplicates, narration, music, captions or overlays. Construction sound only. One atomic action per take; time jumps happen in edit.\nShot 09, take 09D. Current view reference: outputs/keyframes/west-phone-speaker-realism-v1.png. Workers: outputs/keyframes/workers-v1.png. Original geometry reference: references/original/ref-b-sink-run.webp.\nSTART: Major kitchen complete, north service station unfinished.\nACTION: Dock the phone beside the speaker in the small west nook.\nEND: Coffee/wine station installed; west nook holds phone and speaker.\nKeep only this action in the uninterrupted take. Preserve all already installed elements; new fridge arrives only in07, lighting stays ON after08. Microwave below counter LEFT of west sink; charging nook phone+speaker only; coffee/wine on north wall. Restored FINAL reference governs refrigerator/enclosure where visible, without reopening its design.\nMandatory stage START/END images are not yet generated. Attach and inspect both before submission; do not animate a finished photograph as an earlier construction state."
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "title": "Oak bar front",
+      "edit_in": 44,
+      "edit_out": 49,
+      "view": "FINAL",
+      "start_state": "Kitchen complete; bar-front backing exposed",
+      "end_state": "Ribbed-oak bar front secured",
+      "takes": [
+        {
+          "id": "10A",
+          "action": "Two workers align and secure one ribbed-oak panel; cut to the completed bar",
+          "edit_in": 44,
+          "edit_out": 49,
+          "planned_source_duration_s": 5,
+          "duration_note": "Planning placeholder; verify current provider mode/quote before execution",
+          "source_in": null,
+          "source_out": null,
+          "status": "planned",
+          "references": [
+            "outputs/keyframes/apartment-fridge-reconstruction-v11.png",
+            "outputs/keyframes/workers-v1.png",
+            "references/original/ref-h-apartment-facing.webp"
+          ],
+          "view": "FINAL",
+          "start_frame_planned": "outputs/construction/10A-start.png",
+          "end_frame_planned": "outputs/construction/10A-end.png",
+          "prompt": "Photoreal construction film. Fixed source-based room/camera; two consistent workers. Lead: short grey hair, navy shirt, dark trousers, tan tool belt. Partner: grey shirt, dark trousers, dark cap, dark tool belt. Rigid objects, believable weight/contact. No morphing, teleporting, duplicates, narration, music, captions or overlays. Construction sound only. One atomic action per take; time jumps happen in edit.\nShot 10, take 10A. Current view reference: outputs/keyframes/apartment-fridge-reconstruction-v11.png. Workers: outputs/keyframes/workers-v1.png. Original geometry reference: references/original/ref-h-apartment-facing.webp.\nSTART: Kitchen complete; bar-front backing exposed.\nACTION: Two workers align and secure one ribbed-oak panel; cut to the completed bar.\nEND: Ribbed-oak bar front secured.\nKeep only this action in the uninterrupted take. Preserve all already installed elements; new fridge arrives only in07, lighting stays ON after08. Microwave below counter LEFT of west sink; charging nook phone+speaker only; coffee/wine on north wall. Restored FINAL reference governs refrigerator/enclosure where visible, without reopening its design.\nMandatory stage START/END images are not yet generated. Attach and inspect both before submission; do not animate a finished photograph as an earlier construction state."
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "title": "Furnish and finish",
+      "edit_in": 49,
+      "edit_out": 55,
+      "view": "FINAL",
+      "start_state": "Finished kitchen; two stools staged, third being placed",
+      "end_state": "Three stools and selected styling present; active work ends at55",
+      "takes": [
+        {
+          "id": "11A",
+          "action": "Lower the third stool facing the bar, matching the two parked stools",
+          "edit_in": 49,
+          "edit_out": 51.4,
+          "planned_source_duration_s": 5,
+          "duration_note": "Planning placeholder; verify current provider mode/quote before execution",
+          "source_in": null,
+          "source_out": null,
+          "status": "planned",
+          "references": [
+            "outputs/keyframes/apartment-fridge-reconstruction-v11.png",
+            "outputs/keyframes/workers-v1.png",
+            "references/original/ref-h-apartment-facing.webp"
+          ],
+          "view": "FINAL",
+          "start_frame_planned": "outputs/construction/11A-start.png",
+          "end_frame_planned": "outputs/construction/11A-end.png",
+          "prompt": "Photoreal construction film. Fixed source-based room/camera; two consistent workers. Lead: short grey hair, navy shirt, dark trousers, tan tool belt. Partner: grey shirt, dark trousers, dark cap, dark tool belt. Rigid objects, believable weight/contact. No morphing, teleporting, duplicates, narration, music, captions or overlays. Construction sound only. One atomic action per take; time jumps happen in edit.\nShot 11, take 11A. Current view reference: outputs/keyframes/apartment-fridge-reconstruction-v11.png. Workers: outputs/keyframes/workers-v1.png. Original geometry reference: references/original/ref-h-apartment-facing.webp.\nSTART: Finished kitchen; two stools staged, third being placed.\nACTION: Lower the third stool facing the bar, matching the two parked stools.\nEND: Three stools and selected styling present; active work ends at55.\nKeep only this action in the uninterrupted take. Preserve all already installed elements; new fridge arrives only in07, lighting stays ON after08. Microwave below counter LEFT of west sink; charging nook phone+speaker only; coffee/wine on north wall. Restored FINAL reference governs refrigerator/enclosure where visible, without reopening its design.\nMandatory stage START/END images are not yet generated. Attach and inspect both before submission; do not animate a finished photograph as an earlier construction state."
+        },
+        {
+          "id": "11B",
+          "action": "Set the red toaster left of range",
+          "edit_in": 51.4,
+          "edit_out": 52.2,
+          "planned_source_duration_s": 5,
+          "duration_note": "Planning placeholder; verify current provider mode/quote before execution",
+          "source_in": null,
+          "source_out": null,
+          "status": "planned",
+          "references": [
+            "outputs/keyframes/kitchen-smeg-realism-v1.png",
+            "outputs/keyframes/workers-v1.png",
+            "references/original/ref-a-cooking-run.webp"
+          ],
+          "view": "MASTER",
+          "start_frame_planned": "outputs/construction/11B-start.png",
+          "end_frame_planned": "outputs/construction/11B-end.png",
+          "prompt": "Photoreal construction film. Fixed source-based room/camera; two consistent workers. Lead: short grey hair, navy shirt, dark trousers, tan tool belt. Partner: grey shirt, dark trousers, dark cap, dark tool belt. Rigid objects, believable weight/contact. No morphing, teleporting, duplicates, narration, music, captions or overlays. Construction sound only. One atomic action per take; time jumps happen in edit.\nShot 11, take 11B. Current view reference: outputs/keyframes/kitchen-smeg-realism-v1.png. Workers: outputs/keyframes/workers-v1.png. Original geometry reference: references/original/ref-a-cooking-run.webp.\nSTART: Finished kitchen; two stools staged, third being placed.\nACTION: Set the red toaster left of range.\nEND: Three stools and selected styling present; active work ends at55.\nKeep only this action in the uninterrupted take. Preserve all already installed elements; new fridge arrives only in07, lighting stays ON after08. Microwave below counter LEFT of west sink; charging nook phone+speaker only; coffee/wine on north wall. Restored FINAL reference governs refrigerator/enclosure where visible, without reopening its design.\nMandatory stage START/END images are not yet generated. Attach and inspect both before submission; do not animate a finished photograph as an earlier construction state."
+        },
+        {
+          "id": "11C",
+          "action": "Set the red kettle right of range",
+          "edit_in": 52.2,
+          "edit_out": 53.0,
+          "planned_source_duration_s": 5,
+          "duration_note": "Planning placeholder; verify current provider mode/quote before execution",
+          "source_in": null,
+          "source_out": null,
+          "status": "planned",
+          "references": [
+            "outputs/keyframes/kitchen-smeg-realism-v1.png",
+            "outputs/keyframes/workers-v1.png",
+            "references/original/ref-a-cooking-run.webp"
+          ],
+          "view": "MASTER",
+          "start_frame_planned": "outputs/construction/11C-start.png",
+          "end_frame_planned": "outputs/construction/11C-end.png",
+          "prompt": "Photoreal construction film. Fixed source-based room/camera; two consistent workers. Lead: short grey hair, navy shirt, dark trousers, tan tool belt. Partner: grey shirt, dark trousers, dark cap, dark tool belt. Rigid objects, believable weight/contact. No morphing, teleporting, duplicates, narration, music, captions or overlays. Construction sound only. One atomic action per take; time jumps happen in edit.\nShot 11, take 11C. Current view reference: outputs/keyframes/kitchen-smeg-realism-v1.png. Workers: outputs/keyframes/workers-v1.png. Original geometry reference: references/original/ref-a-cooking-run.webp.\nSTART: Finished kitchen; two stools staged, third being placed.\nACTION: Set the red kettle right of range.\nEND: Three stools and selected styling present; active work ends at55.\nKeep only this action in the uninterrupted take. Preserve all already installed elements; new fridge arrives only in07, lighting stays ON after08. Microwave below counter LEFT of west sink; charging nook phone+speaker only; coffee/wine on north wall. Restored FINAL reference governs refrigerator/enclosure where visible, without reopening its design.\nMandatory stage START/END images are not yet generated. Attach and inspect both before submission; do not animate a finished photograph as an earlier construction state."
+        },
+        {
+          "id": "11D",
+          "action": "Position the dining rug edge beneath the table",
+          "edit_in": 53.0,
+          "edit_out": 54.0,
+          "planned_source_duration_s": 5,
+          "duration_note": "Planning placeholder; verify current provider mode/quote before execution",
+          "source_in": null,
+          "source_out": null,
+          "status": "planned",
+          "references": [
+            "outputs/keyframes/apartment-fridge-reconstruction-v11.png",
+            "outputs/keyframes/workers-v1.png",
+            "references/original/ref-h-apartment-facing.webp"
+          ],
+          "view": "FINAL",
+          "start_frame_planned": "outputs/construction/11D-start.png",
+          "end_frame_planned": "outputs/construction/11D-end.png",
+          "prompt": "Photoreal construction film. Fixed source-based room/camera; two consistent workers. Lead: short grey hair, navy shirt, dark trousers, tan tool belt. Partner: grey shirt, dark trousers, dark cap, dark tool belt. Rigid objects, believable weight/contact. No morphing, teleporting, duplicates, narration, music, captions or overlays. Construction sound only. One atomic action per take; time jumps happen in edit.\nShot 11, take 11D. Current view reference: outputs/keyframes/apartment-fridge-reconstruction-v11.png. Workers: outputs/keyframes/workers-v1.png. Original geometry reference: references/original/ref-h-apartment-facing.webp.\nSTART: Finished kitchen; two stools staged, third being placed.\nACTION: Position the dining rug edge beneath the table.\nEND: Three stools and selected styling present; active work ends at55.\nKeep only this action in the uninterrupted take. Preserve all already installed elements; new fridge arrives only in07, lighting stays ON after08. Microwave below counter LEFT of west sink; charging nook phone+speaker only; coffee/wine on north wall. Restored FINAL reference governs refrigerator/enclosure where visible, without reopening its design.\nMandatory stage START/END images are not yet generated. Attach and inspect both before submission; do not animate a finished photograph as an earlier construction state."
+        },
+        {
+          "id": "11E",
+          "action": "Place the selected final vase; other final styling established across the editorial cut",
+          "edit_in": 54.0,
+          "edit_out": 55.0,
+          "planned_source_duration_s": 5,
+          "duration_note": "Planning placeholder; verify current provider mode/quote before execution",
+          "source_in": null,
+          "source_out": null,
+          "status": "planned",
+          "references": [
+            "outputs/keyframes/apartment-fridge-reconstruction-v11.png",
+            "outputs/keyframes/workers-v1.png",
+            "references/original/ref-h-apartment-facing.webp"
+          ],
+          "view": "FINAL",
+          "start_frame_planned": "outputs/construction/11E-start.png",
+          "end_frame_planned": "outputs/construction/11E-end.png",
+          "prompt": "Photoreal construction film. Fixed source-based room/camera; two consistent workers. Lead: short grey hair, navy shirt, dark trousers, tan tool belt. Partner: grey shirt, dark trousers, dark cap, dark tool belt. Rigid objects, believable weight/contact. No morphing, teleporting, duplicates, narration, music, captions or overlays. Construction sound only. One atomic action per take; time jumps happen in edit.\nShot 11, take 11E. Current view reference: outputs/keyframes/apartment-fridge-reconstruction-v11.png. Workers: outputs/keyframes/workers-v1.png. Original geometry reference: references/original/ref-h-apartment-facing.webp.\nSTART: Finished kitchen; two stools staged, third being placed.\nACTION: Place the selected final vase; other final styling established across the editorial cut.\nEND: Three stools and selected styling present; active work ends at55.\nKeep only this action in the uninterrupted take. Preserve all already installed elements; new fridge arrives only in07, lighting stays ON after08. Microwave below counter LEFT of west sink; charging nook phone+speaker only; coffee/wine on north wall. Restored FINAL reference governs refrigerator/enclosure where visible, without reopening its design.\nMandatory stage START/END images are not yet generated. Attach and inspect both before submission; do not animate a finished photograph as an earlier construction state."
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "title": "Kitchen reveal",
+      "edit_in": 55,
+      "edit_out": 57,
+      "view": "MASTER",
+      "start_state": "All final features in place",
+      "end_state": "Finished kitchen remains unchanged",
+      "takes": [
+        {
+          "id": "12A",
+          "action": "Hold the widest source-supported kitchen reveal with no new geometry",
+          "edit_in": 55,
+          "edit_out": 57,
+          "planned_source_duration_s": 5,
+          "duration_note": "Planning placeholder; verify current provider mode/quote before execution",
+          "source_in": null,
+          "source_out": null,
+          "status": "planned",
+          "references": [
+            "outputs/keyframes/kitchen-smeg-realism-v1.png",
+            "outputs/keyframes/workers-v1.png",
+            "references/original/ref-a-cooking-run.webp"
+          ],
+          "view": "MASTER",
+          "start_frame_planned": "outputs/construction/12A-start.png",
+          "end_frame_planned": "outputs/construction/12A-end.png",
+          "prompt": "Photoreal construction film. Fixed source-based room/camera; two consistent workers. Lead: short grey hair, navy shirt, dark trousers, tan tool belt. Partner: grey shirt, dark trousers, dark cap, dark tool belt. Rigid objects, believable weight/contact. No morphing, teleporting, duplicates, narration, music, captions or overlays. Construction sound only. One atomic action per take; time jumps happen in edit.\nShot 12, take 12A. Current view reference: outputs/keyframes/kitchen-smeg-realism-v1.png. Workers: outputs/keyframes/workers-v1.png. Original geometry reference: references/original/ref-a-cooking-run.webp.\nSTART: All final features in place.\nACTION: Hold the widest source-supported kitchen reveal with no new geometry.\nEND: Finished kitchen remains unchanged.\nKeep only this action in the uninterrupted take. Preserve all already installed elements; new fridge arrives only in07, lighting stays ON after08. Microwave below counter LEFT of west sink; charging nook phone+speaker only; coffee/wine on north wall. Restored FINAL reference governs refrigerator/enclosure where visible, without reopening its design.\nMandatory stage START/END images are not yet generated. Attach and inspect both before submission; do not animate a finished photograph as an earlier construction state."
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "title": "Apartment-facing final",
+      "edit_in": 57,
+      "edit_out": 60,
+      "view": "FINAL",
+      "start_state": "All final features in place",
+      "end_state": "Final selected photograph appearance held through60",
+      "takes": [
+        {
+          "id": "13A",
+          "action": "Restrained final apartment-facing reveal matching the restored photograph",
+          "edit_in": 57,
+          "edit_out": 60,
+          "planned_source_duration_s": 5,
+          "duration_note": "Planning placeholder; verify current provider mode/quote before execution",
+          "source_in": null,
+          "source_out": null,
+          "status": "planned",
+          "references": [
+            "outputs/keyframes/apartment-fridge-reconstruction-v11.png",
+            "outputs/keyframes/workers-v1.png",
+            "references/original/ref-h-apartment-facing.webp"
+          ],
+          "view": "FINAL",
+          "start_frame_planned": "outputs/construction/13A-start.png",
+          "end_frame_planned": "outputs/construction/13A-end.png",
+          "prompt": "Photoreal construction film. Fixed source-based room/camera; two consistent workers. Lead: short grey hair, navy shirt, dark trousers, tan tool belt. Partner: grey shirt, dark trousers, dark cap, dark tool belt. Rigid objects, believable weight/contact. No morphing, teleporting, duplicates, narration, music, captions or overlays. Construction sound only. One atomic action per take; time jumps happen in edit.\nShot 13, take 13A. Current view reference: outputs/keyframes/apartment-fridge-reconstruction-v11.png. Workers: outputs/keyframes/workers-v1.png. Original geometry reference: references/original/ref-h-apartment-facing.webp.\nSTART: All final features in place.\nACTION: Restrained final apartment-facing reveal matching the restored photograph.\nEND: Final selected photograph appearance held through60.\nKeep only this action in the uninterrupted take. Preserve all already installed elements; new fridge arrives only in07, lighting stays ON after08. Microwave below counter LEFT of west sink; charging nook phone+speaker only; coffee/wine on north wall. Restored FINAL reference governs refrigerator/enclosure where visible, without reopening its design.\nMandatory stage START/END images are not yet generated. Attach and inspect both before submission; do not animate a finished photograph as an earlier construction state."
+        }
+      ]
+    }
+  ]
+}

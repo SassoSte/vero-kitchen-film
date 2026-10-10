@@ -28,6 +28,11 @@ lock=json.loads((ROOT/'outputs/production/north-east-visual-lock.json').read_tex
 check(digest(ROOT/lock['asset'])==lock['sha256'],'User-locked north/east image unchanged')
 west_lock=json.loads((ROOT/'outputs/production/west-visual-lock.json').read_text())
 check(digest(ROOT/west_lock['asset'])==west_lock['sha256'],'User-accepted west image unchanged')
+apartment_lock=json.loads((ROOT/'outputs/production/apartment-visual-lock.json').read_text())
+check(digest(ROOT/apartment_lock['asset'])==apartment_lock['sha256'],'Restored photographic third view unchanged')
+plan=json.loads((ROOT/'outputs/production/construction-state-plan.json').read_text())
+check(len(plan['shots'])==13 and sum(s['edit_out']-s['edit_in'] for s in plan['shots'])==60,'Construction plan13 shots/60 seconds')
+check(all(abs(sum(t['edit_out']-t['edit_in'] for t in s['takes'])-(s['edit_out']-s['edit_in']))<1e-6 for s in plan['shots']),'Atomic edit slots reconcile')
 cat=json.loads((ROOT/'docs/asset-catalog.json').read_text());assets=cat['assets']
 check(len({x['id'] for x in assets})==len(assets),'Unique stable asset IDs')
 exts={'.png','.jpg','.jpeg','.webp','.mp4','.mov','.webm','.m4v'}
