@@ -8,7 +8,7 @@ matrix and dimension-derivation method are retained. This is an extract, not a b
 
 | Hurdle | Solution that worked |
 |---|---|
-| `theallisoncondos.com` (Entrata) → HTTP 403 on plain fetch | **Firecrawl v2 scrape** with the Firecrawl Hermes key (1Password) — markdown format, ~7 s |
+| `theallisoncondos.com` (Entrata) → HTTP 403 on plain fetch | **Firecrawl v2 scrape** with the `Firecrawl API Key` (1Password) — markdown format, ~7 s |
 | Zillow property page (bot-walled class of site) | Firecrawl scrape returned the real `homedetails` page (not a search redirect) — verify by checking the returned title/facts before trusting |
 | Coldwell Banker / Realtor.com listing pages | Firecrawl scrape — clean markdown incl. ARMLS fact blocks (appliances, interior features, subdivision) |
 | Cheap facts before scraping | `web_search` snippets alone carried sold price, sqft, bed/bath, MLS #, active asks (Movoto) — search first, scrape only what search doesn't answer |
