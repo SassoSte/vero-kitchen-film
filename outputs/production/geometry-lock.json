@@ -63,9 +63,15 @@
     "whole-unit table kitchen142sqft contradicts123x105inch area89.6875sqft",
     "whole-unit462in label38ft5in should38ft6in",
     "plan cap45in differs dimension/elevation approx60in",
-    "whole-unit schematic appliance labels/handedness cannot override original photos"
+    "whole-unit schematic appliance labels/handedness cannot override original photos",
+    "Photo REF-A/B/I puts DW toward coffee/wine north wall; old plan Run B order conflicts. Diagram follows photos; exact module allocation unresolved."
   ],
   "generated_views_are_not_geometry_evidence": true,
   "production_status": "concept-review-hold",
-  "latest_concept_review": "docs/RESUME-2026-10-09.md"
+  "latest_concept_review": "docs/RESUME-2026-10-09.md",
+  "discussion_directions": {
+    "north": "coffee/wine end wall",
+    "west": "sink/pass-through/bar side",
+    "east": "main fridge/range run"
+  }
 }

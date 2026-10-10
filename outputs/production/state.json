@@ -1,6 +1,6 @@
 {
   "project": "vero-kitchen-film",
-  "phase": "One authorized concept generated; user review pending; further generation disabled",
+  "phase": "Orientation review requested before further design work; generation disabled",
   "budget_ceiling_credits": 205,
   "approved_features": [
     "Wolf GR304 red knobs with pale hood; no over-range microwave",
@@ -67,7 +67,7 @@
   ],
   "gate": "No video generation until finished views agree and stage/worker references are inspected.",
   "design_revision": "2026-10-09-ref-k-french-doors",
-  "pending_design_selection": "Exact French-door model/clearances and scaled REF-K composition pending; coffee wall location is settled.",
+  "pending_design_selection": "Orientation/dimension reconciliation first; then sleek modern espresso options and wider wine front with narrower adjacent cupboards.",
   "coffee_garage": {
     "status": "Current user intent: REF-K integrated recessed coffee/wine composition, compact machine and lit preparation/glass storage",
     "wall": "SAME blank wall beside main refrigerator as wine fridge",
@@ -119,5 +119,12 @@
       "Unrequested refrigerator upper surround",
       "Malformed appliance badge; exact model/height unverified"
     ]
+  },
+  "orientation_review": "docs/ORIENTATION-2026-10-09.md",
+  "discussion_directions": {
+    "north": "coffee/wine end wall",
+    "west": "sink/pass-through/bar side toward living room",
+    "east": "main fridge/range run",
+    "south": "open kitchen access"
   }
 }

@@ -1,7 +1,7 @@
 {
   "project": "vero-kitchen-film",
   "inventory_revision": "2026-10-09-resumed-one-concept",
-  "production": "One authorized concept generated; user review pending; further generation disabled",
+  "production": "Orientation review requested before further design work; generation disabled",
   "authority": "Latest style REF-K; two upper French doors/lower freezer drawer, model/fit pending. No generated still is final approved complete current design.",
   "review_sources": [
     "outputs/inspection.txt",
@@ -10,7 +10,7 @@
     "conversation review findings"
   ],
   "root": "/Users/stefansassoon/projects/vero-kitchen-film",
-  "still_count": 56,
+  "still_count": 57,
   "video_count": 3,
   "prepared_not_generated": [],
   "assets": [
@@ -988,6 +988,25 @@
       "bytes": 133486,
       "sha256": "ceac3114377d677765bd2b0f2e63254b31e0d9efe8496640947272e8e095d51a",
       "job_name": "end-wall-proposed",
+      "job_id": null,
+      "receipts": {},
+      "source_provenance": null,
+      "review_source_note": "Recorded inspection/conversation findings or source-reference role; not a new visual inspection."
+    },
+    {
+      "id": "ASSET-9392D932F4A8",
+      "title": "Kitchen Orientation V1",
+      "path": "outputs/review/kitchen-orientation-v1.png",
+      "absolute_path": "/Users/stefansassoon/projects/vero-kitchen-film/outputs/review/kitchen-orientation-v1.png",
+      "kind": "still",
+      "category": "diagrams",
+      "role": "Photo-based orientation diagram",
+      "status": "provisional-orientation",
+      "verdict": "Discussion north coffee/wine; west sink/bar; east cooking. Camera marker five feet west.",
+      "superseded_reason": "Diagram uses inherited unverified dimensions; source Run B order conflicts with photos. Not source drawing or approved layout.",
+      "bytes": 105635,
+      "sha256": "ee2bde38a104d66024ddf5b4e2a8581a9ff570b7d0329e4f5f16696083e8b82c",
+      "job_name": null,
       "job_id": null,
       "receipts": {},
       "source_provenance": null,

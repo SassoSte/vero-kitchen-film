@@ -4,7 +4,7 @@ Latest style REF-K; two upper French doors/lower freezer drawer, model/fit pendi
 
 Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashes of repository-relative paths. Hashes describe exact existing bytes; verdicts are sourced review findings, not a new visual inspection.
 
-**56 stills · 3 videos.**
+**57 stills · 3 videos.**
 
 [Open searchable gallery](../outputs/stills-gallery.html) · [Machine-readable catalog](asset-catalog.json)
 
@@ -613,6 +613,18 @@ Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashe
 - Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
 - Limit / superseded reason: User rejected projecting scheme; original diagrams remain separate geometry sources.
 - Bytes: 133486; SHA-256: `ceac3114377d677765bd2b0f2e63254b31e0d9efe8496640947272e8e095d51a`
+- Job ID: `not recorded`
+
+### ASSET-9392D932F4A8 — Kitchen Orientation V1
+
+- Exact filename: `kitchen-orientation-v1.png`
+- File: [outputs/review/kitchen-orientation-v1.png](../outputs/review/kitchen-orientation-v1.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/review/kitchen-orientation-v1.png`
+- Role: Photo-based orientation diagram; status: **provisional-orientation**
+- Known verdict: Discussion north coffee/wine; west sink/bar; east cooking. Camera marker five feet west.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Diagram uses inherited unverified dimensions; source Run B order conflicts with photos. Not source drawing or approved layout.
+- Bytes: 105635; SHA-256: `ee2bde38a104d66024ddf5b4e2a8581a9ff570b7d0329e4f5f16696083e8b82c`
 - Job ID: `not recorded`
 
 ### ASSET-C895B2CEF099 — White Shaker cabinetry and stone — REF-E

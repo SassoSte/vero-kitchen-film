@@ -88,6 +88,7 @@ def classify(p):
  stem=p.stem; rel=p.relative_to(ROOT).as_posix()
  if rel=='apartment-blueprint/tallbot-marketing-reference.jpg':
   return 'original','Marketing floor-plan reference','source-context','Byte-exact copied marketing diagram; background apartment context, not surveyed geometry or final appliance placement.','Original unit photos and detailed module sources override schematic marketing layout; no new visual inspection.',None
+ if stem=='kitchen-orientation-v1':return 'diagrams','Photo-based orientation diagram','provisional-orientation','Discussion north coffee/wine; west sink/bar; east cooking. Camera marker five feet west.','Diagram uses inherited unverified dimensions; source Run B order conflicts with photos. Not source drawing or approved layout.',None
  if '/review/' in rel:
   name=re.sub(r'-(6fps|end)$','',stem); status,verdict,why=KNOWN.get(name,('not-inspected-record','No review mapped.',''))
   return 'pilot-review',('Endpoint frame' if stem.endswith('-end') else '6-fps contact sheet'),status,verdict,why,name
