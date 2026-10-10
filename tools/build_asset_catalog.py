@@ -5,6 +5,7 @@ import hashlib, json, re, html
 ROOT=Path(__file__).resolve().parents[1]
 OUT=ROOT/'outputs'; E=html.escape
 KNOWN={
+'kitchen-espresso-realism-v1':('partial-improvement-with-regression','Lead inspected: modestly improved machine depth/reflections, but unwanted cup added beneath group head.','Comparison candidate only; not promoted over prior wide view. Realism/user acceptance unresolved.'),
 'kitchen-north-integrated-v2':('candidate-awaiting-user-review','Lead inspected: developed north station integrated; upper microwave/armoire and fridge surround removed; wand visible and canister clearance improved.','North glass clearer than finishing detail; appliance fit and three-view matching unresolved.'),
 'north-wall-finish-v1':('partial-finishing-pass','Lead inspected: steam wand restored and frosted glass softened. Canister lid clearance remains too tight.','Wider integration prepared with shorter-canister correction; authorized but wallet funds insufficient. Physical fit unresolved.'),
 'north-wall-coffee-shelves-v1':('candidate-awaiting-user-review','Lead inspected: espresso-service shelves, spoons and raw-sugar jar; coordinated cappuccino/wine cupboard contents.','Glazing clearer than prior frost; steam wand unclear; canister lid access unverified. User review and fit pending.'),

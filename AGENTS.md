@@ -4,13 +4,12 @@ Read `HANDOFF.md` first, then `mega-prompt.md`, `docs/SOURCE-REGISTER.md` and th
 `docs/BACKLOG.md`. `outputs/stills-gallery.html` / `docs/asset-catalog.json` identify
 assets and their status; version number alone is not approval.
 
-User approved **238 total credits for TWO sequential renders** on 2026-10-09:
-`north-wall-finish-v1`, then `kitchen-north-integrated-v2` after inspecting the first.
-Read `outputs/production/north-wall-integration-authorization.json` and live ledger/state.
-No automatic retries, purchases or video jobs. Account balance is separate from task
-budget; insufficient wallet funds do not authorize top-ups. Preserve the developed
-kitchen and confirmed orientation; restore wand, canister clearance and frosting,
-then integrate the accepted north-wall detail. Disable generation between steps.
+User approved **244 total credits for ONE espresso realism correction** on 2026-10-09:
+`kitchen-espresso-realism-v1`, in the full kitchen view. Read
+`outputs/production/espresso-realism-authorization.json` and live ledger/state.
+Preserve selected machine design and all surrounding kitchen elements. Prior two-render
+allowance is consumed. No automatic retries, purchases or video jobs. Account funds do
+not expand task authority. Disable generation after this one job.
 
 
 Original photos/plans and manufacturer evidence remain separate from generated concepts.

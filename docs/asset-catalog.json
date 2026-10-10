@@ -1,7 +1,7 @@
 {
   "project": "vero-kitchen-film",
   "inventory_revision": "2026-10-09-resumed-one-concept",
-  "production": "Both authorized renders completed; wider kitchen candidate awaiting user review",
+  "production": "Espresso realism attempt inspected: modest improvement, unwanted cup; no further generation authorized",
   "authority": "Latest north-wall REF-M dial espresso/canister edit within REF-L composition and retained frosted uppers; two upper French doors/lower freezer drawer, model/fit pending. No generated still is final approved complete current design.",
   "review_sources": [
     "outputs/inspection.txt",
@@ -10,7 +10,7 @@
     "conversation review findings"
   ],
   "root": "/Users/stefansassoon/projects/vero-kitchen-film",
-  "still_count": 64,
+  "still_count": 65,
   "video_count": 3,
   "prepared_not_generated": [],
   "assets": [
@@ -418,6 +418,30 @@
         "quote": "outputs/production/integrated-wall-frenchdoor-v1-quote.json",
         "result": "outputs/production/integrated-wall-frenchdoor-v1-result.json",
         "stderr": "outputs/production/integrated-wall-frenchdoor-v1-stderr.txt"
+      },
+      "source_provenance": null,
+      "review_source_note": "Recorded inspection/conversation findings or source-reference role; not a new visual inspection."
+    },
+    {
+      "id": "ASSET-770469A80C56",
+      "title": "Kitchen Espresso Realism V1",
+      "path": "outputs/keyframes/kitchen-espresso-realism-v1.png",
+      "absolute_path": "/Users/stefansassoon/projects/vero-kitchen-film/outputs/keyframes/kitchen-espresso-realism-v1.png",
+      "kind": "still",
+      "category": "generated",
+      "role": "Generated still / diagram",
+      "status": "partial-improvement-with-regression",
+      "verdict": "Lead inspected: modestly improved machine depth/reflections, but unwanted cup added beneath group head.",
+      "superseded_reason": "Comparison candidate only; not promoted over prior wide view. Realism/user acceptance unresolved.",
+      "bytes": 5917128,
+      "sha256": "ae79b234ca67b8b993eb5b5928877960e0144951d98e1497a16f8141c4e03e3b",
+      "job_name": "kitchen-espresso-realism-v1",
+      "job_id": "3c24429a-73e2-41ee-a6f4-23fcdb93708f",
+      "receipts": {
+        "request": "outputs/production/kitchen-espresso-realism-v1-request.json",
+        "quote": "outputs/production/kitchen-espresso-realism-v1-quote.json",
+        "result": "outputs/production/kitchen-espresso-realism-v1-result.json",
+        "stderr": "outputs/production/kitchen-espresso-realism-v1-stderr.txt"
       },
       "source_provenance": null,
       "review_source_note": "Recorded inspection/conversation findings or source-reference role; not a new visual inspection."

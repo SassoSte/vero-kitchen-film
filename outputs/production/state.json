@@ -1,7 +1,7 @@
 {
   "project": "vero-kitchen-film",
-  "phase": "Both authorized renders completed; wider kitchen candidate awaiting user review",
-  "budget_ceiling_credits": 238,
+  "phase": "Espresso realism attempt inspected: modest improvement, unwanted cup; no further generation authorized",
+  "budget_ceiling_credits": 244,
   "approved_features": [
     "Wolf GR304 red knobs with pale hood; no over-range microwave",
     "Built-in microwave on sink side left of sink",
@@ -93,10 +93,11 @@
   "geometry_lock": "outputs/production/geometry-lock.json",
   "fridge_style": "French-door upper pair meeting at center, bottom freezer drawer",
   "next_job": {
-    "request": "outputs/production/kitchen-north-integrated-v2-request.json",
-    "status": "GENERATED; user review pending; two-render allowance consumed",
-    "authorization": "Approve 238 total for two renders; second remains unconsumed",
+    "request": "outputs/production/kitchen-espresso-realism-v1-request.json",
+    "status": "GENERATED; partial improvement with unwanted-cup regression; not promoted",
     "prior_comparable_quote_credits": 6.5,
+    "proposed_total_ceiling": 244,
+    "authorization": "Approve 244 total for one render",
     "quoted_credits": 6.5
   },
   "status": "concept-review-hold",
@@ -112,17 +113,17 @@
     "lessons": "docs/LESSONS.md"
   },
   "authorized_jobs": [],
-  "authorization": "outputs/production/north-wall-integration-authorization.json",
-  "latest_concept": "outputs/keyframes/kitchen-north-integrated-v2.png",
+  "authorization": "outputs/production/espresso-realism-authorization.json",
+  "latest_concept": "outputs/keyframes/kitchen-espresso-realism-v1.png",
   "latest_concept_review": {
-    "status": "candidate-awaiting-user-review",
+    "status": "partial-improvement-with-regression",
     "reviewer": "lead only",
-    "record": "docs/NORTH-WALL-FINISH-INTEGRATION.md",
+    "record": "docs/ESPRESSO-REALISM-REVIEW.md",
     "limits": [
-      "North upper glass clearer than finishing close-up",
-      "Exact dimensions and appliance fit unverified",
-      "Microwave proper base location outside this crop",
-      "Three-view design not yet fully reconciled"
+      "Modest realism improvement only",
+      "Unwanted cup added beneath group head",
+      "Do not replace wider master automatically",
+      "North frosting consistency and physical fit still unresolved"
     ]
   },
   "orientation_review": "docs/ORIENTATION-2026-10-09.md",
@@ -167,5 +168,6 @@
     "balance": 4000.5,
     "date": "2026-10-09",
     "task_cap_unchanged": 238
-  }
+  },
+  "espresso_realism_candidate": "outputs/keyframes/kitchen-espresso-realism-v1.png"
 }

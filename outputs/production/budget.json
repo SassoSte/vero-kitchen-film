@@ -1,7 +1,7 @@
 {
-  "ceiling_credits": 238,
+  "ceiling_credits": 244,
   "opening_balance": 1246.8,
-  "reserved_credits": 237.25,
+  "reserved_credits": 243.75,
   "jobs": [
     {
       "name": "master-v1",
@@ -267,17 +267,24 @@
       "status": "generated",
       "job_id": "73df6ed0-e482-416f-9e78-f7b17dcf6615",
       "file": "outputs/keyframes/kitchen-north-integrated-v2.png"
+    },
+    {
+      "name": "kitchen-espresso-realism-v1",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "3c24429a-73e2-41ee-a6f4-23fcdb93708f",
+      "file": "outputs/keyframes/kitchen-espresso-realism-v1.png"
     }
   ],
-  "balance_after": 3994,
+  "balance_after": 3987.5,
   "balance_delta": null,
-  "remaining_phase_credits": 0.75,
-  "account_snapshot_note": "User top-up independently verified4000.5; wider integration6.5 quote then3994. Top-up not a task-generation cost or expanded task authority.",
-  "task_quote_total": 237.25,
+  "remaining_phase_credits": 0.25,
+  "account_snapshot_note": "Espresso realism attempt3994 to3987.5 matches6.5 quote; cap244 unchanged.",
+  "task_quote_total": 243.75,
   "latest_pass": {
-    "opening_account_balance": 4000.5,
-    "closing_account_balance": 3994,
+    "opening_account_balance": 3994,
+    "closing_account_balance": 3987.5,
     "quoted_cost": 6.5
   },
-  "authorization": "outputs/production/north-wall-integration-authorization.json"
+  "authorization": "outputs/production/espresso-realism-authorization.json"
 }

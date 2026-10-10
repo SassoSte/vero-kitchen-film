@@ -4,13 +4,13 @@ Latest north-wall REF-M dial espresso/canister edit within REF-L composition and
 
 Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashes of repository-relative paths. Hashes describe exact existing bytes; verdicts are sourced review findings, not a new visual inspection.
 
-**64 stills · 3 videos.**
+**65 stills · 3 videos.**
 
 [Open searchable gallery](../outputs/stills-gallery.html) · [Machine-readable catalog](asset-catalog.json)
 
 ## Latest bounded concept
 
-`kitchen-north-integrated-v2` — **GENERATED**, quoted 6.5 credits. See the production state and asset entry below.
+`kitchen-espresso-realism-v1` — **GENERATED**, quoted 6.5 credits. See the production state and asset entry below.
 
 ## Stills
 
@@ -282,6 +282,22 @@ Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashe
 - Quote receipt: [outputs/production/integrated-wall-frenchdoor-v1-quote.json](../outputs/production/integrated-wall-frenchdoor-v1-quote.json)
 - Result receipt: [outputs/production/integrated-wall-frenchdoor-v1-result.json](../outputs/production/integrated-wall-frenchdoor-v1-result.json)
 - Stderr receipt: [outputs/production/integrated-wall-frenchdoor-v1-stderr.txt](../outputs/production/integrated-wall-frenchdoor-v1-stderr.txt)
+
+### ASSET-770469A80C56 — Kitchen Espresso Realism V1
+
+- Exact filename: `kitchen-espresso-realism-v1.png`
+- File: [outputs/keyframes/kitchen-espresso-realism-v1.png](../outputs/keyframes/kitchen-espresso-realism-v1.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/keyframes/kitchen-espresso-realism-v1.png`
+- Role: Generated still / diagram; status: **partial-improvement-with-regression**
+- Known verdict: Lead inspected: modestly improved machine depth/reflections, but unwanted cup added beneath group head.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Comparison candidate only; not promoted over prior wide view. Realism/user acceptance unresolved.
+- Bytes: 5917128; SHA-256: `ae79b234ca67b8b993eb5b5928877960e0144951d98e1497a16f8141c4e03e3b`
+- Job ID: `3c24429a-73e2-41ee-a6f4-23fcdb93708f`
+- Request receipt: [outputs/production/kitchen-espresso-realism-v1-request.json](../outputs/production/kitchen-espresso-realism-v1-request.json)
+- Quote receipt: [outputs/production/kitchen-espresso-realism-v1-quote.json](../outputs/production/kitchen-espresso-realism-v1-quote.json)
+- Result receipt: [outputs/production/kitchen-espresso-realism-v1-result.json](../outputs/production/kitchen-espresso-realism-v1-result.json)
+- Stderr receipt: [outputs/production/kitchen-espresso-realism-v1-stderr.txt](../outputs/production/kitchen-espresso-realism-v1-stderr.txt)
 
 ### ASSET-3782BFF78747 — Kitchen North Integrated V2
 

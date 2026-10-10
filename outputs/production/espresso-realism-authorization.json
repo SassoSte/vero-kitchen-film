@@ -1,0 +1,11 @@
+{
+  "date": "2026-10-09",
+  "timezone": "America/Phoenix",
+  "budget_user_text": "Approve 244 total for one render",
+  "total_ceiling_credits": 244,
+  "authorized_jobs": [
+    "kitchen-espresso-realism-v1"
+  ],
+  "max_new_jobs": 1,
+  "scope": "One localized espresso realism correction in full kitchen; no automatic retry."
+}

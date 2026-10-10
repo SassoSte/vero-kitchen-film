@@ -1,0 +1,40 @@
+[
+  {
+    "created_at": "2026-10-10T06:50:57.201518Z",
+    "display_name": "GPT Image 2",
+    "id": "3c24429a-73e2-41ee-a6f4-23fcdb93708f",
+    "job_type": "gpt_image_2",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_065057_3c24429a-73e2-41ee-a6f4-23fcdb93708f_min.webp",
+    "params": {
+      "aspect_ratio": "16:9",
+      "height": 1520,
+      "medias": [
+        {
+          "data": {
+            "id": "277772aa-b933-42a4-8654-688f80c18a07",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/277772aa-b933-42a4-8654-688f80c18a07_resize.jpg"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "4c11f406-1e71-495b-a7b7-d8926dd8ce06",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/4c11f406-1e71-495b-a7b7-d8926dd8ce06.png"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "videotape-alpha",
+      "prompt": "Edit image1, the FULL KITCHEN image, with one narrowly localized correction: make ONLY the espresso machine in the north-wall niche convincingly photorealistic and integrated into this photographed room. Image2 is the user's chosen machine appearance reference. Preserve its design: rounded rectangular black body, restrained warm-metal trim, central circular analog gauge, round knobs, portafilter and right steam wand. Do not change machine type, location or its approximate countertop footprint. Do not move or redesign the coffee station.\nThe current small machine looks like a pasted product illustration: bright outlined brass face, overly legible dial and simplified black body. Correct its three-dimensional perspective to the north-wall countertop plane and camera; show plausible body depth and side planes, contact and ambient occlusion beneath its feet/drip tray, and naturally weighted shadows consistent with the niche light. Use realistic black enamel and brushed warm-metal response with subtle surface variation, soft local reflections and restrained specular highlights. Avoid golden neon edges, graphic outlines, glowing dial or uniformly black cutout surfaces. Match the room's warm illumination without spotlighting the machine. Match local focus, spatial resolution, contrast and fine grain to nearby objects at the SAME distance; do not make its controls unusually crisp or readable in a wide shot. Tiny control markings should resolve naturally as photographic detail, not invented legible text. Keep the steam wand and portafilter physically connected and coherent.\nEverything outside the espresso-machine silhouette and its immediate countertop contact shadow must remain unchanged: same full image framing and camera, cabinet and wall geometry, coffee shelves/canisters/sugar jar/cups, upper glass and contents, wine fridge, oak storage, main refrigerator, range/hood/pot filler, red toaster/kettle, sink edge, worktops, flooring, lighting and room scale. Do not crop in, generate a standalone product shot, alter frosting, introduce accessories or revise the rest of the kitchen. Return ONE full kitchen16:9 image, with the machine rendered as a real appliance photographed there. No captions, branding additions or labels.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 2688
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_065057_3c24429a-73e2-41ee-a6f4-23fcdb93708f.png",
+    "status": "completed"
+  }
+]
