@@ -1,7 +1,7 @@
 {
   "project": "vero-kitchen-film",
   "inventory_revision": "2026-10-09-resumed-one-concept",
-  "production": "North/east wide view locked by user; west sink wall review active; generation disabled",
+  "production": "West nook charging-only edit prepared; additional paid allowance pending",
   "authority": "Latest north-wall REF-M dial espresso/canister edit within REF-L composition and retained frosted uppers; two upper French doors/lower freezer drawer, model/fit pending. North/east wide view kitchen-smeg-realism-v1 is user-locked; west view is under review, complete cross-view set pending.",
   "review_sources": [
     "outputs/inspection.txt",
@@ -12,7 +12,18 @@
   "root": "/Users/stefansassoon/projects/vero-kitchen-film",
   "still_count": 66,
   "video_count": 3,
-  "prepared_not_generated": [],
+  "prepared_not_generated": [
+    {
+      "id": "PREP-west-nook-charging-only-v1",
+      "name": "west-nook-charging-only-v1",
+      "status": "PREPARED; NOT QUOTED OR SUBMITTED",
+      "quote_credits": null,
+      "note": "West nook charging-only edit prepared; additional paid allowance pending",
+      "receipts": {
+        "request": "outputs/production/west-nook-charging-only-v1-request.json"
+      }
+    }
+  ],
   "assets": [
     {
       "id": "ASSET-79E492B2F8D4",

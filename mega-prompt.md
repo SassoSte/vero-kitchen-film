@@ -1,3 +1,5 @@
+> **Latest WEST-wall instruction:** Existing nook holds ONLY phone dock/charging station. Remove spices, internal shelf and speaker; retain nook shape, oak, discreet light and concealed wiring. No decorative objects, prep niche, boards or knives. North/east visual lock remains intact. `west-nook-charging-only-v1` prepared; paid cap increase pending.
+
 > **USER VISUAL LOCK — 2026-10-10:** `kitchen-smeg-realism-v1.png` is approved and locked as the north/east wide view; [exact asset/hash and approval](outputs/production/north-east-visual-lock.json). Preserve it. Current focus is WEST sink wall using `sink-v4.png`; review first, no new paid job authorized. Task250.25/251. Earlier critiques/statuses below are historical.
 
 > **Latest result — 2026-10-10:** [Paired SMEG correction](docs/SMEG-REALISM-REVIEW.md) rendered; subtle improvement, user review pending. Task **250.25/251**, **0.75 remaining**; generation disabled. Earlier status/budget text is historical.

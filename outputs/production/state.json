@@ -1,6 +1,6 @@
 {
   "project": "vero-kitchen-film",
-  "phase": "North/east wide view locked by user; west sink wall review active; generation disabled",
+  "phase": "West nook charging-only edit prepared; additional paid allowance pending",
   "budget_ceiling_credits": 251,
   "approved_features": [
     "Wolf GR304 red knobs with pale hood; no over-range microwave",
@@ -94,12 +94,11 @@
   "geometry_lock": "outputs/production/geometry-lock.json",
   "fridge_style": "French-door upper pair meeting at center, bottom freezer drawer",
   "next_job": {
-    "request": "outputs/production/kitchen-smeg-realism-v1-request.json",
-    "status": "GENERATED AND USER-LOCKED; no next paid job authorized",
+    "request": "outputs/production/west-nook-charging-only-v1-request.json",
+    "status": "PREPARED; NOT QUOTED OR SUBMITTED",
     "prior_comparable_quote_credits": 6.5,
-    "proposed_total_ceiling": 251,
-    "authorization": "Approve 251 total for one render",
-    "quoted_credits": 6.5
+    "proposed_total_ceiling": 257,
+    "authorization": "Not approved"
   },
   "status": "concept-review-hold",
   "pause_reason": null,
@@ -178,6 +177,28 @@
   "next_focus": {
     "wall": "west",
     "view": "outputs/keyframes/sink-v4.png",
-    "scope": "Review established sink/microwave/nook/pass-through design; no specific changes or new render authorized"
+    "scope": "Only dock/charging station in existing nook; remove spices/shelf/speaker; preserve geometry and all other elements"
+  },
+  "west_nook_direction": {
+    "user_instruction": "Keep just the dock and charging station. Go.",
+    "remove": [
+      "spices",
+      "internal spice shelf",
+      "smart speaker"
+    ],
+    "retain": [
+      "existing nook shape",
+      "oak lining",
+      "phone dock/charging station",
+      "discreet light",
+      "concealed wiring"
+    ],
+    "rejected_suggestions": [
+      "vase",
+      "glasses tray",
+      "cutting boards",
+      "knife block",
+      "prep niche"
+    ]
   }
 }

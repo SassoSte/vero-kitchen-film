@@ -1,0 +1,13 @@
+{
+  "model": "gpt_image_2",
+  "params": {
+    "quality": "high",
+    "resolution": "2k",
+    "aspect_ratio": "16:9"
+  },
+  "references": [
+    "outputs/keyframes/sink-v4.png"
+  ],
+  "prompt": "Edit ONLY the recessed oak-lined nook at the left of this existing west-wall kitchen image. Keep its exact outer opening, position, dimensions, white frame and oak lining. Remove ALL spice jars, their internal horizontal shelf, and the round smart speaker. Leave ONLY the existing phone dock/charging station, with the phone seated naturally on its dock on the bottom of the recess. Conceal charging wiring. Keep restrained, soft concealed light at the top of the nook; no spotlight hotspot or exaggerated glow. The dock/phone should look photographed in the room, with realistic perspective, modest reflections, material texture, contact shadow and image sharpness consistent with nearby cabinetry. Leave the remaining niche empty. Do not add a vase, glasses, tray, plant, cutting boards, knives, decorations, accessories or extra devices.\nEverything outside the nook stays unchanged: existing camera and full framing, west wall, electrical switches/outlets, microwave BELOW the counter LEFT of sink, single basin, L-shaped faucet and soap dispenser, dishwasher and clear worktop, white Shaker cabinetry, pale quartz, raised pass-through, flowers/fruit already on the ledge, living-room opening, doors/windows, ceiling fan and floor. Do not lower the opening to the countertop, add a prep niche, move any appliances, redesign any wall, or change other established styling. One photoreal full16:9 west-wall image with a clean charging-only nook. No labels or new text.",
+  "output": "outputs/keyframes/west-nook-charging-only-v1.png"
+}

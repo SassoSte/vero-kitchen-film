@@ -10,7 +10,7 @@ Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashe
 
 ## Latest bounded concept
 
-`kitchen-smeg-realism-v1` — **GENERATED**, quoted 6.5 credits. See the production state and asset entry below.
+`west-nook-charging-only-v1` — **PREPARED; NOT QUOTED OR SUBMITTED**, quoted None credits. See the production state and asset entry below.
 
 ## Stills
 
