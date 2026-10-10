@@ -1,4 +1,6 @@
-# Kitchen orientation reset — 2026-10-09
+# Kitchen orientation confirmed — 2026-10-09
+
+**User confirmed the orientation:** “that's the correct orientation.” This confirms the north/west/east mapping, not the estimated dimensions. User objected to being shown original BEFORE photos instead of the developed remodel images. Preserve design progress and use the developed views for design discussions: `sink-v4.png` for sink/microwave/nook and `apartment-v7.png` for the apartment-facing design (its single-door fridge is superseded). Latest north-wall concept remains subject to espresso and wine-proportion corrections. Do not treat orientation review as a design reset.
 
 User requests that room orientation and dimensions be reconciled before more design mockups. **North** is the coffee/wine end wall, **west** the sink/pass-through/living-room side, and **east** the refrigerator/range run. These are discussion labels, not surveyed compass bearings. South is the open kitchen access end.
 

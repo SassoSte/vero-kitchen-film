@@ -1,6 +1,6 @@
 {
   "project": "vero-kitchen-film",
-  "phase": "Orientation review requested before further design work; generation disabled",
+  "phase": "Orientation confirmed; preserve remodel progress and refine requested north-wall details; generation disabled",
   "budget_ceiling_credits": 205,
   "approved_features": [
     "Wolf GR304 red knobs with pale hood; no over-range microwave",
@@ -126,5 +126,14 @@
     "west": "sink/pass-through/bar side toward living room",
     "east": "main fridge/range run",
     "south": "open kitchen access"
+  },
+  "orientation_confirmed_by_user": true,
+  "dimension_estimates_confirmed_by_user": false,
+  "design_progress_references": {
+    "west_sink": "outputs/keyframes/sink-v4.png",
+    "west_external_view": "outputs/keyframes/apartment-v7.png",
+    "west_external_view_exception": "Single-door fridge superseded; retain latest French-door instruction",
+    "north_latest": "outputs/keyframes/integrated-wall-frenchdoor-v1.png",
+    "north_exceptions": "Replace pedestrian espresso unit; explore wider wine front and smaller adjacent cupboards. Retain lighting/frosted-glass direction. Remove invented west armoire and fridge surround."
   }
 }
