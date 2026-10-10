@@ -1,3 +1,5 @@
+> **User subsequently approved and locked this image on2026-10-10.** Earlier lead critique below is retained as historical review, not an instruction to keep changing the accepted design. See `outputs/production/north-east-visual-lock.json`.
+
 # Paired SMEG realism edit — 2026-10-10
 
 [Full kitchen image](../outputs/keyframes/kitchen-smeg-realism-v1.png) · [exact request](../outputs/production/kitchen-smeg-realism-v1-request.json) · [authorization](../outputs/production/smeg-realism-authorization.json)

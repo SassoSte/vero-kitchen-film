@@ -1,0 +1,10 @@
+{
+  "date": "2026-10-10",
+  "timezone": "America/Phoenix",
+  "user_text": "Very well. Let's lock that - and go to the west wall.",
+  "asset": "outputs/keyframes/kitchen-smeg-realism-v1.png",
+  "sha256": "488e9ffedae8f794c97d71a726ffb045a984e095fe85e51b57d1628a25a293fb",
+  "scope": "User-approved visual north/east wide kitchen view. Preserve appearance; not construction-fit or final-film approval.",
+  "next_focus": "West sink/pass-through wall, established sink-v4.png",
+  "known_visual_details": "Accepted current image as displayed, including espresso tray cup and current frosting/SMEG rendering; do not automatically fix or revert them."
+}

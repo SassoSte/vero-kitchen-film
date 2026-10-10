@@ -1,6 +1,6 @@
 {
   "project": "vero-kitchen-film",
-  "phase": "Paired SMEG realism edit generated; user review pending; generation disabled",
+  "phase": "North/east wide view locked by user; west sink wall review active; generation disabled",
   "budget_ceiling_credits": 251,
   "approved_features": [
     "Wolf GR304 red knobs with pale hood; no over-range microwave",
@@ -18,15 +18,16 @@
   "views": {
     "master": {
       "original": "references/original/ref-a-cooking-run.webp",
-      "status": "Wider integration candidate; user review pending",
-      "take": "kitchen-north-integrated-v2",
-      "defects": [
-        "North glass clearer than finishing detail"
+      "status": "user-approved-visual-lock",
+      "take": "kitchen-smeg-realism-v1",
+      "defects": [],
+      "review_limits": [
+        "Visual approval only; physical fit unresolved"
       ]
     },
     "sink": {
       "original": "references/original/ref-b-sink-run.webp",
-      "status": "historical candidate pending REF-K/French-door update",
+      "status": "Established west-wall design under current user review",
       "take": "sink-v4",
       "defects": []
     },
@@ -94,7 +95,7 @@
   "fridge_style": "French-door upper pair meeting at center, bottom freezer drawer",
   "next_job": {
     "request": "outputs/production/kitchen-smeg-realism-v1-request.json",
-    "status": "GENERATED; user review pending",
+    "status": "GENERATED AND USER-LOCKED; no next paid job authorized",
     "prior_comparable_quote_credits": 6.5,
     "proposed_total_ceiling": 251,
     "authorization": "Approve 251 total for one render",
@@ -116,7 +117,7 @@
   "authorization": "outputs/production/smeg-realism-authorization.json",
   "latest_concept": "outputs/keyframes/kitchen-smeg-realism-v1.png",
   "latest_concept_review": {
-    "status": "candidate-awaiting-user-review",
+    "status": "user-approved-visual-lock",
     "reviewer": "lead only",
     "record": "docs/SMEG-REALISM-REVIEW.md",
     "limits": [
@@ -124,7 +125,9 @@
       "Small neighboring details changed; not pixel-local preservation",
       "Inherited espresso cup and frosting mismatch remain",
       "Appliance scale/fit unverified"
-    ]
+    ],
+    "user_approval": "Very well. Let's lock that - and go to the west wall.",
+    "approval_date": "2026-10-10"
   },
   "orientation_review": "docs/ORIENTATION-2026-10-09.md",
   "discussion_directions": {
@@ -139,8 +142,8 @@
     "west_sink": "outputs/keyframes/sink-v4.png",
     "west_external_view": "outputs/keyframes/apartment-v7.png",
     "west_external_view_exception": "Single-door fridge superseded; retain latest French-door instruction",
-    "north_latest": "outputs/keyframes/kitchen-north-integrated-v2.png",
-    "north_exceptions": "North upper glass clearer in wide view; physical fit and cross-view matching unresolved",
+    "north_latest": "outputs/keyframes/kitchen-smeg-realism-v1.png",
+    "north_exceptions": "User locked current appearance; retain historical critiques only as history. Physical fit remains unverified.",
     "north_detail": "outputs/keyframes/north-wall-finish-v1.png"
   },
   "planned_sequence": [
@@ -170,5 +173,11 @@
     "task_cap_unchanged": 238
   },
   "espresso_realism_candidate": "outputs/keyframes/kitchen-espresso-realism-v1.png",
-  "preferred_edit_base": "outputs/keyframes/kitchen-espresso-realism-v1.png"
+  "preferred_edit_base": "outputs/keyframes/kitchen-smeg-realism-v1.png",
+  "visual_lock": "outputs/production/north-east-visual-lock.json",
+  "next_focus": {
+    "wall": "west",
+    "view": "outputs/keyframes/sink-v4.png",
+    "scope": "Review established sink/microwave/nook/pass-through design; no specific changes or new render authorized"
+  }
 }

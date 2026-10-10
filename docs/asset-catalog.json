@@ -1,8 +1,8 @@
 {
   "project": "vero-kitchen-film",
   "inventory_revision": "2026-10-09-resumed-one-concept",
-  "production": "Paired SMEG realism edit generated; user review pending; generation disabled",
-  "authority": "Latest north-wall REF-M dial espresso/canister edit within REF-L composition and retained frosted uppers; two upper French doors/lower freezer drawer, model/fit pending. No generated still is final approved complete current design.",
+  "production": "North/east wide view locked by user; west sink wall review active; generation disabled",
+  "authority": "Latest north-wall REF-M dial espresso/canister edit within REF-L composition and retained frosted uppers; two upper French doors/lower freezer drawer, model/fit pending. North/east wide view kitchen-smeg-realism-v1 is user-locked; west view is under review, complete cross-view set pending.",
   "review_sources": [
     "outputs/inspection.txt",
     "mega-prompt.md",
@@ -478,9 +478,9 @@
       "kind": "still",
       "category": "generated",
       "role": "Generated still / diagram",
-      "status": "candidate-awaiting-user-review",
-      "verdict": "Lead inspected: subtler enamel variation/environmental reflections on red toaster and kettle; improvement modest.",
-      "superseded_reason": "Kettle remains glossy; minor neighboring details changed. Inherited espresso cup/frosting issues and physical fit unresolved.",
+      "status": "user-approved-visual-lock",
+      "verdict": "User explicitly locked this north/east wide kitchen view on2026-10-10; preserve its appearance.",
+      "superseded_reason": "Visual approval only, not physical fit or final-film approval. Earlier critiques remain historical; no automatic correction.",
       "bytes": 5990619,
       "sha256": "488e9ffedae8f794c97d71a726ffb045a984e095fe85e51b57d1628a25a293fb",
       "job_name": "kitchen-smeg-realism-v1",

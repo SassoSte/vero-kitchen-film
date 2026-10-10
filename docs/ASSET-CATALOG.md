@@ -1,6 +1,6 @@
 # Asset catalog — bounded concept resume
 
-Latest north-wall REF-M dial espresso/canister edit within REF-L composition and retained frosted uppers; two upper French doors/lower freezer drawer, model/fit pending. No generated still is final approved complete current design.
+Latest north-wall REF-M dial espresso/canister edit within REF-L composition and retained frosted uppers; two upper French doors/lower freezer drawer, model/fit pending. North/east wide view kitchen-smeg-realism-v1 is user-locked; west view is under review, complete cross-view set pending.
 
 Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashes of repository-relative paths. Hashes describe exact existing bytes; verdicts are sourced review findings, not a new visual inspection.
 
@@ -320,10 +320,10 @@ Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashe
 - Exact filename: `kitchen-smeg-realism-v1.png`
 - File: [outputs/keyframes/kitchen-smeg-realism-v1.png](../outputs/keyframes/kitchen-smeg-realism-v1.png)
 - Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/keyframes/kitchen-smeg-realism-v1.png`
-- Role: Generated still / diagram; status: **candidate-awaiting-user-review**
-- Known verdict: Lead inspected: subtler enamel variation/environmental reflections on red toaster and kettle; improvement modest.
+- Role: Generated still / diagram; status: **user-approved-visual-lock**
+- Known verdict: User explicitly locked this north/east wide kitchen view on2026-10-10; preserve its appearance.
 - Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
-- Limit / superseded reason: Kettle remains glossy; minor neighboring details changed. Inherited espresso cup/frosting issues and physical fit unresolved.
+- Limit / superseded reason: Visual approval only, not physical fit or final-film approval. Earlier critiques remain historical; no automatic correction.
 - Bytes: 5990619; SHA-256: `488e9ffedae8f794c97d71a726ffb045a984e095fe85e51b57d1628a25a293fb`
 - Job ID: `c0465c56-f945-4754-9bbf-7f88cd109b14`
 - Request receipt: [outputs/production/kitchen-smeg-realism-v1-request.json](../outputs/production/kitchen-smeg-realism-v1-request.json)
