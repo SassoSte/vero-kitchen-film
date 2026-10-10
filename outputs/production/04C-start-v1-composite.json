@@ -1,0 +1,10 @@
+{
+ "plate": "outputs/construction/stage-04-west-faucet.png",
+ "returned": "outputs/construction/raw/04C-start-v1.png",
+ "output": "outputs/construction/raw/04C-start-v1-composite.png",
+ "ransac_inliers": 1863,
+ "protected_mean_abs_diff_registered": 3.58,
+ "person_mask_fraction": 0.0805,
+ "pixels_identical_to_plate_fraction": 0.9195,
+ "output_sha256": "f0d5ca106d9013a00df676906b0f7cc8faba8eb6dcb3c95536cf5eb8b7186941"
+}

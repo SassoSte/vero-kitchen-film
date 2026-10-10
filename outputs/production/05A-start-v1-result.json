@@ -1,0 +1,40 @@
+[
+  {
+    "created_at": "2026-10-10T21:57:36.156905Z",
+    "display_name": "GPT Image 2",
+    "id": "f583f8dd-80d9-4774-9b50-d2bcd3428ad5",
+    "job_type": "gpt_image_2",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_215736_f583f8dd-80d9-4774-9b50-d2bcd3428ad5_min.webp",
+    "params": {
+      "aspect_ratio": "16:9",
+      "height": 1520,
+      "medias": [
+        {
+          "data": {
+            "id": "387739c5-e64b-4ede-9cce-a5ddbeb92fed",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/387739c5-e64b-4ede-9cce-a5ddbeb92fed_resize.jpg"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "1188bba7-9a9e-4312-aad8-03da35a2f94b",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/1188bba7-9a9e-4312-aad8-03da35a2f94b_resize.jpg"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "videotape-alpha",
+      "prompt": "Image1 is a fixed photograph of a kitchen under construction; reproduce it EXACTLY with the same framing — do not zoom, do not move, add or remove any cabinet, appliance or wall element. ADD ONLY the same two workers from image2, standing in exactly the same places with the same faces, clothes and tool belts as in image2.  The wall here is still bare painted plaster. The workers hold a large pale veined stone backsplash slab upright between them, its back edge about 10 cm from the wall, lining it up with the wall before pressing it on, looking at it. Nobody stands on the worktop. No other new objects. Photoreal.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 2688
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_215736_f583f8dd-80d9-4774-9b50-d2bcd3428ad5.png",
+    "status": "completed"
+  }
+]

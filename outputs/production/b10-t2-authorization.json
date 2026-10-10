@@ -1,0 +1,32 @@
+{
+  "status": "APPROVED",
+  "date": "2026-10-10",
+  "approved": "2026-10-10 America/Phoenix",
+  "budget_user_text": "Accept shot 01, commit, approve T2 no sound",
+  "scope": "B10 tranche T2: shots 04-06",
+  "plates": [
+    "W04-pre-sink"
+  ],
+  "takes": [
+    "04A",
+    "04B",
+    "04C",
+    "05A",
+    "05B",
+    "06A",
+    "06B",
+    "06C"
+  ],
+  "video_params": {
+    "model": "kling_o3_flf",
+    "mode": "pro",
+    "sound": "off"
+  },
+  "first_pass_credits": 140.5,
+  "maximum_new_spend_credits": 281.0,
+  "max_attempts_per_item": 2,
+  "prior_ceiling_credits": 496.0,
+  "total_ceiling_credits": 777.0,
+  "note": "T1 unspent headroom (105.75) not carried forward; ceiling = spend to date + T2 no-sound ceiling",
+  "sequence": "strictly sequential; lead inspects each return; retry only after written finding"
+}

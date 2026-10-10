@@ -1,0 +1,19 @@
+{
+  "model": "gpt_image_2",
+  "params": {
+    "quality": "high",
+    "resolution": "2k",
+    "aspect_ratio": "16:9"
+  },
+  "references": [
+    "outputs/keyframes/west-phone-speaker-realism-v1.png"
+  ],
+  "prompt": "Edit this kitchen photograph to an EARLIER construction stage. Keep the camera, framing, lighting, walls, white Shaker base cabinets, pale stone worktop and raised ledge, dishwasher, window and room exactly as they are. Make ONLY these changes: (1) the undermount stainless sink is not installed: show an empty rectangular cutout in the stone worktop with a clean polished edge, looking down into the dark open cabinet below; (2) no faucet and no soap dispenser: only two small round holes drilled in the stone behind the cutout; (3) the built-in microwave is not installed: its cabinet opening on the left is an empty dark rectangular cavity with a power outlet at the back; (4) the flowers in a vase and the bowl of lemons are gone: the ledge is bare; (5) the small oak-lined wall nook is empty: no phone, no dock, no speaker. Photoreal, same photograph otherwise.",
+  "output": "outputs/construction/raw/W04-pre-v1.png",
+  "post": {
+    "tool": "tools/stage_composite.py",
+    "base": "outputs/keyframes/west-phone-speaker-realism-v1.png",
+    "mask": "outputs/production/masks/W04-pre-mask.png",
+    "final": "outputs/construction/stage-04-west-pre.png"
+  }
+}

@@ -1,0 +1,10 @@
+{
+ "plate": "outputs/construction/stage-06a-hood.png",
+ "returned": "outputs/construction/raw/06B-start-v1.png",
+ "output": "outputs/construction/raw/06B-start-v1-composite.png",
+ "ransac_inliers": 626,
+ "protected_mean_abs_diff_registered": 2.96,
+ "person_mask_fraction": 0.1498,
+ "pixels_identical_to_plate_fraction": 0.8502,
+ "output_sha256": "5bc342befa79f6183480052378a8da68e56307f853f5153267e27979f8fb45bc"
+}

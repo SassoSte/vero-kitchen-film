@@ -1,0 +1,40 @@
+[
+  {
+    "created_at": "2026-10-10T21:41:12.369652Z",
+    "display_name": "GPT Image 2",
+    "id": "1cd2d023-8493-461d-94d3-31582ca36369",
+    "job_type": "gpt_image_2",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_214112_1cd2d023-8493-461d-94d3-31582ca36369_min.webp",
+    "params": {
+      "aspect_ratio": "16:9",
+      "height": 1520,
+      "medias": [
+        {
+          "data": {
+            "id": "00fb917d-e9eb-4c7f-afc1-98422a2bbacd",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/00fb917d-e9eb-4c7f-afc1-98422a2bbacd_resize.jpg"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "c1951a24-cf96-40b0-961e-9954175972e7",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/c1951a24-cf96-40b0-961e-9954175972e7_resize.jpg"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "videotape-alpha",
+      "prompt": "Image1 is a fixed photograph of a finished kitchen sink wall; reproduce it EXACTLY with the same framing — do not zoom, do not move or change anything; the built-in stainless microwave is already installed flush in its cabinet opening at the lower left. ADD ONLY the partner worker from image2 (grey work shirt, dark cap, dark-brown tool belt — same face), crouching on the floor in front of the lower-left cabinets beside the microwave, seen from the side, one palm flat on the microwave's side trim having just pushed it home, looking at it. Correct human scale relative to the cabinets. No other people, no other new objects. Photoreal.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 2688
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_214112_1cd2d023-8493-461d-94d3-31582ca36369.png",
+    "status": "completed"
+  }
+]

@@ -1,0 +1,33 @@
+{
+ "base": "outputs/keyframes/west-phone-speaker-realism-v1.png",
+ "returned": "outputs/construction/raw/W04-pre-v1.png",
+ "mask": "outputs/production/masks/W04-pre-mask.png",
+ "output": "outputs/construction/stage-04-west-pre.png",
+ "homography": [
+  [
+   0.99982,
+   -0.0006,
+   0.47055
+  ],
+  [
+   0.00013,
+   1.00141,
+   -1.44275
+  ],
+  [
+   -0.0,
+   -0.0,
+   1.0
+  ]
+ ],
+ "ransac_inliers": 1440,
+ "protected_mean_abs_diff_raw": 5.07,
+ "protected_mean_abs_diff_registered": 4.79,
+ "ring_colour_gain_bgr": [
+  0.9816,
+  0.9882,
+  0.9933
+ ],
+ "protected_pixels_changed": 0,
+ "output_sha256": "c2662498434fc6de8248914e5f74dd1cff88b21c0abc2509d197428b76de0c98"
+}

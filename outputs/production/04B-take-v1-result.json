@@ -1,0 +1,41 @@
+[
+  {
+    "created_at": "2026-10-10T22:09:38.489176Z",
+    "display_name": "Kling O3 (Frames)",
+    "id": "d8890cc4-9636-4c70-a9ad-361b75fa6bbf",
+    "job_type": "kling_o3_flf",
+    "min_result_url": null,
+    "params": {
+      "aspect_ratio": "16:9",
+      "duration": 3,
+      "height": 1080,
+      "medias": [
+        {
+          "data": {
+            "id": "a6da6866-e8f3-4b25-b1ac-78c1aefdcdff",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/a6da6866-e8f3-4b25-b1ac-78c1aefdcdff_resize.jpg"
+          },
+          "role": "start_image"
+        },
+        {
+          "data": {
+            "id": "bc39526f-6f93-4c99-8d2e-399862947d04",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/bc39526f-6f93-4c99-8d2e-399862947d04_resize.jpg"
+          },
+          "role": "end_image"
+        }
+      ],
+      "mode": "pro",
+      "multi_prompt": [],
+      "multi_shots": false,
+      "prompt": "Fixed locked-off camera, no camera movement, no zoom. Photoreal construction footage. Room, cabinets and lighting stay fixed; no one enters or leaves; workers keep the same faces, clothes and tool belts; objects stay rigid and keep their shape. The worker lowers the faucet's shank into the hole and gives its base a few hand-tightening twists.",
+      "sound": "off",
+      "width": 1920
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_220938_d8890cc4-9636-4c70-a9ad-361b75fa6bbf.mp4",
+    "status": "completed",
+    "thumbnail_url": "https://cdn.higgsfield.ai/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_220938_d8890cc4-9636-4c70-a9ad-361b75fa6bbf_thumbnail.webp"
+  }
+]

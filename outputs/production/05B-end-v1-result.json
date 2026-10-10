@@ -1,0 +1,40 @@
+[
+  {
+    "created_at": "2026-10-10T21:47:30.466464Z",
+    "display_name": "GPT Image 2",
+    "id": "9a5125d8-7ac9-4780-8f4f-79597e44096e",
+    "job_type": "gpt_image_2",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_214730_9a5125d8-7ac9-4780-8f4f-79597e44096e_min.webp",
+    "params": {
+      "aspect_ratio": "16:9",
+      "height": 1520,
+      "medias": [
+        {
+          "data": {
+            "id": "5a74aef9-167c-4f12-aeb0-acb55c5f248c",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/5a74aef9-167c-4f12-aeb0-acb55c5f248c_resize.jpg"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "b970826c-458e-4c55-9f1c-3047d2193ec1",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/b970826c-458e-4c55-9f1c-3047d2193ec1_resize.jpg"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "videotape-alpha",
+      "prompt": "Image1 is a fixed photograph of a kitchen under construction; reproduce it EXACTLY with the same framing — do not zoom, do not move, add or remove any cabinet, appliance or wall element. ADD ONLY two workers from image2.  The glass-front white Shaker upper cabinets on the right are installed: the lead stands facing the wall, holding a yellow cordless drill against the underside edge of the right upper cabinet, driving the last screw; the partner beside him steadies the cabinet's bottom edge with both hands, looking up. Lead: short grey hair, navy long-sleeve work shirt, dark trousers, tan leather tool belt. Partner: grey work shirt, dark trousers, dark cap, dark-brown tool belt. Match image2's faces and clothing exactly. Both stand on the concrete floor in the aisle in front of the right-hand cooking-run cabinets, never on the worktop. Correct human scale: worktop at hip height. No other new objects or people. Photoreal.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 2688
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_214730_9a5125d8-7ac9-4780-8f4f-79597e44096e.png",
+    "status": "completed"
+  }
+]

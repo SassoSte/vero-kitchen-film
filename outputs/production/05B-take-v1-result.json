@@ -1,0 +1,41 @@
+[
+  {
+    "created_at": "2026-10-10T22:17:36.626809Z",
+    "display_name": "Kling O3 (Frames)",
+    "id": "090fd52f-d39e-46f7-81fc-93c8d636988f",
+    "job_type": "kling_o3_flf",
+    "min_result_url": null,
+    "params": {
+      "aspect_ratio": "16:9",
+      "duration": 3,
+      "height": 1080,
+      "medias": [
+        {
+          "data": {
+            "id": "37023bde-9477-4850-98c6-1895ae6a6f24",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/37023bde-9477-4850-98c6-1895ae6a6f24_resize.jpg"
+          },
+          "role": "start_image"
+        },
+        {
+          "data": {
+            "id": "00670d3d-d4bc-46dc-a221-b15eaadc9789",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/00670d3d-d4bc-46dc-a221-b15eaadc9789_resize.jpg"
+          },
+          "role": "end_image"
+        }
+      ],
+      "mode": "pro",
+      "multi_prompt": [],
+      "multi_shots": false,
+      "prompt": "Fixed locked-off camera, no camera movement, no zoom. Photoreal construction footage. Room, cabinets and lighting stay fixed; no one enters or leaves; workers keep the same faces, clothes and tool belts; objects stay rigid and keep their shape. The workers hold the upper cabinet against the wall while the lead drives a screw with the cordless drill.",
+      "sound": "off",
+      "width": 1920
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_221736_090fd52f-d39e-46f7-81fc-93c8d636988f.mp4",
+    "status": "completed",
+    "thumbnail_url": "https://cdn.higgsfield.ai/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_221736_090fd52f-d39e-46f7-81fc-93c8d636988f_thumbnail.webp"
+  }
+]

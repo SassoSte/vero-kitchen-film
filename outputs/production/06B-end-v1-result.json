@@ -1,0 +1,40 @@
+[
+  {
+    "created_at": "2026-10-10T21:51:02.115693Z",
+    "display_name": "GPT Image 2",
+    "id": "e6410f35-3168-4362-8c54-ada6f2d55f94",
+    "job_type": "gpt_image_2",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_215102_e6410f35-3168-4362-8c54-ada6f2d55f94_min.webp",
+    "params": {
+      "aspect_ratio": "16:9",
+      "height": 1520,
+      "medias": [
+        {
+          "data": {
+            "id": "cdd2ae36-12e4-468f-897d-6d45b37b7a7f",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/cdd2ae36-12e4-468f-897d-6d45b37b7a7f_resize.jpg"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "c78ad4f9-39a4-47af-bcda-f094b85bc3e5",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/c78ad4f9-39a4-47af-bcda-f094b85bc3e5_resize.jpg"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "videotape-alpha",
+      "prompt": "Image1 is a fixed photograph of a kitchen under construction; reproduce it EXACTLY with the same framing — do not zoom, do not move, add or remove any cabinet, appliance or wall element. ADD ONLY two workers from image2.  The wall-mounted stainless pot filler above the empty range space is installed: the lead stands facing the wall, one hand swinging the pot filler's arm out to test it, the other holding a small wrench lowered at his side, looking at it. The partner stands behind him watching. Lead: short grey hair, navy long-sleeve work shirt, dark trousers, tan leather tool belt. Partner: grey work shirt, dark trousers, dark cap, dark-brown tool belt. Match image2's faces and clothing exactly. Both stand on the concrete floor in the aisle in front of the right-hand cooking-run cabinets, never on the worktop. Correct human scale: worktop at hip height. No other new objects or people. Photoreal.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 2688
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_215102_e6410f35-3168-4362-8c54-ada6f2d55f94.png",
+    "status": "completed"
+  }
+]

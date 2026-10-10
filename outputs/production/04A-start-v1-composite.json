@@ -1,0 +1,10 @@
+{
+ "plate": "outputs/construction/stage-04-west-pre.png",
+ "returned": "outputs/construction/raw/04A-start-v1.png",
+ "output": "outputs/construction/raw/04A-start-v1-composite.png",
+ "ransac_inliers": 163,
+ "protected_mean_abs_diff_registered": 4.28,
+ "person_mask_fraction": 0.5032,
+ "pixels_identical_to_plate_fraction": 0.497,
+ "output_sha256": "3c662244e884a5f68a4403ad134e393ad36f5af1452eaa5d5d71a3aa29c18ba3"
+}

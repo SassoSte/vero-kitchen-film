@@ -1,0 +1,16 @@
+{
+  "model": "kling_o3_flf",
+  "params": {
+    "mode": "pro",
+    "sound": "off",
+    "multi_shots": false,
+    "duration": 3,
+    "aspect_ratio": "16:9"
+  },
+  "media": {
+    "start-image": "outputs/construction/04A-start.png",
+    "end-image": "outputs/construction/04A-end.png"
+  },
+  "prompt": "Fixed locked-off camera, no camera movement, no zoom. Photoreal construction footage. Room, cabinets and lighting stay fixed; no one enters or leaves; workers keep the same faces, clothes and tool belts; objects stay rigid and keep their shape. Both workers lower the stainless sink straight down into the stone cutout until its rim sits flush, then press on the worktop.",
+  "output": "outputs/takes/04A-take-v1.mp4"
+}

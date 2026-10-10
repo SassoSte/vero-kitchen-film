@@ -1,0 +1,14 @@
+{
+  "model": "gpt_image_2",
+  "params": {
+    "quality": "high",
+    "resolution": "2k",
+    "aspect_ratio": "16:9"
+  },
+  "references": [
+    "outputs/construction/stage-04-west-pre.png",
+    "outputs/construction/04A-end.png"
+  ],
+  "prompt": "Image1 is a fixed photograph of a kitchen under construction with an EMPTY rectangular sink cutout in the stone worktop. Reproduce it EXACTLY with the same framing \u2014 do not zoom, do not move or change anything. ADD ONLY the same two workers from image2, standing in exactly the same places and scale as in image2 (same faces, clothes, tool belts), now together holding a single-basin stainless steel undermount sink level by its rim, lowering it into the empty cutout from above: the sink is about 10 cm above the cutout and aligned with it. Lead (navy shirt, grey hair) holds the near-left rim; partner (grey shirt, dark cap) holds the right rim. Both look down at the cutout. No faucet, no other new objects. Photoreal.",
+  "output": "outputs/construction/raw/04A-start-v1.png"
+}

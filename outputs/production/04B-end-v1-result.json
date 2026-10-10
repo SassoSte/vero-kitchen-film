@@ -1,0 +1,40 @@
+[
+  {
+    "created_at": "2026-10-10T21:37:23.187692Z",
+    "display_name": "GPT Image 2",
+    "id": "605b8e27-0256-4251-a300-4b179f9ed536",
+    "job_type": "gpt_image_2",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_213723_605b8e27-0256-4251-a300-4b179f9ed536_min.webp",
+    "params": {
+      "aspect_ratio": "16:9",
+      "height": 1520,
+      "medias": [
+        {
+          "data": {
+            "id": "673c9f85-b08c-4215-8046-4afba7ae5ee1",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/673c9f85-b08c-4215-8046-4afba7ae5ee1_resize.jpg"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "d7852604-0464-4be8-9e93-25de40572f85",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/d7852604-0464-4be8-9e93-25de40572f85_resize.jpg"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "videotape-alpha",
+      "prompt": "Image1 is a fixed photograph of a kitchen under construction; reproduce it EXACTLY with the same framing — do not zoom, do not move or change anything; the stainless sink, the L-shaped stainless faucet and the small soap dispenser are already installed. ADD ONLY the lead worker from image2 (short grey hair, navy long-sleeve work shirt, tan leather tool belt — same face and scale as in image2), standing in front of the cabinets left of the sink, seen from behind three-quarters, leaning in with one hand holding the faucet's base steady and the other hand giving it a final hand-tightening twist, looking at it. His lower body is cut by the bottom of the frame. No other people, no tools left on the worktop, no other new objects. Photoreal.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 2688
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_213723_605b8e27-0256-4251-a300-4b179f9ed536.png",
+    "status": "completed"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "created_at": "2026-10-10T22:28:38.88361Z",
+    "display_name": "Kling O3 (Frames)",
+    "id": "38f45b9c-f313-414b-bc25-6f9807d95276",
+    "job_type": "kling_o3_flf",
+    "min_result_url": null,
+    "params": {
+      "aspect_ratio": "16:9",
+      "duration": 3,
+      "height": 1080,
+      "medias": [
+        {
+          "data": {
+            "id": "31e54cdc-7d76-4467-af04-e34aa632ee46",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/31e54cdc-7d76-4467-af04-e34aa632ee46_resize.jpg"
+          },
+          "role": "start_image"
+        },
+        {
+          "data": {
+            "id": "26f1bad8-07cf-478c-817d-cea8389c7b23",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/26f1bad8-07cf-478c-817d-cea8389c7b23_resize.jpg"
+          },
+          "role": "end_image"
+        }
+      ],
+      "mode": "pro",
+      "multi_prompt": [],
+      "multi_shots": false,
+      "prompt": "Fixed locked-off camera, no camera movement, no zoom. Photoreal construction footage. Room, cabinets and lighting stay fixed; no one enters or leaves; workers keep the same faces, clothes and tool belts; objects stay rigid and keep their shape. The two workers push the single stone slab they hold the last few centimetres flat against the wall and hold it there. The slab is one rigid panel that keeps its size and outline; the rest of the wall stays bare plaster.",
+      "sound": "off",
+      "width": 1920
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_222838_38f45b9c-f313-414b-bc25-6f9807d95276.mp4",
+    "status": "completed",
+    "thumbnail_url": "https://cdn.higgsfield.ai/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_222838_38f45b9c-f313-414b-bc25-6f9807d95276_thumbnail.webp"
+  }
+]

@@ -1,7 +1,7 @@
 {
-  "ceiling_credits": 601.75,
+  "ceiling_credits": 777.0,
   "opening_balance": 1246.8,
-  "reserved_credits": 496.0,
+  "reserved_credits": 646.75,
   "jobs": [
     {
       "name": "master-v1",
@@ -561,20 +561,209 @@
       "status": "generated",
       "job_id": "d62fe31d-ef80-4155-a343-bd1c2600895e",
       "file": "outputs/takes/01D-take-v2.mp4"
+    },
+    {
+      "name": "W04-pre-v1",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "48545989-b23d-4e06-8cd1-8a3df2b9920d",
+      "file": "outputs/construction/raw/W04-pre-v1.png"
+    },
+    {
+      "name": "P05-stone-v1",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "5dbb86d1-d53f-40a2-a5bb-a01b7dd471b8",
+      "file": "outputs/construction/raw/P05-stone-v1.png"
+    },
+    {
+      "name": "04A-end-v1",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "d12f1886-025b-4de5-b236-f2e3ccb1bd40",
+      "file": "outputs/construction/raw/04A-end-v1.png"
+    },
+    {
+      "name": "04A-start-v1",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "6e861561-abcc-4d96-b30f-5861acd5766a",
+      "file": "outputs/construction/raw/04A-start-v1.png"
+    },
+    {
+      "name": "04B-end-v1",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "605b8e27-0256-4251-a300-4b179f9ed536",
+      "file": "outputs/construction/raw/04B-end-v1.png"
+    },
+    {
+      "name": "04B-start-v1",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "cc21e4f7-97f3-4e11-80a8-7a2c945a74ce",
+      "file": "outputs/construction/raw/04B-start-v1.png"
+    },
+    {
+      "name": "04C-end-v1",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "1cd2d023-8493-461d-94d3-31582ca36369",
+      "file": "outputs/construction/raw/04C-end-v1.png"
+    },
+    {
+      "name": "04C-start-v1",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "93973de3-c548-4169-929f-a3303c3e1626",
+      "file": "outputs/construction/raw/04C-start-v1.png"
+    },
+    {
+      "name": "05A-end-v1",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "77294f9e-44b6-42c6-86b5-9a7256ab93e7",
+      "file": "outputs/construction/raw/05A-end-v1.png"
+    },
+    {
+      "name": "05B-end-v1",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "9a5125d8-7ac9-4780-8f4f-79597e44096e",
+      "file": "outputs/construction/raw/05B-end-v1.png"
+    },
+    {
+      "name": "06A-end-v1",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "0baf9ad8-8fc1-4414-86fe-37de5246f170",
+      "file": "outputs/construction/raw/06A-end-v1.png"
+    },
+    {
+      "name": "06B-end-v1",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "e6410f35-3168-4362-8c54-ada6f2d55f94",
+      "file": "outputs/construction/raw/06B-end-v1.png"
+    },
+    {
+      "name": "06C-end-v1",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "6196c31a-8df4-4374-a245-f3c96292c4d1",
+      "file": "outputs/construction/raw/06C-end-v1.png"
+    },
+    {
+      "name": "05A-start-v1",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "f583f8dd-80d9-4774-9b50-d2bcd3428ad5",
+      "file": "outputs/construction/raw/05A-start-v1.png"
+    },
+    {
+      "name": "05B-start-v1",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "0b141b61-9e8d-4ef5-9336-3e1dc301433c",
+      "file": "outputs/construction/raw/05B-start-v1.png"
+    },
+    {
+      "name": "06A-start-v1",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "32609aee-62e5-4a38-a00e-c9e07a640d51",
+      "file": "outputs/construction/raw/06A-start-v1.png"
+    },
+    {
+      "name": "06B-start-v1",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "833009dd-2f43-49cd-9723-de570d3f8766",
+      "file": "outputs/construction/raw/06B-start-v1.png"
+    },
+    {
+      "name": "06C-start-v1",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "3917f17a-0d0b-483a-9f8d-398158415caf",
+      "file": "outputs/construction/raw/06C-start-v1.png"
+    },
+    {
+      "name": "04A-take-v1",
+      "quote": 3.75,
+      "status": "generated",
+      "job_id": "2c0b08a4-1013-4921-83d9-89a734806ffb",
+      "file": "outputs/takes/04A-take-v1.mp4"
+    },
+    {
+      "name": "04B-take-v1",
+      "quote": 3.75,
+      "status": "generated",
+      "job_id": "d8890cc4-9636-4c70-a9ad-361b75fa6bbf",
+      "file": "outputs/takes/04B-take-v1.mp4"
+    },
+    {
+      "name": "04C-take-v1",
+      "quote": 3.75,
+      "status": "generated",
+      "job_id": "bb748629-4c28-4c3e-9d2f-f3a4d066e49d",
+      "file": "outputs/takes/04C-take-v1.mp4"
+    },
+    {
+      "name": "05A-take-v1",
+      "quote": 3.75,
+      "status": "generated",
+      "job_id": "bfa1bc46-b364-4790-815b-e17c1125f3cb",
+      "file": "outputs/takes/05A-take-v1.mp4"
+    },
+    {
+      "name": "05B-take-v1",
+      "quote": 3.75,
+      "status": "generated",
+      "job_id": "090fd52f-d39e-46f7-81fc-93c8d636988f",
+      "file": "outputs/takes/05B-take-v1.mp4"
+    },
+    {
+      "name": "06A-take-v1",
+      "quote": 3.75,
+      "status": "generated",
+      "job_id": "83d7f387-fe4e-4b48-a418-d2319da0c7e2",
+      "file": "outputs/takes/06A-take-v1.mp4"
+    },
+    {
+      "name": "06B-take-v1",
+      "quote": 3.75,
+      "status": "generated",
+      "job_id": "ad2131f7-6d28-4563-a681-38862284258b",
+      "file": "outputs/takes/06B-take-v1.mp4"
+    },
+    {
+      "name": "06C-take-v1",
+      "quote": 3.75,
+      "status": "generated",
+      "job_id": "a170afb7-6f95-43d6-8f69-fd1f483194e8",
+      "file": "outputs/takes/06C-take-v1.mp4"
+    },
+    {
+      "name": "05A-take-v2",
+      "quote": 3.75,
+      "status": "generated",
+      "job_id": "38f45b9c-f313-414b-bc25-6f9807d95276",
+      "file": "outputs/takes/05A-take-v2.mp4"
     }
   ],
   "balance_after": 3929,
   "balance_delta": null,
-  "remaining_phase_credits": 105.75,
+  "remaining_phase_credits": 130.25,
   "account_snapshot_note": "View1 continuity attempt3935.5 to3929 matches6.5 quote; cap303 unchanged.",
-  "task_quote_total": 496.0,
+  "task_quote_total": 646.75,
   "latest_pass": {
     "opening_account_balance": 3935.5,
     "closing_account_balance": 3929,
     "quoted_cost": 6.5
   },
-  "authorization": "outputs/production/b10-t1-authorization.json",
-  "prior_authorization": "outputs/production/b08-03a-pilot-authorization.json",
+  "authorization": "outputs/production/b10-t2-authorization.json",
+  "prior_authorization": "outputs/production/b10-t1-authorization.json",
   "ceiling_history": [
     {
       "date": "2026-10-10",
@@ -596,6 +785,13 @@
       "to": 601.75,
       "user_text": "Approve T1 ceiling 249, no sound for now.",
       "scope": "B10 tranche T1: shots 01-03 (03A already accepted)"
+    },
+    {
+      "date": "2026-10-10",
+      "from": 601.75,
+      "to": 777.0,
+      "user_text": "Accept shot 01, commit, approve T2 no sound",
+      "scope": "B10 tranche T2: shots 04-06"
     }
   ]
 }

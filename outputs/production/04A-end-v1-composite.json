@@ -1,0 +1,10 @@
+{
+ "plate": "outputs/construction/stage-04-west-sink.png",
+ "returned": "outputs/construction/raw/04A-end-v1.png",
+ "output": "outputs/construction/raw/04A-end-v1-composite.png",
+ "ransac_inliers": 143,
+ "protected_mean_abs_diff_registered": 4.58,
+ "person_mask_fraction": 0.4652,
+ "pixels_identical_to_plate_fraction": 0.5349,
+ "output_sha256": "ee7da133d791fc43887c7fa7e81da0b58762cb8e692c6a1147e5f3c1bb45660b"
+}

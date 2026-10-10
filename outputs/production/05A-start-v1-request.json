@@ -1,0 +1,14 @@
+{
+  "model": "gpt_image_2",
+  "params": {
+    "quality": "high",
+    "resolution": "2k",
+    "aspect_ratio": "16:9"
+  },
+  "references": [
+    "outputs/construction/stage-04-master-done.png",
+    "outputs/construction/05A-end.png"
+  ],
+  "prompt": "Image1 is a fixed photograph of a kitchen under construction; reproduce it EXACTLY with the same framing \u2014 do not zoom, do not move, add or remove any cabinet, appliance or wall element. ADD ONLY the same two workers from image2, standing in exactly the same places with the same faces, clothes and tool belts as in image2.  The wall here is still bare painted plaster. The workers hold a large pale veined stone backsplash slab upright between them, its back edge about 10 cm from the wall, lining it up with the wall before pressing it on, looking at it. Nobody stands on the worktop. No other new objects. Photoreal.",
+  "output": "outputs/construction/raw/05A-start-v1.png"
+}

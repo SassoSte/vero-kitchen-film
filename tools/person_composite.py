@@ -65,10 +65,17 @@ for poly, t in cfg.get('solid', []):             # one person: largest blob of d
     c = np.zeros((H, W), np.uint8); cv2.fillPoly(c, [np.array(poly, np.int32)], 1); c = c > 0
     _s = cv2.warpPerspective(cv2.imread(cfg['saliency'], 0).astype(np.float32) / 255, Hm, (W, H))
     b = ((d > t) | ((_s > 0.5) & (d > cfg.get('solid_min_d', 15)))) & c
+    _yc = cv2.cvtColor(al, cv2.COLOR_BGR2YCrCb)
+    _sk = (_yc[..., 1] > 138) & (_yc[..., 1] < 178) & (_yc[..., 2] > 85) & (_yc[..., 2] < 128) & (d > 12)
+    b |= _sk & c & (cv2.dilate(b.astype(np.uint8), np.ones((41, 41), np.uint8)) > 0)
     b = cv2.morphologyEx(b.astype(np.uint8), cv2.MORPH_OPEN, np.ones((7, 7), np.uint8))
     b = cv2.morphologyEx(b, cv2.MORPH_CLOSE, np.ones((21, 21), np.uint8))
     n, lab, st2, _ = cv2.connectedComponentsWithStats(b)
-    blob = lab == (1 + int(np.argmax(st2[1:, cv2.CC_STAT_AREA]))) if n > 1 else b > 0
+    if n > 1:
+        amax = st2[1:, cv2.CC_STAT_AREA].max()
+        blob = np.isin(lab, [i for i in range(1, n) if st2[i, cv2.CC_STAT_AREA] >= cfg.get('solid_keep', 0.15) * amax])
+    else:
+        blob = b > 0
     cn, _ = cv2.findContours(blob.astype(np.uint8), cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_NONE)
     f = np.zeros((H, W), np.uint8); cv2.drawContours(f, cn, -1, 1, -1)
     pm = (pm & ~c) | (f > 0)

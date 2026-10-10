@@ -1,0 +1,40 @@
+[
+  {
+    "created_at": "2026-10-10T21:45:43.594673Z",
+    "display_name": "GPT Image 2",
+    "id": "77294f9e-44b6-42c6-86b5-9a7256ab93e7",
+    "job_type": "gpt_image_2",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_214543_77294f9e-44b6-42c6-86b5-9a7256ab93e7_min.webp",
+    "params": {
+      "aspect_ratio": "16:9",
+      "height": 1520,
+      "medias": [
+        {
+          "data": {
+            "id": "0212289d-4a3b-42ea-a037-410387afb8fb",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/0212289d-4a3b-42ea-a037-410387afb8fb_resize.jpg"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "77fb3d2a-b93d-4bf5-ab0b-b8dca5f9685d",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/77fb3d2a-b93d-4bf5-ab0b-b8dca5f9685d_resize.jpg"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "videotape-alpha",
+      "prompt": "Image1 is a fixed photograph of a kitchen under construction; reproduce it EXACTLY with the same framing — do not zoom, do not move, add or remove any cabinet, appliance or wall element. ADD ONLY two workers from image2.  The pale veined stone backsplash slab on the cooking wall has just been set: both workers stand facing the wall, palms pressed flat on the stone slab right of the empty range space, holding it while the adhesive grabs, looking at the joint. Lead: short grey hair, navy long-sleeve work shirt, dark trousers, tan leather tool belt. Partner: grey work shirt, dark trousers, dark cap, dark-brown tool belt. Match image2's faces and clothing exactly. Both stand on the concrete floor in the aisle in front of the right-hand cooking-run cabinets, never on the worktop. Correct human scale: worktop at hip height. No other new objects or people. Photoreal.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 2688
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_214543_77294f9e-44b6-42c6-86b5-9a7256ab93e7.png",
+    "status": "completed"
+  }
+]

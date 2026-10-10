@@ -1,0 +1,33 @@
+{
+ "base": "outputs/keyframes/kitchen-smeg-enclosure-v2.png",
+ "returned": "outputs/construction/raw/P05-stone-v1.png",
+ "mask": "outputs/production/masks/P05-stone-mask.png",
+ "output": "outputs/construction/master-stone-clean.png",
+ "homography": [
+  [
+   1.00026,
+   4e-05,
+   -0.25655
+  ],
+  [
+   0.00026,
+   1.00179,
+   -1.64478
+  ],
+  [
+   0.0,
+   0.0,
+   1.0
+  ]
+ ],
+ "ransac_inliers": 1460,
+ "protected_mean_abs_diff_raw": 5.72,
+ "protected_mean_abs_diff_registered": 4.75,
+ "ring_colour_gain_bgr": [
+  0.9472,
+  0.9667,
+  0.9905
+ ],
+ "protected_pixels_changed": 0,
+ "output_sha256": "e1af4cf785a5e53a65d1a0fbe13d4b564ad6bfc5ceb33342d574570fb57e7cdb"
+}

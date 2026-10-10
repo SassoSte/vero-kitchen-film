@@ -1,0 +1,40 @@
+[
+  {
+    "created_at": "2026-10-10T21:52:48.503821Z",
+    "display_name": "GPT Image 2",
+    "id": "6196c31a-8df4-4374-a245-f3c96292c4d1",
+    "job_type": "gpt_image_2",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_215248_6196c31a-8df4-4374-a245-f3c96292c4d1_min.webp",
+    "params": {
+      "aspect_ratio": "16:9",
+      "height": 1520,
+      "medias": [
+        {
+          "data": {
+            "id": "b4313097-05d9-428e-ae2a-a1a3d90549ec",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/b4313097-05d9-428e-ae2a-a1a3d90549ec_resize.jpg"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "97463123-c949-4f18-bee3-efe06cb4b88e",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/97463123-c949-4f18-bee3-efe06cb4b88e_resize.jpg"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "videotape-alpha",
+      "prompt": "Image1 is a fixed photograph of a kitchen under construction; reproduce it EXACTLY with the same framing — do not zoom, do not move, add or remove any cabinet, appliance or wall element. ADD ONLY two workers from image2.  The professional gas range with red knobs is installed in its space: both workers stand in the aisle in front of it, the lead's hands just lifted off the range's top front edge after pushing it home, the partner crouched at its left side checking the gap with a flashlight. Lead: short grey hair, navy long-sleeve work shirt, dark trousers, tan leather tool belt. Partner: grey work shirt, dark trousers, dark cap, dark-brown tool belt. Match image2's faces and clothing exactly. Both stand on the concrete floor in the aisle in front of the right-hand cooking-run cabinets, never on the worktop. Correct human scale: worktop at hip height. No other new objects or people. Photoreal.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 2688
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_215248_6196c31a-8df4-4374-a245-f3c96292c4d1.png",
+    "status": "completed"
+  }
+]

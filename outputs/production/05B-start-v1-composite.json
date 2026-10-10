@@ -1,0 +1,10 @@
+{
+ "plate": "outputs/construction/stage-05a-backsplash.png",
+ "returned": "outputs/construction/raw/05B-start-v1.png",
+ "output": "outputs/construction/raw/05B-start-v1-composite.png",
+ "ransac_inliers": 660,
+ "protected_mean_abs_diff_registered": 3.15,
+ "person_mask_fraction": 0.2035,
+ "pixels_identical_to_plate_fraction": 0.7965,
+ "output_sha256": "b9db8ea0e148d926e25f740d7a44108dfe457081de664f24dc5f94199ba57301"
+}

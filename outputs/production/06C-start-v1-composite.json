@@ -1,0 +1,10 @@
+{
+ "plate": "outputs/construction/stage-06b-potfiller.png",
+ "returned": "outputs/construction/raw/06C-start-v1.png",
+ "output": "outputs/construction/raw/06C-start-v1-composite.png",
+ "ransac_inliers": 651,
+ "protected_mean_abs_diff_registered": 2.93,
+ "person_mask_fraction": 0.139,
+ "pixels_identical_to_plate_fraction": 0.861,
+ "output_sha256": "bb0dd0f34f9337ede3f25bd976cfdc4ab9bf37c8f361cad5cc9a732389a5d47c"
+}

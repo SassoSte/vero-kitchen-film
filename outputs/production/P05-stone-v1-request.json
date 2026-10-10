@@ -1,0 +1,19 @@
+{
+  "model": "gpt_image_2",
+  "params": {
+    "quality": "high",
+    "resolution": "2k",
+    "aspect_ratio": "16:9"
+  },
+  "references": [
+    "outputs/keyframes/kitchen-smeg-enclosure-v2.png"
+  ],
+  "prompt": "Edit this kitchen photograph. Keep the camera, framing, lighting, cabinets, glass-front uppers, range, worktops, refrigerator and everything else exactly as it is. Remove ONLY: the pale stainless range hood, the wall-mounted pot filler faucet, the red toaster, the red kettle and the small plant in the glass vase. Where they were, show the same continuous pale veined stone backsplash slab on the wall, with its veining continuing naturally, and the bare stone worktop. Nothing else changes. Photoreal.",
+  "output": "outputs/construction/raw/P05-stone-v1.png",
+  "post": {
+    "tool": "tools/stage_composite.py",
+    "base": "outputs/keyframes/kitchen-smeg-enclosure-v2.png",
+    "mask": "outputs/production/masks/P05-stone-mask.png",
+    "final": "outputs/construction/master-stone-clean.png"
+  }
+}

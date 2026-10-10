@@ -1,0 +1,40 @@
+[
+  {
+    "created_at": "2026-10-10T21:35:28.74162Z",
+    "display_name": "GPT Image 2",
+    "id": "6e861561-abcc-4d96-b30f-5861acd5766a",
+    "job_type": "gpt_image_2",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_213528_6e861561-abcc-4d96-b30f-5861acd5766a_min.webp",
+    "params": {
+      "aspect_ratio": "16:9",
+      "height": 1520,
+      "medias": [
+        {
+          "data": {
+            "id": "491e3483-384e-4adf-9ebd-64a8e874b372",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/491e3483-384e-4adf-9ebd-64a8e874b372_resize.jpg"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "4afb0c81-e446-462f-8019-82d245c3df27",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/4afb0c81-e446-462f-8019-82d245c3df27_resize.jpg"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "videotape-alpha",
+      "prompt": "Image1 is a fixed photograph of a kitchen under construction with an EMPTY rectangular sink cutout in the stone worktop. Reproduce it EXACTLY with the same framing — do not zoom, do not move or change anything. ADD ONLY the same two workers from image2, standing in exactly the same places and scale as in image2 (same faces, clothes, tool belts), now together holding a single-basin stainless steel undermount sink level by its rim, lowering it into the empty cutout from above: the sink is about 10 cm above the cutout and aligned with it. Lead (navy shirt, grey hair) holds the near-left rim; partner (grey shirt, dark cap) holds the right rim. Both look down at the cutout. No faucet, no other new objects. Photoreal.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 2688
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_213528_6e861561-abcc-4d96-b30f-5861acd5766a.png",
+    "status": "completed"
+  }
+]
