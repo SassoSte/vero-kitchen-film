@@ -1,7 +1,7 @@
 {
-  "ceiling_credits": 269.75,
+  "ceiling_credits": 277,
   "opening_balance": 1246.8,
-  "reserved_credits": 269.75,
+  "reserved_credits": 276.25,
   "jobs": [
     {
       "name": "master-v1",
@@ -302,17 +302,24 @@
       "status": "generated",
       "job_id": "07bb2667-b4cd-4a1a-b686-e7efc07cacb1",
       "file": "outputs/keyframes/west-phone-speaker-realism-v1.png"
+    },
+    {
+      "name": "apartment-continuity-v8",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "1f043805-a256-453d-961b-a51741be3511",
+      "file": "outputs/keyframes/apartment-continuity-v8.png"
     }
   ],
-  "balance_after": 3961.5,
+  "balance_after": 3955,
   "balance_delta": null,
-  "remaining_phase_credits": 0.0,
-  "account_snapshot_note": "2026-10-10 device cleanup3968 to3961.5 matches6.5 quote. One-job authorization bounded by lead to prior price; derived total269.75, no wider authority.",
-  "task_quote_total": 269.75,
+  "remaining_phase_credits": 0.75,
+  "account_snapshot_note": "2026-10-10 third-view render3961.5 to3955 matches6.5 quote; cap277 unchanged.",
+  "task_quote_total": 276.25,
   "latest_pass": {
-    "opening_account_balance": 3968,
-    "closing_account_balance": 3961.5,
+    "opening_account_balance": 3961.5,
+    "closing_account_balance": 3955,
     "quoted_cost": 6.5
   },
-  "authorization": "outputs/production/west-devices-realism-authorization.json"
+  "authorization": "outputs/production/apartment-continuity-authorization.json"
 }

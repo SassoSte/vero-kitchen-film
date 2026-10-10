@@ -1,3 +1,5 @@
+> **Third-view result:** [Apartment continuity v8](docs/APARTMENT-CONTINUITY-REVIEW.md) generated; user review pending. North/east and west visual locks unchanged. Task **276.25/277**, **0.75 remaining**; no more generation authorized. Earlier status/budget text is historical.
+
 > **Third-view edit confirmed:** `apartment-continuity-v8` prepared from apartment-v7 plus locked north/east and west views. Preserve camera/opening/bar/stools/dining; update French fridge and visible fixtures, remove extra boards/plant. Paid allowance pending.
 
 > **WEST VIEW ACCEPTED — 2026-10-10:** [Exact accepted asset and hash](outputs/production/west-visual-lock.json): `west-phone-speaker-realism-v1.png`. North/east lock also remains in force. Next: reconcile `apartment-v7` with locked kitchen views, especially French-door fridge. Planning only; no new paid job authorized.

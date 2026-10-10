@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-10",
+  "timezone": "America/Phoenix",
+  "budget_user_text": "Approve 277 total for one render",
+  "total_ceiling_credits": 277,
+  "maximum_new_spend_credits": 6.5,
+  "authorized_jobs": [
+    "apartment-continuity-v8"
+  ],
+  "max_new_jobs": 1,
+  "scope": "One third-view continuity render, preserve existing composition; no retries"
+}

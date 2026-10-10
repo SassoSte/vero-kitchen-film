@@ -1,7 +1,7 @@
 {
   "project": "vero-kitchen-film",
   "inventory_revision": "2026-10-09-resumed-one-concept",
-  "production": "Third-view continuity edit confirmed and prepared; paid allowance pending",
+  "production": "Third-view continuity candidate generated; user review pending; first two views remain locked",
   "authority": "Latest north-wall REF-M dial espresso/canister edit within REF-L composition and retained frosted uppers; two upper French doors/lower freezer drawer, model/fit pending. North/east wide view kitchen-smeg-realism-v1 is user-locked; west-phone-speaker-realism-v1 is also user-approved; apartment-facing reconciliation pending.",
   "review_sources": [
     "outputs/inspection.txt",
@@ -10,20 +10,9 @@
     "conversation review findings"
   ],
   "root": "/Users/stefansassoon/projects/vero-kitchen-film",
-  "still_count": 69,
+  "still_count": 70,
   "video_count": 3,
-  "prepared_not_generated": [
-    {
-      "id": "PREP-apartment-continuity-v8",
-      "name": "apartment-continuity-v8",
-      "status": "PREPARED; NOT QUOTED OR SUBMITTED",
-      "quote_credits": null,
-      "note": "Third-view continuity edit confirmed and prepared; paid allowance pending",
-      "receipts": {
-        "request": "outputs/production/apartment-continuity-v8-request.json"
-      }
-    }
-  ],
+  "prepared_not_generated": [],
   "assets": [
     {
       "id": "ASSET-79E492B2F8D4",
@@ -47,6 +36,30 @@
         "copy_type": "byte-exact",
         "sha256": "d7489661bb1d596f6e7439b562e94ed4869eac0960d5fc25c9d10e0f8b43cb68"
       },
+      "review_source_note": "Recorded inspection/conversation findings or source-reference role; not a new visual inspection."
+    },
+    {
+      "id": "ASSET-D5F666C967C4",
+      "title": "Apartment Continuity V8",
+      "path": "outputs/keyframes/apartment-continuity-v8.png",
+      "absolute_path": "/Users/stefansassoon/projects/vero-kitchen-film/outputs/keyframes/apartment-continuity-v8.png",
+      "kind": "still",
+      "category": "generated",
+      "role": "Generated still / diagram",
+      "status": "candidate-awaiting-user-review",
+      "verdict": "Lead inspected: shorter French-door fridge, extra boards/plant removed; bar, three stools and opening retained.",
+      "superseded_reason": "Third-view user approval pending. Freezer/dispenser occluded; exact fit/product fidelity unverified.",
+      "bytes": 5842473,
+      "sha256": "e5f4bb9f93bd270ad3f48b4a303bb6d22b9925ebb25a62ac5dd0094045b9f7e7",
+      "job_name": "apartment-continuity-v8",
+      "job_id": "1f043805-a256-453d-961b-a51741be3511",
+      "receipts": {
+        "request": "outputs/production/apartment-continuity-v8-request.json",
+        "quote": "outputs/production/apartment-continuity-v8-quote.json",
+        "result": "outputs/production/apartment-continuity-v8-result.json",
+        "stderr": "outputs/production/apartment-continuity-v8-stderr.txt"
+      },
+      "source_provenance": null,
       "review_source_note": "Recorded inspection/conversation findings or source-reference role; not a new visual inspection."
     },
     {

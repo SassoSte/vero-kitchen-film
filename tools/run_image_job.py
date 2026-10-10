@@ -22,6 +22,8 @@ q=subprocess.run(a+['--json'],capture_output=True,text=True,timeout=45,check=Tru
 (p/f'{name}-quote.json').write_text(q.stdout);credits=json.loads(q.stdout)['credits']
 b=json.loads(bpath.read_text())
 if b['reserved_credits']+credits>b['ceiling_credits']:raise SystemExit('Budget cap exceeded')
+auth=json.loads((root/state['authorization']).read_text())
+if credits>auth.get('maximum_new_spend_credits',b['ceiling_credits']):raise SystemExit('Authorized job price exceeded')
 b['reserved_credits']+=credits;b['task_quote_total']=b['reserved_credits'];b['remaining_phase_credits']=round(b['ceiling_credits']-b['reserved_credits'],2);b['jobs'].append({'name':name,'quote':credits,'status':'submitting'});bpath.write_text(json.dumps(b,indent=2))
 a[2]='create'
 with (p/f'{name}-result.json').open('w') as out,(p/f'{name}-stderr.txt').open('w') as err:

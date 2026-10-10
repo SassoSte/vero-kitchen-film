@@ -1,0 +1,48 @@
+[
+  {
+    "created_at": "2026-10-10T07:54:21.578522Z",
+    "display_name": "GPT Image 2",
+    "id": "1f043805-a256-453d-961b-a51741be3511",
+    "job_type": "gpt_image_2",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_075421_1f043805-a256-453d-961b-a51741be3511_min.webp",
+    "params": {
+      "aspect_ratio": "16:9",
+      "height": 1520,
+      "medias": [
+        {
+          "data": {
+            "id": "bf90569c-be48-45c9-b518-a0e2f339367e",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/bf90569c-be48-45c9-b518-a0e2f339367e_resize.jpg"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "44cf6081-638e-4995-b748-c5f72f940b46",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/44cf6081-638e-4995-b748-c5f72f940b46_resize.jpg"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "ce57fe10-f0f1-4271-a160-faacd0407378",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/ce57fe10-f0f1-4271-a160-faacd0407378_resize.jpg"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "videotape-alpha",
+      "prompt": "Make a controlled continuity edit to image1, the established living-room-facing kitchen view. PRESERVE its camera, crop, room/opening geometry, ribbed-oak bar front, three cream stools and their exact arrangement, concrete floor, dining area/table/chairs/rug, doors, ceiling and architectural boundaries. Do not redesign the apartment. Image2 is the USER-LOCKED north/east kitchen appearance. Image3 is the USER-APPROVED west sink-side view. Use these only to match the actual visible kitchen components.\nReplace image1's outdated tall SINGLE-upper-door refrigerator with the shorter stainless FRENCH-DOOR configuration in image2: two upper doors meeting at center, paired central handles, outer hinges, lower freezer drawer. Preserve the original refrigerator bay, do not widen cabinetry or alter room; expose wall above the shorter fridge, with no invented upper surround. Any freezer portion hidden by the bar remains naturally occluded.\nMatch the visible range, pale box/chimney hood, brushed pot filler, white Shaker/frosted-glass cupboards, pale veined quartz/backsplash, warm internal/undercabinet lighting, red SMEG toaster left and kettle right to image2. Keep their proper scale and realistic materials at this viewing distance. Match the visible L-shaped sink faucet and soap dispenser to image3, with correct physical placement and natural occlusion by the raised ledge. Do not duplicate fixtures.\nRemove the extra round cutting boards and small plant on the cooking counter behind/beside the kettle because they are not in the locked cooking view. Do not introduce any replacement styling or added objects. Preserve other existing image1 contents under this limited continuity scope.\nThe north-wall coffee/wine station and west charging nook are naturally mostly or entirely hidden from this camera. DO NOT move, mirror or invent openings to display them, and do not put them on the east cooking wall. Do not relocate the microwave to an upper cabinet: its proper base location left of sink is on the unseen kitchen side. Preserve established ceiling/track-light layout. No island, additional stool, new artwork or broadened opening. One full16:9 photoreal view with seamless lighting and materials, no captions or labels.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 2688
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_075421_1f043805-a256-453d-961b-a51741be3511.png",
+    "status": "completed"
+  }
+]

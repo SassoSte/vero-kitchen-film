@@ -4,12 +4,12 @@ Read `HANDOFF.md` first, then `mega-prompt.md`, `docs/SOURCE-REGISTER.md` and th
 `docs/BACKLOG.md`. `outputs/stills-gallery.html` / `docs/asset-catalog.json` identify
 assets and their status; version number alone is not approval.
 
-User explicitly authorized ONE phone/speaker realism cleanup on2026-10-10 (“You're authorized”).
-`west-phone-speaker-realism-v1` is bounded by the lead to the prior6.5-credit price;
-derived cumulative cap269.75 is an execution bound, not a user-quoted numeric ceiling.
-Read `outputs/production/west-devices-realism-authorization.json` and live ledger/state.
-Preserve compact nook, phone/dock and speaker size/positions and rest of kitchen.
-No automatic retries, purchases or video jobs. North/east visual lock remains intact.
+User approved **277 total credits for ONE third-view continuity render** on2026-10-10:
+`apartment-continuity-v8`, max new job price6.5. Read
+`outputs/production/apartment-continuity-authorization.json` and live state/ledger.
+Preserve apartment-v7 camera, opening, bar/stools/dining; update visible kitchen to
+locked north/east and west references, remove extra cooking-counter boards/plant.
+Both visual locks remain intact. No automatic retries, purchases or video jobs.
 Disable generation after this one job.
 
 

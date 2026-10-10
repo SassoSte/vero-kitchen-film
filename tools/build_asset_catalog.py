@@ -5,6 +5,7 @@ import hashlib, json, re, html
 ROOT=Path(__file__).resolve().parents[1]
 OUT=ROOT/'outputs'; E=html.escape
 KNOWN={
+'apartment-continuity-v8':('candidate-awaiting-user-review','Lead inspected: shorter French-door fridge, extra boards/plant removed; bar, three stools and opening retained.','Third-view user approval pending. Freezer/dispenser occluded; exact fit/product fidelity unverified.'),
 'west-phone-speaker-realism-v1':('user-approved-visual-lock','User accepted west-wall view on2026-10-10: compact phone/speaker nook, undercounter microwave, sink and opening.','Visual acceptance only; preserve as-is unless user changes scope. Physical fit unverified.'),
 'west-nook-phone-speaker-sized-v1':('candidate-awaiting-user-review','Lead inspected: compact reduced-height nook, speaker left and phone/dock right; no spices or shelf.','Visual proportions only; user review and measured fit pending. Other scene contents retained under localized scope.'),
 'west-nook-charging-only-v1':('user-rejected-proportions','User rejects oversized nook and generic flower/fruit counter props; charging-only contents remain intended.','Research smaller charging detail and remove props before any further paid edit; no new render authorized.'),

@@ -4,13 +4,13 @@ Latest north-wall REF-M dial espresso/canister edit within REF-L composition and
 
 Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashes of repository-relative paths. Hashes describe exact existing bytes; verdicts are sourced review findings, not a new visual inspection.
 
-**69 stills · 3 videos.**
+**70 stills · 3 videos.**
 
 [Open searchable gallery](../outputs/stills-gallery.html) · [Machine-readable catalog](asset-catalog.json)
 
 ## Latest bounded concept
 
-`apartment-continuity-v8` — **PREPARED; NOT QUOTED OR SUBMITTED**, quoted None credits. See the production state and asset entry below.
+`apartment-continuity-v8` — **GENERATED**, quoted 6.5 credits. See the production state and asset entry below.
 
 ## Stills
 
@@ -26,6 +26,22 @@ Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashe
 - Bytes: 11838; SHA-256: `d7489661bb1d596f6e7439b562e94ed4869eac0960d5fc25c9d10e0f8b43cb68`
 - Job ID: `not recorded`
 - Original source: `/Users/stefansassoon/projects/vero/deco/assets/allison-floorplans/tallbot.jpg`; copy provenance in `references/source-manifest.json`.
+
+### ASSET-D5F666C967C4 — Apartment Continuity V8
+
+- Exact filename: `apartment-continuity-v8.png`
+- File: [outputs/keyframes/apartment-continuity-v8.png](../outputs/keyframes/apartment-continuity-v8.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/keyframes/apartment-continuity-v8.png`
+- Role: Generated still / diagram; status: **candidate-awaiting-user-review**
+- Known verdict: Lead inspected: shorter French-door fridge, extra boards/plant removed; bar, three stools and opening retained.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Third-view user approval pending. Freezer/dispenser occluded; exact fit/product fidelity unverified.
+- Bytes: 5842473; SHA-256: `e5f4bb9f93bd270ad3f48b4a303bb6d22b9925ebb25a62ac5dd0094045b9f7e7`
+- Job ID: `1f043805-a256-453d-961b-a51741be3511`
+- Request receipt: [outputs/production/apartment-continuity-v8-request.json](../outputs/production/apartment-continuity-v8-request.json)
+- Quote receipt: [outputs/production/apartment-continuity-v8-quote.json](../outputs/production/apartment-continuity-v8-quote.json)
+- Result receipt: [outputs/production/apartment-continuity-v8-result.json](../outputs/production/apartment-continuity-v8-result.json)
+- Stderr receipt: [outputs/production/apartment-continuity-v8-stderr.txt](../outputs/production/apartment-continuity-v8-stderr.txt)
 
 ### ASSET-370E15D8FB73 — Apartment-facing kitchen — v1
 
