@@ -235,3 +235,14 @@ Lead full-image review: refrigerator top restored to v8 image position; two uppe
 Supplemental pixel check only: strongest descending grayscale edge in ROI x870:1060,y420:550 at row467 for v8,499 for v9,467 for v10 (same2688×1520 size). Supports restored visible top position, NOT physical dimensions, whole-appliance proportions or correctness of hidden surfaces.
 
 Task289.25/290, remaining0.75. Account3948.5→3942 matches6.5 quote. Generation disabled and process exited. Two existing visual locks unchanged; third view not automatically locked.
+
+
+2026-10-10 manufacturer-grounded reconstruction
+
+## Render result — not a geometry pass
+
+[Reconstruction v11](../outputs/keyframes/apartment-fridge-reconstruction-v11.png) generated once at6.5 credits,2688×1520. Lead full-image inspection: side enclosure and over-fridge cabinet added, making installation visually more intentional, with better metal shading. But top cabinet rises close to the opening head/ceiling instead of respecting the specified84-inch top aligned with adjacent upper tops. Appliance/enclosure proportions do not demonstrably follow36×70 and43.5 allocation, and required door/handle projection beyond side panels/counter is not clearly established. Small camera/framing and surrounding details also drifted. Cannot certify architectural accuracy, door clearance, physical fit or consistency with dimensioned blockout. Mark **failed-geometry-match / not approved**, despite added enclosure. No second attempt authorized.
+
+The dimensional guide and OBJ are retained as independent explicit geometry, not proof that the image conforms. Future remedy requires matching a proper camera-calibrated 3D scene to source architecture, not another unconstrained whole-frame regeneration. Missing measurements and hinge kinematics remain material.
+
+User approved296 total for one reconstruction. Task295.75/296, remaining0.25; account3942→3935.5 matches6.5 quote. Generation disabled; owned waiting process exited. Historical locked image files unchanged, but fridge-related appearance authority superseded by latest user36-inch/enclosure direction.

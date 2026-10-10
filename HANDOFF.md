@@ -1,3 +1,7 @@
+> **Latest reconstruction outcome:** [v11 inspection](docs/FRIDGE-36-RECONSTRUCTION.md) FAILED dimensional match (enclosure too tall; depth/scale not established). Third view unapproved. Task **295.75/296**, **0.25 remaining**; generation disabled. Use explicit geometry and camera matching before further rendering.
+
+> **LATEST REFRIGERATOR DIRECTION:** User approved36-inch full-depth fridge and adjacent cabinetry revision. [Dimensioned reconstruction](docs/FRIDGE-36-RECONSTRUCTION.md) supersedes33-inch bay/no-surround constraints for fridge only. Preserve room boundaries and original drawings. One render prepared; cap increase pending.
+
 > **Latest third-view result:** [Occlusion v10](docs/APARTMENT-OCCLUSION-REVIEW.md) restores v8 fridge top and hides merging freezer handle. User approval pending. Task **289.25/290**, **0.75 remaining**; generation disabled. Other two visual locks unchanged.
 
 > **Urgent correction requested:** Use v8 as geometry base (retain exact fridge upper body/top); borrow only v9 freezer-handle occlusion. `apartment-fridge-occlusion-v10` prepared. No full-room perspective redesign. Paid cap increase pending.

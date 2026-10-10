@@ -1,7 +1,7 @@
 {
-  "ceiling_credits": 290,
+  "ceiling_credits": 296,
   "opening_balance": 1246.8,
-  "reserved_credits": 289.25,
+  "reserved_credits": 295.75,
   "jobs": [
     {
       "name": "master-v1",
@@ -323,17 +323,24 @@
       "status": "generated",
       "job_id": "5a61151d-22c7-43d9-b61a-4cd7e7fcd086",
       "file": "outputs/keyframes/apartment-fridge-occlusion-v10.png"
+    },
+    {
+      "name": "apartment-fridge-reconstruction-v11",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "6107e559-e860-42fe-991e-5683cc53c39e",
+      "file": "outputs/keyframes/apartment-fridge-reconstruction-v11.png"
     }
   ],
-  "balance_after": 3942,
+  "balance_after": 3935.5,
   "balance_delta": null,
-  "remaining_phase_credits": 0.75,
-  "account_snapshot_note": "2026-10-10 occlusion correction3948.5 to3942 matches6.5 quote; cap290 unchanged.",
-  "task_quote_total": 289.25,
+  "remaining_phase_credits": 0.25,
+  "account_snapshot_note": "2026-10-10 reconstruction3942 to3935.5 matches6.5 quote; cap296 unchanged.",
+  "task_quote_total": 295.75,
   "latest_pass": {
-    "opening_account_balance": 3948.5,
-    "closing_account_balance": 3942,
+    "opening_account_balance": 3942,
+    "closing_account_balance": 3935.5,
     "quoted_cost": 6.5
   },
-  "authorization": "outputs/production/apartment-fridge-occlusion-authorization.json"
+  "authorization": "outputs/production/fridge-reconstruction-authorization.json"
 }

@@ -4,13 +4,13 @@ Latest north-wall REF-M dial espresso/canister edit within REF-L composition and
 
 Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashes of repository-relative paths. Hashes describe exact existing bytes; verdicts are sourced review findings, not a new visual inspection.
 
-**72 stills · 3 videos.**
+**75 stills · 3 videos.**
 
 [Open searchable gallery](../outputs/stills-gallery.html) · [Machine-readable catalog](asset-catalog.json)
 
 ## Latest bounded concept
 
-`apartment-fridge-occlusion-v10` — **GENERATED**, quoted 6.5 credits. See the production state and asset entry below.
+`apartment-fridge-reconstruction-v11` — **GENERATED**, quoted 6.5 credits. See the production state and asset entry below.
 
 ## Stills
 
@@ -74,6 +74,22 @@ Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashe
 - Quote receipt: [outputs/production/apartment-fridge-occlusion-v10-quote.json](../outputs/production/apartment-fridge-occlusion-v10-quote.json)
 - Result receipt: [outputs/production/apartment-fridge-occlusion-v10-result.json](../outputs/production/apartment-fridge-occlusion-v10-result.json)
 - Stderr receipt: [outputs/production/apartment-fridge-occlusion-v10-stderr.txt](../outputs/production/apartment-fridge-occlusion-v10-stderr.txt)
+
+### ASSET-F10EDB60E4A0 — Apartment Fridge Reconstruction V11
+
+- Exact filename: `apartment-fridge-reconstruction-v11.png`
+- File: [outputs/keyframes/apartment-fridge-reconstruction-v11.png](../outputs/keyframes/apartment-fridge-reconstruction-v11.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/keyframes/apartment-fridge-reconstruction-v11.png`
+- Role: Generated still / diagram; status: **failed-geometry-match**
+- Known verdict: Side enclosure/upper cupboard added, but top too high and dimensional/depth compliance not established.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not architecturally accurate or approved; use documented numeric blockout for future camera-matched reconstruction.
+- Bytes: 5532038; SHA-256: `bc6a5b27c05a960c010e0a2404f7bd98fb7f43f92b7cebed6b3e8a48594e9649`
+- Job ID: `6107e559-e860-42fe-991e-5683cc53c39e`
+- Request receipt: [outputs/production/apartment-fridge-reconstruction-v11-request.json](../outputs/production/apartment-fridge-reconstruction-v11-request.json)
+- Quote receipt: [outputs/production/apartment-fridge-reconstruction-v11-quote.json](../outputs/production/apartment-fridge-reconstruction-v11-quote.json)
+- Result receipt: [outputs/production/apartment-fridge-reconstruction-v11-result.json](../outputs/production/apartment-fridge-reconstruction-v11-result.json)
+- Stderr receipt: [outputs/production/apartment-fridge-reconstruction-v11-stderr.txt](../outputs/production/apartment-fridge-reconstruction-v11-stderr.txt)
 
 ### ASSET-370E15D8FB73 — Apartment-facing kitchen — v1
 
@@ -823,6 +839,18 @@ Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashe
 - Bytes: 133486; SHA-256: `ceac3114377d677765bd2b0f2e63254b31e0d9efe8496640947272e8e095d51a`
 - Job ID: `not recorded`
 
+### ASSET-525AF70A1034 — Fridge 36 Geometry Reference
+
+- Exact filename: `fridge-36-geometry-reference.png`
+- File: [outputs/review/fridge-36-geometry-reference.png](../outputs/review/fridge-36-geometry-reference.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/review/fridge-36-geometry-reference.png`
+- Role: Dimensioned refrigerator geometry concept; status: **proposed-geometry**
+- Known verdict: Manufacturer envelope plus proposed cabinet allocation; front/side/plan views from numeric blockout.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not surveyed installation; hinge clearance and room fit unverified.
+- Bytes: 165124; SHA-256: `d3262532b41988d9d83f1d2702c253062e2d0c4c8d1b34d1544774e56b3c314c`
+- Job ID: `not recorded`
+
 ### ASSET-9392D932F4A8 — Kitchen Orientation V1
 
 - Exact filename: `kitchen-orientation-v1.png`
@@ -1066,6 +1094,18 @@ Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashe
 - Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
 - Limit / superseded reason: Corner fit and final model selection unresolved.
 - Bytes: 50519; SHA-256: `40aa7a15bc72493995c029f43945370d181b9b13060a858ad4470deabb85be02`
+- Job ID: `not recorded`
+
+### ASSET-4420BEF5D138 — Frigidaire Frfn2823As
+
+- Exact filename: `frigidaire-frfn2823as.webp`
+- File: [references/products/frigidaire-frfn2823as.webp](../references/products/frigidaire-frfn2823as.webp)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/references/products/frigidaire-frfn2823as.webp`
+- Role: 36-inch standard-depth manufacturer reference; status: **concept-product-reference**
+- Known verdict: FRFN2823AS documented full-depth envelope and appearance; user authorized36-inch reconstruction.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Discontinued model; not purchase recommendation or verified corner fit.
+- Bytes: 55115; SHA-256: `29308d8075eac5c751ca46e41f9d6cdd3a95a9cb775fc41f934caabcaeda3623`
 - Job ID: `not recorded`
 
 ### ASSET-26F3E0139C7A — Wolf GR304 gas range — product reference

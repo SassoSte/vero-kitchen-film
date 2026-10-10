@@ -1,0 +1,55 @@
+{
+  "date": "2026-10-10",
+  "user_approval": "Use 36-inch fridge; revise adjacent cabinetry",
+  "product_reference": "Frigidaire FRFN2823AS (discontinued; dimensional reference, not purchase recommendation)",
+  "manufacturer_dimensions_in": {
+    "width": 36,
+    "height_hinge": 70,
+    "cabinet_width": 35.6,
+    "case_depth": 28.5,
+    "door_depth": 33.3,
+    "handle_depth": 35.7,
+    "open90_depth": 48.5
+  },
+  "manufacturer_minimum_gaps_in": {
+    "sides_and_top": 0.375,
+    "rear": 1
+  },
+  "proposed_run_in": [
+    43.5,
+    13.5,
+    30,
+    36
+  ],
+  "original_nominal_run_in": [
+    33,
+    24,
+    30,
+    36
+  ],
+  "range_start_in": 57,
+  "enclosure_proposal_in": {
+    "north_wall_filler": 5.25,
+    "left_panel": 0.75,
+    "left_gap": 0.375,
+    "door_width_envelope": 36,
+    "right_gap": 0.375,
+    "right_panel": 0.75,
+    "side_panel_depth": 28.875,
+    "top_cabinet_underside": 71,
+    "top_cabinet_top": 84
+  },
+  "derived_in": {
+    "installed_handle_front_from_rear_wall": 36.7,
+    "projection_beyond_counter": 11.2,
+    "remaining_nominal_aisle_at_closed_handles": 42.8
+  },
+  "limits": [
+    "Kitchen123x105 and counter25.5 are inherited estimates, not survey",
+    "Wall-side allowance is proposed, not manufacturer-certified door-sweep clearance",
+    "Full door opening/drawer removal must be checked onsite or in precise hinge model",
+    "Spec dimension table and drawing contain different open-door figures; do not conflate side-opening width and front-depth labels",
+    "OBJ is geometric blockout, not camera-calibrated/photoreal or engineering model",
+    "North/east prior visual lock remains historical appearance baseline but fridge/enclosure are explicitly superseded by latest user instruction"
+  ]
+}

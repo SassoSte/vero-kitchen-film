@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-10",
+  "timezone": "America/Phoenix",
+  "budget_user_text": "Approve 296 total; render reconstruction",
+  "total_ceiling_credits": 296,
+  "maximum_new_spend_credits": 6.5,
+  "authorized_jobs": [
+    "apartment-fridge-reconstruction-v11"
+  ],
+  "max_new_jobs": 1,
+  "scope": "One36-inch full-depth appliance/enclosure reconstruction with adjacent cabinet revision; no retry"
+}

@@ -4,12 +4,15 @@ Read `HANDOFF.md` first, then `mega-prompt.md`, `docs/SOURCE-REGISTER.md` and th
 `docs/BACKLOG.md`. `outputs/stills-gallery.html` / `docs/asset-catalog.json` identify
 assets and their status; version number alone is not approval.
 
-User approved **290 total credits for ONE local fridge-occlusion correction** on2026-10-10:
-`apartment-fridge-occlusion-v10`, max new price6.5. Read
-`outputs/production/apartment-fridge-occlusion-authorization.json` and live ledger/state.
-Use v8 upper fridge geometry/top unchanged; correct only freezer-handle/bar overlap.
-Both previous visual locks remain intact. No automatic retries, purchases or video jobs.
-Disable generation after this job.
+User approved **296 total credits for ONE36-inch refrigerator reconstruction** on2026-10-10:
+`apartment-fridge-reconstruction-v11`, max new price6.5. Read
+`outputs/production/fridge-reconstruction-authorization.json`, `fridge-36-layout.json`
+and `docs/FRIDGE-36-RECONSTRUCTION.md`. User explicitly permits adjacent cabinet-width
+revision and enclosure; this supersedes old33-inch/no-surround fridge constraints.
+Original room/source drawings remain unchanged. Manufacturer product envelope is
+verified but room measurements, full hinge/drawer clearance and installation fit are not.
+Prior north/east lock remains historical for fridge only; other design details retained.
+No automatic retries, purchases or video jobs. Disable generation after this job.
 
 
 Original photos/plans and manufacturer evidence remain separate from generated concepts.

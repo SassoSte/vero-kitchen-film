@@ -1,7 +1,7 @@
 {
   "project": "vero-kitchen-film",
-  "phase": "Third-view fridge top restored and handle overlap corrected; user review pending",
-  "budget_ceiling_credits": 290,
+  "phase": "36-inch enclosure render failed dimensional match; geometry guide retained; generation disabled",
+  "budget_ceiling_credits": 296,
   "approved_features": [
     "Wolf GR304 red knobs with pale hood; no over-range microwave",
     "Built-in microwave on sink side left of sink",
@@ -18,7 +18,7 @@
   "views": {
     "master": {
       "original": "references/original/ref-a-cooking-run.webp",
-      "status": "user-approved-visual-lock",
+      "status": "Prior user visual lock preserved; refrigerator/enclosure superseded by explicit36-inch revision",
       "take": "kitchen-smeg-realism-v1",
       "defects": [],
       "review_limits": [
@@ -33,8 +33,8 @@
     },
     "apartment": {
       "original": "references/original/ref-h-apartment-facing.webp",
-      "status": "Corrected overlap candidate; user approval pending",
-      "take": "apartment-fridge-occlusion-v10",
+      "status": "Not approved: failed dimensional match",
+      "take": "apartment-fridge-reconstruction-v11",
       "defects": [],
       "review_limits": [
         "bar partly occludes freezer drawer",
@@ -80,7 +80,7 @@
     "accessory_direction": "Small shelves above canisters with espresso cups/saucers, stir spoons and clear raw-sugar-cube jar. Upper cupboard: coordinated wine glasses and cappuccino cups/saucers only; remove random isolated cups and unrelated items."
   },
   "appliance_candidates": {
-    "main": "French-door model pending fit; previous Bosch single-door superseded",
+    "main": "FRFN2823AS discontinued manufacturer dimensional reference;36-inch reconstruction",
     "wine": "U-Line URWC315-IG01A",
     "status": "conditional-on-clearance-and-cabinetry",
     "wall": "blank end wall beside main fridge; user calls north wall"
@@ -94,11 +94,11 @@
   "geometry_lock": "outputs/production/geometry-lock.json",
   "fridge_style": "French-door upper pair meeting at center, bottom freezer drawer",
   "next_job": {
-    "request": "outputs/production/apartment-fridge-occlusion-v10-request.json",
-    "status": "GENERATED; user review pending",
+    "request": "outputs/production/apartment-fridge-reconstruction-v11-request.json",
+    "status": "GENERATED; failed geometry match; not approved",
     "prior_comparable_quote_credits": 6.5,
-    "proposed_total_ceiling": 290,
-    "authorization": "Approve 290 total; run it",
+    "proposed_total_ceiling": 296,
+    "authorization": "Approve 296 total; render reconstruction",
     "quoted_credits": 6.5
   },
   "status": "concept-review-hold",
@@ -114,16 +114,17 @@
     "lessons": "docs/LESSONS.md"
   },
   "authorized_jobs": [],
-  "authorization": "outputs/production/apartment-fridge-occlusion-authorization.json",
-  "latest_concept": "outputs/keyframes/apartment-fridge-occlusion-v10.png",
+  "authorization": "outputs/production/fridge-reconstruction-authorization.json",
+  "latest_concept": "outputs/keyframes/apartment-fridge-reconstruction-v11.png",
   "latest_concept_review": {
-    "status": "candidate-awaiting-user-review",
+    "status": "failed-geometry-match",
     "reviewer": "lead only",
-    "record": "docs/APARTMENT-OCCLUSION-REVIEW.md",
+    "record": "docs/FRIDGE-36-RECONSTRUCTION.md",
     "limits": [
-      "Freezer hidden by bar; actual configuration/fit not assessable",
-      "Pixel top-position check is not physical geometry proof",
-      "Third view awaits user lock"
+      "Enclosure top too high relative to specified84-inch alignment",
+      "36x70 envelope and43.5 allocation not reliably followed",
+      "Required door/handle depth projection unclear",
+      "Actual clearances and architecture accuracy unverified"
     ]
   },
   "orientation_review": "docs/ORIENTATION-2026-10-09.md",
@@ -175,8 +176,8 @@
   "preferred_edit_base": "outputs/keyframes/kitchen-smeg-realism-v1.png",
   "visual_lock": "outputs/production/north-east-visual-lock.json",
   "next_focus": {
-    "view": "outputs/keyframes/apartment-fridge-occlusion-v10.png",
-    "scope": "User review of third view; no additional generation authorized"
+    "scope": "Camera-matched3D reconstruction required; avoid another unconstrained whole-scene regeneration",
+    "authorization": "No further paid jobs"
   },
   "west_nook_direction": {
     "latest_user_instruction": "Go back to the iPhone and speaker in the nook; just fix dimensions and move on",
@@ -189,5 +190,6 @@
     "scope": "Localized nook edit only; no further counter styling or research-driven redesign",
     "supersedes": "Charging-only contents and proposed new styling direction"
   },
-  "west_visual_lock": "outputs/production/west-visual-lock.json"
+  "west_visual_lock": "outputs/production/west-visual-lock.json",
+  "fridge_reconstruction": "outputs/production/fridge-36-layout.json"
 }

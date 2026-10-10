@@ -5,6 +5,7 @@ import hashlib, json, re, html
 ROOT=Path(__file__).resolve().parents[1]
 OUT=ROOT/'outputs'; E=html.escape
 KNOWN={
+'apartment-fridge-reconstruction-v11':('failed-geometry-match','Side enclosure/upper cupboard added, but top too high and dimensional/depth compliance not established.','Not architecturally accurate or approved; use documented numeric blockout for future camera-matched reconstruction.'),
 'apartment-fridge-occlusion-v10':('candidate-awaiting-user-review','Lead inspected: v8 fridge top position restored; horizontal freezer handle hidden behind continuous foreground ledge.','Freezer below ledge not assessable; no physical-fit proof. Third view awaits user approval.'),
 'apartment-fridge-depth-v9':('partial-depth-correction','Lead inspected: freezer handle no longer merges with foreground bar edge.','Fridge appears slightly shorter than v8; scale-preserving correction not established. Third view not locked.'),
 'apartment-continuity-v8':('candidate-awaiting-user-review','Lead inspected: shorter French-door fridge, extra boards/plant removed; bar, three stools and opening retained.','Third-view user approval pending. Freezer/dispenser occluded; exact fit/product fidelity unverified.'),
@@ -104,6 +105,7 @@ def classify(p):
  if stem=='kitchen-orientation-v1':return 'diagrams','Photo-based orientation diagram','provisional-orientation','Discussion north coffee/wine; west sink/bar; east cooking. Camera marker five feet west.','Diagram uses inherited unverified dimensions; source Run B order conflicts with photos. Not source drawing or approved layout.',None
  if stem=='ref-l-north-coffee-wine':return 'inspiration','User ideal north-wall appearance reference','current-user-reference','Premium espresso presence, wider wine proportions, oak and warm niche lighting.','Appearance only; preserve existing envelope and liked frosted uppers; no projecting cabinet.',None
  if stem=='ref-m-espresso-dials':return 'inspiration','User-selected espresso appearance','current-user-reference','Black body, warm metal trim, prominent analog dial and tactile knobs.','Appearance reference; brand/SKU unverified. Surrounding kitchen and cups not adopted.',None
+ if stem=='fridge-36-geometry-reference':return 'diagrams','Dimensioned refrigerator geometry concept','proposed-geometry','Manufacturer envelope plus proposed cabinet allocation; front/side/plan views from numeric blockout.','Not surveyed installation; hinge clearance and room fit unverified.',None
  if '/review/' in rel:
   name=re.sub(r'-(6fps|end)$','',stem); status,verdict,why=KNOWN.get(name,('not-inspected-record','No review mapped.',''))
   return 'pilot-review',('Endpoint frame' if stem.endswith('-end') else '6-fps contact sheet'),status,verdict,why,name
@@ -120,6 +122,7 @@ def classify(p):
   return 'inspiration',roles['inspiration'],'component-reference',desc,'Original room geometry and latest brief control; conflicting source appliances/floors/room size are not adopted.',None
  if 'references/products/' in rel:
   if 'bosch' in stem:return 'products','Superseded fridge product reference','superseded-product','Bosch single-door product reference; previously used for tall door/lower drawer.','French-door revision supersedes model, single door and model-based 84-inch opening.',None
+  if stem=='frigidaire-frfn2823as':return 'products','36-inch standard-depth manufacturer reference','concept-product-reference','FRFN2823AS documented full-depth envelope and appearance; user authorized36-inch reconstruction.','Discontinued model; not purchase recommendation or verified corner fit.',None
   if 'frigidaire' in stem:return 'products','French-door appearance reference','concept-product-reference','Official FRFG1723AV appearance and proportions for one concept.','Corner fit and final model selection unresolved.',None
   return 'products','Wolf range product reference','current-product-reference','Wolf GR304 reference for range appearance/control layout.','Reference image is not installed-fit or whole-design approval.',None
  status,verdict,why=KNOWN.get(stem,('not-inspected-record','No per-asset review recorded in catalog source map.','Not accepted as a final/current design.'))

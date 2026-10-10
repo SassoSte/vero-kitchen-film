@@ -1,0 +1,26 @@
+[
+  {
+    "local": "references/products/specs/frigidaire-frfn2823a.pdf",
+    "source_url": "https://frigidaire.bynder.com/m/542abfac4cdc7eaf/original/FRFN2823A_EN-pdf.pdf",
+    "captured": "2026-10-10",
+    "sha256": "8b8a5768142103f2ce6229b2a6ce93ebcf990530d6465faee26484e7c4bbb219",
+    "bytes": 315896,
+    "status": "Manufacturer geometry reference; discontinued product; actual installation not approved"
+  },
+  {
+    "local": "references/products/specs/frigidaire-frfn2823a-manual.pdf",
+    "source_url": "https://frigidaire.bynder.com/m/4bb63bd4dbd751e0/original/A20811503en-pdf.pdf",
+    "captured": "2026-10-10",
+    "sha256": "7574e14da7ee63fbf045f85832a3f1af6b7efc5c3df62023e42962e4cd0ec0b5",
+    "bytes": 14007450,
+    "status": "Manufacturer geometry reference; discontinued product; actual installation not approved"
+  },
+  {
+    "local": "references/products/frigidaire-frfn2823as.webp",
+    "source_url": "https://frigidaire.bynder.com/transform/XL-1400/07d497a3-a4d1-4e4c-b6f1-84c34369d55a/FRFN2823AS-34L-psd",
+    "captured": "2026-10-10",
+    "sha256": "29308d8075eac5c751ca46e41f9d6cdd3a95a9cb775fc41f934caabcaeda3623",
+    "bytes": 55115,
+    "status": "Manufacturer geometry reference; discontinued product; actual installation not approved"
+  }
+]

@@ -1,7 +1,7 @@
 {
   "project": "vero-kitchen-film",
   "inventory_revision": "2026-10-09-resumed-one-concept",
-  "production": "Third-view fridge top restored and handle overlap corrected; user review pending",
+  "production": "36-inch enclosure render failed dimensional match; geometry guide retained; generation disabled",
   "authority": "Latest north-wall REF-M dial espresso/canister edit within REF-L composition and retained frosted uppers; two upper French doors/lower freezer drawer, model/fit pending. North/east wide view kitchen-smeg-realism-v1 is user-locked; west-phone-speaker-realism-v1 is also user-approved; apartment-facing reconciliation pending.",
   "review_sources": [
     "outputs/inspection.txt",
@@ -10,7 +10,7 @@
     "conversation review findings"
   ],
   "root": "/Users/stefansassoon/projects/vero-kitchen-film",
-  "still_count": 72,
+  "still_count": 75,
   "video_count": 3,
   "prepared_not_generated": [],
   "assets": [
@@ -106,6 +106,30 @@
         "quote": "outputs/production/apartment-fridge-occlusion-v10-quote.json",
         "result": "outputs/production/apartment-fridge-occlusion-v10-result.json",
         "stderr": "outputs/production/apartment-fridge-occlusion-v10-stderr.txt"
+      },
+      "source_provenance": null,
+      "review_source_note": "Recorded inspection/conversation findings or source-reference role; not a new visual inspection."
+    },
+    {
+      "id": "ASSET-F10EDB60E4A0",
+      "title": "Apartment Fridge Reconstruction V11",
+      "path": "outputs/keyframes/apartment-fridge-reconstruction-v11.png",
+      "absolute_path": "/Users/stefansassoon/projects/vero-kitchen-film/outputs/keyframes/apartment-fridge-reconstruction-v11.png",
+      "kind": "still",
+      "category": "generated",
+      "role": "Generated still / diagram",
+      "status": "failed-geometry-match",
+      "verdict": "Side enclosure/upper cupboard added, but top too high and dimensional/depth compliance not established.",
+      "superseded_reason": "Not architecturally accurate or approved; use documented numeric blockout for future camera-matched reconstruction.",
+      "bytes": 5532038,
+      "sha256": "bc6a5b27c05a960c010e0a2404f7bd98fb7f43f92b7cebed6b3e8a48594e9649",
+      "job_name": "apartment-fridge-reconstruction-v11",
+      "job_id": "6107e559-e860-42fe-991e-5683cc53c39e",
+      "receipts": {
+        "request": "outputs/production/apartment-fridge-reconstruction-v11-request.json",
+        "quote": "outputs/production/apartment-fridge-reconstruction-v11-quote.json",
+        "result": "outputs/production/apartment-fridge-reconstruction-v11-result.json",
+        "stderr": "outputs/production/apartment-fridge-reconstruction-v11-stderr.txt"
       },
       "source_provenance": null,
       "review_source_note": "Recorded inspection/conversation findings or source-reference role; not a new visual inspection."
@@ -1306,6 +1330,25 @@
       "review_source_note": "Recorded inspection/conversation findings or source-reference role; not a new visual inspection."
     },
     {
+      "id": "ASSET-525AF70A1034",
+      "title": "Fridge 36 Geometry Reference",
+      "path": "outputs/review/fridge-36-geometry-reference.png",
+      "absolute_path": "/Users/stefansassoon/projects/vero-kitchen-film/outputs/review/fridge-36-geometry-reference.png",
+      "kind": "still",
+      "category": "diagrams",
+      "role": "Dimensioned refrigerator geometry concept",
+      "status": "proposed-geometry",
+      "verdict": "Manufacturer envelope plus proposed cabinet allocation; front/side/plan views from numeric blockout.",
+      "superseded_reason": "Not surveyed installation; hinge clearance and room fit unverified.",
+      "bytes": 165124,
+      "sha256": "d3262532b41988d9d83f1d2702c253062e2d0c4c8d1b34d1544774e56b3c314c",
+      "job_name": null,
+      "job_id": null,
+      "receipts": {},
+      "source_provenance": null,
+      "review_source_note": "Recorded inspection/conversation findings or source-reference role; not a new visual inspection."
+    },
+    {
       "id": "ASSET-9392D932F4A8",
       "title": "Kitchen Orientation V1",
       "path": "outputs/review/kitchen-orientation-v1.png",
@@ -1702,6 +1745,25 @@
       "superseded_reason": "Corner fit and final model selection unresolved.",
       "bytes": 50519,
       "sha256": "40aa7a15bc72493995c029f43945370d181b9b13060a858ad4470deabb85be02",
+      "job_name": null,
+      "job_id": null,
+      "receipts": {},
+      "source_provenance": null,
+      "review_source_note": "Recorded inspection/conversation findings or source-reference role; not a new visual inspection."
+    },
+    {
+      "id": "ASSET-4420BEF5D138",
+      "title": "Frigidaire Frfn2823As",
+      "path": "references/products/frigidaire-frfn2823as.webp",
+      "absolute_path": "/Users/stefansassoon/projects/vero-kitchen-film/references/products/frigidaire-frfn2823as.webp",
+      "kind": "still",
+      "category": "products",
+      "role": "36-inch standard-depth manufacturer reference",
+      "status": "concept-product-reference",
+      "verdict": "FRFN2823AS documented full-depth envelope and appearance; user authorized36-inch reconstruction.",
+      "superseded_reason": "Discontinued model; not purchase recommendation or verified corner fit.",
+      "bytes": 55115,
+      "sha256": "29308d8075eac5c751ca46e41f9d6cdd3a95a9cb775fc41f934caabcaeda3623",
       "job_name": null,
       "job_id": null,
       "receipts": {},

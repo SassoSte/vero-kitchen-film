@@ -44,14 +44,15 @@
     "/Users/stefansassoon/projects/vero/deco/assets/unit2130-2023/contact-sheet.png"
   ],
   "fridge_visual_lock": {
-    "model": null,
+    "model": "FRFN2823AS dimensional reference only",
     "existing_bay": 33,
     "upper_doors": "French-door pair meeting at center; outer hinges and central handles",
     "freezer": "lower pull-out drawer",
-    "height": "pending actual selected model",
-    "clearance": "verify wall-side left door and drawer access; do not inherit Bosch opening",
-    "supersedes": "Bosch B30BB130SS single upper door",
-    "concept_reference": "FRFG1723AV appearance only; 31.3 wide and67.9 high; corner fit unresolved"
+    "height": 70,
+    "clearance": "See fridge-36-layout.json; wall-side full opening unverified",
+    "supersedes": "Prior33-inch bay,31.3-inch concept and no-surround rule; user chose36-inch plus cabinet revision",
+    "concept_reference": "FRFG1723AV appearance only; 31.3 wide and67.9 high; corner fit unresolved",
+    "new_width": 36
   },
   "room_rules": [
     "Original photos govern viewpoint and handedness; SVG page orientation is not a reason to mirror the room.",
@@ -73,5 +74,6 @@
     "north": "coffee/wine end wall",
     "west": "sink/pass-through/bar side",
     "east": "main fridge/range run"
-  }
+  },
+  "proposed_fridge_reconstruction": "outputs/production/fridge-36-layout.json"
 }
