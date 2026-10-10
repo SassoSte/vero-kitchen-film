@@ -1,0 +1,13 @@
+{
+  "model": "gpt_image_2",
+  "params": {
+    "quality": "high",
+    "resolution": "2k",
+    "aspect_ratio": "4:5"
+  },
+  "references": [
+    "outputs/keyframes/north-wall-ref-m-v1.png"
+  ],
+  "prompt": "Make a tightly localized edit of image1, the current north-wall coffee/wine detail. Preserve camera, crop, room and niche geometry, cabinet dimensions, frosted-glass doors, lighting, quartz, oak lining, wider wine fridge, lower ribbed-oak fronts, the two countertop coffee canisters, and especially the existing black/brass espresso machine with its central analog dial and knobs. Do not replace or redesign the machine.\nAdd TWO small, shallow, finely proportioned oak shelves on the LEFT side of the coffee niche, directly ABOVE the two countertop canisters. Confine their width to that left zone; do not extend them across or over the espresso machine. Keep enough headroom above the canister lids for plausible access. Match the existing oak lining, with slim concealed supports, convincing contact and shadows. Arrange a small coordinated set of espresso cups and saucers on these shelves, a little holder containing espresso stir spoons, and ONE clear lidded glass canister visibly containing irregular raw brown sugar cubes, not loose granulated sugar. Keep the arrangement restrained, functional and legible; do not crowd the machine or worktop. No countertop cups or cup beneath the group head.\nCorrect the contents behind the frosted UPPER cupboard doors. Remove the two conspicuous isolated cups at the bottom and any generic tumblers or unrelated crockery. Show intentional groups of matching wine glasses and matching cappuccino cups with their saucers, arranged in tidy coordinated sets on the cupboard shelves. Keep the existing glass frosted so contents remain softened silhouettes, but unmistakably wine/coffee service. No random solitary mugs, vases, bowls, decor, plates of food, or unrelated objects. Existing top-shelf cup silhouettes must also belong to the coordinated cappuccino set rather than a collection of mismatched mugs.\nAll visible styling is wine/coffee related. Preserve the warm lighting and the rest of the image. One photoreal 4:5 image; no labels, text overlays or new branding.",
+  "output": "outputs/keyframes/north-wall-coffee-shelves-v1.png"
+}

@@ -1,3 +1,5 @@
+> **Latest requested styling correction:** Add little shelves above the countertop canisters with espresso cups/saucers, stir spoons and a clear canister of raw sugar cubes. Remove isolated/random cupboard cups; arrange coordinated wine glasses and cappuccino service. Preserve machine and design. `north-wall-coffee-shelves-v1` prepared; no additional spending approved yet.
+
 > **Latest result:** [REF-M targeted edit](docs/NORTH-WALL-REF-M-REVIEW.md) generated and lead-inspected; awaiting user review. Task total **217.75/218**, **0.25 remaining**. Generation disabled. Earlier result/budget statements below are historical.
 
 > **Latest requested edit — REF-M:** Preserve the improved north-wall composition. Use the user-selected black/brass machine with prominent analog dial and knobs; remove countertop cups, add coffee canisters, show cups faintly behind frosted glass above. User approved 218 total credits for one `north-wall-ref-m-v1` render; exact authorization is in outputs/production/north-wall-ref-m-authorization.json.

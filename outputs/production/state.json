@@ -1,6 +1,6 @@
 {
   "project": "vero-kitchen-film",
-  "phase": "REF-M dial espresso/canister edit generated; user review pending; further generation disabled",
+  "phase": "Coffee-service shelves and coordinated cupboard contents prepared; extra paid budget pending",
   "budget_ceiling_credits": 218,
   "approved_features": [
     "Wolf GR304 red knobs with pale hood; no over-range microwave",
@@ -73,7 +73,8 @@
     "wall": "SAME blank wall beside main refrigerator as wine fridge",
     "reference": "references/inspiration/ref-l-north-coffee-wine.png",
     "limits": "Current concept exists but espresso/proportions need revision; physical recess and fit unverified.",
-    "machine_reference": "references/inspiration/ref-m-espresso-dials.png"
+    "machine_reference": "references/inspiration/ref-m-espresso-dials.png",
+    "accessory_direction": "Small shelves above canisters with espresso cups/saucers, stir spoons and clear raw-sugar-cube jar. Upper cupboard: coordinated wine glasses and cappuccino cups/saucers only; remove random isolated cups and unrelated items."
   },
   "appliance_candidates": {
     "main": "French-door model pending fit; previous Bosch single-door superseded",
@@ -90,12 +91,11 @@
   "geometry_lock": "outputs/production/geometry-lock.json",
   "fridge_style": "French-door upper pair meeting at center, bottom freezer drawer",
   "next_job": {
-    "request": "outputs/production/north-wall-ref-m-v1-request.json",
-    "status": "GENERATED; user review pending",
+    "request": "outputs/production/north-wall-coffee-shelves-v1-request.json",
+    "status": "PREPARED; NOT QUOTED OR SUBMITTED",
     "prior_comparable_quote_credits": 6.5,
-    "proposed_total_ceiling": 218,
-    "authorization": "One render under218 approved and consumed",
-    "quoted_credits": 6.5
+    "proposed_total_ceiling": 225,
+    "authorization": "Not approved"
   },
   "status": "concept-review-hold",
   "pause_reason": null,
