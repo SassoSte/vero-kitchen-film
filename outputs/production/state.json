@@ -1,6 +1,6 @@
 {
   "project": "vero-kitchen-film",
-  "phase": "Unpaid fixed-geometry study completed; camera alignment approximate; third photoreal view unapproved",
+  "phase": "Unpaid fixed-geometry material pass completed; not a finished replacement image",
   "budget_ceiling_credits": 296,
   "approved_features": [
     "Wolf GR304 red knobs with pale hood; no over-range microwave",
@@ -176,8 +176,8 @@
   "preferred_edit_base": "outputs/keyframes/kitchen-smeg-realism-v1.png",
   "visual_lock": "outputs/production/north-east-visual-lock.json",
   "next_focus": {
-    "scope": "Review fixed-volume/occlusion and reconcile opening/bar measurements before photoreal finalization",
-    "authorization": "No additional paid generation"
+    "scope": "Reconcile camera/opening and build faithful scene assets before finished production rendering",
+    "authorization": "No additional paid generation; approved image files unchanged"
   },
   "west_nook_direction": {
     "latest_user_instruction": "Go back to the iPhone and speaker in the nook; just fix dimensions and move on",
@@ -202,6 +202,18 @@
       "Fitted opening87.7in differs from old66in bar schedule",
       "Camera at height66in and nominal far-room bound",
       "Hinge sweep and physical fit unresolved"
+    ]
+  },
+  "local_material_pass": {
+    "record": "docs/FIXED-SCENE-MATERIAL-PASS.md",
+    "image": "outputs/review/kitchen-fixed-materials-v1.png",
+    "renderer": "Mitsuba3.9.1 scalar_rgb",
+    "paid_spend": 0,
+    "status": "technical-material-checkpoint-not-production",
+    "limits": [
+      "Simplified product/stool models; dining area omitted",
+      "Estimated camera/opening uncertainty remains",
+      "Not final photoreal architectural match"
     ]
   }
 }

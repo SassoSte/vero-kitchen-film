@@ -1,3 +1,5 @@
+> **Local rendering checkpoint:** [Fixed geometry with materials/light](docs/FIXED-SCENE-MATERIAL-PASS.md) completed without provider spend. It remains a simplified technical scene, not a finished replacement; camera/room uncertainty unresolved. Approved images unchanged; task295.75/296.
+
 > **Unpaid geometry study complete:** [Fixed model/camera check](docs/FIXED-GEOMETRY-CHECK.md) shows freezer occlusion and actual volume. Camera match remains approximate; fitted opening conflicts with old bar schedule. No new style proposal or geometry certification. Third photoreal view unapproved; task remains295.75/296.
 
 > **Latest reconstruction outcome:** [v11 inspection](docs/FRIDGE-36-RECONSTRUCTION.md) FAILED dimensional match (enclosure too tall; depth/scale not established). Third view unapproved. Task **295.75/296**, **0.25 remaining**; generation disabled. Use explicit geometry and camera matching before further rendering.

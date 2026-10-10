@@ -1,7 +1,7 @@
 {
   "project": "vero-kitchen-film",
   "inventory_revision": "2026-10-09-resumed-one-concept",
-  "production": "Unpaid fixed-geometry study completed; camera alignment approximate; third photoreal view unapproved",
+  "production": "Unpaid fixed-geometry material pass completed; not a finished replacement image",
   "authority": "Latest north-wall REF-M dial espresso/canister edit within REF-L composition and retained frosted uppers; two upper French doors/lower freezer drawer, model/fit pending. North/east wide view kitchen-smeg-realism-v1 is user-locked; west-phone-speaker-realism-v1 is also user-approved; apartment-facing reconciliation pending.",
   "review_sources": [
     "outputs/inspection.txt",
@@ -10,7 +10,7 @@
     "conversation review findings"
   ],
   "root": "/Users/stefansassoon/projects/vero-kitchen-film",
-  "still_count": 78,
+  "still_count": 79,
   "video_count": 3,
   "prepared_not_generated": [],
   "assets": [
@@ -1399,6 +1399,25 @@
       "superseded_reason": "Estimated camera; opening dimension conflicts with old bar schedule. Not surveyed installation or finished visual.",
       "bytes": 58996,
       "sha256": "f09cba427574f7f49e2c205e4ef880fed02b579611a68565cd2fad30cce97b21",
+      "job_name": null,
+      "job_id": null,
+      "receipts": {},
+      "source_provenance": null,
+      "review_source_note": "Recorded inspection/conversation findings or source-reference role; not a new visual inspection."
+    },
+    {
+      "id": "ASSET-34FEDD43C2FC",
+      "title": "Kitchen Fixed Materials V1",
+      "path": "outputs/review/kitchen-fixed-materials-v1.png",
+      "absolute_path": "/Users/stefansassoon/projects/vero-kitchen-film/outputs/review/kitchen-fixed-materials-v1.png",
+      "kind": "still",
+      "category": "diagrams",
+      "role": "Local fixed-geometry material render",
+      "status": "technical-material-checkpoint",
+      "verdict": "Deterministic Mitsuba material/light pass with fixed fridge/enclosure and estimated camera; no paid generation.",
+      "superseded_reason": "Simplified assets and missing dining context; not final photoreal image or architectural approval.",
+      "bytes": 1065174,
+      "sha256": "865c38eb4f790b582240ef70655926142415e6dc32598c08e9fe641713949c0b",
       "job_name": null,
       "job_id": null,
       "receipts": {},

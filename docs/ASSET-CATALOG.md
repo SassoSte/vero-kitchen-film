@@ -4,7 +4,7 @@ Latest north-wall REF-M dial espresso/canister edit within REF-L composition and
 
 Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashes of repository-relative paths. Hashes describe exact existing bytes; verdicts are sourced review findings, not a new visual inspection.
 
-**78 stills · 3 videos.**
+**79 stills · 3 videos.**
 
 [Open searchable gallery](../outputs/stills-gallery.html) · [Machine-readable catalog](asset-catalog.json)
 
@@ -885,6 +885,18 @@ Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashe
 - Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
 - Limit / superseded reason: Estimated camera; opening dimension conflicts with old bar schedule. Not surveyed installation or finished visual.
 - Bytes: 58996; SHA-256: `f09cba427574f7f49e2c205e4ef880fed02b579611a68565cd2fad30cce97b21`
+- Job ID: `not recorded`
+
+### ASSET-34FEDD43C2FC — Kitchen Fixed Materials V1
+
+- Exact filename: `kitchen-fixed-materials-v1.png`
+- File: [outputs/review/kitchen-fixed-materials-v1.png](../outputs/review/kitchen-fixed-materials-v1.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/review/kitchen-fixed-materials-v1.png`
+- Role: Local fixed-geometry material render; status: **technical-material-checkpoint**
+- Known verdict: Deterministic Mitsuba material/light pass with fixed fridge/enclosure and estimated camera; no paid generation.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Simplified assets and missing dining context; not final photoreal image or architectural approval.
+- Bytes: 1065174; SHA-256: `865c38eb4f790b582240ef70655926142415e6dc32598c08e9fe641713949c0b`
 - Job ID: `not recorded`
 
 ### ASSET-9392D932F4A8 — Kitchen Orientation V1

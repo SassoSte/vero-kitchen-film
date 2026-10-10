@@ -107,6 +107,7 @@ def classify(p):
  if stem=='ref-m-espresso-dials':return 'inspiration','User-selected espresso appearance','current-user-reference','Black body, warm metal trim, prominent analog dial and tactile knobs.','Appearance reference; brand/SKU unverified. Surrounding kitchen and cups not adopted.',None
  if stem=='fridge-36-geometry-reference':return 'diagrams','Dimensioned refrigerator geometry concept','proposed-geometry','Manufacturer envelope plus proposed cabinet allocation; front/side/plan views from numeric blockout.','Not surveyed installation; hinge clearance and room fit unverified.',None
  if stem.startswith('kitchen-fixed-geometry-'):return 'diagrams','Deterministic fixed-geometry study','provisional-camera-match','Ray-traced box model: refrigerator volume, enclosure and foreground occlusion; no paid generation.','Estimated camera; opening dimension conflicts with old bar schedule. Not surveyed installation or finished visual.',None
+ if stem=='kitchen-fixed-materials-v1':return 'diagrams','Local fixed-geometry material render','technical-material-checkpoint','Deterministic Mitsuba material/light pass with fixed fridge/enclosure and estimated camera; no paid generation.','Simplified assets and missing dining context; not final photoreal image or architectural approval.',None
  if '/review/' in rel:
   name=re.sub(r'-(6fps|end)$','',stem); status,verdict,why=KNOWN.get(name,('not-inspected-record','No review mapped.',''))
   return 'pilot-review',('Endpoint frame' if stem.endswith('-end') else '6-fps contact sheet'),status,verdict,why,name
