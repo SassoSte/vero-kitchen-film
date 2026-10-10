@@ -1,7 +1,7 @@
 {
   "project": "vero-kitchen-film",
   "inventory_revision": "2026-10-09-resumed-one-concept",
-  "production": "Third-view continuity candidate generated; user review pending; first two views remain locked",
+  "production": "Third-view fridge/bar depth correction prepared; additional paid allowance pending",
   "authority": "Latest north-wall REF-M dial espresso/canister edit within REF-L composition and retained frosted uppers; two upper French doors/lower freezer drawer, model/fit pending. North/east wide view kitchen-smeg-realism-v1 is user-locked; west-phone-speaker-realism-v1 is also user-approved; apartment-facing reconciliation pending.",
   "review_sources": [
     "outputs/inspection.txt",
@@ -12,7 +12,18 @@
   "root": "/Users/stefansassoon/projects/vero-kitchen-film",
   "still_count": 70,
   "video_count": 3,
-  "prepared_not_generated": [],
+  "prepared_not_generated": [
+    {
+      "id": "PREP-apartment-fridge-depth-v9",
+      "name": "apartment-fridge-depth-v9",
+      "status": "PREPARED; NOT QUOTED OR SUBMITTED",
+      "quote_credits": null,
+      "note": "Third-view fridge/bar depth correction prepared; additional paid allowance pending",
+      "receipts": {
+        "request": "outputs/production/apartment-fridge-depth-v9-request.json"
+      }
+    }
+  ],
   "assets": [
     {
       "id": "ASSET-79E492B2F8D4",

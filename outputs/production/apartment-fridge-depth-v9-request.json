@@ -1,0 +1,14 @@
+{
+  "model": "gpt_image_2",
+  "params": {
+    "quality": "high",
+    "resolution": "2k",
+    "aspect_ratio": "16:9"
+  },
+  "references": [
+    "outputs/keyframes/apartment-continuity-v8.png",
+    "outputs/keyframes/kitchen-smeg-realism-v1.png"
+  ],
+  "prompt": "Correct ONLY the refrigerator/bar depth relationship in image1, the apartment-facing kitchen view. Image2 is the approved interior kitchen reference for refrigerator placement, proportions and its relationship to the cooking run. Preserve the full apartment-facing camera and composition, room/opening geometry, bar height/depth, three stools, dining area, floors, cabinets, lighting, appliances and existing styling.\nIn image1 the lower freezer handle and foreground bar/ledge edge align ambiguously, making the refrigerator look structurally attached to the bar. Resolve this photographic occlusion and perspective error. The stainless French-door fridge is freestanding at the back cooking run, behind the kitchen aisle; the pale quartz ledge and oak bar are in the foreground. Reconstruct coherent refrigerator body/door/handle perspective at that existing back-run position, consistent with image2. The opaque foreground ledge must occlude whatever genuinely falls behind it. Its front edge and thickness must be a continuous, clearly separate foreground surface, without metallic fridge parts merging into or continuing along it. Any freezer portion that should be hidden stays hidden; do not force its handle into view.\nUse physically plausible surface separation, edge ownership, lighting/reflections and occlusion to show the aisle depth. Keep metal and stone boundaries distinct. Do not create a black outline, decorative gap, fake shadow floating in space, extra trim strip or new cabinet. Do not move the fridge into a new bay, raise it, change its model/scale, widen the room, lower/raise the bar, remove a stool, or shift the camera merely to avoid the problem. Preserve two center-meeting upper fridge doors and lower pull-out freezer configuration; no invented single door or surround. Keep everything else visually unchanged. One full16:9 photoreal kitchen view, no labels or annotations.",
+  "output": "outputs/keyframes/apartment-fridge-depth-v9.png"
+}

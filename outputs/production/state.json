@@ -1,6 +1,6 @@
 {
   "project": "vero-kitchen-film",
-  "phase": "Third-view continuity candidate generated; user review pending; first two views remain locked",
+  "phase": "Third-view fridge/bar depth correction prepared; additional paid allowance pending",
   "budget_ceiling_credits": 277,
   "approved_features": [
     "Wolf GR304 red knobs with pale hood; no over-range microwave",
@@ -33,7 +33,7 @@
     },
     "apartment": {
       "original": "references/original/ref-h-apartment-facing.webp",
-      "status": "Third-view continuity candidate; user approval pending",
+      "status": "Not locked: user flags fridge/bar depth ambiguity",
       "take": "apartment-continuity-v8",
       "defects": [],
       "review_limits": [
@@ -94,12 +94,11 @@
   "geometry_lock": "outputs/production/geometry-lock.json",
   "fridge_style": "French-door upper pair meeting at center, bottom freezer drawer",
   "next_job": {
-    "request": "outputs/production/apartment-continuity-v8-request.json",
-    "status": "GENERATED; user review pending",
+    "request": "outputs/production/apartment-fridge-depth-v9-request.json",
+    "status": "PREPARED; NOT QUOTED OR SUBMITTED",
     "prior_comparable_quote_credits": 6.5,
-    "proposed_total_ceiling": 277,
-    "authorization": "Approve 277 total for one render",
-    "quoted_credits": 6.5
+    "proposed_total_ceiling": 283,
+    "authorization": "Correction scope approved; additional spending pending"
   },
   "status": "concept-review-hold",
   "pause_reason": null,
@@ -117,13 +116,14 @@
   "authorization": "outputs/production/apartment-continuity-authorization.json",
   "latest_concept": "outputs/keyframes/apartment-continuity-v8.png",
   "latest_concept_review": {
-    "status": "candidate-awaiting-user-review",
+    "status": "needs-fridge-bar-depth-correction",
     "reviewer": "lead only",
     "record": "docs/APARTMENT-CONTINUITY-REVIEW.md",
     "limits": [
       "Freezer mostly occluded by ledge",
       "Dispenser not clearly assessable",
-      "Exact proportions/product fidelity and physical fit not established"
+      "Exact proportions/product fidelity and physical fit not established",
+      "User flags refrigerator visually merging with foreground bar"
     ]
   },
   "orientation_review": "docs/ORIENTATION-2026-10-09.md",

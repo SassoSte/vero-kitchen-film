@@ -1,3 +1,5 @@
+> **Third view not locked:** User flags fridge as visually attached to bar; localized perspective/occlusion correction approved. Preserve geometry and appliance scale; let foreground ledge correctly hide freezer portions. `apartment-fridge-depth-v9` prepared; further spending allowance pending.
+
 > **Third-view result:** [Apartment continuity v8](docs/APARTMENT-CONTINUITY-REVIEW.md) generated; user review pending. North/east and west visual locks unchanged. Task **276.25/277**, **0.75 remaining**; no more generation authorized. Earlier status/budget text is historical.
 
 > **Third-view edit confirmed:** `apartment-continuity-v8` prepared from apartment-v7 plus locked north/east and west views. Preserve camera/opening/bar/stools/dining; update French fridge and visible fixtures, remove extra boards/plant. Paid allowance pending.
