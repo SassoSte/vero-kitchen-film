@@ -1,3 +1,5 @@
+> **WEST VIEW ACCEPTED — 2026-10-10:** [Exact accepted asset and hash](outputs/production/west-visual-lock.json): `west-phone-speaker-realism-v1.png`. North/east lock also remains in force. Next: reconcile `apartment-v7` with locked kitchen views, especially French-door fridge. Planning only; no new paid job authorized.
+
 > **Latest WEST result:** [Phone/speaker realism cleanup](docs/WEST-DEVICE-REALISM-REVIEW.md) rendered under explicit user authorization; change subtle, user review pending. Task total **269.75**; single-render6.5 allowance consumed, generation disabled. North/east lock unchanged. Earlier status/budget text is historical.
 
 > **Latest WEST result:** [Resized iPhone/speaker nook](docs/WEST-SIZED-NOOK-REVIEW.md) rendered; no broader restyling. User review pending. North/east visual lock unchanged. Task **263.25/264**, **0.75 remaining**; generation disabled. Earlier status/budget text is historical.

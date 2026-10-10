@@ -1,8 +1,8 @@
 {
   "project": "vero-kitchen-film",
   "inventory_revision": "2026-10-09-resumed-one-concept",
-  "production": "Phone/speaker cleanup returned; subtle change, user review pending; generation disabled",
-  "authority": "Latest north-wall REF-M dial espresso/canister edit within REF-L composition and retained frosted uppers; two upper French doors/lower freezer drawer, model/fit pending. North/east wide view kitchen-smeg-realism-v1 is user-locked; west view is under review, complete cross-view set pending.",
+  "production": "North/east and west views user-approved; apartment-facing reconciliation next; generation disabled",
+  "authority": "Latest north-wall REF-M dial espresso/canister edit within REF-L composition and retained frosted uppers; two upper French doors/lower freezer drawer, model/fit pending. North/east wide view kitchen-smeg-realism-v1 is user-locked; west-phone-speaker-realism-v1 is also user-approved; apartment-facing reconciliation pending.",
   "review_sources": [
     "outputs/inspection.txt",
     "mega-prompt.md",
@@ -958,9 +958,9 @@
       "kind": "still",
       "category": "generated",
       "role": "Generated still / diagram",
-      "status": "modest-cleanup-candidate",
-      "verdict": "Lead inspected: compact nook and device arrangement retained; subtle screen/material/contact cleanup.",
-      "superseded_reason": "Improvement modest at full-room scale; realism resolution and user acceptance not established.",
+      "status": "user-approved-visual-lock",
+      "verdict": "User accepted west-wall view on2026-10-10: compact phone/speaker nook, undercounter microwave, sink and opening.",
+      "superseded_reason": "Visual acceptance only; preserve as-is unless user changes scope. Physical fit unverified.",
       "bytes": 6270112,
       "sha256": "b0b80c58c7cdf947d88013dbbb16bd9f5688d6cce8a4a4be06a68303de70c88d",
       "job_name": "west-phone-speaker-realism-v1",

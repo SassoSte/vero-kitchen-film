@@ -26,6 +26,8 @@ check(json.loads((ROOT/f'outputs/production/{name}-quote.json').read_text())['cr
 check(budget['reserved_credits']==quote_total<=budget['ceiling_credits'],'Commitments reconciled within cap')
 lock=json.loads((ROOT/'outputs/production/north-east-visual-lock.json').read_text())
 check(digest(ROOT/lock['asset'])==lock['sha256'],'User-locked north/east image unchanged')
+west_lock=json.loads((ROOT/'outputs/production/west-visual-lock.json').read_text())
+check(digest(ROOT/west_lock['asset'])==west_lock['sha256'],'User-accepted west image unchanged')
 cat=json.loads((ROOT/'docs/asset-catalog.json').read_text());assets=cat['assets']
 check(len({x['id'] for x in assets})==len(assets),'Unique stable asset IDs')
 exts={'.png','.jpg','.jpeg','.webp','.mp4','.mov','.webm','.m4v'}

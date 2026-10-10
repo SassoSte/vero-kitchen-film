@@ -1,6 +1,6 @@
 {
   "project": "vero-kitchen-film",
-  "phase": "Phone/speaker cleanup returned; subtle change, user review pending; generation disabled",
+  "phase": "North/east and west views user-approved; apartment-facing reconciliation next; generation disabled",
   "budget_ceiling_credits": 269.75,
   "approved_features": [
     "Wolf GR304 red knobs with pale hood; no over-range microwave",
@@ -27,7 +27,7 @@
     },
     "sink": {
       "original": "references/original/ref-b-sink-run.webp",
-      "status": "Device realism candidate; user review pending",
+      "status": "user-approved-visual-lock",
       "take": "west-phone-speaker-realism-v1",
       "defects": []
     },
@@ -95,7 +95,7 @@
   "fridge_style": "French-door upper pair meeting at center, bottom freezer drawer",
   "next_job": {
     "request": "outputs/production/west-phone-speaker-realism-v1-request.json",
-    "status": "GENERATED; subtle cleanup candidate, user review pending",
+    "status": "GENERATED AND USER-APPROVED; no new paid job authorized",
     "authorization": "Can you clean up the speaker and phone - they look fake and unreal. You're authorized.",
     "quoted_credits": 6.5
   },
@@ -115,14 +115,16 @@
   "authorization": "outputs/production/west-devices-realism-authorization.json",
   "latest_concept": "outputs/keyframes/west-phone-speaker-realism-v1.png",
   "latest_concept_review": {
-    "status": "modest-cleanup-candidate",
+    "status": "user-approved-visual-lock",
     "reviewer": "lead only",
     "record": "docs/WEST-DEVICE-REALISM-REVIEW.md",
     "limits": [
       "Change subtle at full-room scale; realism issue not definitively resolved",
       "No user acceptance claimed",
       "Not pixel-identical outside edit"
-    ]
+    ],
+    "user_approval": "Ok, that works. what's next ?",
+    "approval_date": "2026-10-10"
   },
   "orientation_review": "docs/ORIENTATION-2026-10-09.md",
   "discussion_directions": {
@@ -134,7 +136,7 @@
   "orientation_confirmed_by_user": true,
   "dimension_estimates_confirmed_by_user": false,
   "design_progress_references": {
-    "west_sink": "outputs/keyframes/sink-v4.png",
+    "west_sink": "outputs/keyframes/west-phone-speaker-realism-v1.png",
     "west_external_view": "outputs/keyframes/apartment-v7.png",
     "west_external_view_exception": "Single-door fridge superseded; retain latest French-door instruction",
     "north_latest": "outputs/keyframes/kitchen-smeg-realism-v1.png",
@@ -172,9 +174,9 @@
   "preferred_edit_base": "outputs/keyframes/kitchen-smeg-realism-v1.png",
   "visual_lock": "outputs/production/north-east-visual-lock.json",
   "next_focus": {
-    "wall": "west",
-    "view": "outputs/keyframes/west-phone-speaker-realism-v1.png",
-    "scope": "Restore iPhone and speaker, resize nook only"
+    "view": "outputs/keyframes/apartment-v7.png",
+    "scope": "Update living-room-facing kitchen view to match locked designs: French-door fridge and consistent visible fixtures/materials; preserve bar/stools/opening/room geometry",
+    "authorization": "Planning only; no additional paid render authorized"
   },
   "west_nook_direction": {
     "latest_user_instruction": "Go back to the iPhone and speaker in the nook; just fix dimensions and move on",
@@ -186,5 +188,6 @@
     "change": "Reduce opening height and modestly narrow width around actual-size devices",
     "scope": "Localized nook edit only; no further counter styling or research-driven redesign",
     "supersedes": "Charging-only contents and proposed new styling direction"
-  }
+  },
+  "west_visual_lock": "outputs/production/west-visual-lock.json"
 }

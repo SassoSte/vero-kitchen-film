@@ -1,3 +1,5 @@
+> **User accepted this view on2026-10-10 (“Ok, that works”).** Earlier lead critique remains historical; preserve the accepted design.
+
 # West phone/speaker realism — 2026-10-10
 
 [Image](../outputs/keyframes/west-phone-speaker-realism-v1.png) · [Request](../outputs/production/west-phone-speaker-realism-v1-request.json) · [Authorization](../outputs/production/west-devices-realism-authorization.json)

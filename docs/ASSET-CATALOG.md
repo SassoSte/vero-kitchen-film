@@ -1,6 +1,6 @@
 # Asset catalog — bounded concept resume
 
-Latest north-wall REF-M dial espresso/canister edit within REF-L composition and retained frosted uppers; two upper French doors/lower freezer drawer, model/fit pending. North/east wide view kitchen-smeg-realism-v1 is user-locked; west view is under review, complete cross-view set pending.
+Latest north-wall REF-M dial espresso/canister edit within REF-L composition and retained frosted uppers; two upper French doors/lower freezer drawer, model/fit pending. North/east wide view kitchen-smeg-realism-v1 is user-locked; west-phone-speaker-realism-v1 is also user-approved; apartment-facing reconciliation pending.
 
 Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashes of repository-relative paths. Hashes describe exact existing bytes; verdicts are sourced review findings, not a new visual inspection.
 
@@ -640,10 +640,10 @@ Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashe
 - Exact filename: `west-phone-speaker-realism-v1.png`
 - File: [outputs/keyframes/west-phone-speaker-realism-v1.png](../outputs/keyframes/west-phone-speaker-realism-v1.png)
 - Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/keyframes/west-phone-speaker-realism-v1.png`
-- Role: Generated still / diagram; status: **modest-cleanup-candidate**
-- Known verdict: Lead inspected: compact nook and device arrangement retained; subtle screen/material/contact cleanup.
+- Role: Generated still / diagram; status: **user-approved-visual-lock**
+- Known verdict: User accepted west-wall view on2026-10-10: compact phone/speaker nook, undercounter microwave, sink and opening.
 - Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
-- Limit / superseded reason: Improvement modest at full-room scale; realism resolution and user acceptance not established.
+- Limit / superseded reason: Visual acceptance only; preserve as-is unless user changes scope. Physical fit unverified.
 - Bytes: 6270112; SHA-256: `b0b80c58c7cdf947d88013dbbb16bd9f5688d6cce8a4a4be06a68303de70c88d`
 - Job ID: `07bb2667-b4cd-4a1a-b686-e7efc07cacb1`
 - Request receipt: [outputs/production/west-phone-speaker-realism-v1-request.json](../outputs/production/west-phone-speaker-realism-v1-request.json)
