@@ -1,0 +1,14 @@
+{
+  "model": "gpt_image_2",
+  "params": {
+    "quality": "high",
+    "resolution": "2k",
+    "aspect_ratio": "16:9"
+  },
+  "references": [
+    "outputs/keyframes/west-nook-charging-only-v1.png",
+    "outputs/keyframes/sink-v4.png"
+  ],
+  "prompt": "Make ONE localized correction to the nook in image1. Keep the full west-wall kitchen image and everything outside the nook unchanged. Image2 shows the original phone dock and small round smart speaker: restore BOTH those objects together, with the small dark speaker on the left and upright iPhone on its charging dock on the right. No spice jars, internal shelf or other contents.\nResize the recessed oak-lined nook so it fits these two objects comfortably. The present opening is much too tall for the contents. Keep the lower sill at its existing accessible height, lower the top substantially, and modestly narrow the sides around the combined speaker-and-phone arrangement. Leave reasonable side spacing and approximately one-quarter of the phone's height above its top. Use the phone and speaker as the scale anchors; do NOT shrink the devices to fill an oversized recess. Restore the removed area of the old opening as seamless matching plaster. Retain the existing white trim/oak material language, concealed cables and restrained warm light, with convincing depth and contact shadows. This is a compact functional phone-and-speaker niche, not a display cabinet.\nDo not add any new decor, shelves, spices, trays, plants, knives or boards. Do not redesign counters, sink, faucet, microwave, cabinetry, lighting, pass-through, room geometry or existing scene contents outside this localized edit. Preserve image1's camera/framing and all other pixels as closely as possible. No text or annotations. One full16:9 photoreal west-wall image.",
+  "output": "outputs/keyframes/west-nook-phone-speaker-sized-v1.png"
+}

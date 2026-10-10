@@ -1,6 +1,6 @@
 {
   "project": "vero-kitchen-film",
-  "phase": "West-wall design reconsideration: oversized nook and decorative counter props rejected; no paid generation",
+  "phase": "User directs return to iPhone plus speaker; resize nook only; paid allowance pending",
   "budget_ceiling_credits": 257,
   "approved_features": [
     "Wolf GR304 red knobs with pale hood; no over-range microwave",
@@ -94,12 +94,11 @@
   "geometry_lock": "outputs/production/geometry-lock.json",
   "fridge_style": "French-door upper pair meeting at center, bottom freezer drawer",
   "next_job": {
-    "request": "outputs/production/west-nook-charging-only-v1-request.json",
-    "status": "GENERATED; user rejects nook proportions and counter styling; no new job authorized",
+    "request": "outputs/production/west-nook-phone-speaker-sized-v1-request.json",
+    "status": "PREPARED; NOT QUOTED OR SUBMITTED",
     "prior_comparable_quote_credits": 6.5,
-    "proposed_total_ceiling": 257,
-    "authorization": "Approve 257 total for one render",
-    "quoted_credits": 6.5
+    "proposed_total_ceiling": 264,
+    "authorization": "Not approved"
   },
   "status": "concept-review-hold",
   "pause_reason": null,
@@ -176,31 +175,17 @@
   "next_focus": {
     "wall": "west",
     "view": "outputs/keyframes/west-nook-charging-only-v1.png",
-    "scope": "Research and propose compact charging detail and cleared west counter; no new rendering"
+    "scope": "Restore iPhone and speaker, resize nook only"
   },
   "west_nook_direction": {
-    "user_instruction": "Keep just the dock and charging station. Go.",
-    "remove": [
-      "spices",
-      "internal spice shelf",
-      "smart speaker"
-    ],
+    "latest_user_instruction": "Go back to the iPhone and speaker in the nook; just fix dimensions and move on",
     "retain": [
-      "existing nook shape",
-      "oak lining",
-      "phone dock/charging station",
-      "discreet light",
-      "concealed wiring"
+      "iPhone on charging dock",
+      "small round speaker",
+      "oak lining and existing material language"
     ],
-    "rejected_suggestions": [
-      "vase",
-      "glasses tray",
-      "cutting boards",
-      "knife block",
-      "prep niche"
-    ],
-    "scale": "Current opening too large; smaller charging recess required, exact dimensions unapproved",
-    "counter_styling": "Remove flower vase and fruit bowl from west counter/ledge; no replacement props",
-    "research_required": true
+    "change": "Reduce opening height and modestly narrow width around actual-size devices",
+    "scope": "Localized nook edit only; no further counter styling or research-driven redesign",
+    "supersedes": "Charging-only contents and proposed new styling direction"
   }
 }
