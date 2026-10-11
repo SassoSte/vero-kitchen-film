@@ -1,0 +1,40 @@
+[
+  {
+    "created_at": "2026-10-10T23:33:59.637184Z",
+    "display_name": "GPT Image 2",
+    "id": "df477cd3-9071-44e0-9cf3-7594c892f219",
+    "job_type": "gpt_image_2",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_233359_df477cd3-9071-44e0-9cf3-7594c892f219_min.webp",
+    "params": {
+      "aspect_ratio": "16:9",
+      "height": 1520,
+      "medias": [
+        {
+          "data": {
+            "id": "39dd113f-7ff5-4217-a449-8ee291007cbf",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/39dd113f-7ff5-4217-a449-8ee291007cbf_resize.jpg"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "d3da6376-f99e-4d83-a66c-3cbc78973476",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/d3da6376-f99e-4d83-a66c-3cbc78973476_resize.jpg"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "videotape-alpha",
+      "prompt": "Image1 is a fixed photograph of a kitchen bar seen from the living room; reproduce it EXACTLY with the same framing — do not zoom, move, add or remove anything.  The left section of the bar front is clad in ribbed oak; the rest is plywood. ADD ONLY two workers from image2 in front of the bar's left section: the lead crouching, holding a cordless brad nailer against the oak panel's lower edge, the partner standing beside him pressing the panel flat with both palms. Lead: short grey hair, navy long-sleeve work shirt, tan leather tool belt. Partner: grey work shirt, dark cap, dark-brown tool belt. Match image2's faces and clothing exactly. Both stand on the concrete floor in FRONT of the bar (living-room side), full figures, correct human scale (bar counter at hip height). Serious working expressions, looking at the work, not the camera. Keep every object in image1 exactly; no other new objects or people. Photoreal.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 2688
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_233359_df477cd3-9071-44e0-9cf3-7594c892f219.png",
+    "status": "completed"
+  }
+]

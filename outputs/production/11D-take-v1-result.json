@@ -1,0 +1,33 @@
+[
+  {
+    "created_at": "2026-10-10T23:58:50.26486Z",
+    "display_name": "Kling O3 (Frames)",
+    "id": "f804d15a-636c-4ede-8798-64898d5a9db3",
+    "job_type": "kling_o3_flf",
+    "min_result_url": null,
+    "params": {
+      "aspect_ratio": "16:9",
+      "duration": 3,
+      "height": 1080,
+      "medias": [
+        {
+          "data": {
+            "id": "1c47b8e6-0c4f-4ef9-95a5-36488b348bb0",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/1c47b8e6-0c4f-4ef9-95a5-36488b348bb0_resize.jpg"
+          },
+          "role": "start_image"
+        }
+      ],
+      "mode": "pro",
+      "multi_prompt": [],
+      "multi_shots": false,
+      "prompt": "Fixed locked-off camera, no camera movement, no zoom. Photoreal. Room, cabinets, appliances and furniture stay fixed and keep their shape; workers keep the same faces, clothes and tool belts; no one new appears. The kneeling worker smooths the rug edge flat with both hands and sits back on his heels.",
+      "sound": "off",
+      "width": 1920
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_235850_f804d15a-636c-4ede-8798-64898d5a9db3.mp4",
+    "status": "completed",
+    "thumbnail_url": "https://cdn.higgsfield.ai/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_235850_f804d15a-636c-4ede-8798-64898d5a9db3_thumbnail.webp"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "created_at": "2026-10-10T23:43:24.633956Z",
+    "display_name": "GPT Image 2",
+    "id": "462af160-020d-4842-a176-153d8e376a2d",
+    "job_type": "gpt_image_2",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_234324_462af160-020d-4842-a176-153d8e376a2d_min.webp",
+    "params": {
+      "aspect_ratio": "16:9",
+      "height": 1520,
+      "medias": [
+        {
+          "data": {
+            "id": "a60ee866-490c-4754-8186-3459eeaf571c",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/a60ee866-490c-4754-8186-3459eeaf571c_resize.jpg"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "f4a6f0fa-a732-4c0b-ac3b-fa46e38b2520",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/f4a6f0fa-a732-4c0b-ac3b-fa46e38b2520_resize.jpg"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "videotape-alpha",
+      "prompt": "Image1 is a fixed photograph; reproduce it EXACTLY with the SAME framing and scale — do NOT zoom out, move, add or remove anything.  ADD ONLY the lead worker from image2 standing in the aisle in front of the worktop right of the range, seen three-quarters from behind, holding a red retro SMEG electric kettle by its handle about 10 cm above the worktop at the right end, about to set it down. Lead: short grey hair, navy long-sleeve work shirt, tan leather tool belt — match image2's face and clothing exactly. Correct human scale. Serious expression, looking at the object, not the camera. Keep every object in image1 exactly; no other new objects or people. Photoreal.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 2688
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_234324_462af160-020d-4842-a176-153d8e376a2d.png",
+    "status": "completed"
+  }
+]

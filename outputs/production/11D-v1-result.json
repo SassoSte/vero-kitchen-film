@@ -1,0 +1,40 @@
+[
+  {
+    "created_at": "2026-10-10T23:45:07.817195Z",
+    "display_name": "GPT Image 2",
+    "id": "81738b3e-2c29-4060-9f90-741958470caa",
+    "job_type": "gpt_image_2",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_234507_81738b3e-2c29-4060-9f90-741958470caa_min.webp",
+    "params": {
+      "aspect_ratio": "16:9",
+      "height": 1520,
+      "medias": [
+        {
+          "data": {
+            "id": "4d1b0b8a-bc60-44df-af86-ad03f3cbdb34",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/4d1b0b8a-bc60-44df-af86-ad03f3cbdb34_resize.jpg"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "7491aac6-d745-43c1-ad08-b561cecc3b23",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/7491aac6-d745-43c1-ad08-b561cecc3b23_resize.jpg"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "videotape-alpha",
+      "prompt": "Image1 is a fixed photograph; reproduce it EXACTLY with the SAME framing and scale — do NOT zoom out, move, add or remove anything.  ADD ONLY the partner from image2 (grey work shirt, dark cap, dark-brown tool belt — same face) kneeling on the floor at the near edge of the patterned grey rug under the dining table, both hands smoothing and straightening the rug's edge, looking at it. Correct human scale. Keep every object in image1 exactly; no other new objects or people. Photoreal.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 2688
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_234507_81738b3e-2c29-4060-9f90-741958470caa.png",
+    "status": "completed"
+  }
+]

@@ -1,0 +1,10 @@
+{
+ "plate": "outputs/construction/stage-11-final-threestools.png",
+ "returned": "outputs/construction/raw/11E-v1.png",
+ "output": "outputs/construction/raw/11E-v1-composite.png",
+ "ransac_inliers": 1821,
+ "protected_mean_abs_diff_registered": 3.98,
+ "person_mask_fraction": 0.0522,
+ "pixels_identical_to_plate_fraction": 0.9478,
+ "output_sha256": "56f7971cddd473ac9431c506bbc61b62c6b276d173196b45465bc5fd98718c75"
+}

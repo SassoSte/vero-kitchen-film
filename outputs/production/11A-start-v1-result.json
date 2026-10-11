@@ -1,0 +1,40 @@
+[
+  {
+    "created_at": "2026-10-10T23:39:09.614486Z",
+    "display_name": "GPT Image 2",
+    "id": "0e79960d-deef-4a3d-8056-bfc6cac57bdd",
+    "job_type": "gpt_image_2",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_233909_0e79960d-deef-4a3d-8056-bfc6cac57bdd_min.webp",
+    "params": {
+      "aspect_ratio": "16:9",
+      "height": 1520,
+      "medias": [
+        {
+          "data": {
+            "id": "a81b6595-9158-4810-825b-a81548cb2a86",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/a81b6595-9158-4810-825b-a81548cb2a86_resize.jpg"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "188c03f6-74d8-4c7e-86a2-02fd660c4266",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/188c03f6-74d8-4c7e-86a2-02fd660c4266_resize.jpg"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "videotape-alpha",
+      "prompt": "Image1 is a fixed photograph of a kitchen bar seen from the living room; reproduce it EXACTLY with the same framing — do not zoom, move, add or remove anything.  Two cream bar stools stand at the bar; the right-hand place is empty. ADD the same two workers from image2 in the same places and scale (lead nearer the bar, partner behind him), the lead holding the third cream bar stool by its backrest with both hands, about 10 cm off the floor in the empty right-hand place, facing the bar, about to set it down. Lead: short grey hair, navy long-sleeve work shirt, tan leather tool belt. Partner: grey work shirt, dark cap, dark-brown tool belt. Match image2's faces and clothing exactly. Both stand on the concrete floor in FRONT of the bar (living-room side), full figures, correct human scale (bar counter at hip height). Serious working expressions, looking at the work, not the camera. Keep every object in image1 exactly; no other new objects or people. Photoreal.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 2688
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_233909_0e79960d-deef-4a3d-8056-bfc6cac57bdd.png",
+    "status": "completed"
+  }
+]

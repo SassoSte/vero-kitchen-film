@@ -1,7 +1,7 @@
 {
-  "ceiling_credits": 925.25,
+  "ceiling_credits": 1021.75,
   "opening_balance": 1246.8,
-  "reserved_credits": 789.75,
+  "reserved_credits": 873.25,
   "jobs": [
     {
       "name": "master-v1",
@@ -925,20 +925,133 @@
       "status": "generated",
       "job_id": "01c5aa4c-6b24-4495-95ae-c9387582e48e",
       "file": "outputs/takes/09D-take-v1.mp4"
+    },
+    {
+      "name": "F10-oak-v1",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "24e9cb24-a81f-4f91-a0ed-087b4543c830",
+      "file": "outputs/construction/raw/F10-oak-v1.png"
+    },
+    {
+      "name": "10A-v1",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "df477cd3-9071-44e0-9cf3-7594c892f219",
+      "file": "outputs/construction/raw/10A-v1.png"
+    },
+    {
+      "name": "11A-end-v1",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "dc19ed97-53d4-49c2-b0d1-b0ce8f130ace",
+      "file": "outputs/construction/raw/11A-end-v1.png"
+    },
+    {
+      "name": "11A-start-v1",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "0e79960d-deef-4a3d-8056-bfc6cac57bdd",
+      "file": "outputs/construction/raw/11A-start-v1.png"
+    },
+    {
+      "name": "11B-v1",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "51928f6b-148d-415d-b26b-5121c30f398b",
+      "file": "outputs/construction/raw/11B-v1.png"
+    },
+    {
+      "name": "11C-v1",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "462af160-020d-4842-a176-153d8e376a2d",
+      "file": "outputs/construction/raw/11C-v1.png"
+    },
+    {
+      "name": "11D-v1",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "81738b3e-2c29-4060-9f90-741958470caa",
+      "file": "outputs/construction/raw/11D-v1.png"
+    },
+    {
+      "name": "11E-v1",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "585d8d36-709b-491e-8627-b33eafdf395a",
+      "file": "outputs/construction/raw/11E-v1.png"
+    },
+    {
+      "name": "11C-v2",
+      "quote": 0,
+      "status": "failed-refunded",
+      "gross_quote": 6.5,
+      "job_id": "33496e87-1b03-4e88-b394-98fe9bc6a7f1",
+      "note": "Tooling bug submitted empty prompt; provider failed job; 6.5 refunded 2026-10-10T23:48:45Z. Void attempt."
+    },
+    {
+      "name": "11C-v3",
+      "quote": 6.5,
+      "status": "generated",
+      "job_id": "05466be2-62f3-41ac-9a4b-e1fd5e1b6ab4",
+      "file": "outputs/construction/raw/11C-v3.png"
+    },
+    {
+      "name": "10A-take-v1",
+      "quote": 6.25,
+      "status": "generated",
+      "job_id": "0d1088df-856c-4480-a263-41cdd4ac22ad",
+      "file": "outputs/takes/10A-take-v1.mp4"
+    },
+    {
+      "name": "11A-take-v1",
+      "quote": 3.75,
+      "status": "generated",
+      "job_id": "47b4fe87-3f0e-4901-bc90-2f3acd16cc4c",
+      "file": "outputs/takes/11A-take-v1.mp4"
+    },
+    {
+      "name": "11B-take-v1",
+      "quote": 3.75,
+      "status": "generated",
+      "job_id": "ab2cb156-26ad-4bad-8ae3-3fa95e70b2cd",
+      "file": "outputs/takes/11B-take-v1.mp4"
+    },
+    {
+      "name": "11C-take-v1",
+      "quote": 3.75,
+      "status": "generated",
+      "job_id": "4456f1d4-ab21-4445-b243-b765ea601140",
+      "file": "outputs/takes/11C-take-v1.mp4"
+    },
+    {
+      "name": "11D-take-v1",
+      "quote": 3.75,
+      "status": "generated",
+      "job_id": "f804d15a-636c-4ede-8798-64898d5a9db3",
+      "file": "outputs/takes/11D-take-v1.mp4"
+    },
+    {
+      "name": "11E-take-v1",
+      "quote": 3.75,
+      "status": "generated",
+      "job_id": "fff56864-a2b4-4f75-8e44-6bd64ed5551b",
+      "file": "outputs/takes/11E-take-v1.mp4"
     }
   ],
   "balance_after": 3929,
   "balance_delta": null,
-  "remaining_phase_credits": 135.5,
+  "remaining_phase_credits": 148.5,
   "account_snapshot_note": "View1 continuity attempt3935.5 to3929 matches6.5 quote; cap303 unchanged.",
-  "task_quote_total": 789.75,
+  "task_quote_total": 873.25,
   "latest_pass": {
     "opening_account_balance": 3935.5,
     "closing_account_balance": 3929,
     "quoted_cost": 6.5
   },
-  "authorization": "outputs/production/b10-t3-authorization.json",
-  "prior_authorization": "outputs/production/b10-t2-authorization.json",
+  "authorization": "outputs/production/b10-t4-authorization.json",
+  "prior_authorization": "outputs/production/b10-t3-authorization.json",
   "ceiling_history": [
     {
       "date": "2026-10-10",
@@ -974,6 +1087,13 @@
       "to": 925.25,
       "user_text": "Accept T2, commit, approve T3 no sound",
       "scope": "B10 tranche T3: shots 07-09"
+    },
+    {
+      "date": "2026-10-10",
+      "from": 925.25,
+      "to": 1021.75,
+      "user_text": "Accept T3, commit, approve T4 no sound",
+      "scope": "B10 tranche T4: shots 10-13"
     }
   ]
 }

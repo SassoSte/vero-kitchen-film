@@ -8,10 +8,19 @@ R = Path(__file__).resolve().parents[1]; P = R / 'outputs/production'
 name, base, refs, pfile, bbox = sys.argv[1], sys.argv[2], json.loads(sys.argv[3]), sys.argv[4], json.loads(sys.argv[5])
 extra = json.loads(sys.argv[6]) if len(sys.argv) > 6 else {}
 raw = f'outputs/construction/raw/{name}.png'
+reqf = P / f'{name}-request.json'
 if not (R / raw).exists():
-    req = {'model': 'gpt_image_2', 'params': {'quality': 'high', 'resolution': '2k', 'aspect_ratio': '16:9'},
-           'references': refs, 'prompt': Path(pfile).read_text().strip(), 'output': raw}
-    (P / f'{name}-request.json').write_text(json.dumps(req, indent=2) + '\n')
+    prompt = Path(pfile).read_text().strip() if pfile != '/dev/null' else ''
+    if reqf.exists() and not prompt:
+        req = json.loads(reqf.read_text())          # use the prepared request as-is
+    else:
+        if not prompt or not refs:
+            sys.exit('refusing to submit: empty prompt or no references')
+        req = {'model': 'gpt_image_2', 'params': {'quality': 'high', 'resolution': '2k', 'aspect_ratio': '16:9'},
+           'references': refs, 'prompt': prompt, 'output': raw}
+        reqf.write_text(json.dumps(req, indent=2) + '\n')
+    if not req.get('prompt') or not req.get('references'):
+        sys.exit('refusing to submit: request has empty prompt or no references')
     st = json.loads((P / 'state.json').read_text()); st.update(generation_allowed=True, authorized_jobs=[name])
     (P / 'state.json').write_text(json.dumps(st, indent=2) + '\n')
     r = subprocess.run([sys.executable, str(R / 'tools/run_image_job.py'), name], cwd=R, capture_output=True, text=True)

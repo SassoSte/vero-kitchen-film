@@ -1,0 +1,16 @@
+{
+  "model": "gpt_image_2",
+  "params": {
+    "quality": "high",
+    "resolution": "2k",
+    "aspect_ratio": "16:9"
+  },
+  "references": [
+    "outputs/construction/stage-11b-toaster.png",
+    "outputs/construction/11B-start.png"
+  ],
+  "prompt": "Image1 is a fixed photograph; reproduce it EXACTLY with the SAME framing and scale as image1 \u2014 do NOT zoom out or reframe; every object stays where it is. ADD ONLY the same worker as in image2 (same face, navy shirt, grey hair, tan tool belt), standing in the SAME place and at the SAME size as he stands in image2 \u2014 full body visible in the aisle in front of the range, now turned to his right, holding a red retro SMEG electric kettle by its handle about 10 cm above the worktop right of the range, about to set it down. The red toaster stays on the worktop left of the range. No other changes. Photoreal.",
+  "output": "outputs/construction/raw/11C-v3.png",
+  "attempt": 2,
+  "note": "replaces void 11C-v2"
+}

@@ -1,0 +1,10 @@
+{
+ "plate": "outputs/construction/stage-10-final-onepanel.png",
+ "returned": "outputs/construction/raw/10A-v1.png",
+ "output": "outputs/construction/raw/10A-v1-composite.png",
+ "ransac_inliers": 1595,
+ "protected_mean_abs_diff_registered": 9.21,
+ "person_mask_fraction": 0.1595,
+ "pixels_identical_to_plate_fraction": 0.8405,
+ "output_sha256": "e9dd4bc4ed6969eec2dc5cfeddc847aa994d62d377a74da3e8eb31e0e21006b5"
+}

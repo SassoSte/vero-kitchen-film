@@ -1,0 +1,10 @@
+{
+ "plate": "outputs/construction/stage-11b-toaster.png",
+ "returned": "outputs/construction/raw/11C-v3.png",
+ "output": "outputs/construction/raw/11C-v3-composite.png",
+ "ransac_inliers": 1820,
+ "protected_mean_abs_diff_registered": 4.14,
+ "person_mask_fraction": 0.0983,
+ "pixels_identical_to_plate_fraction": 0.9017,
+ "output_sha256": "9d6ceaf25f9d0682baaeda7ff76bcd944f792627318887c511dbb3cfd9ec4b51"
+}

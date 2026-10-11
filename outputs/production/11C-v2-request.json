@@ -1,0 +1,11 @@
+{
+  "model": "gpt_image_2",
+  "params": {
+    "quality": "high",
+    "resolution": "2k",
+    "aspect_ratio": "16:9"
+  },
+  "references": [],
+  "prompt": "",
+  "output": "outputs/construction/raw/11C-v2.png"
+}

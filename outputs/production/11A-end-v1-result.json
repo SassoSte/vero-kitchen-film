@@ -1,0 +1,40 @@
+[
+  {
+    "created_at": "2026-10-10T23:35:41.351439Z",
+    "display_name": "GPT Image 2",
+    "id": "dc19ed97-53d4-49c2-b0d1-b0ce8f130ace",
+    "job_type": "gpt_image_2",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_233541_dc19ed97-53d4-49c2-b0d1-b0ce8f130ace_min.webp",
+    "params": {
+      "aspect_ratio": "16:9",
+      "height": 1520,
+      "medias": [
+        {
+          "data": {
+            "id": "49de864c-7776-4857-886b-eb1c103e2935",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/49de864c-7776-4857-886b-eb1c103e2935_resize.jpg"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "22e66238-3ff7-4ed0-8c8a-0b0e6bed457e",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/22e66238-3ff7-4ed0-8c8a-0b0e6bed457e_resize.jpg"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "videotape-alpha",
+      "prompt": "Image1 is a fixed photograph of a kitchen bar seen from the living room; reproduce it EXACTLY with the same framing — do not zoom, move, add or remove anything.  Three cream bar stools stand at the bar. ADD ONLY the partner from image2 standing just right of the rightmost stool, both hands just letting go of its backrest after setting it down square to the bar, looking at it. Lead: short grey hair, navy long-sleeve work shirt, tan leather tool belt. Partner: grey work shirt, dark cap, dark-brown tool belt. Match image2's faces and clothing exactly. Both stand on the concrete floor in FRONT of the bar (living-room side), full figures, correct human scale (bar counter at hip height). Serious working expressions, looking at the work, not the camera. Keep every object in image1 exactly; no other new objects or people. Photoreal.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 2688
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_233541_dc19ed97-53d4-49c2-b0d1-b0ce8f130ace.png",
+    "status": "completed"
+  }
+]

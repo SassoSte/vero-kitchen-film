@@ -1,0 +1,20 @@
+{
+  "model": "gpt_image_2",
+  "params": {
+    "quality": "high",
+    "resolution": "2k",
+    "aspect_ratio": "16:9"
+  },
+  "references": [
+    "outputs/construction/stage-07-final-newfridge.png",
+    "outputs/construction/raw/ref-oak-crop.png"
+  ],
+  "prompt": "Edit image1. Keep the camera, framing, lighting and every object exactly as it is. ONE change: the front of the bar counter, currently bare plywood panels, is now clad in the vertical ribbed natural-oak paneling shown in image2 \u2014 continuous fine vertical ribs in warm honey oak running the full width and height of the bar front, under the stone counter overhang, with the same soft shading. No stools, no other objects. Photoreal.",
+  "output": "outputs/construction/raw/F10-oak-v1.png",
+  "post": {
+    "tool": "tools/stage_composite.py",
+    "base": "outputs/construction/stage-07-final-newfridge.png",
+    "mask": "outputs/production/masks/F10-oak-mask.png",
+    "final": "outputs/construction/stage-10-final-oak.png"
+  }
+}

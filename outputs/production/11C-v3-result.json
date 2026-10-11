@@ -1,0 +1,40 @@
+[
+  {
+    "created_at": "2026-10-10T23:49:46.461845Z",
+    "display_name": "GPT Image 2",
+    "id": "05466be2-62f3-41ac-9a4b-e1fd5e1b6ab4",
+    "job_type": "gpt_image_2",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_234946_05466be2-62f3-41ac-9a4b-e1fd5e1b6ab4_min.webp",
+    "params": {
+      "aspect_ratio": "16:9",
+      "height": 1520,
+      "medias": [
+        {
+          "data": {
+            "id": "8d0d40fd-21b5-427a-9eb7-10b22b0755c4",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/8d0d40fd-21b5-427a-9eb7-10b22b0755c4_resize.jpg"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "a37cdd6b-b6ea-4f94-8740-cc0e7a3d3f9f",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/a37cdd6b-b6ea-4f94-8740-cc0e7a3d3f9f_resize.jpg"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "videotape-alpha",
+      "prompt": "Image1 is a fixed photograph; reproduce it EXACTLY with the SAME framing and scale as image1 — do NOT zoom out or reframe; every object stays where it is. ADD ONLY the same worker as in image2 (same face, navy shirt, grey hair, tan tool belt), standing in the SAME place and at the SAME size as he stands in image2 — full body visible in the aisle in front of the range, now turned to his right, holding a red retro SMEG electric kettle by its handle about 10 cm above the worktop right of the range, about to set it down. The red toaster stays on the worktop left of the range. No other changes. Photoreal.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 2688
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_234946_05466be2-62f3-41ac-9a4b-e1fd5e1b6ab4.png",
+    "status": "completed"
+  }
+]

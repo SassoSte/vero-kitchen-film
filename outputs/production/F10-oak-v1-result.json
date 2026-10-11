@@ -1,0 +1,40 @@
+[
+  {
+    "created_at": "2026-10-10T23:31:14.76072Z",
+    "display_name": "GPT Image 2",
+    "id": "24e9cb24-a81f-4f91-a0ed-087b4543c830",
+    "job_type": "gpt_image_2",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_233114_24e9cb24-a81f-4f91-a0ed-087b4543c830_min.webp",
+    "params": {
+      "aspect_ratio": "16:9",
+      "height": 1520,
+      "medias": [
+        {
+          "data": {
+            "id": "2b1cfcc4-742d-4621-b7e0-4c8ba100fc9d",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/2b1cfcc4-742d-4621-b7e0-4c8ba100fc9d_resize.jpg"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "e9ec5018-c728-4635-acb8-8d1994eea48d",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/e9ec5018-c728-4635-acb8-8d1994eea48d.png"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "videotape-alpha",
+      "prompt": "Edit image1. Keep the camera, framing, lighting and every object exactly as it is. ONE change: the front of the bar counter, currently bare plywood panels, is now clad in the vertical ribbed natural-oak paneling shown in image2 — continuous fine vertical ribs in warm honey oak running the full width and height of the bar front, under the stone counter overhang, with the same soft shading. No stools, no other objects. Photoreal.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 2688
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261010_233114_24e9cb24-a81f-4f91-a0ed-087b4543c830.png",
+    "status": "completed"
+  }
+]

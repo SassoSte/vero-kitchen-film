@@ -16,7 +16,7 @@ check(budget['ceiling_credits']==authorization['total_ceiling_credits'],'Ledger 
 quote_total=round(sum(x['quote'] for x in budget['jobs']),2)
 check(budget['task_quote_total']==quote_total and round(budget['reserved_credits'],2)==quote_total,'Ledger total equals sum of job quotes')
 check(quote_total<=budget['ceiling_credits'],'Commitments within approved ceiling')
-check(all(x['status']=='generated' for x in budget['jobs']),'All recorded jobs terminal/generated')
+check(all(x['status']=='generated' or (x['status']=='failed-refunded' and x['quote']==0) for x in budget['jobs']),'All recorded jobs terminal (generated, or failed and refunded at 0)')
 check(round(budget['ceiling_credits']-quote_total,2)==budget['remaining_phase_credits'],'Remaining allowance reconciles')
 prior=authorization.get('prior_ceiling_credits')
 check(prior is None or round(quote_total-min(quote_total,prior),2)<=authorization.get('maximum_new_spend_credits',1e9),'Spend under current allowance within its maximum')

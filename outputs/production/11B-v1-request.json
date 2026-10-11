@@ -1,0 +1,14 @@
+{
+  "model": "gpt_image_2",
+  "params": {
+    "quality": "high",
+    "resolution": "2k",
+    "aspect_ratio": "16:9"
+  },
+  "references": [
+    "outputs/construction/stage-09c-espresso.png",
+    "outputs/keyframes/workers-v1.png"
+  ],
+  "prompt": "Image1 is a fixed photograph; reproduce it EXACTLY with the SAME framing and scale \u2014 do NOT zoom out, move, add or remove anything.  ADD ONLY the lead worker from image2 standing in the aisle in front of the worktop left of the range, seen three-quarters from behind, holding a red retro two-slice SMEG toaster in both hands about 10 cm above the worktop just left of the range, about to set it down. Lead: short grey hair, navy long-sleeve work shirt, tan leather tool belt \u2014 match image2's face and clothing exactly. Correct human scale. Serious expression, looking at the object, not the camera. Keep every object in image1 exactly; no other new objects or people. Photoreal.",
+  "output": "outputs/construction/raw/11B-v1.png"
+}
