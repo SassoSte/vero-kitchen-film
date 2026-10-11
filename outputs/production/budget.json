@@ -1,7 +1,7 @@
 {
-  "ceiling_credits": 1021.75,
+  "ceiling_credits": 898.25,
   "opening_balance": 1246.8,
-  "reserved_credits": 873.25,
+  "reserved_credits": 898.25,
   "jobs": [
     {
       "name": "master-v1",
@@ -1038,20 +1038,34 @@
       "status": "generated",
       "job_id": "fff56864-a2b4-4f75-8e44-6bd64ed5551b",
       "file": "outputs/takes/11E-take-v1.mp4"
+    },
+    {
+      "name": "magic-pilot-v1",
+      "quote": 12.5,
+      "status": "generated",
+      "job_id": "85a777c9-191c-4483-83f5-b535d6b2e977",
+      "file": "outputs/magic/magic-pilot-v1.mp4"
+    },
+    {
+      "name": "magic-pilot-v2",
+      "quote": 12.5,
+      "status": "generated",
+      "job_id": "d6f02221-5bfb-4c5b-b86e-3d814882db01",
+      "file": "outputs/magic/magic-pilot-v2.mp4"
     }
   ],
   "balance_after": 3929,
   "balance_delta": null,
-  "remaining_phase_credits": 148.5,
+  "remaining_phase_credits": 0.0,
   "account_snapshot_note": "View1 continuity attempt3935.5 to3929 matches6.5 quote; cap303 unchanged.",
-  "task_quote_total": 873.25,
+  "task_quote_total": 898.25,
   "latest_pass": {
     "opening_account_balance": 3935.5,
     "closing_account_balance": 3929,
     "quoted_cost": 6.5
   },
-  "authorization": "outputs/production/b10-t4-authorization.json",
-  "prior_authorization": "outputs/production/b10-t3-authorization.json",
+  "authorization": "outputs/production/magic-pilot-authorization.json",
+  "prior_authorization": "outputs/production/b10-t4-authorization.json",
   "ceiling_history": [
     {
       "date": "2026-10-10",
@@ -1094,6 +1108,13 @@
       "to": 1021.75,
       "user_text": "Accept T3, commit, approve T4 no sound",
       "scope": "B10 tranche T4: shots 10-13"
+    },
+    {
+      "date": "2026-10-11",
+      "from": 1021.75,
+      "to": 898.25,
+      "user_text": "Approve 25 for the magic pilot, 30s 16:9, download it",
+      "scope": "Magic-transformation pilot (no workers): one 10 s kling_o3_flf pro shot, north/east view, bare room -> finished; \u22641 retry after written finding"
     }
   ]
 }

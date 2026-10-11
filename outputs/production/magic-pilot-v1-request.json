@@ -1,0 +1,16 @@
+{
+  "model": "kling_o3_flf",
+  "params": {
+    "mode": "pro",
+    "sound": "off",
+    "multi_shots": false,
+    "duration": 10,
+    "aspect_ratio": "16:9"
+  },
+  "media": {
+    "start-image": "outputs/construction/stage-02-bare.png",
+    "end-image": "outputs/keyframes/kitchen-smeg-enclosure-v2.png"
+  },
+  "prompt": "Magical self-building kitchen transformation, one continuous shot, photoreal architectural interior film. NO PEOPLE, no hands, nobody appears at any time. Camera: locked to the same viewpoint as the first and last frames, with only a very slow, smooth, barely perceptible drift; it ends exactly on the final frame. Warm golden afternoon light, soft drifting golden dust motes and tiny sparkles accompany every change. Sequence, each element materializing in place one after another with a quick shimmer of golden particles and thin glowing light-lines that trace its edges before it turns solid: 1) the concrete floor gleams as a polish wave sweeps across it; 2) the old freestanding refrigerator dissolves into sparkling dust; 3) white Shaker base cabinets rise smoothly up out of the floor along both walls; 4) pale veined stone worktops unfold and settle onto them, and the stone backsplash slides up the cooking wall; 5) glass-front upper cabinets glide in from the ceiling and lock into place, their inner lights blinking on; 6) the stainless range hood descends, the pot filler swings out, the professional range with red knobs slides into its opening; 7) the French-door refrigerator with its fitted white enclosure and two-door cupboard above assembles in the corner; 8) the tall north wall niche fills: glass cupboard with glasses, the wine fridge, the black espresso machine; 9) the under-cabinet lights ripple on warmly, then the red toaster and red kettle pop gently into place. Everything is rigid, clean and precise; objects never warp or melt; the room walls, ceiling, window and camera never change. Ends exactly matching the final frame.",
+  "output": "outputs/magic/magic-pilot-v1.mp4"
+}

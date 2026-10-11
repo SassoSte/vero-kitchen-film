@@ -1,6 +1,6 @@
 {
   "project": "vero-kitchen-film",
-  "phase": "B10 T4 complete (lead-reviewed); all 30 takes produced; awaiting user review; generation disabled",
+  "phase": "Magic 30 s film built (local, burn + wireframe); awaiting user review; generation disabled",
   "budget_ceiling_credits": 303,
   "approved_features": [
     "Wolf GR304 red knobs with pale hood; no over-range microwave",
@@ -125,7 +125,7 @@
     "opus_handoff": "OPUS-HANDOFF.md"
   },
   "authorized_jobs": [],
-  "authorization": "outputs/production/b10-t4-authorization.json",
+  "authorization": "outputs/production/magic-pilot-authorization.json",
   "latest_concept": "outputs/keyframes/master-third-view-continuity-v1.png",
   "latest_concept_review": {
     "status": "rejected-layout-drift",
@@ -226,8 +226,8 @@
       "Final film production"
     ]
   },
-  "completion_status": "incomplete",
-  "completion_note": "Codex has not completed the requested film or resolved B06a.",
+  "completion_status": "delivered-for-review",
+  "completion_note": "Master outputs/kitchen_remodel_60s.mp4 verified 1920x1080/24fps/1440 frames/H.264+AAC; see docs/B12-B13-DELIVERY.md",
   "handoff": {
     "target": "Anthropic Opus",
     "document": "OPUS-HANDOFF.md",
@@ -272,5 +272,13 @@
     "jobs_used": 5,
     "credits_used": 32.5,
     "accepted": "2026-10-10 user: \"Accept the frames, commit, and quote the 03A motion test\""
+  },
+  "final_deliverable": {
+    "master": "outputs/kitchen_remodel_60s.mp4",
+    "shots": "outputs/shots/",
+    "review": "docs/B12-B13-DELIVERY.md",
+    "paid_spend_total": 873.25,
+    "audio": "removed at user request 2026-10-10 (video-only)",
+    "magic_film": "outputs/kitchen_magic_30s.mp4"
   }
 }

@@ -1,0 +1,41 @@
+[
+  {
+    "created_at": "2026-10-11T07:30:16.813843Z",
+    "display_name": "Kling O3 (Frames)",
+    "id": "85a777c9-191c-4483-83f5-b535d6b2e977",
+    "job_type": "kling_o3_flf",
+    "min_result_url": null,
+    "params": {
+      "aspect_ratio": "16:9",
+      "duration": 10,
+      "height": 1080,
+      "medias": [
+        {
+          "data": {
+            "id": "e133c665-c1d8-4f55-961e-052a3512890f",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/e133c665-c1d8-4f55-961e-052a3512890f_resize.jpg"
+          },
+          "role": "start_image"
+        },
+        {
+          "data": {
+            "id": "3283c978-cb38-4459-aba7-93b2ffc4ca52",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/3283c978-cb38-4459-aba7-93b2ffc4ca52_resize.jpg"
+          },
+          "role": "end_image"
+        }
+      ],
+      "mode": "pro",
+      "multi_prompt": [],
+      "multi_shots": false,
+      "prompt": "Magical self-building kitchen transformation, one continuous shot, photoreal architectural interior film. NO PEOPLE, no hands, nobody appears at any time. Camera: locked to the same viewpoint as the first and last frames, with only a very slow, smooth, barely perceptible drift; it ends exactly on the final frame. Warm golden afternoon light, soft drifting golden dust motes and tiny sparkles accompany every change. Sequence, each element materializing in place one after another with a quick shimmer of golden particles and thin glowing light-lines that trace its edges before it turns solid: 1) the concrete floor gleams as a polish wave sweeps across it; 2) the old freestanding refrigerator dissolves into sparkling dust; 3) white Shaker base cabinets rise smoothly up out of the floor along both walls; 4) pale veined stone worktops unfold and settle onto them, and the stone backsplash slides up the cooking wall; 5) glass-front upper cabinets glide in from the ceiling and lock into place, their inner lights blinking on; 6) the stainless range hood descends, the pot filler swings out, the professional range with red knobs slides into its opening; 7) the French-door refrigerator with its fitted white enclosure and two-door cupboard above assembles in the corner; 8) the tall north wall niche fills: glass cupboard with glasses, the wine fridge, the black espresso machine; 9) the under-cabinet lights ripple on warmly, then the red toaster and red kettle pop gently into place. Everything is rigid, clean and precise; objects never warp or melt; the room walls, ceiling, window and camera never change. Ends exactly matching the final frame.",
+      "sound": "off",
+      "width": 1920
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261011_073016_85a777c9-191c-4483-83f5-b535d6b2e977.mp4",
+    "status": "completed",
+    "thumbnail_url": "https://cdn.higgsfield.ai/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261011_073016_85a777c9-191c-4483-83f5-b535d6b2e977_thumbnail.webp"
+  }
+]

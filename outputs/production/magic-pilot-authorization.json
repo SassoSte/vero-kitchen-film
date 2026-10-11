@@ -1,0 +1,16 @@
+{
+  "status": "APPROVED",
+  "date": "2026-10-11",
+  "approved": "2026-10-11 America/Phoenix",
+  "budget_user_text": "Approve 25 for the magic pilot, 30s 16:9, download it",
+  "scope": "Magic-transformation pilot (no workers): one 10 s kling_o3_flf pro shot, north/east view, bare room -> finished; \u22641 retry after written finding",
+  "jobs": [
+    "magic-pilot-v1",
+    "magic-pilot-v2"
+  ],
+  "max_new_jobs": 2,
+  "maximum_new_spend_credits": 25,
+  "prior_ceiling_credits": 873.25,
+  "total_ceiling_credits": 898.25,
+  "note": "T4 unspent headroom not carried forward; film target now 30 s 16:9 silent, no workers"
+}

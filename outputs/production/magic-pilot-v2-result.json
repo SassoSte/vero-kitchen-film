@@ -1,0 +1,41 @@
+[
+  {
+    "created_at": "2026-10-11T07:34:59.863568Z",
+    "display_name": "Kling O3 (Frames)",
+    "id": "d6f02221-5bfb-4c5b-b86e-3d814882db01",
+    "job_type": "kling_o3_flf",
+    "min_result_url": null,
+    "params": {
+      "aspect_ratio": "16:9",
+      "duration": 10,
+      "height": 1080,
+      "medias": [
+        {
+          "data": {
+            "id": "f81d15a3-d735-44b2-a44b-c0da1b631f27",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/f81d15a3-d735-44b2-a44b-c0da1b631f27_resize.jpg"
+          },
+          "role": "start_image"
+        },
+        {
+          "data": {
+            "id": "f382b5c7-4bc4-4fac-b7e0-6f8aa8ab870d",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/f382b5c7-4bc4-4fac-b7e0-6f8aa8ab870d_resize.jpg"
+          },
+          "role": "end_image"
+        }
+      ],
+      "mode": "pro",
+      "multi_prompt": [],
+      "multi_shots": false,
+      "prompt": "Magical self-building kitchen transformation, one continuous shot, photoreal architectural interior film. NO PEOPLE, no hands, nobody appears at any time. Camera locked to the viewpoint of the first and last frames with only a very slow, smooth drift; it ends exactly on the final frame. Warm golden light, soft drifting golden dust and tiny sparkles. Every new element appears the same way: first its outline is drawn in thin glowing golden wireframe lines that trace its exact final edges, like a holographic blueprint, then the wireframe fills in from bottom to top with real material until it is solid and photoreal, with a brief shimmer. Nothing slides, rises, smears or blurs; the floor stays still and clean. Order: the old freestanding refrigerator dissolves into golden dust; the white Shaker base cabinets along both walls; the pale veined stone worktops and stone backsplash; the glass-front upper cabinets, their inner lights blinking on; the stainless range hood, pot filler and the professional range with red knobs; the French-door refrigerator with its white enclosure and cupboard above; the north niche: glass cupboard with glasses, wine fridge, black espresso machine; the under-cabinet lights warm on; finally the red toaster and red kettle. Objects are rigid and precise and never warp or melt; walls, ceiling, floor and camera never change. Ends exactly matching the final frame.",
+      "sound": "off",
+      "width": 1920
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261011_073459_d6f02221-5bfb-4c5b-b86e-3d814882db01.mp4",
+    "status": "completed",
+    "thumbnail_url": "https://cdn.higgsfield.ai/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261011_073459_d6f02221-5bfb-4c5b-b86e-3d814882db01_thumbnail.webp"
+  }
+]

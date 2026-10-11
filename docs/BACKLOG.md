@@ -11,7 +11,7 @@ The prior accumulated backlog is preserved in the pre-Opus archive.
 | P0 | B07 — workers and cumulative stages | Current; 03A stage-frame requests prepared, awaiting allowance |
 | P1 | B08–B09 — motion pilots | Held behind reference/stage gate and new budget |
 | P0 | B10 — final take/budget plan | Quoted 2026-10-10 ([B10-PLAN](B10-PLAN.md)); awaiting tranche authorization |
-| P1 | B11–B13 — production, assembly, delivery | Not completed |
+| — | B10–B13 — takes, assembly, delivery | **Delivered 2026-10-10** — [B12-B13-DELIVERY](B12-B13-DELIVERY.md); awaiting user review |
 
 ### B01 — Current authority and documentation
 
