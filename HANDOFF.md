@@ -2,7 +2,7 @@
 
 Updated 2026-10-11, America/Phoenix.
 
-**Status: incomplete.** Opus (Claude Code) took over on 2026-10-10. **B06a is closed**: Stefan accepted an unpaid local enclosure correction of view 1 ([review](docs/B06A-LOCAL-ENCLOSURE-REVIEW.md)). The 60-second worker film was assembled (`outputs/kitchen_remodel_60s.mp4`, [delivery review](docs/B12-B13-DELIVERY.md)) but Stefan rejected the workers. **Current cut:** `outputs/kitchen_magic_30s.mp4`, a 30 s no-people "magic" transformation: burn of the old kitchen, then golden wireframe builds ([review](docs/MAGIC-PILOT-REVIEW.md)). Task spend 898.25 / 898.25; generation disabled.
+**Status: incomplete.** Opus (Claude Code) took over on 2026-10-10. **B06a is closed**: Stefan accepted an unpaid local enclosure correction of view 1 ([review](docs/B06A-LOCAL-ENCLOSURE-REVIEW.md)). The 60-second worker film was assembled (`outputs/kitchen_remodel_60s.mp4`, [delivery review](docs/B12-B13-DELIVERY.md)) but Stefan rejected the workers. **Current cut:** `outputs/kitchen_blueprint_30s.mp4`: old kitchen, blueprint drawn over it, then wireframe builds of all three views (fire version `kitchen_magic_30s.mp4` rejected) ([review](docs/MAGIC-PILOT-REVIEW.md)). Task spend 898.25 / 898.25; generation disabled.
 
 Start with **[OPUS-HANDOFF.md](OPUS-HANDOFF.md)**. It contains the exact selected files, previews, authority, acceptance criteria, source pointers and next steps.
 

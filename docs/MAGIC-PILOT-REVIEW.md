@@ -25,3 +25,6 @@ Limits: faint lighter patch where the old fridge was removed in the early view-1
 ## Revision — old cabinets and range burn (0 credits)
 Stefan: "burn the old cabinets and range too, then commit". `tools/burn_old.py`: fire lifted from pilot v2 (frames 18–60, alpha keyed on orange) placed over the original photo's upper cabinets, microwave, range, base cabinets and counters; objects char under the fire; the bare room dissolves in under peak fire, then v2's fridge burn follows. New timing: 1.0 s before · 3.0 s cabinet/range burn · 2.3 s fridge burn · 1 s clear · 8.5 s view-1 build · 1 s · 5 s view-2 · 1 s · 6 s view-3 · hold. 720 frames verified.
 Limits: fire sprites repeat (same source clip, flipped/scaled); flame shapes are column-like.
+
+## Blueprint cut (current, 0 credits) → `outputs/kitchen_blueprint_30s.mp4`
+Stefan: fire doesn't work; old kitchen → blueprint drawn over it → transformation. `tools/blueprint_film.py`: 0–1.5 s old kitchen · navy blueprint sheet and grid fade over it while white line drawing of the finished kitchen sweeps in · blueprint fills to the bare room behind a scan line (7.5 s) · white-line wireframe build of view 1 (9.5 s) · blueprint transition · view 2 build (4.5 s) · blueprint transition · view 3 build (5 s) · hold. 720 frames, 1920×1080, silent, no people, no fire.

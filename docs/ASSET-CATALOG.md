@@ -4,7 +4,7 @@ Latest north-wall REF-M dial espresso/canister edit within REF-L composition and
 
 Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashes of repository-relative paths. Hashes describe exact existing bytes; verdicts are sourced review findings, not a new visual inspection.
 
-**449 stills · 102 videos.**
+**449 stills · 110 videos.**
 
 [Open searchable gallery](../outputs/stills-gallery.html) · [Machine-readable catalog](asset-catalog.json)
 
@@ -6254,6 +6254,18 @@ Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashe
 - Bytes: 46568811; SHA-256: `9aedfdd317099b178256a61527c78ea2442ea94c7c1526c2c3fe7f982817d5f3`
 - Job ID: `not recorded`
 
+### ASSET-830EE432FD27 — Kitchen_Blueprint_30S
+
+- Exact filename: `kitchen_blueprint_30s.mp4`
+- File: [outputs/kitchen_blueprint_30s.mp4](../outputs/kitchen_blueprint_30s.mp4)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/kitchen_blueprint_30s.mp4`
+- Role: Isolated motion pilot; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 16010342; SHA-256: `81560c1151adc01dbed6ed931a2c03128f5f8f0fcb44db5d96bf10666481142c`
+- Job ID: `not recorded`
+
 ### ASSET-8E7BAFDDE6B0 — Kitchen_Magic_30S
 
 - Exact filename: `kitchen_magic_30s.mp4`
@@ -6452,6 +6464,90 @@ Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashe
 - Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
 - Limit / superseded reason: Not accepted as a final/current design.
 - Bytes: 891401; SHA-256: `a9143a253c39e9777bf150035ecd73c28582349ae24059fe73ee1419f13d5d00`
+- Job ID: `not recorded`
+
+### ASSET-F9323092058D — Bp 01 Intro
+
+- Exact filename: `bp-01-intro.mp4`
+- File: [outputs/magic/work/bp-01-intro.mp4](../outputs/magic/work/bp-01-intro.mp4)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/magic/work/bp-01-intro.mp4`
+- Role: Isolated motion pilot; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 2423489; SHA-256: `c7055ba48122395399d2f9341ef451b87fca4749146db85146b27764213767e4`
+- Job ID: `not recorded`
+
+### ASSET-FA83EAA006AE — Bp 02 Master
+
+- Exact filename: `bp-02-master.mp4`
+- File: [outputs/magic/work/bp-02-master.mp4](../outputs/magic/work/bp-02-master.mp4)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/magic/work/bp-02-master.mp4`
+- Role: Isolated motion pilot; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 6648968; SHA-256: `373fda5f875712b0af0458e789a7edd30c7e5f076f4e6a6bf0508a0362ddcea1`
+- Job ID: `not recorded`
+
+### ASSET-F0EA13CE62B8 — Bp 03 To West
+
+- Exact filename: `bp-03-to-west.mp4`
+- File: [outputs/magic/work/bp-03-to-west.mp4](../outputs/magic/work/bp-03-to-west.mp4)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/magic/work/bp-03-to-west.mp4`
+- Role: Isolated motion pilot; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 1463514; SHA-256: `5e2fb1a0a52fd99a48d9386c955ac4356bf937f08e3a38a40f07af918f54017d`
+- Job ID: `not recorded`
+
+### ASSET-6567B28DB78E — Bp 04 West
+
+- Exact filename: `bp-04-west.mp4`
+- File: [outputs/magic/work/bp-04-west.mp4](../outputs/magic/work/bp-04-west.mp4)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/magic/work/bp-04-west.mp4`
+- Role: Isolated motion pilot; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 2581840; SHA-256: `68ecbdd4dd6715dcb35616d4bc8109d7e229bf84ba3195a085b5b475aa1ca166`
+- Job ID: `not recorded`
+
+### ASSET-A827357D0395 — Bp 05 To Final
+
+- Exact filename: `bp-05-to-final.mp4`
+- File: [outputs/magic/work/bp-05-to-final.mp4](../outputs/magic/work/bp-05-to-final.mp4)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/magic/work/bp-05-to-final.mp4`
+- Role: Isolated motion pilot; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 1385702; SHA-256: `bbfd66f85a8734f7c87d979b7df69034d609c0786fa9aa4be0c7ad02ecba71d3`
+- Job ID: `not recorded`
+
+### ASSET-6E4EEAC0D46F — Bp 06 Final
+
+- Exact filename: `bp-06-final.mp4`
+- File: [outputs/magic/work/bp-06-final.mp4](../outputs/magic/work/bp-06-final.mp4)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/magic/work/bp-06-final.mp4`
+- Role: Isolated motion pilot; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 3083559; SHA-256: `ce46e6bc1b1375eca560f4b481e967759428d4d3a266716364491dd1b81befb8`
+- Job ID: `not recorded`
+
+### ASSET-ABD39B6BC029 — Bp 07 Hold
+
+- Exact filename: `bp-07-hold.mp4`
+- File: [outputs/magic/work/bp-07-hold.mp4](../outputs/magic/work/bp-07-hold.mp4)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/magic/work/bp-07-hold.mp4`
+- Role: Isolated motion pilot; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 695923; SHA-256: `e188a46869fbd4d60e8ebace5582f2c1888280f790bb19e4b3644441d6b28499`
 - Job ID: `not recorded`
 
 ### ASSET-6B18F31C3D1B — Burn Old

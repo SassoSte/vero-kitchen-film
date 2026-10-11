@@ -11,7 +11,8 @@ out, total = sys.argv[1], float(sys.argv[2]); plates = sys.argv[3:]
 FPS, W, H = 24, 1920, 1080
 ims = [cv2.resize(cv2.imread(p), (2688, 1520), interpolation=cv2.INTER_AREA).astype(np.float32) for p in plates]
 rng = np.random.default_rng(3)
-GOLD = np.float32([90, 200, 255])  # BGR
+import os
+GOLD = np.float32([float(v) for v in os.environ.get('LINE_BGR', '90,200,255').split(',')])  # BGR
 
 def step_assets(a, b):
     d = np.abs(cv2.GaussianBlur(a, (0, 0), 2) - cv2.GaussianBlur(b, (0, 0), 2)).max(2)

@@ -1,0 +1,7 @@
+file '/Users/stefansassoon/projects/vero-kitchen-film/outputs/magic/work/bp-01-intro.mp4'
+file '/Users/stefansassoon/projects/vero-kitchen-film/outputs/magic/work/bp-02-master.mp4'
+file '/Users/stefansassoon/projects/vero-kitchen-film/outputs/magic/work/bp-03-to-west.mp4'
+file '/Users/stefansassoon/projects/vero-kitchen-film/outputs/magic/work/bp-04-west.mp4'
+file '/Users/stefansassoon/projects/vero-kitchen-film/outputs/magic/work/bp-05-to-final.mp4'
+file '/Users/stefansassoon/projects/vero-kitchen-film/outputs/magic/work/bp-06-final.mp4'
+file '/Users/stefansassoon/projects/vero-kitchen-film/outputs/magic/work/bp-07-hold.mp4'

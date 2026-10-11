@@ -1,6 +1,6 @@
 {
   "project": "vero-kitchen-film",
-  "phase": "Magic 30 s film built (local, burn + wireframe); awaiting user review; generation disabled",
+  "phase": "Blueprint 30 s cut delivered (local); generation disabled",
   "budget_ceiling_credits": 303,
   "approved_features": [
     "Wolf GR304 red knobs with pale hood; no over-range microwave",
@@ -279,6 +279,7 @@
     "review": "docs/B12-B13-DELIVERY.md",
     "paid_spend_total": 873.25,
     "audio": "removed at user request 2026-10-10 (video-only)",
-    "magic_film": "outputs/kitchen_magic_30s.mp4"
+    "magic_film": "outputs/kitchen_magic_30s.mp4",
+    "current_cut": "outputs/kitchen_blueprint_30s.mp4"
   }
 }
