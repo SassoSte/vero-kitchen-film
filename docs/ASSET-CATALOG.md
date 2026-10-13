@@ -4,7 +4,7 @@ Latest north-wall REF-M dial espresso/canister edit within REF-L composition and
 
 Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashes of repository-relative paths. Hashes describe exact existing bytes; verdicts are sourced review findings, not a new visual inspection.
 
-**464 stills · 110 videos.**
+**485 stills · 111 videos.**
 
 [Open searchable gallery](../outputs/stills-gallery.html) · [Machine-readable catalog](asset-catalog.json)
 
@@ -5227,6 +5227,258 @@ Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashe
 - Result receipt: [outputs/production/workers-v1-result.json](../outputs/production/workers-v1-result.json)
 - Stderr receipt: [outputs/production/workers-v1-stderr.txt](../outputs/production/workers-v1-stderr.txt)
 
+### ASSET-966C27053B34 — V1 00
+
+- Exact filename: `v1-00.png`
+- File: [outputs/magic/work/bp-plates/v1-00.png](../outputs/magic/work/bp-plates/v1-00.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/magic/work/bp-plates/v1-00.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 4097539; SHA-256: `9b08cec7bb0c75ef7689d9b43dc68f6bf9905bc369f8a4db4510fd256c1ebfbd`
+- Job ID: `not recorded`
+
+### ASSET-0A7F71396EEA — V1 01
+
+- Exact filename: `v1-01.png`
+- File: [outputs/magic/work/bp-plates/v1-01.png](../outputs/magic/work/bp-plates/v1-01.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/magic/work/bp-plates/v1-01.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 4190383; SHA-256: `f15d7d777c7007d220cbd09fcf5f36b8ef75e8a0fd7aa431dc9ebfc91028b3ac`
+- Job ID: `not recorded`
+
+### ASSET-EC24514336CA — V1 02
+
+- Exact filename: `v1-02.png`
+- File: [outputs/magic/work/bp-plates/v1-02.png](../outputs/magic/work/bp-plates/v1-02.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/magic/work/bp-plates/v1-02.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 4150980; SHA-256: `169e1cd4f27ecead29873941cf0ce6e942f2476eb3272bdb80093b7ed2fe4546`
+- Job ID: `not recorded`
+
+### ASSET-4AF7E2E41AFD — V1 03
+
+- Exact filename: `v1-03.png`
+- File: [outputs/magic/work/bp-plates/v1-03.png](../outputs/magic/work/bp-plates/v1-03.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/magic/work/bp-plates/v1-03.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 4157434; SHA-256: `01cf7b7d0ed2433d55bbe8eb7a1d6be07ff11d223e32ca23aef5f6a8dd1eb137`
+- Job ID: `not recorded`
+
+### ASSET-D169305EF497 — V1 04
+
+- Exact filename: `v1-04.png`
+- File: [outputs/magic/work/bp-plates/v1-04.png](../outputs/magic/work/bp-plates/v1-04.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/magic/work/bp-plates/v1-04.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 4492619; SHA-256: `3c9f5a2fea4c94034d2a65bb88cd0c828959ead2405136e958a77e181e794df1`
+- Job ID: `not recorded`
+
+### ASSET-9E3FB1808061 — V1 05
+
+- Exact filename: `v1-05.png`
+- File: [outputs/magic/work/bp-plates/v1-05.png](../outputs/magic/work/bp-plates/v1-05.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/magic/work/bp-plates/v1-05.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 4746820; SHA-256: `6ae1d1bac4f1effbc1a681a54f77d1b694f4816e41cdfeccc7f8fdde5c257007`
+- Job ID: `not recorded`
+
+### ASSET-61994E337D53 — V1 06
+
+- Exact filename: `v1-06.png`
+- File: [outputs/magic/work/bp-plates/v1-06.png](../outputs/magic/work/bp-plates/v1-06.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/magic/work/bp-plates/v1-06.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 4815782; SHA-256: `758973657b54bff8941675f3866184e1731b781812982cca51a82eec092a02ec`
+- Job ID: `not recorded`
+
+### ASSET-D68AC2FB4608 — V1 07
+
+- Exact filename: `v1-07.png`
+- File: [outputs/magic/work/bp-plates/v1-07.png](../outputs/magic/work/bp-plates/v1-07.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/magic/work/bp-plates/v1-07.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 5037012; SHA-256: `b1f2ca56804d6373fb37921e2a863e3ea788ef1fdb5237aed86ffa99dfd81c83`
+- Job ID: `not recorded`
+
+### ASSET-FA6D368E4491 — V1 08
+
+- Exact filename: `v1-08.png`
+- File: [outputs/magic/work/bp-plates/v1-08.png](../outputs/magic/work/bp-plates/v1-08.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/magic/work/bp-plates/v1-08.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 5244754; SHA-256: `f01014c70b54c05e1fd92c5943e2517ff13bfc4f84436f5d578098ed9ab019b6`
+- Job ID: `not recorded`
+
+### ASSET-67FBADFA817E — V1 09
+
+- Exact filename: `v1-09.png`
+- File: [outputs/magic/work/bp-plates/v1-09.png](../outputs/magic/work/bp-plates/v1-09.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/magic/work/bp-plates/v1-09.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 5311949; SHA-256: `9880ed0cc6959ab1a824e6587371977cc708f115934cbf3cddd4223a8cc8b535`
+- Job ID: `not recorded`
+
+### ASSET-EBD0F465D08A — V1 10
+
+- Exact filename: `v1-10.png`
+- File: [outputs/magic/work/bp-plates/v1-10.png](../outputs/magic/work/bp-plates/v1-10.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/magic/work/bp-plates/v1-10.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 5377685; SHA-256: `df423ed9484fa71cd12409d483d0ea192114f7d5b9ea8646b3dc2e7c97200005`
+- Job ID: `not recorded`
+
+### ASSET-3710D18D5BD7 — V1 11
+
+- Exact filename: `v1-11.png`
+- File: [outputs/magic/work/bp-plates/v1-11.png](../outputs/magic/work/bp-plates/v1-11.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/magic/work/bp-plates/v1-11.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 5504321; SHA-256: `fccf884bec59a4517cb8ce541bc4a11f7dd665ba33d5003da330ca04c9b79e82`
+- Job ID: `not recorded`
+
+### ASSET-C93926B0D1C7 — V2 00
+
+- Exact filename: `v2-00.png`
+- File: [outputs/magic/work/bp-plates/v2-00.png](../outputs/magic/work/bp-plates/v2-00.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/magic/work/bp-plates/v2-00.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 4916919; SHA-256: `5f95028d27121eb8854e612c1a47142f19c1b5cf18a577ecea05ffa823cdd3e0`
+- Job ID: `not recorded`
+
+### ASSET-4D552B14CEFA — V2 01
+
+- Exact filename: `v2-01.png`
+- File: [outputs/magic/work/bp-plates/v2-01.png](../outputs/magic/work/bp-plates/v2-01.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/magic/work/bp-plates/v2-01.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 4923466; SHA-256: `8c151a1eca7abf87d6848b1b90c80386ad27eeb79d2390f6851a6a88afe52862`
+- Job ID: `not recorded`
+
+### ASSET-6FD3361CDE19 — V2 02
+
+- Exact filename: `v2-02.png`
+- File: [outputs/magic/work/bp-plates/v2-02.png](../outputs/magic/work/bp-plates/v2-02.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/magic/work/bp-plates/v2-02.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 4950822; SHA-256: `694ce23f1c021a7b00d20075240e98cec919fead97204dd633b3418e460fabe5`
+- Job ID: `not recorded`
+
+### ASSET-CF81907F3BBF — V2 03
+
+- Exact filename: `v2-03.png`
+- File: [outputs/magic/work/bp-plates/v2-03.png](../outputs/magic/work/bp-plates/v2-03.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/magic/work/bp-plates/v2-03.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 4961894; SHA-256: `cf7dfb37e976d41e2c455518b800614b20d31ed1f126871228fb027769152f5b`
+- Job ID: `not recorded`
+
+### ASSET-8BF76F15BA60 — V2 04
+
+- Exact filename: `v2-04.png`
+- File: [outputs/magic/work/bp-plates/v2-04.png](../outputs/magic/work/bp-plates/v2-04.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/magic/work/bp-plates/v2-04.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 4962409; SHA-256: `01fca1c4f431b5f62d95aad320d7f23e4fb310a015fe41341641d55b88b9f683`
+- Job ID: `not recorded`
+
+### ASSET-A5CD11F04175 — V3 00
+
+- Exact filename: `v3-00.png`
+- File: [outputs/magic/work/bp-plates/v3-00.png](../outputs/magic/work/bp-plates/v3-00.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/magic/work/bp-plates/v3-00.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 5473986; SHA-256: `cfddc0c6895d039da44ca6491550bd03e30c0d24f9ff9ffd28434c5f63464a21`
+- Job ID: `not recorded`
+
+### ASSET-5400416DEFFE — V3 01
+
+- Exact filename: `v3-01.png`
+- File: [outputs/magic/work/bp-plates/v3-01.png](../outputs/magic/work/bp-plates/v3-01.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/magic/work/bp-plates/v3-01.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 5568311; SHA-256: `6d9e408c9c1c322c3327c5a77e86699657b23239c1b5ea210e48b1bff74b70c6`
+- Job ID: `not recorded`
+
+### ASSET-FBB3DD0DA606 — V3 02
+
+- Exact filename: `v3-02.png`
+- File: [outputs/magic/work/bp-plates/v3-02.png](../outputs/magic/work/bp-plates/v3-02.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/magic/work/bp-plates/v3-02.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 6642499; SHA-256: `6e4ac209e407f8d8574810159c768d73e6fc411bee2d02142518d1d5729c89d0`
+- Job ID: `not recorded`
+
+### ASSET-55D56B25D680 — V3 03
+
+- Exact filename: `v3-03.png`
+- File: [outputs/magic/work/bp-plates/v3-03.png](../outputs/magic/work/bp-plates/v3-03.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/magic/work/bp-plates/v3-03.png`
+- Role: Generated still / diagram; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 6387414; SHA-256: `6790d365bc7743d289104bbae1d51e44cfb3f59d5c0d7215a52326723ec14dde`
+- Job ID: `not recorded`
+
 ### ASSET-7C080944255D — Stage 02 Bare Nofridge
 
 - Exact filename: `stage-02-bare-nofridge.png`
@@ -6455,7 +6707,7 @@ Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashe
 - Known verdict: No per-asset review recorded in catalog source map.
 - Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
 - Limit / superseded reason: Not accepted as a final/current design.
-- Bytes: 16010342; SHA-256: `81560c1151adc01dbed6ed931a2c03128f5f8f0fcb44db5d96bf10666481142c`
+- Bytes: 14459015; SHA-256: `af1641ba171e556855ed42f3122f73dbbde5605746b8856ad994a18e9fec55b6`
 - Job ID: `not recorded`
 
 ### ASSET-8E7BAFDDE6B0 — Kitchen_Magic_30S
@@ -6480,6 +6732,18 @@ Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashe
 - Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
 - Limit / superseded reason: Not accepted as a final/current design.
 - Bytes: 29542738; SHA-256: `3ec37c60c7661887ca3737c7a0ee83d3bc51e9f35952e9f0a17bface242b00aa`
+- Job ID: `not recorded`
+
+### ASSET-CF0661719C9F — Kitchen_Blueprint_30S 2026 10 11
+
+- Exact filename: `kitchen_blueprint_30s-2026-10-11.mp4`
+- File: [outputs/magic/kitchen_blueprint_30s-2026-10-11.mp4](../outputs/magic/kitchen_blueprint_30s-2026-10-11.mp4)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/magic/kitchen_blueprint_30s-2026-10-11.mp4`
+- Role: Isolated motion pilot; status: **not-inspected-record**
+- Known verdict: No per-asset review recorded in catalog source map.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: Not accepted as a final/current design.
+- Bytes: 16010342; SHA-256: `81560c1151adc01dbed6ed931a2c03128f5f8f0fcb44db5d96bf10666481142c`
 - Job ID: `not recorded`
 
 ### ASSET-FDC9990A3319 — Local Wireframe Master V1
@@ -6667,7 +6931,7 @@ Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashe
 - Known verdict: No per-asset review recorded in catalog source map.
 - Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
 - Limit / superseded reason: Not accepted as a final/current design.
-- Bytes: 2423489; SHA-256: `c7055ba48122395399d2f9341ef451b87fca4749146db85146b27764213767e4`
+- Bytes: 2254732; SHA-256: `ff144c02fcc97bb7af357e15176183c4d7054216b9461b33b86415d96781414e`
 - Job ID: `not recorded`
 
 ### ASSET-FA83EAA006AE — Bp 02 Master
@@ -6679,7 +6943,7 @@ Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashe
 - Known verdict: No per-asset review recorded in catalog source map.
 - Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
 - Limit / superseded reason: Not accepted as a final/current design.
-- Bytes: 6648968; SHA-256: `373fda5f875712b0af0458e789a7edd30c7e5f076f4e6a6bf0508a0362ddcea1`
+- Bytes: 5581113; SHA-256: `d481081fd700a99dff530a3541abe200dd411eb7f862766820060c0d3a049600`
 - Job ID: `not recorded`
 
 ### ASSET-F0EA13CE62B8 — Bp 03 To West
@@ -6691,7 +6955,7 @@ Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashe
 - Known verdict: No per-asset review recorded in catalog source map.
 - Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
 - Limit / superseded reason: Not accepted as a final/current design.
-- Bytes: 1463514; SHA-256: `5e2fb1a0a52fd99a48d9386c955ac4356bf937f08e3a38a40f07af918f54017d`
+- Bytes: 1330513; SHA-256: `f90e40cca6202db3b32b3be17cce4103a0098e9a2980f6da1eb9e18b9eaf9c1b`
 - Job ID: `not recorded`
 
 ### ASSET-6567B28DB78E — Bp 04 West
@@ -6703,7 +6967,7 @@ Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashe
 - Known verdict: No per-asset review recorded in catalog source map.
 - Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
 - Limit / superseded reason: Not accepted as a final/current design.
-- Bytes: 2581840; SHA-256: `68ecbdd4dd6715dcb35616d4bc8109d7e229bf84ba3195a085b5b475aa1ca166`
+- Bytes: 1918566; SHA-256: `4aa96df818355f528c10546521ae745783fd094978f2b41cce8a476ec892763b`
 - Job ID: `not recorded`
 
 ### ASSET-A827357D0395 — Bp 05 To Final
@@ -6715,7 +6979,7 @@ Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashe
 - Known verdict: No per-asset review recorded in catalog source map.
 - Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
 - Limit / superseded reason: Not accepted as a final/current design.
-- Bytes: 1385702; SHA-256: `bbfd66f85a8734f7c87d979b7df69034d609c0786fa9aa4be0c7ad02ecba71d3`
+- Bytes: 1393057; SHA-256: `b399dd1794ee6503d87f42f399a354a04ed1f50a542f85847000715b0369496d`
 - Job ID: `not recorded`
 
 ### ASSET-6E4EEAC0D46F — Bp 06 Final
@@ -6727,7 +6991,7 @@ Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashe
 - Known verdict: No per-asset review recorded in catalog source map.
 - Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
 - Limit / superseded reason: Not accepted as a final/current design.
-- Bytes: 3083559; SHA-256: `ce46e6bc1b1375eca560f4b481e967759428d4d3a266716364491dd1b81befb8`
+- Bytes: 3242655; SHA-256: `68ae30c330c1bc3c34dad1dc49e53458182079afb990933521b5f10b1b57800a`
 - Job ID: `not recorded`
 
 ### ASSET-ABD39B6BC029 — Bp 07 Hold
@@ -6739,7 +7003,7 @@ Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashe
 - Known verdict: No per-asset review recorded in catalog source map.
 - Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
 - Limit / superseded reason: Not accepted as a final/current design.
-- Bytes: 695923; SHA-256: `e188a46869fbd4d60e8ebace5582f2c1888280f790bb19e4b3644441d6b28499`
+- Bytes: 737483; SHA-256: `9cfdf600a7b7d4a3e1368a1d5f5724c8834acac1750263fe019759ebe1ff0d37`
 - Job ID: `not recorded`
 
 ### ASSET-6B18F31C3D1B — Burn Old

@@ -28,3 +28,7 @@ Limits: fire sprites repeat (same source clip, flipped/scaled); flame shapes are
 
 ## Blueprint cut (current, 0 credits) → `outputs/kitchen_blueprint_30s.mp4`
 Stefan: fire doesn't work; old kitchen → blueprint drawn over it → transformation. `tools/blueprint_film.py`: 0–1.5 s old kitchen · navy blueprint sheet and grid fade over it while white line drawing of the finished kitchen sweeps in · blueprint fills to the bare room behind a scan line (7.5 s) · white-line wireframe build of view 1 (9.5 s) · blueprint transition · view 2 build (4.5 s) · blueprint transition · view 3 build (5 s) · hold. 720 frames, 1920×1080, silent, no people, no fire.
+
+## Rebuild with revised views (2026-10-12, 0 credits)
+User: "Yes, let's do it." `tools/blueprint_film.py` now ends each build on the 2026-10-12 selected views (v3 / v2 / v12) and carries the finish revisions into every intermediate plate: pixels matching the previous selected view take the revised view's pixels; remaining bare-wall plaster is smoothed with the same guided filter. Living-room build uses the closer v12 framing. Blueprint line drawing traced from v3. Previous cut kept as `outputs/magic/kitchen_blueprint_30s-2026-10-11.mp4`. 720 frames verified.
+Limit: the new backsplashes are present from the first plate in which their counter exists, so they don't "build" separately.

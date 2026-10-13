@@ -28,10 +28,52 @@ def ease(t): t = np.clip(t, 0, 1); return t * t * (3 - 2 * t)
 
 old = load(C / 'base-ref-a-cooking-run.png')
 master_seq = sorted(work.glob('stage-*-nofridge.png'), key=lambda p: ['stage-02-bare', 'stage-02-bases', 'stage-03-plate', 'stage-04-master-done', 'stage-05a-backsplash', 'stage-05b-uppers', 'stage-06a-hood', 'stage-06c-range'].index(p.name.replace('-nofridge.png', '')))
-master_seq += [C / 'stage-07-master.png', C / 'stage-09-niche-empty.png', C / 'stage-09c-espresso.png', C / 'stage-11c-kettle.png', K / 'kitchen-smeg-enclosure-v2.png']
-west_seq = [C / f'stage-04-west-{x}.png' for x in ('pre', 'sink', 'faucet', 'done')] + [C / 'stage-09d-phone.png', K / 'west-phone-speaker-realism-v1.png']
-final_seq = [C / 'stage-07-final-empty.png', C / 'stage-07-final-newfridge.png', C / 'stage-10-final-oak.png', C / 'stage-11-final-threestools.png', K / 'apartment-fridge-reconstruction-v11.png']
-final_master = load(K / 'kitchen-smeg-enclosure-v2.png'); bare = load(master_seq[0])
+master_seq += [C / 'stage-07-master.png', C / 'stage-09-niche-empty.png', C / 'stage-09c-espresso.png', C / 'stage-11c-kettle.png']
+west_seq = [C / f'stage-04-west-{x}.png' for x in ('pre', 'sink', 'faucet', 'done')] + [C / 'stage-09d-phone.png']
+final_seq = [C / 'stage-07-final-empty.png', C / 'stage-07-final-newfridge.png', C / 'stage-10-final-oak.png', C / 'stage-11-final-threestools.png']
+
+# --- carry the 2026-10-12 finish revisions into every intermediate plate -----------
+# Where a plate already matches the previously selected view (element installed /
+# unchanged), take the revised view's pixels; smooth remaining bare-wall plaster with
+# the same guided filter used on the selected views. The revised view ends each build.
+def guided(I, p, r, eps):
+    mean = lambda x: cv2.boxFilter(x, -1, (r, r))
+    mI, mp = mean(I), mean(p); a = (mean(I * p) - mI * mp) / (mean(I * I) - mI * mI + eps); b = mp - a * mI
+    return mean(a) * I + mean(b)
+def poly(polys, shape):
+    m = np.zeros(shape, np.uint8)
+    for q in polys: cv2.fillPoly(m, [np.array(q, np.int32)], 1)
+    return m > 0
+CROP3 = (600, 230, 2088, round(2088 * 1520 / 2688))
+def big(p, crop=None):
+    im = cv2.imread(str(p))
+    if crop: x0, y0, w, h = crop; im = cv2.resize(im[y0:y0 + h, x0:x0 + w], (2688, 1520), interpolation=cv2.INTER_LANCZOS4)
+    return cv2.resize(im, (2688, 1520), interpolation=cv2.INTER_AREA).astype(np.float32)
+def finish(seq, old_final, new_final, walls, tag, crop=None):
+    of, nf = big(old_final, crop), big(new_final)
+    out_dir = work / 'bp-plates'; out_dir.mkdir(exist_ok=True); res = []
+    for i, p in enumerate(seq):
+        pl = big(p, crop)
+        same = np.abs(cv2.GaussianBlur(pl, (0, 0), 2) - cv2.GaussianBlur(of, (0, 0), 2)).max(2) < 12
+        same = cv2.morphologyEx(same.astype(np.uint8), cv2.MORPH_OPEN, np.ones((5, 5), np.uint8)) > 0
+        a = cv2.GaussianBlur(same.astype(np.float32), (0, 0), 1.5)[..., None]
+        pl = pl * (1 - a) + nf * a
+        if walls:
+            hsv = cv2.cvtColor(pl.astype(np.uint8), cv2.COLOR_BGR2HSV)
+            wm = poly(walls, pl.shape[:2]) & ~same & (hsv[..., 1] < 60) & (hsv[..., 2] > 120)
+            g = cv2.cvtColor(pl.astype(np.uint8), cv2.COLOR_BGR2GRAY).astype(np.float32) / 255
+            sm = np.stack([guided(g, pl[..., c] / 255, 61, 0.0025) * 255 for c in range(3)], -1)
+            b = cv2.GaussianBlur(wm.astype(np.float32), (0, 0), 1.2)[..., None]
+            pl = pl * (1 - b) + sm * b
+        q = out_dir / f'{tag}-{i:02d}.png'; cv2.imwrite(str(q), np.clip(pl, 0, 255).astype(np.uint8)); res.append(q)
+    return res + [new_final]
+W1 = [[[0, 0], [612, 0], [612, 1285], [480, 1300], [480, 870], [0, 860]], [[985, 0], [1298, 0], [1298, 1225], [985, 1225]],
+      [[612, 0], [985, 0], [985, 190], [612, 190]], [[1490, 0], [2688, 0], [2688, 1000], [1490, 880]]]
+W2 = [[[0, 0], [2688, 0], [2688, 800], [1830, 690], [920, 665], [585, 725], [330, 760], [330, 1400], [0, 1450]]]
+master_seq = finish(master_seq, K / 'kitchen-smeg-enclosure-v2.png', K / 'kitchen-smeg-enclosure-v3.png', W1, 'v1')
+west_seq = finish(west_seq, K / 'west-phone-speaker-realism-v1.png', K / 'west-phone-speaker-realism-v2.png', W2, 'v2')
+final_seq = finish(final_seq, K / 'apartment-fridge-reconstruction-v11.png', K / 'apartment-fridge-reconstruction-v12.png', None, 'v3', crop=CROP3)
+final_master = load(K / 'kitchen-smeg-enclosure-v3.png'); bare = load(master_seq[0])
 e_new = edges(final_master)
 
 # 1) old kitchen (2 s) -> blueprint of the NEW kitchen draws over it (4 s) -> blueprint fills to bare room (1.5 s)
@@ -79,9 +121,9 @@ s3 = work / 'bp-03-to-west.mp4'; bp_trans(s3, last(s2), first(s4), 1.25)
 s6 = work / 'bp-06-final.mp4'; build(s6, 5.0, final_seq)
 s5 = work / 'bp-05-to-final.mp4'; bp_trans(s5, last(s4), first(s6), 1.25)
 # hold with slow push on the selected view 3
-s7 = work / 'bp-07-hold.mp4'; ff = writer(s7); im = cv2.resize(cv2.imread(str(K / 'apartment-fridge-reconstruction-v11.png')), (2688, 1520))
+s7 = work / 'bp-07-hold.mp4'; ff = writer(s7); im = cv2.resize(cv2.imread(str(K / 'apartment-fridge-reconstruction-v12.png')), (2688, 1520))
 for f in range(720 - int(7.5 * FPS) - int(9.5 * FPS) - int(1.25 * FPS) - int(4.5 * FPS) - int(1.25 * FPS) - int(5.0 * FPS)):
-    z = 1.03 + 0.0004 * f; Mx = np.float32([[z, 0, (1 - z) * 1344], [0, z, (1 - z) * 760]])
+    z = 1.0 + 0.0004 * f; Mx = np.float32([[z, 0, (1 - z) * 1344], [0, z, (1 - z) * 760]])
     ff.stdin.write(cv2.resize(cv2.warpAffine(im, Mx, (2688, 1520)), (W, H), interpolation=cv2.INTER_AREA).tobytes())
 ff.stdin.close(); ff.wait()
 lst = work / 'bp-list.txt'; lst.write_text(''.join(f"file '{s}'\n" for s in (s1, s2, s3, s4, s5, s6, s7)))
