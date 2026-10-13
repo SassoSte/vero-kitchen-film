@@ -6719,7 +6719,7 @@ Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashe
 - Known verdict: No per-asset review recorded in catalog source map.
 - Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
 - Limit / superseded reason: Not accepted as a final/current design.
-- Bytes: 15877311; SHA-256: `a147c28d3f4f18b6f0971714b5d714c489c1fa6297a3ac00ca871292c68b9b0b`
+- Bytes: 16612085; SHA-256: `c0f84d056f91812564e58ec443dd9cdd80f3aa1b6d1fd1851daa1350d454b89c`
 - Job ID: `not recorded`
 
 ### ASSET-8E7BAFDDE6B0 — Kitchen_Magic_30S
@@ -6943,7 +6943,7 @@ Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashe
 - Known verdict: No per-asset review recorded in catalog source map.
 - Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
 - Limit / superseded reason: Not accepted as a final/current design.
-- Bytes: 2254732; SHA-256: `ff144c02fcc97bb7af357e15176183c4d7054216b9461b33b86415d96781414e`
+- Bytes: 3062498; SHA-256: `5d17c6c655433c6cf2835dc347967ab2fdfc8badcaa278b402085be33eeb9236`
 - Job ID: `not recorded`
 
 ### ASSET-FA83EAA006AE — Bp 02 Master

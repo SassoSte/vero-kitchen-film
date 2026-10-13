@@ -74,15 +74,15 @@ master_seq = finish(master_seq, K / 'kitchen-smeg-enclosure-v2.png', K / 'kitche
 west_seq = finish(west_seq, K / 'west-phone-speaker-realism-v1.png', K / 'west-phone-speaker-realism-v2.png', W2, 'v2')
 final_seq = finish(final_seq, K / 'apartment-fridge-reconstruction-v11.png', K / 'apartment-fridge-reconstruction-v12.png', None, 'v3', crop=CROP3)
 final_master = load(K / 'kitchen-smeg-enclosure-v3.png'); bare = load(master_seq[0])
-e_new = edges(final_master)
+e_new = edges(final_master); e_old = edges(old)
 
 # 1) old kitchen (2 s) -> blueprint of the NEW kitchen draws over it (4 s) -> blueprint fills to bare room (1.5 s)
 s1 = work / 'bp-01-intro.mp4'; ff = writer(s1); n = int(7.5 * FPS)
 order = (xx / W * 0.75 + yy / H * 0.25)        # drawing sweep, left to right
 for f in range(n):
     t = f / FPS
-    a = ease((t - 1.5) / 2.0)                  # sheet opacity over the old photo
-    d = ease((t - 2.0) / 3.5)                  # lines drawn so far
+    a = ease((t - 1.8) / 1.7)                  # sheet opacity over the old photo
+    d = ease((t - 2.3) / 3.2)                  # lines drawn so far
     fill = ease((t - 6.0) / 1.5)               # blueprint -> bare room
     sheet = np.ones((H, W, 3), np.float32) * BLUE + grid[..., None] * LINE * 0.25
     img = old * (1 - 0.85 * a) + sheet * 0.85 * a
@@ -93,6 +93,10 @@ for f in range(n):
         yl = H * (1 - fill); below = (yy >= yl)[..., None].astype(np.float32)
         img = img * (1 - below) + bare * below
         img += ((np.abs(yy - yl) < 3) * (fill < 1))[..., None] * LINE * 0.9
+    if t < 1.3:                                # opening: blueprint of the old kitchen resolves into the photo
+        o = ease((t - 0.5) / 0.8)
+        bp_old = sheet + e_old[..., None] * LINE * 0.95
+        img = bp_old * (1 - o) + img * o
     ff.stdin.write(np.clip(img, 0, 255).astype(np.uint8).tobytes())
 ff.stdin.close(); ff.wait()
 

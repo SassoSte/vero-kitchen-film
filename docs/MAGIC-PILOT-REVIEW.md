@@ -35,3 +35,6 @@ Limit: the new backsplashes are present from the first plate in which their coun
 
 ## Flip transitions (2026-10-12, 0 credits)
 User asked for a flip instead of fades between views. `flip_trans` in `tools/blueprint_film.py`: the outgoing view rotates away about its vertical axis (perspective, slight pull-back, edge shading) while turning into its own blueprint; at 90° it becomes the blueprint of the next view, which rotates in and resolves from lines into the photo. Navy grid behind the card. 1.5 s each (view 1→2, 2→3); view-1 build trimmed 9.5→9.0 s. 720 frames verified. Strip: `outputs/review/flip-transition-strip.png`.
+
+## Blueprint opening (2026-10-12)
+User: "make the first opening frame a Blueprint". Film now opens on a blueprint of the old kitchen (0–0.5 s hold), which resolves into the old photo by 1.3 s; the new-kitchen blueprint then draws over it as before (timings compressed slightly; intro still 7.5 s). 720 frames verified.
