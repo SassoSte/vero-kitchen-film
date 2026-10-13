@@ -1,0 +1,50 @@
+[
+  {
+    "src": "kitchen-smeg-enclosure-v2.png",
+    "dst": "kitchen-smeg-enclosure-v3.png",
+    "painted_fraction": 0.1958
+  },
+  {
+    "src": "west-phone-speaker-realism-v1.png",
+    "dst": "west-phone-speaker-realism-v2.png",
+    "painted_fraction": 0.1326
+  },
+  {
+    "src": "apartment-fridge-reconstruction-v11.png",
+    "dst": "apartment-fridge-reconstruction-v12-paint.png",
+    "painted_fraction": 0.0299
+  },
+  {
+    "src": "kitchen-smeg-enclosure-v3.png",
+    "dst": "kitchen-smeg-enclosure-v3.png",
+    "painted_fraction": 0.2517
+  },
+  {
+    "src": "west-phone-speaker-realism-v2.png",
+    "dst": "west-phone-speaker-realism-v2.png",
+    "painted_fraction": 0.423
+  },
+  {
+    "dst": "apartment-fridge-reconstruction-v12.png",
+    "crop": [
+      600,
+      230,
+      2688,
+      1411
+    ],
+    "upscale": 1.287
+  },
+  {
+    "note": "Local pasted backsplashes removed (user: \"Not good\" / \"Remove both\"). Backsplashes generated instead: GPT Image 2 masked edits bs-view1-v1, bs-view2-v1 (6.5 each), re-composited mask-only onto the wall-fixed images (stage_composite.py, no gain): only the backsplash strips changed. Final keyframes = these composites; rerunning cabinet_paint_fix.py alone does NOT reproduce the backsplashes.",
+    "composites": [
+      "outputs/construction/raw/bs-view1-comp.png",
+      "outputs/construction/raw/bs-view2-comp.png"
+    ]
+  },
+  {
+    "note": "Living-room faucet replaced to match the west-wall L-faucet + soap dispenser: GPT Image 2 masked edit faucet-view3-v1 (6.5), re-composited mask-only onto v12. Final v12 = outputs/construction/raw/faucet-view3-comp.png."
+  },
+  {
+    "note": "View 1 hood chimney: mottled plaster-like texture replaced by smooth brushed-stainless tone matched to the canopy (tools/hood_chimney_fix.py, local, in place; pre-fix copy outputs/construction/raw/view1-v3-before-hood.png). Fridge cupboards checked: same white Shaker as the base cabinets in views 1 and 3; no change."
+  }
+]

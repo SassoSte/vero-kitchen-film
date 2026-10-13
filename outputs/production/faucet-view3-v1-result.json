@@ -1,0 +1,40 @@
+[
+  {
+    "created_at": "2026-10-13T06:04:08.841375Z",
+    "display_name": "GPT Image 2",
+    "id": "1ab88ead-b588-4383-b1c8-8895773235b5",
+    "job_type": "gpt_image_2",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261013_060408_1ab88ead-b588-4383-b1c8-8895773235b5_min.webp",
+    "params": {
+      "aspect_ratio": "16:9",
+      "height": 1520,
+      "medias": [
+        {
+          "data": {
+            "id": "e2874d45-46b2-4e82-8a38-27ef864ef72c",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/e2874d45-46b2-4e82-8a38-27ef864ef72c_resize.jpg"
+          },
+          "role": "image"
+        },
+        {
+          "data": {
+            "id": "bf37cdd0-b443-4c7e-82f1-337853d9f45f",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/bf37cdd0-b443-4c7e-82f1-337853d9f45f.png"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "videotape-alpha",
+      "prompt": "Edit image1. Keep the camera, framing, lighting and every object exactly as they are. ONE change: replace the tall straight faucet standing on the bar/kitchen counter in the middle of the image with EXACTLY the faucet shown in image2 — the same brushed-stainless L-shaped kitchen faucet: a tall slim vertical body that curves smoothly over at the top into a short spout pointing down toward the sink, and a slim single lever handle on the side of the body — seen here from the opposite side (from the living room, across the counter), so the spout points away from the camera toward the sink and the lever is on the far side. Same height and position on the counter as the faucet it replaces. Add the matching small brushed-stainless soap dispenser from image2 just to its right on the counter. Nothing else changes. Photoreal.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 2688
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261013_060408_1ab88ead-b588-4383-b1c8-8895773235b5.png",
+    "status": "completed"
+  }
+]

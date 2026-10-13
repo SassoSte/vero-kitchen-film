@@ -1,9 +1,22 @@
 {
-  "date": "2026-10-10",
+  "date": "2026-10-12",
   "timezone": "America/Phoenix",
-  "user_text": "Ok, that works. what's next ?",
-  "asset": "outputs/keyframes/west-phone-speaker-realism-v1.png",
-  "sha256": "b0b80c58c7cdf947d88013dbbb16bd9f5688d6cce8a4a4be06a68303de70c88d",
-  "scope": "Accepted west sink-wall visual design; physical fit not certified",
-  "next_focus": "Reconcile apartment-facing view with locked north/east and west designs; no new paid render authorized"
+  "user_text": "yes, make them selected, commit and push",
+  "asset": "outputs/keyframes/west-phone-speaker-realism-v2.png",
+  "sha256": "3d0eb91fb0ed8eee6163317720564b1a083c334cc6d44127ba75abfa08b0fa27",
+  "derived_from": {
+    "asset": "outputs/keyframes/west-phone-speaker-realism-v1.png",
+    "sha256": "b0b80c58c7cdf947d88013dbbb16bd9f5688d6cce8a4a4be06a68303de70c88d"
+  },
+  "changes": "See outputs/production/finish-fix-2026-10-12.json: smooth painted cabinets distinct from veined stone; smooth walls; generated stone backsplashes (views 1, 2); hood chimney stainless (view 1); living room reframed closer without the open doorway and faucet matched to the west L-faucet (view 3).",
+  "scope": "User-selected visual reference. Not a fit/clearance certification.",
+  "prior_lock": {
+    "date": "2026-10-10",
+    "timezone": "America/Phoenix",
+    "user_text": "Ok, that works. what's next ?",
+    "asset": "outputs/keyframes/west-phone-speaker-realism-v1.png",
+    "sha256": "b0b80c58c7cdf947d88013dbbb16bd9f5688d6cce8a4a4be06a68303de70c88d",
+    "scope": "Accepted west sink-wall visual design; physical fit not certified",
+    "next_focus": "Reconcile apartment-facing view with locked north/east and west designs; no new paid render authorized"
+  }
 }

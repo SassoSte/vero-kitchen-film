@@ -1,11 +1,24 @@
 {
-  "date": "2026-10-10",
+  "date": "2026-10-12",
   "timezone": "America/Phoenix",
-  "user_text": "Restore what we had before. And move on.",
-  "identification": "User-supplied image visually matches apartment-fridge-reconstruction-v11.png",
-  "asset": "outputs/keyframes/apartment-fridge-reconstruction-v11.png",
-  "sha256": "bc6a5b27c05a960c010e0a2404f7bd98fb7f43f92b7cebed6b3e8a48594e9649",
-  "scope": "Selected third-view visual reference, as supplied. Stop3D reconstruction and further fridge design iteration. Not construction-fit certification.",
-  "next_work": "Construction-state preparation and atomic take plan using photographic references",
-  "paid_generation_authorized": false
+  "user_text": "yes, make them selected, commit and push",
+  "asset": "outputs/keyframes/apartment-fridge-reconstruction-v12.png",
+  "sha256": "8f352efbcdd86bc1cd2f170f35dfe2b7611e6b5fdc9d5619e4c322d1e70fe727",
+  "derived_from": {
+    "asset": "outputs/keyframes/apartment-fridge-reconstruction-v11.png",
+    "sha256": "bc6a5b27c05a960c010e0a2404f7bd98fb7f43f92b7cebed6b3e8a48594e9649"
+  },
+  "changes": "See outputs/production/finish-fix-2026-10-12.json: smooth painted cabinets distinct from veined stone; smooth walls; generated stone backsplashes (views 1, 2); hood chimney stainless (view 1); living room reframed closer without the open doorway and faucet matched to the west L-faucet (view 3).",
+  "scope": "User-selected visual reference. Not a fit/clearance certification.",
+  "prior_lock": {
+    "date": "2026-10-10",
+    "timezone": "America/Phoenix",
+    "user_text": "Restore what we had before. And move on.",
+    "identification": "User-supplied image visually matches apartment-fridge-reconstruction-v11.png",
+    "asset": "outputs/keyframes/apartment-fridge-reconstruction-v11.png",
+    "sha256": "bc6a5b27c05a960c010e0a2404f7bd98fb7f43f92b7cebed6b3e8a48594e9649",
+    "scope": "Selected third-view visual reference, as supplied. Stop3D reconstruction and further fridge design iteration. Not construction-fit certification.",
+    "next_work": "Construction-state preparation and atomic take plan using photographic references",
+    "paid_generation_authorized": false
+  }
 }

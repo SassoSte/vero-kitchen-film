@@ -1,0 +1,18 @@
+{
+  "model": "gpt_image_2",
+  "params": {
+    "quality": "high",
+    "resolution": "2k",
+    "aspect_ratio": "16:9"
+  },
+  "references": [
+    "outputs/keyframes/kitchen-smeg-enclosure-v3.png"
+  ],
+  "prompt": "Edit this kitchen photograph. Keep the camera, framing, lighting and every object exactly as they are. ONE change: on the wall directly behind the countertop at the far LEFT (the short run with the sink, against the end wall), install a stone backsplash made of the SAME pale veined natural stone as that countertop and as the full-height stone on the cooking wall at the right: a single slab about 45 cm tall running from the countertop up to just above the electrical outlet, ending cleanly at the counter's right end, with a thin polished top edge, natural veining continuous with the counter, and soft realistic light and shadow consistent with the room. Keep the outlet (now set into the stone) and the small potted plant in front. The rest of the wall stays smooth matte white paint. Photoreal.",
+  "output": "outputs/construction/raw/bs-view1-v1.png",
+  "post": {
+    "tool": "tools/stage_composite.py (STAGE_NO_GAIN)",
+    "base": "outputs/keyframes/kitchen-smeg-enclosure-v3.png",
+    "mask": "outputs/production/masks/bs-view1-mask.png"
+  }
+}

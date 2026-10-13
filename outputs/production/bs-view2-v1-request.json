@@ -1,0 +1,18 @@
+{
+  "model": "gpt_image_2",
+  "params": {
+    "quality": "high",
+    "resolution": "2k",
+    "aspect_ratio": "16:9"
+  },
+  "references": [
+    "outputs/keyframes/west-phone-speaker-realism-v2.png"
+  ],
+  "prompt": "Edit this kitchen photograph. Keep the camera, framing, lighting and every object exactly as they are. ONE change: on the wall directly behind the countertop at the left, between the countertop and the bottom of the small oak-lined wall nook, install a stone backsplash made of the SAME pale veined natural stone as the countertop: one slab from the countertop up to just below the nook, running from the counter's left end to where the raised ledge begins, with a thin polished top edge, veining continuous with the counter, and soft realistic light and shadow. The electrical outlet stays, set into the stone. The nook, switches and the rest of the wall stay as they are (smooth matte white paint). Photoreal.",
+  "output": "outputs/construction/raw/bs-view2-v1.png",
+  "post": {
+    "tool": "tools/stage_composite.py (STAGE_NO_GAIN)",
+    "base": "outputs/keyframes/west-phone-speaker-realism-v2.png",
+    "mask": "outputs/production/masks/bs-view2-mask.png"
+  }
+}

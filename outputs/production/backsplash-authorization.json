@@ -1,0 +1,16 @@
+{
+  "status": "APPROVED",
+  "date": "2026-10-12",
+  "approved": "2026-10-12 America/Phoenix",
+  "budget_user_text": "Remove both.  Approve correctly generated backsplash.",
+  "scope": "Two masked GPT Image 2 backsplash edits (view 1 north-wall counter, view 2 west counter under nook), re-composited mask-only",
+  "jobs": [
+    "bs-view1-v1",
+    "bs-view2-v1"
+  ],
+  "max_new_jobs": 2,
+  "maximum_new_spend_credits": 13,
+  "prior_ceiling_credits": 898.25,
+  "total_ceiling_credits": 911.25,
+  "note": "No retries in this allowance; ask before any further spend"
+}

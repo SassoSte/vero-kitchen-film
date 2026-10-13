@@ -10,10 +10,10 @@ correction); the film is not complete. Current work is B07.
 ## Scope and authority
 
 Preserve the three selected photographic references and their selection records:
-- View 1: `outputs/keyframes/kitchen-smeg-enclosure-v2.png` — B06a-corrected from
+- View 1: `outputs/keyframes/kitchen-smeg-enclosure-v3.png` — B06a-corrected from
   `kitchen-smeg-realism-v1.png` (preserved), user accepted 2026-10-10.
-- View 2: `outputs/keyframes/west-phone-speaker-realism-v1.png`.
-- View 3: `outputs/keyframes/apartment-fridge-reconstruction-v11.png` — user restored.
+- View 2: `outputs/keyframes/west-phone-speaker-realism-v2.png`.
+- View 3: `outputs/keyframes/apartment-fridge-reconstruction-v12.png` — user restored.
 
 Immediate task B07: cumulative construction-state frames, starting with the 03A quartz
 START/END pair. B06a is closed; do not reopen the fridge enclosure. The phone/speaker nook is on the kitchen-facing west wall and naturally hidden from

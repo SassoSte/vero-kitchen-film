@@ -1,0 +1,14 @@
+{
+  "model": "gpt_image_2",
+  "params": {
+    "quality": "high",
+    "resolution": "2k",
+    "aspect_ratio": "16:9"
+  },
+  "references": [
+    "outputs/keyframes/apartment-fridge-reconstruction-v12.png",
+    "outputs/construction/raw/ref-west-faucet.png"
+  ],
+  "prompt": "Edit image1. Keep the camera, framing, lighting and every object exactly as they are. ONE change: replace the tall straight faucet standing on the bar/kitchen counter in the middle of the image with EXACTLY the faucet shown in image2 \u2014 the same brushed-stainless L-shaped kitchen faucet: a tall slim vertical body that curves smoothly over at the top into a short spout pointing down toward the sink, and a slim single lever handle on the side of the body \u2014 seen here from the opposite side (from the living room, across the counter), so the spout points away from the camera toward the sink and the lever is on the far side. Same height and position on the counter as the faucet it replaces. Add the matching small brushed-stainless soap dispenser from image2 just to its right on the counter. Nothing else changes. Photoreal.",
+  "output": "outputs/construction/raw/faucet-view3-v1.png"
+}

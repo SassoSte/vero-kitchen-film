@@ -1,0 +1,14 @@
+{
+  "status": "APPROVED",
+  "date": "2026-10-12",
+  "approved": "2026-10-12 America/Phoenix",
+  "budget_user_text": "approve 6.5 for the faucet.",
+  "scope": "One masked GPT Image 2 edit: living-room view faucet redrawn to match the west-wall L-faucet + dispenser",
+  "jobs": [
+    "faucet-view3-v1"
+  ],
+  "max_new_jobs": 1,
+  "maximum_new_spend_credits": 6.5,
+  "prior_ceiling_credits": 911.25,
+  "total_ceiling_credits": 917.75
+}

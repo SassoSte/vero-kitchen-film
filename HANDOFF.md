@@ -12,9 +12,9 @@ B07 is current: cumulative construction-state frames, starting with the 03A quar
 
 | View | Selected image |
 |---|---|
-|1 — north/east interior|[kitchen-smeg-enclosure-v2](outputs/keyframes/kitchen-smeg-enclosure-v2.png) (B06a-corrected)|
-|2 — west sink wall|[west-phone-speaker-realism-v1](outputs/keyframes/west-phone-speaker-realism-v1.png)|
-|3 — living-room-facing|[apartment-fridge-reconstruction-v11](outputs/keyframes/apartment-fridge-reconstruction-v11.png)|
+|1 — north/east interior|[kitchen-smeg-enclosure-v3](outputs/keyframes/kitchen-smeg-enclosure-v3.png) (B06a-corrected; 2026-10-12 finish revisions)|
+|2 — west sink wall|[west-phone-speaker-realism-v2](outputs/keyframes/west-phone-speaker-realism-v2.png)|
+|3 — living-room-facing|[apartment-fridge-reconstruction-v12](outputs/keyframes/apartment-fridge-reconstruction-v12.png)|
 
 The last correction, `master-third-view-continuity-v1`, is rejected and must not be promoted. See [continuity review](docs/THREE-VIEW-CONTINUITY-REVIEW.md).
 

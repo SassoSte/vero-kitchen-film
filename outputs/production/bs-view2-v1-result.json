@@ -1,0 +1,32 @@
+[
+  {
+    "created_at": "2026-10-13T05:54:53.500348Z",
+    "display_name": "GPT Image 2",
+    "id": "779e049a-5c8a-46c6-af8a-28995d5f4e63",
+    "job_type": "gpt_image_2",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261013_055453_779e049a-5c8a-46c6-af8a-28995d5f4e63_min.webp",
+    "params": {
+      "aspect_ratio": "16:9",
+      "height": 1520,
+      "medias": [
+        {
+          "data": {
+            "id": "95fce9c9-a9a7-4457-bc03-178f0d000d83",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/95fce9c9-a9a7-4457-bc03-178f0d000d83_resize.jpg"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "videotape-alpha",
+      "prompt": "Edit this kitchen photograph. Keep the camera, framing, lighting and every object exactly as they are. ONE change: on the wall directly behind the countertop at the left, between the countertop and the bottom of the small oak-lined wall nook, install a stone backsplash made of the SAME pale veined natural stone as the countertop: one slab from the countertop up to just below the nook, running from the counter's left end to where the raised ledge begins, with a thin polished top edge, veining continuous with the counter, and soft realistic light and shadow. The electrical outlet stays, set into the stone. The nook, switches and the rest of the wall stay as they are (smooth matte white paint). Photoreal.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 2688
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261013_055453_779e049a-5c8a-46c6-af8a-28995d5f4e63.png",
+    "status": "completed"
+  }
+]

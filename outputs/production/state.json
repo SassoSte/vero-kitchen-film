@@ -1,6 +1,6 @@
 {
   "project": "vero-kitchen-film",
-  "phase": "Blueprint 30 s cut delivered (local); generation disabled",
+  "phase": "Selected views revised 2026-10-12 (finishes, backsplash, hood, faucet, living-room framing); generation disabled",
   "budget_ceiling_credits": 303,
   "approved_features": [
     "Wolf GR304 red knobs with pale hood; no over-range microwave",
@@ -125,7 +125,7 @@
     "opus_handoff": "OPUS-HANDOFF.md"
   },
   "authorized_jobs": [],
-  "authorization": "outputs/production/magic-pilot-authorization.json",
+  "authorization": "outputs/production/faucet-authorization.json",
   "latest_concept": "outputs/keyframes/master-third-view-continuity-v1.png",
   "latest_concept_review": {
     "status": "rejected-layout-drift",
@@ -147,10 +147,10 @@
   "orientation_confirmed_by_user": true,
   "dimension_estimates_confirmed_by_user": false,
   "design_progress_references": {
-    "west_sink": "outputs/keyframes/west-phone-speaker-realism-v1.png",
-    "west_external_view": "outputs/keyframes/apartment-fridge-reconstruction-v11.png",
+    "west_sink": "outputs/keyframes/west-phone-speaker-realism-v2.png",
+    "west_external_view": "outputs/keyframes/apartment-fridge-reconstruction-v12.png",
     "west_external_view_exception": "Selected third-view fridge/enclosure governs any visible derived construction state; no further redesign requested.",
-    "north_latest": "outputs/keyframes/kitchen-smeg-enclosure-v2.png",
+    "north_latest": "outputs/keyframes/kitchen-smeg-enclosure-v3.png",
     "north_exceptions": "User locked current appearance; retain historical critiques only as history. Physical fit remains unverified.",
     "north_detail": "outputs/keyframes/north-wall-finish-v1.png",
     "west_sink_candidate": "outputs/keyframes/west-phone-speaker-realism-v1.png",
@@ -281,5 +281,10 @@
     "audio": "removed at user request 2026-10-10 (video-only)",
     "magic_film": "outputs/kitchen_magic_30s.mp4",
     "current_cut": "outputs/kitchen_blueprint_30s.mp4"
+  },
+  "selected_views_2026_10_12": {
+    "north-east": "outputs/keyframes/kitchen-smeg-enclosure-v3.png",
+    "west": "outputs/keyframes/west-phone-speaker-realism-v2.png",
+    "apartment": "outputs/keyframes/apartment-fridge-reconstruction-v12.png"
   }
 }

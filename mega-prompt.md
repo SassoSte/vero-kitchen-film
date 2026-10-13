@@ -15,9 +15,9 @@ The final film and accepted production takes do not yet exist.
 
 ## Selected appearance and orientation
 
-- **View 1 — north/east:** `outputs/keyframes/kitchen-smeg-enclosure-v2.png` (B06a-corrected; accepted 2026-10-10).
-- **View 2 — west:** `outputs/keyframes/west-phone-speaker-realism-v1.png`.
-- **View 3 — living-room-facing:** `outputs/keyframes/apartment-fridge-reconstruction-v11.png`.
+- **View 1 — north/east:** `outputs/keyframes/kitchen-smeg-enclosure-v3.png` (B06a-corrected; accepted 2026-10-10).
+- **View 2 — west:** `outputs/keyframes/west-phone-speaker-realism-v2.png`.
+- **View 3 — living-room-facing:** `outputs/keyframes/apartment-fridge-reconstruction-v12.png`.
   The user explicitly restored this image after the 3D detour and said to move on.
 
 North = coffee/wine end wall; east = fridge/cooking run; west = sink/pass-through/bar

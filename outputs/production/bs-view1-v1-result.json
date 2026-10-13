@@ -1,0 +1,32 @@
+[
+  {
+    "created_at": "2026-10-13T05:53:20.907114Z",
+    "display_name": "GPT Image 2",
+    "id": "712243ad-6bd8-474a-9c9c-1b10fec12996",
+    "job_type": "gpt_image_2",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261013_055320_712243ad-6bd8-474a-9c9c-1b10fec12996_min.webp",
+    "params": {
+      "aspect_ratio": "16:9",
+      "height": 1520,
+      "medias": [
+        {
+          "data": {
+            "id": "4f0bfab3-3f29-4c37-a446-abea99bcf513",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/4f0bfab3-3f29-4c37-a446-abea99bcf513_resize.jpg"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "videotape-alpha",
+      "prompt": "Edit this kitchen photograph. Keep the camera, framing, lighting and every object exactly as they are. ONE change: on the wall directly behind the countertop at the far LEFT (the short run with the sink, against the end wall), install a stone backsplash made of the SAME pale veined natural stone as that countertop and as the full-height stone on the cooking wall at the right: a single slab about 45 cm tall running from the countertop up to just above the electrical outlet, ending cleanly at the counter's right end, with a thin polished top edge, natural veining continuous with the counter, and soft realistic light and shadow consistent with the room. Keep the outlet (now set into the stone) and the small potted plant in front. The rest of the wall stays smooth matte white paint. Photoreal.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 2688
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3E2wuqNsClMVDL7wZG0zG03F0or/hf_20261013_055320_712243ad-6bd8-474a-9c9c-1b10fec12996.png",
+    "status": "completed"
+  }
+]
