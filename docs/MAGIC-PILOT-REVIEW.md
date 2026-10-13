@@ -32,3 +32,6 @@ Stefan: fire doesn't work; old kitchen → blueprint drawn over it → transform
 ## Rebuild with revised views (2026-10-12, 0 credits)
 User: "Yes, let's do it." `tools/blueprint_film.py` now ends each build on the 2026-10-12 selected views (v3 / v2 / v12) and carries the finish revisions into every intermediate plate: pixels matching the previous selected view take the revised view's pixels; remaining bare-wall plaster is smoothed with the same guided filter. Living-room build uses the closer v12 framing. Blueprint line drawing traced from v3. Previous cut kept as `outputs/magic/kitchen_blueprint_30s-2026-10-11.mp4`. 720 frames verified.
 Limit: the new backsplashes are present from the first plate in which their counter exists, so they don't "build" separately.
+
+## Flip transitions (2026-10-12, 0 credits)
+User asked for a flip instead of fades between views. `flip_trans` in `tools/blueprint_film.py`: the outgoing view rotates away about its vertical axis (perspective, slight pull-back, edge shading) while turning into its own blueprint; at 90° it becomes the blueprint of the next view, which rotates in and resolves from lines into the photo. Navy grid behind the card. 1.5 s each (view 1→2, 2→3); view-1 build trimmed 9.5→9.0 s. 720 frames verified. Strip: `outputs/review/flip-transition-strip.png`.

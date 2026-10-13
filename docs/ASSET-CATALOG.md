@@ -4,7 +4,7 @@ Latest north-wall REF-M dial espresso/canister edit within REF-L composition and
 
 Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashes of repository-relative paths. Hashes describe exact existing bytes; verdicts are sourced review findings, not a new visual inspection.
 
-**485 stills · 111 videos.**
+**486 stills · 111 videos.**
 
 [Open searchable gallery](../outputs/stills-gallery.html) · [Machine-readable catalog](asset-catalog.json)
 
@@ -5959,6 +5959,18 @@ Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashe
 - Bytes: 13258; SHA-256: `ddf2eacb235d0219aace27684bbe57aeafab59c43d6e1f3688bc688357fc2f30`
 - Job ID: `not recorded`
 
+### ASSET-4CE9C1DA5AA1 — Flip Transition Strip
+
+- Exact filename: `flip-transition-strip.png`
+- File: [outputs/review/flip-transition-strip.png](../outputs/review/flip-transition-strip.png)
+- Absolute path: `/Users/stefansassoon/projects/vero-kitchen-film/outputs/review/flip-transition-strip.png`
+- Role: 6-fps contact sheet; status: **not-inspected-record**
+- Known verdict: No review mapped.
+- Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
+- Limit / superseded reason: 
+- Bytes: 781757; SHA-256: `eb3700300eeb13411b12506369010a8e00bdd4c57b1c3c5af6b27064646624df`
+- Job ID: `not recorded`
+
 ### ASSET-525AF70A1034 — Fridge 36 Geometry Reference
 
 - Exact filename: `fridge-36-geometry-reference.png`
@@ -6707,7 +6719,7 @@ Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashe
 - Known verdict: No per-asset review recorded in catalog source map.
 - Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
 - Limit / superseded reason: Not accepted as a final/current design.
-- Bytes: 14459015; SHA-256: `af1641ba171e556855ed42f3122f73dbbde5605746b8856ad994a18e9fec55b6`
+- Bytes: 15877311; SHA-256: `a147c28d3f4f18b6f0971714b5d714c489c1fa6297a3ac00ca871292c68b9b0b`
 - Job ID: `not recorded`
 
 ### ASSET-8E7BAFDDE6B0 — Kitchen_Magic_30S
@@ -6943,7 +6955,7 @@ Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashe
 - Known verdict: No per-asset review recorded in catalog source map.
 - Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
 - Limit / superseded reason: Not accepted as a final/current design.
-- Bytes: 5581113; SHA-256: `d481081fd700a99dff530a3541abe200dd411eb7f862766820060c0d3a049600`
+- Bytes: 5358900; SHA-256: `08cd85a3a2a44cce914cf822fec5a624f47754869addb9d2eeabacdcb9cb1412`
 - Job ID: `not recorded`
 
 ### ASSET-F0EA13CE62B8 — Bp 03 To West
@@ -6955,7 +6967,7 @@ Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashe
 - Known verdict: No per-asset review recorded in catalog source map.
 - Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
 - Limit / superseded reason: Not accepted as a final/current design.
-- Bytes: 1330513; SHA-256: `f90e40cca6202db3b32b3be17cce4103a0098e9a2980f6da1eb9e18b9eaf9c1b`
+- Bytes: 2301012; SHA-256: `26df5f8d2f9301d7b4c7629eeedc5442c34151b36fe2ed5ae903aa7c9b45875f`
 - Job ID: `not recorded`
 
 ### ASSET-6567B28DB78E — Bp 04 West
@@ -6979,7 +6991,7 @@ Every existing PNG/JPG/JPEG/WebP and video is listed below. IDs are stable hashe
 - Known verdict: No per-asset review recorded in catalog source map.
 - Review source note: Recorded inspection/conversation findings or source-reference role; not a new visual inspection.
 - Limit / superseded reason: Not accepted as a final/current design.
-- Bytes: 1393057; SHA-256: `b399dd1794ee6503d87f42f399a354a04ed1f50a542f85847000715b0369496d`
+- Bytes: 2306227; SHA-256: `ad9c2665e70470483118d80a1be3146c2bea8a979bcfa328cb68ff29ee839cf8`
 - Job ID: `not recorded`
 
 ### ASSET-6E4EEAC0D46F — Bp 06 Final

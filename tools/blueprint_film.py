@@ -115,14 +115,48 @@ def bp_trans(out, a, b, secs):                 # a -> blueprint lines of b -> b
         img = a * (1 - k1) + bp * k1 if t < 0.5 else bp * (1 - k2) + b * k2
         ff.stdin.write(np.clip(img, 0, 255).astype(np.uint8).tobytes())
     ff.stdin.close(); ff.wait()
-s2 = work / 'bp-02-master.mp4'; build(s2, 9.5, master_seq)
+def flip_trans(out, a, b, secs):
+    """Card flip between views: A rotates away about the vertical axis while turning
+    into a blueprint of itself; at 90 deg it becomes the blueprint of B, which rotates
+    in and then resolves from blueprint lines into the photo of B."""
+    ff = writer(out); n = int(secs * FPS)
+    sheet = np.ones((H, W, 3), np.float32) * BLUE + grid[..., None] * LINE * 0.25
+    bpA = sheet + edges(a)[..., None] * LINE * 0.95; bpB = sheet + edges(b)[..., None] * LINE * 0.95
+    bg = (np.ones((H, W, 3), np.float32) * BLUE * 0.55 + grid[..., None] * LINE * 0.12)
+    src = np.float32([[0, 0], [W, 0], [W, H], [0, H]]); f0 = 2.2 * W
+    def card(img, th, scale):
+        pts = []
+        for x, y in src:
+            xc, yc = (x - W / 2) * scale, (y - H / 2) * scale
+            xr, z = xc * np.cos(th), xc * np.sin(th)
+            k = f0 / (f0 + z); pts.append([W / 2 + xr * k, H / 2 + yc * k])
+        M = cv2.getPerspectiveTransform(src, np.float32(pts))
+        warped = cv2.warpPerspective(img, M, (W, H), flags=cv2.INTER_LINEAR)
+        mask = cv2.warpPerspective(np.ones((H, W), np.float32), M, (W, H))[..., None]
+        return warped, mask
+    for i in range(n):
+        t = i / (n - 1)
+        scale = 1 - 0.14 * np.sin(np.pi * t)                       # pulls back mid-flip
+        if t < 0.5:
+            u = ease(t / 0.5); th = u * np.pi / 2
+            face = a * (1 - ease(t / 0.3)) + bpA * ease(t / 0.3)    # photo -> blueprint while turning away
+        else:
+            u = ease((t - 0.5) / 0.5); th = -(1 - u) * np.pi / 2
+            face = bpB * (1 - ease((t - 0.7) / 0.3)) + b * ease((t - 0.7) / 0.3)   # blueprint -> photo as it lands
+        th = np.clip(th, -1.5533, 1.5533)
+        shade = 1 - 0.35 * np.sin(abs(th))
+        w_, m = card(face * shade, th, scale)
+        img = bg * (1 - m) + w_ * m
+        ff.stdin.write(np.clip(img, 0, 255).astype(np.uint8).tobytes())
+    ff.stdin.close(); ff.wait()
+s2 = work / 'bp-02-master.mp4'; build(s2, 9.0, master_seq)
 s4 = work / 'bp-04-west.mp4'; build(s4, 4.5, west_seq)
-s3 = work / 'bp-03-to-west.mp4'; bp_trans(s3, last(s2), first(s4), 1.25)
+s3 = work / 'bp-03-to-west.mp4'; flip_trans(s3, last(s2), first(s4), 1.5)
 s6 = work / 'bp-06-final.mp4'; build(s6, 5.0, final_seq)
-s5 = work / 'bp-05-to-final.mp4'; bp_trans(s5, last(s4), first(s6), 1.25)
+s5 = work / 'bp-05-to-final.mp4'; flip_trans(s5, last(s4), first(s6), 1.5)
 # hold with slow push on the selected view 3
 s7 = work / 'bp-07-hold.mp4'; ff = writer(s7); im = cv2.resize(cv2.imread(str(K / 'apartment-fridge-reconstruction-v12.png')), (2688, 1520))
-for f in range(720 - int(7.5 * FPS) - int(9.5 * FPS) - int(1.25 * FPS) - int(4.5 * FPS) - int(1.25 * FPS) - int(5.0 * FPS)):
+for f in range(720 - int(7.5 * FPS) - int(9.0 * FPS) - int(1.5 * FPS) - int(4.5 * FPS) - int(1.5 * FPS) - int(5.0 * FPS)):
     z = 1.0 + 0.0004 * f; Mx = np.float32([[z, 0, (1 - z) * 1344], [0, z, (1 - z) * 760]])
     ff.stdin.write(cv2.resize(cv2.warpAffine(im, Mx, (2688, 1520)), (W, H), interpolation=cv2.INTER_AREA).tobytes())
 ff.stdin.close(); ff.wait()
